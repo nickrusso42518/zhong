@@ -1,8 +1,9 @@
 # chinese,pinyin,english1/english2/english3
-我,wo3,i
+我,wo3,i/me
 你,ni3,you
 他,ta1,he/him
 她,ta1,she/her
+是,shi4,is/are
 们,men,plural
 我们,wo3 men,we
 你们,ni3 men,you
@@ -18,50 +19,90 @@
 他们的,ta1 men de,their/male
 她们的,ta1 men de,their/female
 好,hao3,good
-你好,ni3 hao3,hello
+你好,ni3->2 hao3,hello/hi
+谢谢,xie4 xie4,thanks
 再,zai4,again
 见,jian4,see
 再见,zai4 jian4,goodbye
 吗,ma,?/question
 不,bu4,no/not
 也,ye3,and
+吃,chi1,eat
 饭,fan4,rice/meal
 鱼,yu2,fish
+面,mian4,noodles
 喝,he1,drink
+水,shui3,water
 茶,cha2,tea
-吃,chi1,eat
 姓,xing4,surname/family name/last name
+高,gao1,tall
 高兴,gao1 xing4,happy
-很,hen3,very
-零,ling2,0
-一,yi1,1
-二,er4,2
-三,san1,3
-四,si4,4
-五,wu3,5
-六,liu4,6
-七,qi1,7
-八,ba1,8
-九,jiu3,9
-十,shi2,10
+很,hen3,very/adjective connector/dummy adverb
+呢,ne,and?/what about?/ok?
+零,ling2,0/zero
+一,yi1,1/one
+二,er4,2/two
+三,san1,3/three
+四,si4,4/four
+五,wu3,5/five
+六,liu4,6/six
+七,qi1,7/seven
+八,ba1,8/eight
+九,jiu3,9/nine
+十,shi2,10/ten
+十七,shi2 chi1,17/seventeen
+二十四,er4 shi2 si4,24/twenty four
+三十一,san1 shi2 yi1,31/thirty one
+三十八,san1 shi2 ba1,38/thirty eight
+四十五,si4 shi2 wu3,45/forty five
+五十二,wu3 shi2 er4,52/fifty two
+五十九,wu3 shi2 jiu3,59/fifty nine
+六十六,liu4 shi2 liu4,66/sixty six
+七十三,qi1 shi2 san1,73/seventy three
+八十,ba1 shi2,80/eighty
+八十七,ba1 shi2 qi1,87/eighty seven
+九十四,jiu3 shi2 si4,94/ninety four
 百,bai3,hundred
+一百,yi1 bai3,100/one hundred
+一百,yi1 bai3 ling2 yi1,100/one hundred
+一百零七,yi1 bai3 ling2 yi1,107/one hundred seven
+一百一四,yi1 bai3 yi1 si4,114/one hundred fourteen
 元,yuan2,yuan
 名字,ming2 zi,name
-什么,shen2 me,what is
-叫,jiao4,am
+什么,shen2 me,what?
+叫,jiao4,am/call (me)
+电话,dian4 hua4,phone/telephone
 中,zhong1,central
 中国,zhong1 guo2,china
-美国,mei3 guo2,usa
-英国,ying1 guo2,uk
+美国,mei3 guo2,usa/america
+英国,ying1 guo2,uk/britain
 人,ren2,person
-是,shi4,is
-水,shui3,water
-面,mian4,noodles
+中国人,zhong1 guo2 ren2,chinese
+美国人,mei3 guo2 ren2,american
+英国人,ying1 guo2 ren2,british
+中文,zhong1 wen2,chinese language
+英文,ying1 wen2,english language
+认识,ren2 shi, know/know personally
+知道,zhi1 dao4, know/know about/aware of
+忙,mang2,busy/rush
+那,na4,that
+对,dui4,right/correct
+不对,bu4->2 dui4,incorrect
+都,dou1,all/both/entirely
+个,ge4,individual
 老师,lao3 shi1,teacher
 医生,yi1 sheng1,doctor
 学生,xue2 sheng1,student
 今天,jin1 tian1,today
 怎,zen3,how are things(wrong）
+早上,zao3 shang,morning/early morning
+早上好,zao3 shang hao3,good morning
+港,gang3,port/harbor
 台湾,tai2 wan1,taiwan
 伦敦,lun2 dun1,london
-住,zhu4,lives
+北京,bei3 jing1,beijing
+家,jia1,home/family
+住,zhu4,live/dwell/reside
+在,zai4,located at/to be in
+哪,na3,where/how/which
+哪儿, na3 r,where?

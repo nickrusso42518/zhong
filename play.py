@@ -15,8 +15,8 @@ def load_symbols(csv_filename):
         csv_reader = csv.reader(handle)
         symbols = [row for row in csv_reader if not row[0].startswith("#")]
 
-    # Identify valid pinyin characters (a-z, 1-4, and space)
-    valid_pinyin = string.ascii_lowercase + "1234 "
+    # Identify valid pinyin characters (a-z, 1-4, -, >, and space)
+    valid_pinyin = string.ascii_lowercase + "->1234 "
 
     for symbol in symbols:
         # Ensure exactly 3 columns exist
