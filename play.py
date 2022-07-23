@@ -8,7 +8,10 @@ from colorama import Style
 import sys
 
 # Try to read Chinese characters, but only works on MacOS
-SPEAK = True and sys.platform == "darwin"
+SPEAK_TOGGLE = True and sys.platform == "darwin"
+
+# Rate of speech in words per minute. 90 is slowest and 180 is default
+SPEAK_RATE = 90
 
 def load_symbols(csv_filename):
     with open(csv_filename, encoding="utf=8") as handle:
@@ -39,10 +42,10 @@ def main(csv_filename):
     total = len(symbols)
 
     print("HOW TO PLAY:")
-    print("  Provide the pinyin and english for the chinese phrase shown")
-    print("  Mac users can optionally enable narration of the phrase")
-    print("  Press ENTER by itself (no input) to reprint/restate the phrase")
-    print("  Enter a . to quit")
+    print("  Provide the pinyin and english for the chinese phrase shown.")
+    print("  Mac users can optionally enable narration of the phrase.")
+    print("  Press ENTER by itself (no input) to reprint/restate the phrase.")
+    print("  Enter a . character to quit; it's invalid input.")
 
     # Keep looping while more symbols exist
     while symbols:
@@ -61,9 +64,10 @@ def main(csv_filename):
         while not attempt.strip():
             print(f"\n{count}/{total}: {chinese}")
 
-            # If SPEAK is true, use the "say" command. Mac only!
-            if SPEAK:
-                subprocess.run(["say", "-v", "Ting-Ting", chinese])
+            # If SPEAK_TOGGLE is true, use the "say" command. Mac only!
+            if SPEAK_TOGGLE:
+                say_cmd = f"say --voice=Ting-Ting --rate={SPEAK_RATE} {chinese}"
+                subprocess.run(say_cmd.split(" "))
 
             # Prompt for input
             attempt = input(f"Type the pinyin,english: ")
@@ -75,7 +79,7 @@ def main(csv_filename):
 
         # Print results using proper colors
         print(f"pinyin: {p_color}{pinyin}{Style.RESET_ALL}", end="")
-        print(f"  /  english: {e_color}{english}{Style.RESET_ALL}")
+        print(f"      english: {e_color}{english}{Style.RESET_ALL}")
 
         # Delete symbol and increment counter
         del symbols[index]
