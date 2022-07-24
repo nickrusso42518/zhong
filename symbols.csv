@@ -73,7 +73,7 @@
 元,yuan2,yuan
 名字,ming2 zi,name
 什么,shen2 me,what?
-多少,duo shao,how much?/how many? (numeric answer)
+多少,duo1 shao,how much?/how many? (numeric answer)
 叫,jiao4,am/call (me)
 电话,dian4 hua4,phone/telephone
 电话号码,dian4 hua4 hao4 ma3,phone number
@@ -89,14 +89,14 @@
 加拿大人,jia1 na2 da4 ren2,canadian
 中文,zhong1 wen2,chinese language
 英文,ying1 wen2,english language
-认识,ren2 shi, know/know personally
-知道,zhi1 dao4, know/know about/aware of
+认识,ren4 shi,know/know personally
+知道,zhi1 dao4,know/know about/aware of
 忙,mang2,busy/rush
 对,dui4,right/correct
 不对,bu4->2 dui4,incorrect
 都,dou1,all/both/entirely
 个,ge4,individual/measure word
-个人,ge4,person/people quantity
+个人,ge4 ren2,person/people quantity
 老师,lao3 shi1,teacher
 医生,yi1 sheng1,doctor
 学生,xue2 sheng1,student
@@ -114,10 +114,13 @@
 家人,jia1 ren2,family
 住,zhu4,live/dwell/reside
 在,zai4,located at/to be in
+住在,zhu4 zai4,lives in
 哪,na3,where/how/which
-哪儿, na3 r,where?
+哪儿,na3 r,where?
+哪里,na3->2 li3,where?
 那,na4,that
 那是,na4 shi4,that is/that's
+谁,shei2,who
 这,zhe4,this/these
 爱,ai4,love
 妈妈,ma1 ma,mom
