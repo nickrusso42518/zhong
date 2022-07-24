@@ -4,18 +4,18 @@
 他,ta1,he/him
 她,ta1,she/her
 是,shi4,is/are
-们,men,plural
+们,men,plural modifier
 我们,wo3 men,we
-你们,ni3 men,you
-他们,ta1 men,they/male
-她们,ta1 men,they/female
+你们,ni3 men,you (plural)
+他们,ta1 men,they (male)
+她们,ta1 men,they (female)
 的,de,possessive/'s
 我的,wo3 de,my
 你的,ni3 de,your
 他的,ta1 de,his
 她的,ta1 de,hers
 我们的,wo3 men de,our
-你们的,ni3 men de,your
+你们的,ni3 men de,your (plural)
 他们的,ta1 men de,their/male
 她们的,ta1 men de,their/female
 好,hao3,good
@@ -24,7 +24,7 @@
 谢谢你,xie4 xie ni3,thank you
 不客气,bu4->2 ke4 qi4,you're welcome
 抱歉,bao4 qian4,sorry (minor)
-对不起,dui4 bu4 qi3,sorry (major)
+对不起,dui4 bu4-> qi3,sorry (major)
 再,zai4,again
 见,jian4,see
 再见,zai4 jian4,goodbye
