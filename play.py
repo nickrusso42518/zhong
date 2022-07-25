@@ -14,6 +14,8 @@ import sys
 
 from colorama import Fore, Back, Style
 
+# Rare cases of chinese symbols not in the correct unicode range
+C_SYM_EXCEPTIONS = ["〇"]
 
 def main(args):
     """
@@ -81,9 +83,11 @@ def load_symbols(csv_filename):
         # Ensure exactly 3 columns exist
         assert len(symbol) == 3
 
-        # Ensure Chinese symbols are within proper unicode range
-        for chinese_char in symbol[0]:
-            assert 0x4E00 <= ord(chinese_char) <= 0x9FFF
+        # Ensure Chinese symbols are within proper unicode range or
+        # are explicitly permitted as exceptions
+        for c_sym in symbol[0]:
+            c_sym_ord = ord(c_sym)
+            assert (0x4E00 <= c_sym_ord <= 0x9FFF) or c_sym in C_SYM_EXCEPTIONS
 
         # Ensure pinyin only contains valid characters
         assert all(pinyin_char in valid_pinyin for pinyin_char in symbol[1])
