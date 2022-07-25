@@ -5,10 +5,14 @@ Chinese symbols, pinyin, and English definitions/descriptions. Output from
 each question is colorized with green (correct) or red (incorrect) for
 quick gameplay and scorekeeping.
 
+## Installation
+You must be running Python 3.6 or later.
 Be sure to install the required packages before starting:
 ```
 pip install -r requirements.txt
 ```
+
+## Quick Start
 
 Basic usage:
 ```
@@ -24,6 +28,7 @@ optional arguments:
                         input file in CSV format (chinese,pinyin,english)
 ```
 
+## Additional Details
 Detailed explanation:
   * `-i`: Pass in a CSV import file. The file must contain exactly 3 columns:
           chinese,pinyin,english. You can check the `all.csv` file for an
@@ -88,3 +93,10 @@ pinyin: ta1 men    english: they (male)
 3/168:   吃
 Type the pinyin,english:
 ```
+
+## Forking
+This code is somewhat generic and could apply to other foreign
+languages, too. However, it isn't fully modularized and contains
+many hardcoded features specific to Chinese languages. Feel free to
+fork and modify, but I make no guarantees to functionality or
+ease of use for other languages. I haven't tested/tried any of it.

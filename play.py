@@ -16,6 +16,9 @@ from colorama import Fore, Back, Style
 
 
 def main(args):
+    """
+    Main game code.
+    """
 
     # Initialize counters and load symbols
     symbols = load_symbols(args.infile)
@@ -62,6 +65,11 @@ def main(args):
 
 
 def load_symbols(csv_filename):
+    """
+    Load and validate Chinese symbols from file using three column format:
+    chinese,pinyin,english
+    """
+
     with open(csv_filename, encoding="utf=8") as handle:
         csv_reader = csv.reader(handle)
         symbols = [row for row in csv_reader if not row[0].startswith("#")]
@@ -84,6 +92,9 @@ def load_symbols(csv_filename):
 
 
 def run_attempt(args, chinese, count, total):
+    """
+    Produce a single test question, collect input, and return it.
+    """
 
     # If blind mode is enabled, mask chinese symbols. Can highlight to reveal
     c_color = Fore.BLACK + Back.BLACK if args.blind else ""
@@ -108,6 +119,7 @@ def process_args():
     """
     Process command line arguments according to README.
     """
+
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "-b",
