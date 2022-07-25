@@ -1,4 +1,80 @@
 # chinese,pinyin,english and descriptions
+零,ling2,0/zero
+〇,ling2,0/zero (year dates only)
+一,yi1,1/one
+二,er4,2/two (counting/end of measure words/second)
+两,liang3,2/two (with measure words/quantities)
+三,san1,3/three
+四,si4,4/four
+五,wu3,5/five
+六,liu4,6/six
+七,qi1,7/seven
+八,ba1,8/eight
+九,jiu3,9/nine
+十,shi2,10/ten
+十七,shi2 qi1,17/seventeen
+二十四,er4 shi2 si4,24/twenty four
+三十一,san1 shi2 yi1,31/thirty one
+三十八,san1 shi2 ba1,38/thirty eight
+四十五,si4 shi2 wu3,45/forty five
+五十二,wu3 shi2 er4,52/fifty two
+五十九,wu3 shi2 jiu3,59/fifty nine
+六十六,liu4 shi2 liu4,66/sixty six
+七十三,qi1 shi2 san1,73/seventy three
+八十,ba1 shi2,80/eighty
+八十七,ba1 shi2 qi1,87/eighty seven
+九十四,jiu3 shi2 si4,94/ninety four
+百,bai3,hundred
+一百,yi1 bai3,100/one hundred
+一百零七,yi1 bai3 ling2 qi1,107/one hundred seven
+一百一十四,yi1 bai3 yi1 shi2 si4,114/one hundred fourteen
+现在,xian4 zai4,now
+今天,jin1 tian1,today
+明天,ming2 tian1,tomorrow
+年,nian2,year (after numbers)
+二〇三四年,er4 ling2 er4 si4 nian2,2034 year
+一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
+月,yue4,month
+号,hao4,date day (conversational)
+日,re4,date day (written)
+点,dian3,oclock (after numbers)
+半,ban4,half past the hour
+四点,si4 dian3,4:00/4 oclock
+四点半,si4 dian3 ban4,4:30/half past 4
+四点三九,si4 dian3 san1 jiu3,4:39
+星期,xing1 qi1,week (before numbers)
+星期一,xing1 qi1 yi1,monday
+星期二,xing1 qi1 er4,tuesday
+星期三,xing1 qi1 san1,wednesday
+星期四,xing1 qi1 si4,thursday
+星期五,xing1 qi1 wu3,friday
+星期六,xing1 qi1 liu4,saturday
+星期天,xing1 qi1 tian1,sunday
+星期日,xing1 qi1 re4,sunday
+几,ji3,how many units of time?
+几点,ji3->2 dian3,what time? (oclock)
+几号,ji3 hao4,what day of month?
+几月,ji3 yue4,what month?
+几月几号,ji3 yue4 ji3 hao4,what date (month and day)
+月,yue4,month (after numbers)
+一月,yi1 yue4,January
+二月,er4 yue4,February
+三月,san1 yue4,March
+四月,si4 yue4,April
+五月,wu3 yue4,May
+六月,liu4 yue4,June
+七月,qi1 yue4,July
+八月,ba1 yue4,August
+九月,jiu3 yue4,September
+十月,shi2 yue4,October
+十一月,shi2 yi1 yue4,November
+十二月,shi2 er4 yue4,December
+七号,qi1 hao4,7th day
+二十六号,er4 shi2 liu4 hao4,26th day
+十二月七号,shi2 er4 yue4 qi1 hao4,7 December
+五月二十六号,wu3 yue4 er4 shi2 liu4 hao4,26 May
+二〇三四年十二月七号,er4 ling2 er4 si4 nian2 shi2 er4 yue4 qi1 hao4,7 December 2034
+一九八五年五月二十六号,yi1 jiu3 ba1 wu3 nian2 wu3 yue4 er4 shi2 liu4 hao4,26 May 26 1985
 我,wo3,i/me
 你,ni3,you
 他,ta1,he/him
@@ -63,34 +139,6 @@
 很,hen3,very/adjective connector/dummy adverb
 呢,ne,and?/what about?/ok?
 和,he2,and (link nouns)
-零,ling2,0/zero
-一,yi1,1/one
-二,er4,2/two (counting/end of measure words/second)
-两,liang3,2/two (with measure words/quantities)
-三,san1,3/three
-四,si4,4/four
-五,wu3,5/five
-六,liu4,6/six
-七,qi1,7/seven
-八,ba1,8/eight
-九,jiu3,9/nine
-十,shi2,10/ten
-十七,shi2 qi1,17/seventeen
-二十四,er4 shi2 si4,24/twenty four
-三十一,san1 shi2 yi1,31/thirty one
-三十八,san1 shi2 ba1,38/thirty eight
-四十五,si4 shi2 wu3,45/forty five
-五十二,wu3 shi2 er4,52/fifty two
-五十九,wu3 shi2 jiu3,59/fifty nine
-六十六,liu4 shi2 liu4,66/sixty six
-七十三,qi1 shi2 san1,73/seventy three
-八十,ba1 shi2,80/eighty
-八十七,ba1 shi2 qi1,87/eighty seven
-九十四,jiu3 shi2 si4,94/ninety four
-百,bai3,hundred
-一百,yi1 bai3,100/one hundred
-一百零七,yi1 bai3 ling2 qi1,107/one hundred seven
-一百一十四,yi1 bai3 yi1 shi2 si4,114/one hundred fourteen
 元,yuan2,yuan
 名字,ming2 zi,name
 什么,shen2 me,what?
@@ -126,7 +174,6 @@
 老师,lao3 shi1,teacher
 医生,yi1 sheng1,doctor
 学生,xue2 sheng1,student
-今天,jin1 tian1,today
 怎么样,zen3 me yang4,how? how are things?/how about?
 早上好,zao3 shang hao3,good morning
 早安,zao3 an1,good morning
