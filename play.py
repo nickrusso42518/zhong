@@ -1,45 +1,19 @@
 #!/usr/bin/env python
 
+import argparse
 import csv
 import random
 import subprocess
 import string
-
-from colorama import Fore
-from colorama import Style
 import sys
 
-# Try to read Chinese characters, but only works on MacOS
-SPEAK_TOGGLE = True and sys.platform == "darwin"
+from colorama import Fore, Back, Style
 
-# Rate of speech in words per minute. 90 is slowest and 180 is default
-SPEAK_RATE = 90
 
-def load_symbols(csv_filename):
-    with open(csv_filename, encoding="utf=8") as handle:
-        csv_reader = csv.reader(handle)
-        symbols = [row for row in csv_reader if not row[0].startswith("#")]
-
-    # Identify valid pinyin characters (a-z, 1-4, -, >, and space)
-    valid_pinyin = string.ascii_lowercase + "->1234 "
-
-    for symbol in symbols:
-        # Ensure exactly 3 columns exist
-        assert len(symbol) == 3
-
-        # Ensure Chinese symbols are within proper unicode range
-        for chinese_char in symbol[0]:
-            assert 0x4e00 <= ord(chinese_char) <= 0x9fff
-
-        # Ensure pinyin only contains valid characters
-        assert all(pinyin_char in valid_pinyin for pinyin_char in symbol[1])
-
-    return symbols
-
-def main(csv_filename):
+def main(args):
 
     # Initialize counters and load symbols
-    symbols = load_symbols(csv_filename)
+    symbols = load_symbols(args.infile)
     count = 1
     total = len(symbols)
 
@@ -63,21 +37,8 @@ def main(csv_filename):
         pinyin = sym[1].lower().strip()
         english = sym[2].lower().strip()
 
-        # Build a string of unicode chars for debugging
-        unicode_str = " ".join([hex(ord(c)) for c in chinese])
-
-        # While attempt is blank, keep looping
-        attempt = ""
-        while not attempt.strip():
-            print(f"\n{count}/{total}: {chinese}   ({unicode_str})")
-
-            # If SPEAK_TOGGLE is true, use the "say" command. Mac only!
-            if SPEAK_TOGGLE:
-                say_cmd = f"say --voice=Ting-Ting --rate={SPEAK_RATE} {chinese}"
-                subprocess.run(say_cmd.split(" "))
-
-            # Prompt for input
-            attempt = input(f"Type the pinyin,english: ")
+        # Prompt user and collect input
+        attempt = run_attempt(args, chinese, count, total)
 
         # Unpack inputs and test for proper pinyin and english
         in1, in2 = attempt.split(",")
@@ -94,5 +55,91 @@ def main(csv_filename):
         del symbols[index]
         count += 1
 
+
+def load_symbols(csv_filename):
+    with open(csv_filename, encoding="utf=8") as handle:
+        csv_reader = csv.reader(handle)
+        symbols = [row for row in csv_reader if not row[0].startswith("#")]
+
+    # Identify valid pinyin characters (a-z, 1-4, -, >, and space)
+    valid_pinyin = string.ascii_lowercase + "->1234 "
+
+    for symbol in symbols:
+        # Ensure exactly 3 columns exist
+        assert len(symbol) == 3
+
+        # Ensure Chinese symbols are within proper unicode range
+        for chinese_char in symbol[0]:
+            assert 0x4E00 <= ord(chinese_char) <= 0x9FFF
+
+        # Ensure pinyin only contains valid characters
+        assert all(pinyin_char in valid_pinyin for pinyin_char in symbol[1])
+
+    return symbols
+
+
+def run_attempt(args, chinese, count, total):
+
+    # If quiet mode is disabled and system is MacOS, use the "say" command
+    can_speak = not args.quiet and sys.platform == "darwin"
+
+    # If blind mode is enabled, mask chinese symbols. Can highlight to reveal
+    c_color = Fore.BLACK + Back.BLACK if args.blind else ""
+
+    # While attempt is blank, keep looping
+    attempt = ""
+    while not attempt.strip():
+        print(f"\n{count}/{total}:   {c_color}{chinese}{Style.RESET_ALL}")
+
+        # Run the "say" command if speaking is enabled
+        if can_speak:
+            say_cmd = f"say --voice=Ting-Ting --rate={args.rate} {chinese}"
+            subprocess.run(say_cmd.split(" "), check=True)
+
+        # Prompt for input
+        attempt = input("Type the pinyin,english: ")
+
+    return attempt
+
+
+def process_args():
+    """
+    Process command line arguments according to README.
+    """
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "-b",
+        "--blind",
+        help="disable printing of chinese symbols",
+        action="store_true",
+    )
+    parser.add_argument(
+        "-q",
+        "--quiet",
+        help="disable audio narration of chinese symbols (MacOS only)",
+        action="store_true",
+    )
+    parser.add_argument(
+        "-r",
+        "--rate",
+        help="adjust rate of speech in words per minute (90 to 180)",
+        type=int,
+        default=90,
+    )
+    parser.add_argument(
+        "-i",
+        "--infile",
+        help="input file in CSV format (chinese,pinyin,english)",
+        type=str,
+        default="all.csv",
+    )
+    args = parser.parse_args()
+    if args.blind and args.quiet:
+        print("ERROR: --blind and --quiet cannot be enabled together")
+        sys.exit(1)
+
+    return args
+
+
 if __name__ == "__main__":
-    main("symbols.csv")
+    main(process_args())
