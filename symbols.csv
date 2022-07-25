@@ -1,4 +1,4 @@
-# chinese,pinyin,english1/english2/english3
+# chinese,pinyin,english and descriptions
 我,wo3,i/me
 你,ni3,you
 他,ta1,he/him
@@ -16,16 +16,19 @@
 她的,ta1 de,hers
 我们的,wo3 men de,our
 你们的,ni3 men de,your (plural)
-他们的,ta1 men de,their/male
-她们的,ta1 men de,their/female
+他们的,ta1 men de,their (male)
+她们的,ta1 men de,their (female)
 好,hao3,good
 你好,ni3->2 hao3,hello/hi
+请,qing3,please
+问,wen4,ask
+请问,qing3 wen4,excuse me/pardon me (get attention)
 谢谢,xie4 xie,thanks
 谢谢你,xie4 xie ni3,thank you
 不客气,bu4->2 ke4 qi4,you're welcome
 抱歉,bao4 qian4,sorry (minor)
 对不起,dui4 bu4-> qi3,sorry (major)
-再,zai4,again
+再,zai4,again (used before verb)
 见,jian4,see
 再见,zai4 jian4,goodbye
 吗,ma,yn?/yes or no question
@@ -38,14 +41,29 @@
 喝,he1,drink
 水,shui3,water
 茶,cha2,tea
-姓,xing4,surname/family name/last name
+牛奶,niu2 nai3,milk
+咖啡,ka1 fei1,coffee
+冰,bing1,iced
+热,re4,hot
+姓,xing4,surname/last name
+最,zui4,best/most (superlative)
+要,yao4,wants/needs
+帮助,bang1 zhu4,help
+说,shuo1,say/speak/tell
+次,ci4,number of times
+一次,yi1 ci4,once/once time
+两次,liang3 ci4,twice/two times
 高,gao1,tall
 高兴,gao1 xing4,happy
+不错,bu4->2 cuo4,not bad/pretty good
+最近,zui4 jin4,recently
 很,hen3,very/adjective connector/dummy adverb
 呢,ne,and?/what about?/ok?
+和,he2,and (link nouns)
 零,ling2,0/zero
 一,yi1,1/one
-二,er4,2/two
+二,er4,2/two (counting/end of measure words/second)
+两,liang3,2/two (with measure words/quantities)
 三,san1,3/three
 四,si4,4/four
 五,wu3,5/five
@@ -83,14 +101,19 @@
 英国,ying1 guo2,uk/britain
 加拿大,jia1 na2 da4,canada
 人,ren2,person
+语,yu3,language
+文,wen2,arts/culture
 中国人,zhong1 guo2 ren2,chinese
 美国人,mei3 guo2 ren2,american
 英国人,ying1 guo2 ren2,british
 加拿大人,jia1 na2 da4 ren2,canadian
 中文,zhong1 wen2,chinese language
+汉语,han4 yu3,chinese language
 英文,ying1 wen2,english language
+英语,ying1 yu3,english language
 认识,ren4 shi,know/know personally
 知道,zhi1 dao4,know/know about/aware of
+不知道,bu4 zhi1 dao4,don't know
 忙,mang2,busy/rush
 对,dui4,right/correct
 不对,bu4->2 dui4,incorrect
@@ -102,8 +125,10 @@
 学生,xue2 sheng1,student
 今天,jin1 tian1,today
 怎么样,zen3 me yang4,how? how are things?/how about?
-早上,zao3 shang,morning
 早上好,zao3 shang hao3,good morning
+早安,zao3 an1,good morning
+晚上好,wan3 shang hao3,good evening
+晚安,wan3 an1,good night
 港,gang3,port/harbor
 香港,xiang1 gang3,hong kong
 纽约,niu3 yue1,new york

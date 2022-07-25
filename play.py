@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import csv
 import random
 import subprocess
@@ -43,9 +45,11 @@ def main(csv_filename):
 
     print("HOW TO PLAY:")
     print("  Provide the pinyin and english for the chinese phrase shown.")
-    print("  Mac users can optionally enable narration of the phrase.")
+    print("  Unicode values for chinese characters are shown in parenthesis.")
+    print("  Mac users can enable narration of the chinese symbols.")
     print("  Press ENTER by itself (no input) to reprint/restate the phrase.")
-    print("  Enter a . character to quit; it's invalid input.")
+    print("  Enter a comma (,) character to skip/forfeit a question.")
+    print("  Enter a period (.) character to quit; it's invalid input.")
 
     # Keep looping while more symbols exist
     while symbols:
@@ -59,10 +63,13 @@ def main(csv_filename):
         pinyin = sym[1].lower().strip()
         english = sym[2].lower().strip()
 
+        # Build a string of unicode chars for debugging
+        unicode_str = " ".join([hex(ord(c)) for c in chinese])
+
         # While attempt is blank, keep looping
         attempt = ""
         while not attempt.strip():
-            print(f"\n{count}/{total}: {chinese}")
+            print(f"\n{count}/{total}: {chinese}   ({unicode_str})")
 
             # If SPEAK_TOGGLE is true, use the "say" command. Mac only!
             if SPEAK_TOGGLE:
@@ -75,11 +82,13 @@ def main(csv_filename):
         # Unpack inputs and test for proper pinyin and english
         in1, in2 = attempt.split(",")
         p_color = Fore.GREEN if in1.lower().strip() == pinyin else Fore.RED
-        e_color = Fore.GREEN if in2.lower().strip() in english else Fore.RED
+
+        in2 = in2.lower().strip()
+        e_color = Fore.GREEN if len(in2) > 0 and in2 in english else Fore.RED
 
         # Print results using proper colors
         print(f"pinyin: {p_color}{pinyin}{Style.RESET_ALL}", end="")
-        print(f"      english: {e_color}{english}{Style.RESET_ALL}")
+        print(f"    english: {e_color}{english}{Style.RESET_ALL}")
 
         # Delete symbol and increment counter
         del symbols[index]
