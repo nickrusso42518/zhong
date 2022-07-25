@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+"""
+Author: Nick Russo (njrusmc@gmail.com)
+Description: Chinese language trainer. See README.md for details.
+"""
+
 import argparse
 import csv
 import random
@@ -20,7 +25,7 @@ def main(args):
     print("HOW TO PLAY:")
     print("  Provide the pinyin and english for the chinese phrase shown.")
     print("  Unicode values for chinese characters are shown in parenthesis.")
-    print("  Mac users can enable narration of the chinese symbols.")
+    print("  MacOS users can enable narration of the chinese symbols.")
     print("  Press ENTER by itself (no input) to reprint/restate the phrase.")
     print("  Enter a comma (,) character to skip/forfeit a question.")
     print("  Enter a period (.) character to quit; it's invalid input.")
@@ -80,9 +85,6 @@ def load_symbols(csv_filename):
 
 def run_attempt(args, chinese, count, total):
 
-    # If quiet mode is disabled and system is MacOS, use the "say" command
-    can_speak = not args.quiet and sys.platform == "darwin"
-
     # If blind mode is enabled, mask chinese symbols. Can highlight to reveal
     c_color = Fore.BLACK + Back.BLACK if args.blind else ""
 
@@ -91,8 +93,8 @@ def run_attempt(args, chinese, count, total):
     while not attempt.strip():
         print(f"\n{count}/{total}:   {c_color}{chinese}{Style.RESET_ALL}")
 
-        # Run the "say" command if speaking is enabled
-        if can_speak:
+        # Run the "say" command if quiet mode is disabled
+        if not args.quiet:
             say_cmd = f"say --voice=Ting-Ting --rate={args.rate} {chinese}"
             subprocess.run(say_cmd.split(" "), check=True)
 
@@ -110,7 +112,7 @@ def process_args():
     parser.add_argument(
         "-b",
         "--blind",
-        help="disable printing of chinese symbols",
+        help="disable printing of chinese symbols (MacOS only)",
         action="store_true",
     )
     parser.add_argument(
@@ -122,7 +124,7 @@ def process_args():
     parser.add_argument(
         "-r",
         "--rate",
-        help="adjust rate of speech in words per minute (90 to 180)",
+        help="adjust rate of speech in words per minute (90 to 300)",
         type=int,
         default=90,
     )
@@ -137,6 +139,12 @@ def process_args():
     if args.blind and args.quiet:
         print("ERROR: --blind and --quiet cannot be enabled together")
         sys.exit(1)
+
+    # Quiet mode is enabled if system is not MacOS or -q set
+    args.quiet = sys.platform != "darwin" or args.quiet
+
+    # Blind mode is enabled if system is MacOS and -b set
+    args.blind = sys.platform == "darwin" and args.blind
 
     return args
 
