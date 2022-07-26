@@ -32,9 +32,10 @@
 今天,jin1 tian1,today
 明天,ming2 tian1,tomorrow
 年,nian2,year (after numbers)
+岁,sui4,is X years old (after numbers)
 二〇三四年,er4 ling2 er4 si4 nian2,2034 year
 一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
-月,yue4,month
+月,yue4,month (after numbers)
 号,hao4,date day (conversational)
 日,re4,date day (written)
 点,dian3,oclock (after numbers)
@@ -44,6 +45,8 @@
 四点半,si4 dian3 ban4,4:30/half past 4
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
 四点零六,si4 dian3 ling2 liu4,4:06
+一点,yi1 dian3,a little bit
+一点儿,yi1 dian3 r,a little bit
 星期,xing1 qi1,week (before numbers)
 星期一,xing1 qi1 yi1,monday
 星期二,xing1 qi1 er4,tuesday
@@ -58,7 +61,6 @@
 几号,ji3 hao4,what day of month?
 几月,ji3 yue4,what month?
 几月几号,ji3 yue4 ji3 hao4,what date (month and day)
-月,yue4,month (after numbers)
 一月,yi1 yue4,January
 二月,er4 yue4,February
 三月,san1 yue4,March
@@ -81,23 +83,28 @@
 你,ni3,you
 他,ta1,he/him
 她,ta1,she/her
-是,shi4,is/are
+它,ta1,it
+是,shi4,is/am/are
 们,men,plural modifier
 我们,wo3 men,we
 你们,ni3 men,you (plural)
 他们,ta1 men,they (male)
 她们,ta1 men,they (female)
+它们,ta1 men,they (neutral)
 的,de,possessive/'s
 我的,wo3 de,my
 你的,ni3 de,your
 他的,ta1 de,his
 她的,ta1 de,hers
+它的,ta1 de,its
 我们的,wo3 men de,our
 你们的,ni3 men de,your (plural)
 他们的,ta1 men de,their (male)
 她们的,ta1 men de,their (female)
+它们的,ta1 men de,their (neutral)
 好,hao3,good
 你好,ni3->2 hao3,hello/hi
+喂,wei4,hey/use 2nd tone to answer phone
 久,jiu3,long
 好久不见,hao3->2 jiu3 bu4-> jian4,long time no see
 请,qing3,please/precedes a command
@@ -108,11 +115,13 @@
 不客气,bu4->2 ke4 qi4,you're welcome
 抱歉,bao4 qian4,sorry (minor)
 对不起,dui4 bu4-> qi3,sorry (major)
+没关系,mei2 guan1 xi4,it doesn't matter/no problem
 再,zai4,again (used before verb)
 见,jian4,see
 再见,zai4 jian4,goodbye
 吗,ma,yn?/yes or no question
 不,bu4,no/not
+是不是,shi4 bu shi4,whether (pattern for yn?)
 也,ye3,also
 吃,chi1,eat
 饭,fan4,rice/meal
@@ -130,6 +139,10 @@
 要,yao4,wants/needs
 帮助,bang1 zhu4,help
 说,shuo1,say/speak/tell
+明白,ming2 bai,understand
+得,de,adverb (describe action)
+快,kuai4,quickly
+慢,man4,slowly
 次,ci4,number of times/iteration
 一次,yi1 ci4,once/once time
 两次,liang3 ci4,twice/two times
@@ -169,10 +182,12 @@
 不知道,bu4 zhi1 dao4,don't know
 忙,mang2,busy/rush
 对,dui4,right/correct
+是的,shi4 de,yes
 不对,bu4->2 dui4,incorrect
 都,dou1,all/both/entirely
 个,ge4,individual/measure word
 个人,ge4 ren2,person/people quantity
+几个,ji3 ge4,how many items?
 老师,lao3 shi1,teacher
 医生,yi1 sheng1,doctor
 学生,xue2 sheng1,student
@@ -205,6 +220,7 @@
 这个,zhe4 ge4,this one
 这两个,na4 liang3 ge4,these two
 谁,shei2,who?
+谁的,shei2 de,whose?/whom?
 有,you3,have/possess
 没有,mei2 you3,does not have
 爱,ai4,love
@@ -212,12 +228,18 @@
 母亲,mu3 qin1,mother
 爸爸,ba4 ba,dad
 父亲,fu4 qin1,father
-女儿,nu3 er2,daughter
+女,nv3,female
+女儿,nv3 er2,daughter
 儿子,er2 zi,son
+孩子,hai4 zi3,children
+丈夫,zhang4 fu1,husband
+妻子,qi1 zi3,wife
 姐姐,jie3 jie,older sister
 哥哥,ge1 ge,older brother
 妹妹,mei4 mei,younger sister
 弟弟,di4 di,younger brother
+猫,mao1,cat
+狗,gou3,dog
 洗手间,xi3->2 shou3 jian1,bathroom
 医院,yi1 yuan4,hospital
 饭馆,fan4 guan3,restaurant

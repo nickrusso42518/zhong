@@ -17,6 +17,10 @@ from colorama import Fore, Back, Style
 # Rare cases of chinese symbols not in the correct unicode range
 C_SYM_EXCEPTIONS = ["〇"]
 
+# Identify valid pinyin characters (a-z, 1-4, -, >, and space)
+VALID_PINYIN = string.ascii_lowercase + "->1234 "
+
+
 def main(args):
     """
     Main game code.
@@ -76,22 +80,31 @@ def load_symbols(csv_filename):
         csv_reader = csv.reader(handle)
         symbols = [row for row in csv_reader if not row[0].startswith("#")]
 
-    # Identify valid pinyin characters (a-z, 1-4, -, >, and space)
-    valid_pinyin = string.ascii_lowercase + "->1234 "
-
+    # Iterate over list of symbols (rows from CSV)
+    c_list = []
+    c_set = set()
     for symbol in symbols:
+
         # Ensure exactly 3 columns exist
         assert len(symbol) == 3
 
-        # Ensure Chinese symbols are within proper unicode range or
+        # Ensure chinese symbols are within proper unicode range or
         # are explicitly permitted as exceptions
         for c_sym in symbol[0]:
             c_sym_ord = ord(c_sym)
             assert (0x4E00 <= c_sym_ord <= 0x9FFF) or c_sym in C_SYM_EXCEPTIONS
 
         # Ensure pinyin only contains valid characters
-        assert all(pinyin_char in valid_pinyin for pinyin_char in symbol[1])
+        assert all(pinyin_char in VALID_PINYIN for pinyin_char in symbol[1])
 
+        # Valid chinese/pinyin; add entire chinese phrase to a list and a set
+        c_list.append(symbol[0])
+        c_set.add(symbol[0])
+
+    # Ensure chinese list and set are same length, else we have duplicates
+    assert len(c_list) == len(c_set)
+
+    # All tests passed; return the symbols list
     return symbols
 
 
