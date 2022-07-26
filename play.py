@@ -17,7 +17,9 @@ from colorama import Fore, Back, Style
 # Rare cases of chinese symbols not in the correct unicode range
 C_SYM_EXCEPTIONS = ["〇"]
 
-# Identify valid pinyin characters (a-z, 1-4, -, >, and space)
+# Identify valid pinyin characters. Numbers 1-4 map to the chinese tones.
+# The -> symbol represents a non-written tone transition or special rule.
+# The space is used for cleanliness to separate pinyin words.
 VALID_PINYIN = string.ascii_lowercase + "->1234 "
 
 
