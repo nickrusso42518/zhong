@@ -18,11 +18,10 @@ lint:
 .PHONY: run
 run:
 	@echo "Starting  run"
-	echo $$'.\n' | python play.py && echo
-	echo $$'.\n' | python play.py -i inputs/tp.csv && echo
-	echo $$'.\n' | python play.py -m && echo
-	echo $$'\n.\n' | python play.py -m -r 100 && echo
-	echo $$',\n.\n' | python play.py -q && echo
+	python play.py < test_stdin/enter_period.txt
+	python play.py -i inputs/tp.csv < test_stdin/comma_period.txt
+	python play.py -q < test_stdin/enter_period.txt
+	python play.py -m -r 200 < test_stdin/bad_period.txt
 	python play.py -q -m || test $$? -eq 2
 	@echo "Completed run"
 

@@ -129,6 +129,7 @@ def run_attempt(args, chinese, count, total):
 
         # If user entered a period (.) then quit gracefully (rc=0)
         if attempt == ".":
+            print("\n\n")
             sys.exit(0)
 
         # Try to split the input on comma. If no comma exists, catch

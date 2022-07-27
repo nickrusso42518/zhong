@@ -1,6 +1,6 @@
 [![Build Status](
-https://travis-ci.com/nickrusso42518/zhong.svg?branch=master)](
-https://travis-ci.com/nickrusso42518/zhong)
+https://app.travis-ci.com/nickrusso42518/zhong.svg?branch=master)](
+https://app.travis-ci.com/nickrusso42518/zhong)
 
 # Chinese Language Trainer
 A simple game to learn simplified Mandarin Chinese. It includes visual and
@@ -133,3 +133,7 @@ languages, too. However, it isn't fully modularized and contains
 many hardcoded features specific to Chinese languages. Feel free to
 fork and modify, but I make no guarantees to functionality or
 ease of use for other languages. I haven't tested/tried any of it.
+
+You can customize the CI test runs in the `test_stdin/` directory
+by modifying the sequential input files. Follow the general format
+described in `Makefile` and `.travis.yml` for easier integration.
