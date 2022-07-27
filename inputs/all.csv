@@ -147,6 +147,7 @@
 一次,yi1 ci4,once/once time
 两次,liang3 ci4,twice/two times
 高,gao1,tall
+矮,ai3,short
 高兴,gao1 xing4,happy
 不错,bu4->2 cuo4,not bad/pretty good
 最近,zui4 jin4,recently
@@ -225,9 +226,10 @@
 没有,mei2 you3,does not have
 爱,ai4,love
 妈妈,ma1 ma,mom
-母亲,mu3 qin1,mother
 爸爸,ba4 ba,dad
-父亲,fu4 qin1,father
+# 母亲,mu3 qin1,mother
+# 父亲,fu4 qin1,father
+男,nan2,male
 女,nv3,female
 女儿,nv3 er2,daughter
 儿子,er2 zi,son
@@ -238,8 +240,15 @@
 哥哥,ge1 ge,older brother
 妹妹,mei4 mei,younger sister
 弟弟,di4 di,younger brother
+朋友,peng2 you3,friend
+男朋友,nan2 peng2 you3,boyfriend
+女朋友,nv3 peng2 you3,girlfriend
 猫,mao1,cat
 狗,gou3,dog
+漂亮,piao liang4,beautiful/pretty
+非常,fei1 chang2,very/extremely
+可,ke3,but
+可爱,ke3 ai4,cute
 洗手间,xi3->2 shou3 jian1,bathroom
 医院,yi1 yuan4,hospital
 饭馆,fan4 guan3,restaurant

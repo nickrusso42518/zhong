@@ -1,9 +1,22 @@
+[![Build Status](
+https://travis-ci.com/nickrusso42518/zhong.svg?branch=master)](
+https://travis-ci.com/nickrusso42518/zhong)
+
 # Chinese Language Trainer
 A simple game to learn simplified Mandarin Chinese. It includes visual and
 audio test questions and a customizable question database file. It includes
 Chinese symbols, pinyin, and English definitions/descriptions. Output from
 each question is colorized with green (correct) or red (incorrect) for
 quick gameplay and scorekeeping.
+
+> Contact information:\
+> Email:    njrusmc@gmail.com\
+> Twitter:  @nickrusso42518
+
+  * [Installation](#installation)
+  * [Quick Start](#quick-start)
+  * [Advanced Usage](#advanced-usage)
+  * [Forking](#forking)
 
 ## Installation
 You must be running Python 3.6 or later.
@@ -17,18 +30,21 @@ pip install -r requirements.txt
 Basic usage:
 ```
 $ python play.py -h
-usage: play.py [-h] [-b] [-q] [-r RATE] [-i INFILE]
+usage: play.py [-h] [-m] [-q] [-r RATE] [-i INFILE]
 
 optional arguments:
   -h, --help            show this help message and exit
-  -b, --blind           disable printing of chinese symbols (MacOS only)
+  -m, --mask            disable easy reading of chinese symbols (MacOS only)
   -q, --quiet           disable audio narration of chinese symbols (MacOS only)
   -r RATE, --rate RATE  adjust rate of speech in words per minute (90 to 300)
   -i INFILE, --infile INFILE
                         input file in CSV format (chinese,pinyin,english)
 ```
 
-## Additional Details
+Check the `inputs/` directory for sample CSV files. Be warned; these
+are frequently updated.
+
+## Advanced Usage
 Detailed explanation:
   * `-i`: Pass in a CSV import file. The file must contain exactly 3 columns:
           chinese,pinyin,english. You can check the `all.csv` file for an
@@ -41,12 +57,12 @@ Detailed explanation:
           run faster as well. Note that audio narration is only available
           on MacOS, so Windows and Linux users are always in quiet mode.
 
-  * `-b`: This prints me Chinese symbols with a black foreground color and
-          a black background color. This effectively masks the Chinese
-          symbols, forcing a letter to rely only on the audio narration. For
+  * `-m`: Enable mask mode. This prints Chinese symbols with a black foreground
+          and background color. This effectively masks the Chinese
+          symbols, forcing a learner to rely only on the audio narration. For
           that reason, this option is only available to MacOS users. Using
           the mouse, you can highlight the Chinese symbols to reveal them if
-          you need a hint.
+          you need a hint; this technique should be used sparingly.
 
   * `-r`: The MacOS `say` command supports a range of narration rates,
           depending on the language spoken. The slowest (easiest) is 90
@@ -56,17 +72,21 @@ Detailed explanation:
 Example usages of minor options:
 ```
 $ python play.py
-$ python play.py -b
-$ python play.py -b -r 120
+$ python play.py -i inputs/tp.csv
+$ python play.py -m
+$ python play.py -m -i inputs/tp.csv
+$ python play.py -m -r 120
+$ python play.py -m -r 120 -i inputs/tp.csv
 $ python play.py -r 120
 $ python play.py -q
+$ python play.py -q -i inputs/tp.csv
 ```
 
 Invalid usages:
 ```
-$ python play.py -q -b
-$ python play.py -q   (on Windows/Linux)
-$ python play.py -b   (on Windows/Linux)
+$ python play.py -q -m
+$ python play.py -q   (only works on MacOS)
+$ python play.py -m   (only works on MacOS)
 ```
 
 Gameplay (not colorized) with comments in brackets:
@@ -90,8 +110,21 @@ Type the pinyin,english: ta1 de,they
 pinyin: ta1 men    english: they (male)
 [pinyin red, english green]
 
-3/168:   吃
+3/168:   你的
 Type the pinyin,english:
+pinyin: ni3 de    english: your
+[enter ENTER (black entry) to reprint/replay a question]
+
+3/168:   你的
+Type the pinyin,english: ,
+pinyin: ni3 de    english: your
+[enter comma (,) to skip a question, pinyin and english red]
+
+4/168:   吃
+Type the pinyin,english: .
+[enter period (.) to gracefully exit]
+
+$
 ```
 
 ## Forking
