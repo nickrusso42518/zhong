@@ -28,7 +28,7 @@
 一百,yi1 bai3,100/one hundred
 一百零七,yi1 bai3 ling2 qi1,107/one hundred seven
 一百一十四,yi1 bai3 yi1 shi2 si4,114/one hundred fourteen
-现在,xian4 zai4,now
+现在,xian4 zai4,now/right now
 今天,jin1 tian1,today
 明天,ming2 tian1,tomorrow
 年,nian2,year (after numbers)
@@ -47,7 +47,7 @@
 四点零六,si4 dian3 ling2 liu4,4:06
 一点,yi1 dian3,a little bit
 一点儿,yi1 dian3 r,a little bit
-星期,xing1 qi1,week (before numbers)
+星期,xing1 qi1,week day specifier (before numbers)
 星期一,xing1 qi1 yi1,monday
 星期二,xing1 qi1 er4,tuesday
 星期三,xing1 qi1 san1,wednesday
@@ -79,6 +79,35 @@
 五月二十六号,wu3 yue4 er4 shi2 liu4 hao4,26 May
 二〇三四年十二月七号,er4 ling2 er4 si4 nian2 shi2 er4 yue4 qi1 hao4,7 December 2034
 一九八五年五月二十六号,yi1 jiu3 ba1 wu3 nian2 wu3 yue4 er4 shi2 liu4 hao4,26 May 26 1985
+了,le,completed (past tense)
+昨天,zuo2 tian1,yesterday
+会,hui4,will (in the future)
+上,shang4,last (time period, but not year)
+下,xia4,next (time period)
+每,mei3,every (time period)
+分,fen1,minute
+末,mo4,end
+周,zhou1,week
+做,zuo4,do
+明年,ming2 nian2,next year
+去,qu4,go
+去年,qu4 nian2,last year
+今年,jin1 nian2, this year
+周末,zhou1 mo4,weekend
+下午,xia4 wu3,afternoon
+中午,zhong1 wu3,noon/midday
+晚上,wan3 shang5,evening/pm time
+上午,shang4 wu3,morning/am time
+明天早上,ming2 tian1 zao3 shang,tomorrow morning
+昨天早上,zuo2 tian1 zao3 shang,yesterday morning
+今天早上,jin1 tian1 zao3 shang,this morning
+明天下午,ming2 tian1 xia4 wu3,tomorrow afternoon
+昨天下午,zuo2 tian1 xia4 wu3,yesterday afternoon
+今天下午,jin1 tian1 xia4 wu3,this afternoon
+明天晚上,ming2 tian1 wan3 shang5,tomorrow night
+昨天晚上,zuo2 tian1 wan3 shang5,last night
+今天晚上,jin1 tian1 wan3 shang5,tonight
+今晚,jin1 wan3,tonight (common shorthand)
 我,wo3,i/me
 你,ni3,you
 他,ta1,he/him
@@ -117,7 +146,7 @@
 对不起,dui4 bu4-> qi3,sorry (major)
 没关系,mei2 guan1 xi4,it doesn't matter/no problem
 再,zai4,again (used before verb)
-见,jian4,see
+见,jian4,see/meet
 再见,zai4 jian4,goodbye
 吗,ma,yn?/yes or no question
 不,bu4,no/not
