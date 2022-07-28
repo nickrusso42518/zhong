@@ -82,7 +82,7 @@
 了,le,completed (past tense)
 昨天,zuo2 tian1,yesterday
 会,hui4,will (in the future)
-上,shang4,last (time period, but not year)
+上,shang4,last (time period but not for year)
 下,xia4,next (time period)
 每,mei3,every (time period)
 分,fen1,minute
@@ -90,13 +90,13 @@
 周,zhou1,week
 做,zuo4,do
 明年,ming2 nian2,next year
-去,qu4,go
+去,qu4,go (or to denote last year)
 去年,qu4 nian2,last year
 今年,jin1 nian2, this year
 周末,zhou1 mo4,weekend
 下午,xia4 wu3,afternoon
 中午,zhong1 wu3,noon/midday
-晚上,wan3 shang5,evening/pm time
+晚上,wan3 shang,evening/pm time
 上午,shang4 wu3,morning/am time
 明天早上,ming2 tian1 zao3 shang,tomorrow morning
 昨天早上,zuo2 tian1 zao3 shang,yesterday morning
@@ -104,10 +104,10 @@
 明天下午,ming2 tian1 xia4 wu3,tomorrow afternoon
 昨天下午,zuo2 tian1 xia4 wu3,yesterday afternoon
 今天下午,jin1 tian1 xia4 wu3,this afternoon
-明天晚上,ming2 tian1 wan3 shang5,tomorrow night
-昨天晚上,zuo2 tian1 wan3 shang5,last night
-今天晚上,jin1 tian1 wan3 shang5,tonight
-今晚,jin1 wan3,tonight (common shorthand)
+明天晚上,ming2 tian1 wan3 shang,tomorrow night
+昨天晚上,zuo2 tian1 wan3 shang,last night
+今天晚上,jin1 tian1 wan3 shang,tonight
+# 今晚,jin1 wan3,tonight (common shorthand)
 我,wo3,i/me
 你,ni3,you
 他,ta1,he/him

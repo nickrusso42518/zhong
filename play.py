@@ -20,7 +20,7 @@ C_SYM_EXCEPTIONS = ["〇"]
 # Identify valid pinyin characters. Numbers 1-4 map to the chinese tones.
 # The -> symbol represents a non-written tone transition or special rule.
 # The space is used for cleanliness to separate pinyin words.
-VALID_PINYIN = string.ascii_lowercase + "->1234 "
+VALID_PINYIN = string.ascii_lowercase + " ->1234"
 
 
 def main(args):
@@ -74,9 +74,13 @@ def load_symbols(csv_filename):
     chinese,pinyin,english
     """
 
-    with open(csv_filename, encoding="utf=8") as handle:
-        csv_reader = csv.reader(handle)
-        symbols = [row for row in csv_reader if not row[0].startswith("#")]
+    try:
+        with open(csv_filename, encoding="utf=8") as handle:
+            csv_reader = csv.reader(handle)
+            symbols = [row for row in csv_reader if not row[0].startswith("#")]
+    except FileNotFoundError as fnf_error:
+        print(f"ERROR: {fnf_error}")
+        sys.exit(3)
 
     # Iterate over list of symbols (rows from CSV)
     c_list = []
@@ -84,23 +88,27 @@ def load_symbols(csv_filename):
     for symbol in symbols:
 
         # Ensure exactly 3 columns exist
-        assert len(symbol) == 3
+        assert len(symbol) == 3, f"len({symbol}) = {len(symbol)}"
 
         # Ensure chinese symbols are within proper unicode range or
         # are explicitly permitted as exceptions
         for c_sym in symbol[0]:
             c_sym_ord = ord(c_sym)
-            assert (0x4E00 <= c_sym_ord <= 0x9FFF) or c_sym in C_SYM_EXCEPTIONS
+            assert (
+                0x4E00 <= c_sym_ord <= 0x9FFF
+            ) or c_sym in C_SYM_EXCEPTIONS, f"ord({c_sym}) = {c_sym_ord}"
 
         # Ensure pinyin only contains valid characters
-        assert all(pinyin_char in VALID_PINYIN for pinyin_char in symbol[1])
+        assert all(
+            pinyin_char in VALID_PINYIN for pinyin_char in symbol[1]
+        ), f"{symbol[1]} not in {VALID_PINYIN}"
 
         # Valid chinese/pinyin; add entire chinese phrase to a list and a set
         c_list.append(symbol[0])
         c_set.add(symbol[0])
 
     # Ensure chinese list and set are same length, else we have duplicates
-    assert len(c_list) == len(c_set)
+    assert len(c_list) == len(c_set), f"{len(c_list)} != {len(c_set)}"
 
     # All tests passed; return the symbols list
     return symbols
@@ -122,7 +130,7 @@ def run_attempt(args, chinese, count, total):
         # Run the "say" command if quiet mode is disabled
         if not args.quiet:
             say_cmd = f"say --voice=Ting-Ting --rate={args.rate} {chinese}"
-            subprocess.run(say_cmd.split(" "), check=True)
+            subprocess.run(say_cmd.split(" "), check=True, shell=False)
 
         # Prompt for input and string extra whitespace
         attempt = input("Type the pinyin,english: ").strip()

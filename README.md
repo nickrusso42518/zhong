@@ -17,6 +17,7 @@ quick gameplay and scorekeeping.
   * [Quick Start](#quick-start)
   * [Advanced Usage](#advanced-usage)
   * [Forking](#forking)
+  * [Testing](#testing)
 
 ## Installation
 You must be running Python 3.6 or later.
@@ -83,11 +84,15 @@ $ python play.py -q -i inputs/tp.csv
 ```
 
 Invalid usages:
-```
-$ python play.py -q -m
-$ python play.py -q   (only works on MacOS)
-$ python play.py -m   (only works on MacOS)
-```
+  * `python play.py -q -m`: Combination is never valid. Program
+    exits with return code 2 and an informative error message
+  * `$ python play.py -i inputs/nonexist.csv`: If a nonexistent file
+    is supplied, the program exits with return code 3 and the corresponding
+    `FileNotFoundError` message.
+  * `$ python play.py -q`: Technically accepted on any platform,
+    but `-q` has no effect on non-MacOS systems (Windows, Linux, etc.)
+  * `$ python play.py -m`: Technically accepted on any platform,
+    but `-m` has no effect on non-MacOS systems (Windows, Linux, etc.)
 
 Gameplay (not colorized) with comments in brackets:
 ```
@@ -113,7 +118,7 @@ pinyin: ta1 men    english: they (male)
 3/168:   你的
 Type the pinyin,english:
 pinyin: ni3 de    english: your
-[enter ENTER (black entry) to reprint/replay a question]
+[enter ENTER (blank entry) to reprint/replay a question]
 
 3/168:   你的
 Type the pinyin,english: ,
@@ -137,3 +142,17 @@ ease of use for other languages. I haven't tested/tried any of it.
 You can customize the CI test runs in the `test_stdin/` directory
 by modifying the sequential input files. Follow the general format
 described in `Makefile` and `.travis.yml` for easier integration.
+
+## Testing
+A GNU Makefile with phony targets is used for testing this codebase.
+There are currently three steps:
+  * `lint`: Runs `black`, `pylint`, and `bandit`, in that order. This
+    reveals any syntax, styling, or security errors with the source code.
+  * `run`: Runs the program using various input options and files.
+    The default input files should have no failures. Some true negative
+    cases are evaluated as well.
+  * `clean`: Finds and removes all `*.pyc` files.
+
+You can run `make` or `make all` to run all the testing in series when doing
+manual regression testing from the shell. As mentioned earlier in the README,
+this is a good idea after first cloning/forking the repository.

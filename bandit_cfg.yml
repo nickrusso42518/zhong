@@ -1,0 +1,8 @@
+---
+skips:
+  - "B101"  # assert
+  - "B311"  # randint
+  - "B322"  # input
+  - "B404"  # subprocess generic
+  - "B603"  # subprocess shell
+...
