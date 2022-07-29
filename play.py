@@ -22,24 +22,27 @@ C_SYM_EXCEPTIONS = ["〇"]
 # The space is used for cleanliness to separate pinyin words.
 VALID_PINYIN = string.ascii_lowercase + " ->1234"
 
+# String used to test a system for MacOS
+MACOS_PLATFORM = "darwin"
+
 
 def main(args):
     """
     Main game code.
     """
 
-    # Initialize counters and load symbols
+    # Load symbols and initialize counters to track progress
     symbols = load_symbols(args.infile)
     count = 1
     total = len(symbols)
 
+    # Print gameplay instructions before asking translation questions
     print("HOW TO PLAY:")
     print("  Provide the pinyin and english for the chinese phrase shown.")
-    print("  Unicode values for chinese characters are shown in parenthesis.")
-    print("  MacOS users can enable narration of the chinese symbols.")
     print("  Press ENTER by itself (no input) to reprint/restate the phrase.")
     print("  Enter a comma (,) character to skip/forfeit a question.")
     print("  Enter a period (.) character to quit gracefully.")
+    print("  Use the '-h' option or check 'README.md' for additional help.")
 
     # Keep looping while more symbols exist
     while symbols:
@@ -74,10 +77,14 @@ def load_symbols(csv_filename):
     chinese,pinyin,english
     """
 
+    # Try to open the file
     try:
+        # If the file exists, include rows that don't begin with # (comment)
         with open(csv_filename, encoding="utf=8") as handle:
             csv_reader = csv.reader(handle)
             symbols = [row for row in csv_reader if not row[0].startswith("#")]
+
+    # File does not exist; print Python-generated error and quit with rc=3
     except FileNotFoundError as fnf_error:
         print(f"ERROR: {fnf_error}")
         sys.exit(3)
@@ -100,7 +107,7 @@ def load_symbols(csv_filename):
 
         # Ensure pinyin only contains valid characters
         assert all(
-            pinyin_char in VALID_PINYIN for pinyin_char in symbol[1]
+            [pinyin_char in VALID_PINYIN for pinyin_char in symbol[1]]
         ), f"{symbol[1]} not in {VALID_PINYIN}"
 
         # Valid chinese/pinyin; add entire chinese phrase to a list and a set
@@ -128,6 +135,7 @@ def run_attempt(args, chinese, count, total):
         print(f"\n{count}/{total}:   {c_color}{chinese}{Style.RESET_ALL}")
 
         # Run the "say" command if quiet mode is disabled
+        # Example: say --voice=Ting-Ting --rate=150 电话号码
         if not args.quiet:
             say_cmd = f"say --voice=Ting-Ting --rate={args.rate} {chinese}"
             subprocess.run(say_cmd.split(" "), check=True, shell=False)
@@ -191,11 +199,12 @@ def process_args():
         sys.exit(2)
 
     # Quiet mode is enabled if system is not MacOS or -q set
-    args.quiet = (sys.platform != "darwin") or args.quiet
+    args.quiet = (sys.platform != MACOS_PLATFORM) or args.quiet
 
     # Blind mode is enabled if system is MacOS and -m set
-    args.mask = (sys.platform == "darwin") and args.mask
+    args.mask = (sys.platform == MACOS_PLATFORM) and args.mask
 
+    # CLI arguments valid; return the object containing them
     return args
 
 
