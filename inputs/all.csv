@@ -102,15 +102,15 @@
 中午,zhong1 wu3,noon/midday
 晚上,wan3 shang,evening/pm time
 上午,shang4 wu3,morning/am time
-明天早上,ming2 tian1 zao3 shang,tomorrow morning
-昨天早上,zuo2 tian1 zao3 shang,yesterday morning
-今天早上,jin1 tian1 zao3 shang,this morning
+明天早上,ming2 tian1 zao3 shang4->,tomorrow morning
+昨天早上,zuo2 tian1 zao3 shang4->,yesterday morning
+今天早上,jin1 tian1 zao3 shang4->,this morning
 明天下午,ming2 tian1 xia4 wu3,tomorrow afternoon
 昨天下午,zuo2 tian1 xia4 wu3,yesterday afternoon
 今天下午,jin1 tian1 xia4 wu3,this afternoon
-明天晚上,ming2 tian1 wan3 shang,tomorrow night
-昨天晚上,zuo2 tian1 wan3 shang,last night
-今天晚上,jin1 tian1 wan3 shang,tonight
+明天晚上,ming2 tian1 wan3 shang4->,tomorrow night
+昨天晚上,zuo2 tian1 wan3 shang4->,last night
+今天晚上,jin1 tian1 wan3 shang4->,tonight
 # 今晚,jin1 wan3,tonight (common shorthand)
 我,wo3,i/me
 你,ni3,you
@@ -174,13 +174,17 @@
 牛,niu4,cow/bull/ox
 奶,nai3,milk
 牛奶,niu2 nai3,cow's milk
-咖啡,ka1 fei1,coffee
+咖,ka1,(phonetic component of coffee)
+啡,fei1,coffee
+咖啡,ka1 fei1,coffee (loanword)
 冰,bing1,iced
 热,re4,hot
 姓,xing4,last name/to be surnamed
 最,zui4,best/most (superlative)
 要,yao4,wants/needs
-帮助,bang1 zhu4,help
+帮,bang1,help/assist
+助,zhu4,help/assist
+帮助,bang1 zhu4,help/assist
 说,shuo1,say/speak/tell
 明白,ming2 bai,understand/clear/obvious
 得,de,adverb (describe action)
@@ -227,12 +231,15 @@
 汉语,han4 yu3,chinese language
 英文,ying1 wen2,english language
 英语,ying1 yu3,english language
-认识,ren4 shi,know/know personally
+认,ren4,recognize/know
+识,shi2,know/knowledge
+认识,ren4 shi2->,know/know personally/meet
+知,zhi1,know/aware
+道,dao4,road/principle/truth
 知道,zhi1 dao4,know/know about/aware of
-不知道,bu4 zhi1 dao4,don't know
 忙,mang2,busy/rush
-对,dui4,right/correct
-是的,shi4 de,yes
+是的,shi4 de,yes (formal and rarely spoken)
+对,dui4,right/correct/yes
 不对,bu4->2 dui4,incorrect
 都,dou1,all/both/entirely
 个,ge4,individual/measure word
@@ -289,14 +296,21 @@
 男,nan2,male
 女,nv3,female
 女儿,nv3 er2,daughter
-儿子,er2 zi,son
-孩子,hai4 zi3,children
-丈夫,zhang4 fu1,husband
-妻子,qi1 zi3,wife
+子,zi3,child
+儿子,er2 zi3->,son
+孩,hai4,child
+孩子,hai4 zi3->,children
+丈,zhang4,husband/measure of length (3.3m)
+夫,fu1,husband/manual worker
+丈夫,zhang4 fu1->,husband
+妻,qi1,wife
+妻子,qi1 zi3->,wife
 姐姐,jie3 jie,older sister
 哥哥,ge1 ge,older brother
 妹妹,mei4 mei,younger sister
 弟弟,di4 di,younger brother
+朋,peng2,friend
+友,you3,friend
 朋友,peng2 you3,friend
 男朋友,nan2 peng2 you3,boyfriend
 女朋友,nv3 peng2 you3,girlfriend
