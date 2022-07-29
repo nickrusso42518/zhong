@@ -30,14 +30,15 @@
 一百一十四,yi1 bai3 yi1 shi2 si4,114/one hundred fourteen
 现在,xian4 zai4,now/right now
 今天,jin1 tian1,today
+明,ming2,bright/next (day or year)
 明天,ming2 tian1,tomorrow
 年,nian2,year (after numbers)
 岁,sui4,is X years old (after numbers)
 二〇三四年,er4 ling2 er4 si4 nian2,2034 year
 一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
 月,yue4,month (after numbers)
-号,hao4,number (date day/conversational)
-日,re4,date day (written)
+号,hao4,number/day of month (conversational)
+日,re4,sun/day of month (written)
 点,dian3,oclock (after numbers)
 点钟,zhong1 dian3,oclock (after numbers)
 半,ban4,half past the hour
@@ -80,17 +81,18 @@
 二〇三四年十二月七号,er4 ling2 er4 si4 nian2 shi2 er4 yue4 qi1 hao4,7 December 2034
 一九八五年五月二十六号,yi1 jiu3 ba1 wu3 nian2 wu3 yue4 er4 shi2 liu4 hao4,26 May 26 1985
 了,le,completed (past tense)
+昨,zuo2,to denote yesterday
 昨天,zuo2 tian1,yesterday
 会,hui4,will (in the future)
-上,shang4,last (time period but not for year)
-下,xia4,next (time period)
-每,mei3,every (time period)
+上,shang4,last (hour or week or month)
+下,xia4,next (hour or week or month)
+每,mei3,every (all time periods)
 分,fen1,minute
 末,mo4,end
 周,zhou1,week
 做,zuo4,do
 明年,ming2 nian2,next year
-去,qu4,go (or to denote last year)
+去,qu4,go/to denote last year
 去年,qu4 nian2,last year
 今年,jin1 nian2, this year
 周末,zhou1 mo4,weekend
@@ -134,16 +136,24 @@
 好,hao3,good
 你好,ni3->2 hao3,hello/hi
 喂,wei4,hey/use 2nd tone to answer phone
-久,jiu3,long
+久,jiu3,long duration of time
 好久不见,hao3->2 jiu3 bu4-> jian4,long time no see
 请,qing3,please/precedes a command
 问,wen4,ask
 请问,qing3 wen4,excuse me/pardon me (get attention)
 谢谢,xie4 xie,thanks
 谢谢你,xie4 xie ni3,thank you
+客,ke4,guest/customer
+气,qi4,gas/air/breath
+客气,ke4 qi4,polite/modest
 不客气,bu4->2 ke4 qi4,you're welcome
+抱,bao4,hug/surround/carry in arms
+歉,qian4,apologize/regret
 抱歉,bao4 qian4,sorry (minor)
+起,qi3,rise/get up
 对不起,dui4 bu4-> qi3,sorry (major)
+关,guan1,close/shut
+系,xi4,bind/tie up
 没关系,mei2 guan1 xi4,it doesn't matter/no problem
 再,zai4,again (used before verb)
 见,jian4,see/meet
@@ -159,7 +169,9 @@
 喝,he1,drink
 水,shui3,water
 茶,cha2,tea
-牛奶,niu2 nai3,milk
+牛,niu4,cow/bull/ox
+奶,nai3,milk
+牛奶,niu2 nai3,cow's milk
 咖啡,ka1 fei1,coffee
 冰,bing1,iced
 热,re4,hot
@@ -168,7 +180,7 @@
 要,yao4,wants/needs
 帮助,bang1 zhu4,help
 说,shuo1,say/speak/tell
-明白,ming2 bai,understand
+明白,ming2 bai,understand/clear/obvious
 得,de,adverb (describe action)
 快,kuai4,quickly
 慢,man4,slowly
@@ -178,6 +190,7 @@
 高,gao1,tall
 矮,ai3,short
 高兴,gao1 xing4,happy
+错,cuo4,mistake/wrong/bad
 不错,bu4->2 cuo4,not bad/pretty good
 最近,zui4 jin4,recently
 一会儿,yi1 hui4 r,in a bit/in a moment
@@ -187,8 +200,13 @@
 元,yuan2,yuan
 名字,ming2 zi,name
 什么,shen2 me,what?
-多少,duo1 shao,how much?/how many? (numeric answer)
+多,duo1,many/more
+少,shao3,few/less
+多少,duo1 shao3->,how much?/how many? (numeric answer)
 叫,jiao4,am/call (me)
+电,dian4,electric/electricity
+话,hua4,spoken words/conservation
+码,ma3,code
 电话,dian4 hua4,phone/telephone
 电话号码,dian4 hua4 hao4 ma3,phone number
 中,zhong1,central
@@ -218,9 +236,17 @@
 个,ge4,individual/measure word
 个人,ge4 ren2,person/people quantity
 几个,ji3 ge4,how many items?
-老师,lao3 shi1,teacher
+老,lao3,old/venerable (person)
+师,shi1,teacher/expert
+老师,lao3 shi1,teacher (in a school)
+医,yi1,medicine
+生,sheng1,new/raw/immature
 医生,yi1 sheng1,doctor
+学,xue2,study/learn/imitate
 学生,xue2 sheng1,student
+怎,zen3,how
+怎么,zen3 me,how?/why?
+样,yang4,manner/way/appearance
 怎么样,zen3 me yang4,how? how are things?/how about?
 早上好,zao3 shang hao3,good morning
 早安,zao3 an1,good morning
@@ -274,10 +300,19 @@
 女朋友,nv3 peng2 you3,girlfriend
 猫,mao1,cat
 狗,gou3,dog
-漂亮,piao liang4,beautiful/pretty
+漂,piao4,elegant/polished
+亮,liang4,clear/resonant
+漂亮,piao4 liang4,beautiful/pretty
+非,fei1,not/wrong/incorrect
+常,chang2,always/often/frequently
 非常,fei1 chang2,very/extremely
 可,ke3,but
 可爱,ke3 ai4,cute
+洗,xi3,wash
+手,shou3,hand
+间,jian1,room
 洗手间,xi3->2 shou3 jian1,bathroom
+院,yuan4,yard
 医院,yi1 yuan4,hospital
+馆,guan3,shop/building
 饭馆,fan4 guan3,restaurant
