@@ -94,6 +94,10 @@ Invalid usages:
   * `$ python play.py -m`: Technically accepted on any platform,
     but `-m` has no effect on non-MacOS systems (Windows, Linux, etc.)
 
+The `no_commit/` directory is ignored by `git` and can be used to
+store temporary CSV files. I use these to create private, personalized
+quizzes on my weak areas.
+
 Gameplay (not colorized) with comments in brackets:
 ```
 $ python play.py -q
