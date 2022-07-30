@@ -40,7 +40,7 @@
 号,hao4,number/day of month (conversational)
 日,re4,sun/day of month (written)
 点,dian3,oclock (after numbers)
-点钟,zhong1 dian3,oclock (after numbers)
+点钟,dian3 zhong1,oclock (after numbers)
 半,ban4,half past the hour
 四点,si4 dian3,4:00/4 oclock
 四点半,si4 dian3 ban4,4:30/half past 4
@@ -123,7 +123,7 @@
 他,ta1,he/him
 她,ta1,she/her
 它,ta1,it
-是,shi4,is/am/are
+是,shi4,is/am/are (equates two nouns)
 们,men,plural modifier
 我们,wo3 men,we
 你们,ni3 men,you (plural)
@@ -168,7 +168,7 @@
 再见,zai4 jian4,goodbye
 吗,ma,yn?/yes or no question
 不,bu4,no/not
-是不是,shi4 bu shi4,whether (pattern for yn?)
+是不是,shi4 bu4->2 shi4,whether/is not it? (pattern for yn?)
 也,ye3,also
 吃,chi1,eat
 饭,fan4,rice/meal
@@ -181,7 +181,7 @@
 奶,nai3,milk
 牛奶,niu2 nai3,cow's milk
 咖啡,ka1 fei1,coffee (loanword)
-冰,bing1,iced
+冰,bing1,ice/chill/feel cold
 热,re4,hot
 姓,xing4,last name/to be surnamed
 最,zui4,best/most (superlative)
@@ -190,7 +190,8 @@
 助,zhu4,help/assist
 帮助,bang1 zhu4,help/assist
 说,shuo1,say/speak/tell
-明白,ming2 bai,understand/clear/obvious
+白,bai2,white/pure
+明白,ming2 bai2,understand/clear/obvious
 得,de,adverb (describe action)
 快,kuai4,quickly
 慢,man4,slowly
@@ -204,7 +205,7 @@
 不错,bu4->2 cuo4,not bad/pretty good
 最近,zui4 jin4,recently
 一会儿,yi1 hui4 r,in a bit/in a moment
-很,hen3,very/adjective connector/dummy adverb
+很,hen3,very/dummy adverb (tie noun to adjective)
 呢,ne,and?/what about?/ok?
 和,he2,and (link nouns)
 元,yuan2,yuan
@@ -225,8 +226,8 @@
 英国,ying1 guo2,uk/britain
 加拿大,jia1 na2 da4,canada
 人,ren2,person
-语,yu3,language
-文,wen2,arts/culture
+语,yu3,language/dialect
+文,wen2,language/arts/culture
 中国人,zhong1 guo2 ren2,chinese
 美国人,mei3 guo2 ren2,american
 英国人,ying1 guo2 ren2,british
@@ -276,18 +277,21 @@
 住,zhu4,live/dwell/reside
 在,zai4,located at/to be in
 住在,zhu4 zai4,lives in
-哪,na3,where/how/which
+哪,na3,which?
 哪儿,na3 r,where?
 哪里,na3->2 li3,where?
 那,na4,that/those
-那是,na4 shi4,that is/that's
+那是,na4 shi4,that is
 那个,na4 ge4,that one
 那两个,na4 liang3 ge4,those two
 那儿,na4 r,there/over there
+那里,na4 li3,there/over there
 这,zhe4,this/these
-这儿,zhe4 r,here/over here
+这是,zhe4 shi4,this is
 这个,zhe4 ge4,this one
 这两个,na4 liang3 ge4,these two
+这儿,zhe4 r,here/over here
+这里,zhe4 li3,here/over here
 谁,shei2,who?
 谁的,shei2 de,whose?/whom?
 有,you3,have/possess
@@ -298,12 +302,12 @@
 # 母亲,mu3 qin1,mother
 # 父亲,fu4 qin1,father
 男,nan2,male
-女,nv3,female
+女,nv3,female (umlaut u)
 女儿,nv3 er2,daughter
-子,zi3,child
+子,zi3,child/seed
 儿子,er2 zi3->,son
-孩,hai4,child
-孩子,hai4 zi3->,children
+孩,hai2,child
+孩子,hai2 zi3->,children
 丈,zhang4,husband/measure of length (3.3m)
 夫,fu1,husband/manual worker
 丈夫,zhang4 fu1->,husband
@@ -326,9 +330,9 @@
 非,fei1,not/wrong/incorrect
 常,chang2,always/often/frequently
 非常,fei1 chang2,very/extremely
-可,ke3,but
+可,ke3,can/may
 可爱,ke3 ai4,cute
-洗,xi3,wash
+洗,xi3,wash/bathe
 手,shou3,hand
 间,jian1,room
 洗手间,xi3->2 shou3 jian1,bathroom
