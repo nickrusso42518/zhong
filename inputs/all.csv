@@ -86,8 +86,8 @@
 昨,zuo2,to denote yesterday
 昨天,zuo2 tian1,yesterday
 会,hui4,will (in the future)
-上,shang4,last (hour or week or month)
-下,xia4,next (hour or week or month)
+上,shang4,previous (hour or week or month)/to go to (work)/above
+下,xia4,next (hour or week or month)/to get off (work)/below
 每,mei3,every (all time periods)
 分,fen1,minute
 末,mo4,end
@@ -173,7 +173,7 @@
 吃,chi1,eat
 饭,fan4,rice/meal
 鱼,yu2,fish
-面,mian4,noodles
+面,mian4,noodles/side/surface
 喝,he1,drink
 水,shui3,water
 茶,cha2,tea
@@ -336,3 +336,20 @@
 医院,yi1 yuan4,hospital
 馆,guan3,shop/building
 饭馆,fan4 guan3,restaurant
+校,xiao4,school
+学校,xue2 xiao4,school
+从,cong2,from a place/from a time (before noun)
+到,dao4,to a place/until a time (before noun)
+怎么走,zen3 me zou3,how to get? (to a place)
+走,zou3,walk/go
+路,lu4,road/the way
+往,wang3,towards
+左,zuo3,left
+右,you4,right
+边,bian1,side/boundary
+旁,pang2,beside/one side
+前面,qian2 mian4,ahead/front side
+后面,hou4 mian4,behind/back side
+左边,zuo3 bian1,left side
+右边,you4 bian1,right side
+旁边,pang2 bian1,lateral/generic side
