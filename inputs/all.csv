@@ -92,7 +92,7 @@
 分,fen1,minute
 末,mo4,end
 周,zhou1,week
-做,zuo4,do
+做,zuo4,do/make/produce
 明年,ming2 nian2,next year
 去,qu4,go/to denote last year
 去年,qu4 nian2,last year
@@ -100,30 +100,30 @@
 周末,zhou1 mo4,weekend
 下午,xia4 wu3,afternoon
 中午,zhong1 wu3,noon/midday
-晚上,wan3 shang,evening/pm time
+晚上,wan3 shang->,evening/pm time
 上午,shang4 wu3,morning/am time
-明天早上,ming2 tian1 zao3 shang4->,tomorrow morning
-昨天早上,zuo2 tian1 zao3 shang4->,yesterday morning
-今天早上,jin1 tian1 zao3 shang4->,this morning
+明天早上,ming2 tian1 zao3 shang4,tomorrow morning
+昨天早上,zuo2 tian1 zao3 shang4,yesterday morning
+今天早上,jin1 tian1 zao3 shang4,this morning
 明天下午,ming2 tian1 xia4 wu3,tomorrow afternoon
 昨天下午,zuo2 tian1 xia4 wu3,yesterday afternoon
 今天下午,jin1 tian1 xia4 wu3,this afternoon
-明天晚上,ming2 tian1 wan3 shang4->,tomorrow night
-昨天晚上,zuo2 tian1 wan3 shang4->,last night
-今天晚上,jin1 tian1 wan3 shang4->,tonight
+明天晚上,ming2 tian1 wan3 shang4,tomorrow night
+昨天晚上,zuo2 tian1 wan3 shang4,last night/yesterday night
+今天晚上,jin1 tian1 wan3 shang4,tonight/this evening
 # 今晚,jin1 wan3,tonight (common shorthand)
 这个周末,zhe4 ge zhou1 mo4,this weekend
 这个星期五,zhe4 ge xing1 qi1 wu3,this friday
-下个周,zhe4 ge zhou1 mo4,next week
-下个星期一,zhe4 ge xing1 qi1 yi1,next Monday
+下个周,xia4 ge zhou1 mo4,next week
+下个星期一,xia4 ge xing1 qi1 yi1,next monday
 上个月,shang4 ge yue4,last month
-上个星期三,shang4 ge xing1 qi1 san1,last Wednesday
+上个星期三,shang4 ge xing1 qi1 san1,last wednesday
 我,wo3,i/me
 你,ni3,you
 他,ta1,he/him
 她,ta1,she/her
 它,ta1,it
-是,shi4,is/am/are (equates two nouns)
+是,shi4,is/am/are/to be (equates two nouns)
 们,men,plural modifier
 我们,wo3 men,we
 你们,ni3 men,you (plural)
@@ -192,7 +192,7 @@
 说,shuo1,say/speak/tell
 白,bai2,white/pure
 明白,ming2 bai2,understand/clear/obvious
-得,de,adverb (describe action)
+得,de,describe/modify action (verb + adverb)
 快,kuai4,quickly
 慢,man4,slowly
 次,ci4,number of times/iteration
@@ -262,10 +262,10 @@
 怎么,zen3 me,how?/why?
 样,yang4,manner/way/appearance
 怎么样,zen3 me yang4,how? how are things?/how about?
-早上好,zao3 shang hao3,good morning
+早上好,zao3 shang4 hao3,good morning
 早安,zao3 an1,good morning
-晚上好,wan3 shang hao3,good evening
-晚安,wan3 an1,good night
+晚上好,wan3 shang4 hao3,good night/good evening
+晚安,wan3 an1,good night/good evening
 港,gang3,port/harbor
 香港,xiang1 gang3,hong kong
 纽约,niu3 yue1,new york
@@ -330,7 +330,7 @@
 非,fei1,not/wrong/incorrect
 常,chang2,always/often/frequently
 非常,fei1 chang2,very/extremely
-可,ke3,can/may
+可,ke3,can/may (appears uncommon)
 可爱,ke3 ai4,cute
 洗,xi3,wash/bathe
 手,shou3,hand
