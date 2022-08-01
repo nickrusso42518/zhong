@@ -1,0 +1,10 @@
+from chinese import ChineseAnalyzer
+
+analyzer = ChineseAnalyzer()
+while True:
+    sym = input("enter symbols (use . to quit): ").strip()
+    if sym == ".":
+        break
+    result = analyzer.parse(sym)
+    #print(result.original(), result.pinyin())
+    print(result.pprint())
