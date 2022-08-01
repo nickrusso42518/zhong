@@ -28,7 +28,6 @@
 一百,yi1 bai3,100/one hundred
 一百零七,yi1 bai3 ling2 qi1,107/one hundred seven
 一百一十四,yi1 bai3 yi1 shi2 si4,114/one hundred fourteen
-# more numbers
 千,qian1,thousand
 万,wan4,ten thousand
 现在,xian4 zai4,now/right now
@@ -192,7 +191,7 @@
 热,re4,hot
 姓,xing4,last name/to be surnamed
 最,zui4,best/most (superlative)
-要,yao4,wants/needs
+要,yao4,wants/needs (important)
 帮,bang1,help/assist
 助,zhu4,help/assist
 帮助,bang1 zhu4,help/assist
@@ -202,7 +201,7 @@
 得,de,describe/modify action (verb + adverb)
 快,kuai4,quickly
 慢,man4,slowly
-次,ci4,number of times/iteration
+次,ci4,number of times/iteration (mw)
 一次,yi1 ci4,once/once time
 两次,liang3 ci4,twice/two times
 高,gao1,tall
@@ -232,6 +231,7 @@
 电话号码,dian4 hua4 hao4 ma3,phone number
 中,zhong1,central
 中国,zhong1 guo2,china
+韩国,han2 guo2,korea
 美国,mei3 guo2,usa/america
 英国,ying1 guo2,uk/britain
 加拿大,jia1 na2 da4,canada
@@ -257,7 +257,7 @@
 对,dui4,right/correct/yes
 不对,bu4->2 dui4,incorrect
 都,dou1,all/both/entirely
-个,ge4,individual/measure word
+个,ge4,individual/generic measure word
 个人,ge4 ren2,person/people quantity
 几个,ji3 ge4,how many? (countable less than 10)
 老,lao3,old/venerable (person)
@@ -282,7 +282,7 @@
 台湾,tai2 wan1,taiwan
 伦敦,lun2 dun1,london
 北京,bei3 jing1,beijing
-家,jia1,home
+家,jia1,home/measure word for buildings
 家人,jia1 ren2,family
 住,zhu4,live/dwell/reside
 在,zai4,located at/to be in/actively doing (before verb is -ing)
@@ -344,7 +344,7 @@
 可爱,ke3 ai4,cute
 洗,xi3,wash/bathe
 手,shou3,hand
-间,jian1,room
+间,jian1,room (mw)
 洗手间,xi3->2 shou3 jian1,bathroom
 院,yuan4,yard
 医院,yi1 yuan4,hospital
@@ -352,6 +352,7 @@
 饭馆,fan4 guan3,restaurant
 校,xiao4,school
 学校,xue2 xiao4,school
+# NEW
 从,cong2,from a place/from a time (before noun)
 到,dao4,to a place/until a time (before noun)
 怎么走,zen3 me zou3,how to get? (to a place)
@@ -370,7 +371,7 @@
 喜,xi3,delight/happiness
 欢,huan1,joyous/pleased
 喜欢,xi3 huan1,like/enjoy
-看,kan4,read/look at
+看,kan4,read/look at/watch
 书,shu1,book/letter/document
 看书,kan4 shu1,read a book
 听,ting1,listen/hear
@@ -406,14 +407,14 @@
 太,tai4,too much/excessive
 买,mai3,buy
 只,zhi3,only/merely/just
-毛,mao4,hair/tenth of yuan
+毛,mao2,hair/tenth of yuan
 一共,yi1 gong4,altogether/in total
 收,shou1,receive/accept/collect
 信,xin4,letter/mail
-用,yong2,use/employ
+用,yong4,use/employ
 卡,ka3,card (noun)/stop or block (verb)
-信用,xin4 yong2,trust/commercial credit
-信用卡,xin4 yong2 ka3,credit card
+信用,xin4 yong4,trust/commercial credit
+信用卡,xin4 yong4 ka3,credit card
 便,pian2,plain/informal
 宜,yi2,proper/should
 便宜,pian2 yi2,inexpensive/cheap
@@ -421,3 +422,31 @@
 金,jin1,gold
 现金,xian4 jin1,cash (right now gold!)
 行,xing2,ok/will do
+报,bao4,announce/inform/report
+纸,zhi3,paper
+报纸,bao4 zhi3,newspaper
+电视,dian4 shi4,tv/television
+想,xiang3,consider doing/casually want/want
+干,gan4,do/doing
+影,ying3,film
+电影,dian4 ying3,movie
+网,wang3,network
+上网,shang4 wang3,online (before verb)
+机,ji1,machine
+手机,shou3 ji1,cell phone
+手机游戏,shou3 ji1 you2 xi4,cellphone games
+明星,ming2 xing1,celebrity
+男明星,nan2 ming2 xing1,male celebrity
+女明星,nv3 ming2 xing1,female celebrity
+新,xin1,new/newly
+闻,wen2,hear/smell
+新闻,xin1 wen2,news
+节,jie2,festival/holiday
+目,mu4,eye
+节目,ji2 mu4,show/program
+体,ti3,body/form/style
+育,yu4,educate
+体育,ti3 yu4,sports/physical education
+体育节目,ti3 yu4 ji2 mu4,sports show/sports program
+体育新闻,ti3 yu4 xin1 wen2,sports news
+体育电影,ti3 yu4 dian4 ying3,sports movie
