@@ -175,11 +175,15 @@
 也,ye3,also
 吃,chi1,eat
 饭,fan4,rice/meal
+餐,can1,meal
 鱼,yu2,fish
 面,mian4,noodles/side/surface
-早饭,zao3 fan4,breakfast (morning meal)
-午饭,wu3 fan4,lunch (afternoon meal)
-晚饭,wan3 fan4,dinner/supper (evening meal)
+早饭,zao3 fan4,breakfast
+早餐,zao3 can1,breakfast
+午饭,wu3 fan4,lunch
+午餐,wu3 can1,lunch
+晚饭,wan3 fan4,dinner/supper
+晚餐,wan3 can1,dinner/supper
 喝,he1,drink
 水,shui3,water
 茶,cha2,tea
@@ -191,9 +195,9 @@
 热,re4,hot
 姓,xing4,last name/to be surnamed
 最,zui4,best/most (superlative)
-要,yao4,wants/needs (important)
-帮,bang1,help/assist
-助,zhu4,help/assist
+要,yao4,wants/needs
+想,xiang3,think/desire/consider
+想要,xiang3 yao4,would like/seriously consider
 帮助,bang1 zhu4,help/assist
 说,shuo1,say/speak/tell
 白,bai2,white/pure
@@ -215,7 +219,6 @@
 呢,ne,and?/what about?/ok?
 和,he2,and (link nouns)
 元,yuan2,yuan
-块,kuai4,yuan (lit. chunk or piece)
 钱,qian2,money
 名字,ming2 zi,name
 什么,shen2 me,what?
@@ -350,6 +353,8 @@
 医院,yi1 yuan4,hospital
 馆,guan3,shop/building
 饭馆,fan4 guan3,restaurant
+厅,ting1,hall
+餐厅,can1 ting1,restaurant
 校,xiao4,school
 学校,xue2 xiao4,school
 # NEW
@@ -368,8 +373,6 @@
 左边,zuo3 bian1,left side
 右边,you4 bian1,right side
 旁边,pang2 bian1,lateral/generic side
-喜,xi3,delight/happiness
-欢,huan1,joyous/pleased
 喜欢,xi3 huan1,like/enjoy
 看,kan4,read/look at/watch
 书,shu1,book/letter/document
@@ -407,7 +410,10 @@
 太,tai4,too much/excessive
 买,mai3,buy
 只,zhi3,only/merely/just
+块,kuai4,yuan (lit. chunk or piece)
 毛,mao2,hair/tenth of yuan
+二千七百零五块四毛九分,er4 qian1 qi1 bai3 ling2 wu3 kuai4 si4 mao2 jiu3 fen1,2705.49 yuan
+共,gong4,common/general
 一共,yi1 gong4,altogether/in total
 收,shou1,receive/accept/collect
 信,xin4,letter/mail
@@ -426,7 +432,6 @@
 纸,zhi3,paper
 报纸,bao4 zhi3,newspaper
 电视,dian4 shi4,tv/television
-想,xiang3,consider doing/casually want/want
 干,gan4,do/doing
 影,ying3,film
 电影,dian4 ying3,movie
@@ -443,7 +448,7 @@
 新闻,xin1 wen2,news
 节,jie2,festival/holiday
 目,mu4,eye
-节目,ji2 mu4,show/program
+节目,jie2 mu4,show/program
 体,ti3,body/form/style
 育,yu4,educate
 体育,ti3 yu4,sports/physical education
