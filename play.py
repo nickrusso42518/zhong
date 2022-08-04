@@ -33,16 +33,15 @@ def main(args):
 
     # Load symbols and initialize counters to track progress
     symbols = load_symbols(args.infile)
-    count = 1
+    i = 1
     total = len(symbols)
 
     # Print gameplay instructions before asking translation questions
     print("HOW TO PLAY:")
-    print("  Provide the pinyin and english for the chinese phrase shown.")
+    print("  Provide the english meaning for the chinese/pinyin phrase shown.")
     print("  Press ENTER by itself (no input) to reprint/restate the phrase.")
     print("  Enter a comma (,) character to skip/forfeit a question.")
     print("  Enter a period (.) character to quit gracefully.")
-    print("  Use the '-h' option or check 'README.md' for additional help.")
 
     # Keep looping while more symbols exist
     while symbols:
@@ -54,21 +53,16 @@ def main(args):
         # Extract chinese, pinyin, and english from the symbol entry
         chinese, pinyin, english = [s.lower().strip() for s in sym]
 
-        # Attempt to collect input and unpack returned 2-tuple
-        in1, in2 = run_attempt(args, chinese, count, total)
+        # Attempt to collect input from user interactively
+        attempt = run_attempt(args, chinese, pinyin, i, total)
 
-        # Test for proper pinyin and english, then colorize it
-        p_color = Fore.GREEN if in1.lower().strip() == pinyin else Fore.RED
-        in2 = in2.lower().strip()
-        e_color = Fore.GREEN if len(in2) > 0 and in2 in english else Fore.RED
-
-        # Print results using proper colors
-        print(f"pinyin: {p_color}{pinyin}{Style.RESET_ALL}", end="")
-        print(f"    english: {e_color}{english}{Style.RESET_ALL}")
+        # Test for proper english input, colorize it, and print result
+        e_color = Fore.GREEN if attempt in english else Fore.RED
+        print(f"correct english: {e_color}{english}{Style.RESET_ALL}")
 
         # Delete symbol from list (won't see twice) and increment counter
         del symbols[index]
-        count += 1
+        i += 1
 
 
 def load_symbols(csv_filename):
@@ -107,7 +101,7 @@ def load_symbols(csv_filename):
 
         # Ensure pinyin only contains valid characters
         assert all(
-            [pinyin_char in VALID_PINYIN for pinyin_char in symbol[1]]
+            pinyin_char in VALID_PINYIN for pinyin_char in symbol[1]
         ), f"{symbol[1]} not in {VALID_PINYIN}"
 
         # Valid chinese/pinyin; add entire chinese phrase to a list and a set
@@ -121,18 +115,21 @@ def load_symbols(csv_filename):
     return symbols
 
 
-def run_attempt(args, chinese, count, total):
+def run_attempt(args, chinese, pinyin, i, total):
     """
     Produce a single test question, collect input, and return it.
     """
 
-    # If mask mode is enabled, mask chinese symbols. Can highlight to reveal
+    # If mask mode is enabled, mask chinese/pinyin. Can highlight to reveal
     c_color = Fore.BLACK + Back.BLACK if args.mask else ""
 
     # While attempt is blank, keep looping
     attempt = ""
     while not attempt:
-        print(f"\n{count}/{total}:   {c_color}{chinese}{Style.RESET_ALL}")
+
+        # Print chinese and pinyin together using the proper color
+        print(f"\n{i}/{total}:    {c_color}{chinese}{Style.RESET_ALL}", end="")
+        print(f"    {c_color}({pinyin}){Style.RESET_ALL}")
 
         # Run the "say" command if quiet mode is disabled
         # Example: say --voice=Ting-Ting --rate=150 电话号码
@@ -141,22 +138,15 @@ def run_attempt(args, chinese, count, total):
             subprocess.run(say_cmd.split(" "), check=True, shell=False)
 
         # Prompt for input and string extra whitespace
-        attempt = input("Type the pinyin,english: ").strip()
+        attempt = input("english meaning: ").lower().strip()
 
         # If user entered a period (.) then quit gracefully (rc=0)
         if attempt == ".":
             print("\n\n")
             sys.exit(0)
 
-        # Try to split the input on comma. If no comma exists, catch
-        # ValueError and set attempt to empty string, causing re-loop
-        try:
-            in1, in2 = attempt.split(",")
-        except ValueError:
-            attempt = ""
-
-    # Return 2-tuple (parenthesis optional) of pinyin,english inputs
-    return in1, in2
+    # Return the user input
+    return attempt
 
 
 def process_args():

@@ -100,38 +100,35 @@ quizzes on my weak areas.
 
 Gameplay (not colorized) with comments in brackets:
 ```
-$ python play.py -q
+$ python play.py 
 HOW TO PLAY:
-  Provide the pinyin and english for the chinese phrase shown.
-  Unicode values for chinese characters are shown in parenthesis.
-  MacOS users can enable narration of the chinese symbols.
+  Provide the english meaning for the chinese/pinyin phrase shown.
   Press ENTER by itself (no input) to reprint/restate the phrase.
   Enter a comma (,) character to skip/forfeit a question.
-  Enter a period (.) character to quit; it's invalid input.
+  Enter a period (.) character to quit gracefully.
 
-1/168:   六十六
-Type the pinyin,english: liu4 shi2 liu4,66
-pinyin: liu4 shi2 liu4    english: 66/sixty six
-[pinyin green, english green]
+1/451:    末    (mo4)
+english meaning: end
+correct english: end  [green]
 
-2/168:   他们
-Type the pinyin,english: ta1 de,they
-pinyin: ta1 men    english: they (male)
-[pinyin red, english green]
+2/451:    中文    (zhong1 wen2)
+english meaning: chinese language
+correct english: chinese language  [green]
 
-3/168:   你的
-Type the pinyin,english:
-pinyin: ni3 de    english: your
-[enter ENTER (blank entry) to reprint/replay a question]
+3/451:    星期    (xing1 qi1)
+english meaning: wrong on purpose
+correct english: week day specifier  [red]
 
-3/168:   你的
-Type the pinyin,english: ,
-pinyin: ni3 de    english: your
-[enter comma (,) to skip a question, pinyin and english red]
+4/451:    一共    (yi1 gong4)
+english meaning: 
 
-4/168:   吃
-Type the pinyin,english: .
-[enter period (.) to gracefully exit]
+4/451:    一共    (yi1 gong4)
+english meaning: ,
+correct english: altogether/in total  [red]
+
+5/451:    电    (dian4)
+english meaning: .
+
 
 $
 ```
