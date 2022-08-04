@@ -1,4 +1,13 @@
 from chinese import ChineseAnalyzer
+import json
+
+REPLACE = {
+    "'": "\"",
+    "\n": "",
+    "  ": "",
+    "(": "[",
+    ")": "]",
+}
 
 analyzer = ChineseAnalyzer()
 while True:
@@ -6,5 +15,22 @@ while True:
     if sym == ".":
         break
     result = analyzer.parse(sym)
-    #print(result.original(), result.pinyin())
-    print(result.pprint())
+    result.pprint()
+
+    """
+    breakpoint()
+    text = result.pformat()
+    for before, after in REPLACE.items():
+        text = text.replace(before, after)
+
+    parsed = json.loads(text)
+    parsed = parsed ["parsed"][0]["dict_data"]
+
+    for item in parsed:
+        if not "Simplified" in item["kind"]:
+            continue
+        match = item["match"]
+        pinyin = " ".join(item["pinyin"])
+        defs = "/".join(item["definitions"][:3])
+        print(f"{match},{pinyin},{defs}")
+    """
