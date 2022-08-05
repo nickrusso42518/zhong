@@ -26,7 +26,6 @@ run:
 	python play.py -p < test_stdin/period.txt
 	python play.py -s -c < test_stdin/period.txt
 	python play.py -s -p < test_stdin/period.txt
-	python play.py -c -p < test_stdin/period.txt
 	python play.py -c -p -r 200 < test_stdin/bad_period.txt
 	python play.py -s -c -p || test $$? -eq 2
 	python play.py -i inputs/nonexist.csv || test $$? -eq 3
