@@ -21,9 +21,14 @@ run:
 	@echo "Starting  run"
 	python play.py < test_stdin/enter_period.txt
 	python play.py -i inputs/tp.csv < test_stdin/comma_period.txt
-	python play.py -q < test_stdin/enter_period.txt
-	python play.py -m -r 200 < test_stdin/bad_period.txt
-	python play.py -q -m || test $$? -eq 2
+	python play.py -s < test_stdin/period.txt
+	python play.py -c < test_stdin/period.txt
+	python play.py -p < test_stdin/period.txt
+	python play.py -s -c < test_stdin/period.txt
+	python play.py -s -p < test_stdin/period.txt
+	python play.py -c -p < test_stdin/period.txt
+	python play.py -c -p -r 200 < test_stdin/bad_period.txt
+	python play.py -s -c -p || test $$? -eq 2
 	python play.py -i inputs/nonexist.csv || test $$? -eq 3
 	@echo "Completed run"
 

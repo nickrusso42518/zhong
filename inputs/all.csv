@@ -41,13 +41,14 @@
 月,yue4,month (after numbers)
 号,hao4,number/day of month (conversational)
 日,re4,sun/day of month (written)
-点,dian3,oclock (after numbers)
+点,dian3,point/dot/drop/oclock (after numbers)
 点钟,dian3 zhong1,oclock (after numbers)
 半,ban4,half past the hour
 四点,si4 dian3,4:00/4 oclock
 四点半,si4 dian3 ban4,4:30/half past 4
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
 四点零六,si4 dian3 ling2 liu4,4:06
+一下,yi1->2 xia4,a bit/give it a shot/try quickly
 一点,yi1 dian3,a little bit
 一点儿,yi1 diar3,a little bit
 星,xing1,star/heavenly body
@@ -61,7 +62,7 @@
 星期六,xing1 qi1 liu4,saturday
 星期天,xing1 qi1 tian1,sunday
 星期日,xing1 qi1 re4,sunday
-几,ji3,how many units of time?
+几,ji3,how many? (countable less than 10 with mw after)
 几点,ji3->2 dian3,when?/what time? (oclock)
 几号,ji3 hao4,what day of month?
 几月,ji3 yue4,what month?
@@ -262,7 +263,6 @@
 不对,bu4->2 dui4,incorrect
 都,dou1,all/both/entirely
 个,ge4,individual/generic measure word
-几个,ji3 ge4,several/a few/how many? (countable less than 10)
 老,lao3,old/venerable (person)
 师,shi1,teacher/expert
 老师,lao3 shi1,teacher (in a school)
@@ -290,6 +290,7 @@
 住,zhu4,live/dwell/reside
 在,zai4,located at/to be in/actively doing (before verb is -ing)
 住在,zhu4 zai4,lives in
+里,li3,inside
 哪,na3,which?
 哪儿,na3 r,where?
 哪里,na3->2 li3,where?
@@ -317,15 +318,15 @@
 男,nan2,male
 女,nv3,female (umlaut u)
 女儿,nv3 er2,daughter
-子,zi3,child/seed
-儿子,er2 zi3->,son
+子,zi,noun suffix only
+儿子,er2 zi,son
 孩,hai2,child
-孩子,hai2 zi3->,children
+孩子,hai2 zi,children
 丈,zhang4,husband/measure of length (3.3m)
 夫,fu1,husband/manual worker
 丈夫,zhang4 fu1->,husband
 妻,qi1,wife
-妻子,qi1 zi3->,wife
+妻子,qi1 zi,wife
 姐姐,jie3 jie,older sister
 哥哥,ge1 ge,older brother
 妹妹,mei4 mei,younger sister
@@ -455,3 +456,28 @@
 体育节目,ti3 yu4 ji2 mu4,sports show/sports program
 体育新闻,ti3 yu4 xin1 wen2,sports news
 体育电影,ti3 yu4 dian4 ying3,sports movie
+桌子,zhuo1 zi,table/desk
+椅子,yi3 zi,chair
+冰箱,bing1 xiang1,icebox/refrigerator
+在桌子上,zai4 zhuo1 zi shang4,on the table
+在椅子下,zai4 yi3 zi xia4,under the chair
+在冰箱里,zai4 bing1 xiang1 li3,inside the icebox
+你看见他了吗,ni3 kan4 jian4 ta1 le ma,did you see him?/have you seen him?
+找,zhao3,seek/search for/find
+房间,fang2,room
+外,wai4,outside/external
+位,wei4,individual/seat/place (formal mw)
+等,deng3,await/wait for/equal to
+坐,zuo4,sit/take a seat
+订,ding4,agree/conclude/order
+订位,ding4 wei4,make reservation/book a table
+员,yuan2,employee/member
+进,jin4,enter/advance/go forward
+务,wu4,affair/matter
+菜,cai4,vegetable/cuisine/dish (type of food)
+单,dan1,list/form
+买单,mai3 dan1,pay bill (restaurant)
+菜单,cai4 dan1,food menu
+点菜,dian3 cai4,order food
+服,fu2,clothes/dress/garment
+服务员,fu2 wu4 yuan2,server/waiter/waitress

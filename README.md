@@ -31,12 +31,13 @@ pip install -r requirements.txt
 Basic usage:
 ```
 $ python play.py -h
-usage: play.py [-h] [-m] [-q] [-r RATE] [-i INFILE]
+usage: play.py [-h] [-c] [-p] [-s] [-r RATE] [-i INFILE]
 
-optional arguments:
+options:
   -h, --help            show this help message and exit
-  -m, --mask            disable easy reading of chinese symbols (MacOS only)
-  -q, --quiet           disable audio narration of chinese symbols (MacOS only)
+  -c, --nochin          disable (mask) presentation of chinese symbols
+  -p, --nopin           disable (mask) presentation of pinyin symbols
+  -s, --nosound         disable sound; no audio narration of phrases
   -r RATE, --rate RATE  adjust rate of speech in words per minute (90 to 300)
   -i INFILE, --infile INFILE
                         input file in CSV format (chinese,pinyin,english)
@@ -53,17 +54,19 @@ Detailed explanation:
           with the `#` symbol, just like Python or YAML.  Defaults to `all.csv`
           which is my current (and constantly growing) general-purpose list.
 
-  * `-q`: Enable quiet mode. This disables audio narration of the Chinese
+  * `-s`: Enable nosound mode. This disables audio narration of the Chinese
           symbols. Learners must rely entirely on sight. The game will
           run faster as well. Note that audio narration is only available
-          on MacOS, so Windows and Linux users are always in quiet mode.
+          on MacOS, so Windows and Linux users are always in nosound mode.
 
-  * `-m`: Enable mask mode. This prints Chinese symbols with a black foreground
-          and background color. This effectively masks the Chinese
-          symbols, forcing a learner to rely only on the audio narration. For
-          that reason, this option is only available to MacOS users. Using
+  * `-c`: Enable nochin mode. This prints Chinese symbols with a black
+          foreground and background color. This effectively masks the Chinese
+          symbols; learner relies on sounds and/or pinyin. Using
           the mouse, you can highlight the Chinese symbols to reveal them if
           you need a hint; this technique should be used sparingly.
+
+  * `-p`: Enable nopin mode. This prints pinyin symbols with a black
+          foreground and background color. Same concept as nochin mode.
 
   * `-r`: The MacOS `say` command supports a range of narration rates,
           depending on the language spoken. The slowest (easiest) is 90
@@ -74,25 +77,26 @@ Example usages of minor options:
 ```
 $ python play.py
 $ python play.py -i inputs/tp.csv
-$ python play.py -m
-$ python play.py -m -i inputs/tp.csv
-$ python play.py -m -r 120
-$ python play.py -m -r 120 -i inputs/tp.csv
+$ python play.py -c
+$ python play.py -c -i inputs/tp.csv
+$ python play.py -p -r 120
+$ python play.py -c -r 120 -i inputs/tp.csv
 $ python play.py -r 120
-$ python play.py -q
-$ python play.py -q -i inputs/tp.csv
+$ python play.py -s
+$ python play.py -s -i inputs/tp.csv
 ```
 
 Invalid usages:
-  * `python play.py -q -m`: Combination is never valid. Program
-    exits with return code 2 and an informative error message
+  * `python play.py -c -p -s`: Combination is never valid. Users have
+    no visual or audible cues for learning, so this is useless. Program
+    exits with return code 2 and an informative error message.
   * `$ python play.py -i inputs/nonexist.csv`: If a nonexistent file
     is supplied, the program exits with return code 3 and the corresponding
     `FileNotFoundError` message.
-  * `$ python play.py -q`: Technically accepted on any platform,
-    but `-q` has no effect on non-MacOS systems (Windows, Linux, etc.)
-  * `$ python play.py -m`: Technically accepted on any platform,
-    but `-m` has no effect on non-MacOS systems (Windows, Linux, etc.)
+  * `$ python play.py -s`: Technically accepted on any platform,
+    but `-s` has no effect on non-MacOS systems (Windows, Linux, etc.)
+  * `$ python play.py -c -p`: Technically accepted on any platform,
+    but `-c -p` has no effect on non-MacOS systems (Windows, Linux, etc.)
 
 The `no_commit/` directory is ignored by `git` and can be used to
 store temporary CSV files. I use these to create private, personalized

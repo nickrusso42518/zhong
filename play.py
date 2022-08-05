@@ -120,8 +120,9 @@ def run_attempt(args, chinese, pinyin, i, total):
     Produce a single test question, collect input, and return it.
     """
 
-    # If mask mode is enabled, mask chinese/pinyin. Can highlight to reveal
-    c_color = Fore.BLACK + Back.BLACK if args.mask else ""
+    # If -c/-p is set, mask the chinese/pinyin. Highlight with mouse to reveal
+    c_color = Fore.BLACK + Back.BLACK if args.nochin else ""
+    p_color = Fore.BLACK + Back.BLACK if args.nopin else ""
 
     # While attempt is blank, keep looping
     attempt = ""
@@ -129,11 +130,11 @@ def run_attempt(args, chinese, pinyin, i, total):
 
         # Print chinese and pinyin together using the proper color
         print(f"\n{i}/{total}:    {c_color}{chinese}{Style.RESET_ALL}", end="")
-        print(f"    {c_color}({pinyin}){Style.RESET_ALL}")
+        print(f"    ({p_color}{pinyin}{Style.RESET_ALL})")
 
-        # Run the "say" command if quiet mode is disabled
+        # Run the "say" command if -s is not set (default)
         # Example: say --voice=Ting-Ting --rate=150 电话号码
-        if not args.quiet:
+        if not args.nosound:
             say_cmd = f"say --voice=Ting-Ting --rate={args.rate} {chinese}"
             subprocess.run(say_cmd.split(" "), check=True, shell=False)
 
@@ -156,15 +157,21 @@ def process_args():
 
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "-m",
-        "--mask",
-        help="disable easy reading of chinese symbols (MacOS only)",
+        "-c",
+        "--nochin",
+        help="disable (mask) presentation of chinese symbols",
         action="store_true",
     )
     parser.add_argument(
-        "-q",
-        "--quiet",
-        help="disable audio narration of chinese symbols (MacOS only)",
+        "-p",
+        "--nopin",
+        help="disable (mask) presentation of pinyin symbols",
+        action="store_true",
+    )
+    parser.add_argument(
+        "-s",
+        "--nosound",
+        help="disable sound; no audio narration of phrases",
         action="store_true",
     )
     parser.add_argument(
@@ -183,16 +190,21 @@ def process_args():
     )
     args = parser.parse_args()
 
-    # Using mask and quiet together is meaningless, fail with rc=2
-    if args.mask and args.quiet:
-        print("ERROR: --mask and --quiet cannot be enabled together")
-        sys.exit(2)
+    # If -c and -p are set, system must be MacOS and -s must be unset
+    if args.nochin and args.nopin:
 
-    # Quiet mode is enabled if system is not MacOS or -q set
-    args.quiet = (sys.platform != MACOS_PLATFORM) or args.quiet
+        # Disabling all visual and audible cues is meaningless, fail with rc=2
+        if args.nosound:
+            print("ERROR: -c/-p/-s can never be enabled together")
+            sys.exit(2)
 
-    # Blind mode is enabled if system is MacOS and -m set
-    args.mask = (sys.platform == MACOS_PLATFORM) and args.mask
+        # Only MacOS has sounds; non-MacOS must display chinese, pinyin, or both
+        elif sys.platform != MACOS_PLATFORM:
+            print("ERROR: -c/-p cannot be enabled together on non-MacOS")
+            sys.exit(2)
+
+    # Sounds are disabled if system is not MacOS or -s set
+    args.nosound = (sys.platform != MACOS_PLATFORM) or args.nosound
 
     # CLI arguments valid; return the object containing them
     return args
