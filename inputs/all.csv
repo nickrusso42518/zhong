@@ -360,7 +360,6 @@
 餐厅,can1 ting1,restaurant
 校,xiao4,school
 学校,xue2 xiao4,school
-# NEW
 从,cong2,from a place/from a time (before noun)
 到,dao4,to a place/until a time (before noun)
 怎么走,zen3 me zou3,how to get? (to a place)
@@ -409,7 +408,7 @@
 上班,shang4 ban1,go to work/be on duty
 下班,xia4 ban1,get out of work
 太,tai4,too much/excessive
-买,mai3,buy
+买,mai3,buy/purchase
 只,zhi3,only/merely/just
 块,kuai4,yuan (lit. chunk or piece)
 毛,mao2,hair/tenth of yuan
@@ -456,6 +455,7 @@
 体育节目,ti3 yu4 ji2 mu4,sports show/sports program
 体育新闻,ti3 yu4 xin1 wen2,sports news
 体育电影,ti3 yu4 dian4 ying3,sports movie
+# NEW
 桌子,zhuo1 zi,table/desk
 椅子,yi3 zi,chair
 冰箱,bing1 xiang1,icebox/refrigerator
@@ -475,8 +475,8 @@
 进,jin4,enter/advance/go forward
 务,wu4,affair/matter
 菜,cai4,vegetable/cuisine/dish (type of food)
-单,dan1,list/form
-买单,mai3 dan1,pay bill (restaurant)
+单,dan1,bill/list/form
+买单,mai3 dan1,pay bill/take check(restaurant)
 菜单,cai4 dan1,food menu
 点菜,dian3 cai4,order food
 服,fu2,clothes/dress/garment
