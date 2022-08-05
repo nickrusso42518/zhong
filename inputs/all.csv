@@ -62,10 +62,10 @@
 星期天,xing1 qi1 tian1,sunday
 星期日,xing1 qi1 re4,sunday
 几,ji3,how many units of time?
-几点,ji3->2 dian3,what time? (oclock)
+几点,ji3->2 dian3,when?/what time? (oclock)
 几号,ji3 hao4,what day of month?
 几月,ji3 yue4,what month?
-几月几号,ji3 yue4 ji3 hao4,what date (month and day)
+几月几号,ji3 yue4 ji3 hao4,what date? (month and day)
 一月,yi1 yue4,January
 二月,er4 yue4,February
 三月,san1 yue4,March
@@ -88,12 +88,12 @@
 昨,zuo2,to denote yesterday
 昨天,zuo2 tian1,yesterday
 会,hui4,will (in the future)/can (apply a learned skill)
-上,shang4,previous (hour or week or month)/to go to (work)/above
-下,xia4,next (hour or week or month)/to get off (work)/below
+上,shang4,previous (hour or week or month)/to go to (work)/above/on
+下,xia4,next (hour or week or month)/to get off (work)/below/under
 每,mei3,every (all time periods)
 分,fen1,minute/hundreth of yuan
 末,mo4,end
-周,zhou1,week
+周,zhou1,lap/cycle/to circle
 做,zuo4,do/make/produce
 明年,ming2 nian2,next year
 去,qu4,go/to denote last year
@@ -123,8 +123,8 @@
 上个星期三,shang4 ge4 xing1 qi1 san1,last wednesday
 我,wo3,i/me
 你,ni3,you
-他,ta1,he/him
-她,ta1,she/her
+他,ta1,he/him/his
+她,ta1,she/her/hers
 它,ta1,it
 是,shi4,is/am/are/to be (equates two nouns)
 们,men,plural modifier
@@ -133,7 +133,7 @@
 他们,ta1 men,they (male)
 她们,ta1 men,they (female)
 它们,ta1 men,they (neutral)
-的,de,possession/'s/description/
+的,de,possession/'s/description
 我的,wo3 de,my
 你的,ni3 de,your
 他的,ta1 de,his
@@ -162,9 +162,9 @@
 歉,qian4,apologize/regret
 抱歉,bao4 qian4,sorry (minor)
 起,qi3,rise/get up
-对不起,dui4 bu4-> qi3,sorry (major)
+对不起,dui4 bu4 qi3,sorry (major)
 关,guan1,close/shut
-系,xi4,bind/tie up
+系,xi4,connect/bind/tie up
 没关系,mei2 guan1 xi4,it doesn't matter/no problem
 再,zai4,again (used before verb)
 见,jian4,see/meet
@@ -203,13 +203,13 @@
 白,bai2,white/pure
 明白,ming2 bai2,understand/clear/obvious
 得,de,describe/modify action (verb + adverb)
-快,kuai4,quickly
+快,kuai4,fast/quickly
 慢,man4,slowly
 次,ci4,number of times/iteration (mw)
 一次,yi1 ci4,once/once time
 两次,liang3 ci4,twice/two times
-高,gao1,tall
-矮,ai3,short
+高,gao1,tall/high
+矮,ai3,short/low
 高兴,gao1 xing4,happy
 错,cuo4,mistake/wrong/bad
 不错,bu4->2 cuo4,not bad/pretty good
@@ -229,7 +229,7 @@
 多少钱,duo1 shao3 qian2,how much money?
 叫,jiao4,am/be called
 电,dian4,electric/electricity
-话,hua4,spoken words/conservation
+话,hua4,spoken words/speech
 码,ma3,code
 电话,dian4 hua4,phone/telephone
 电话号码,dian4 hua4 hao4 ma3,phone number
@@ -239,7 +239,7 @@
 美国,mei3 guo2,usa/america
 英国,ying1 guo2,uk/britain
 加拿大,jia1 na2 da4,canada
-人,ren2,person
+人,ren2,person/man
 语,yu3,language/dialect
 文,wen2,language/arts/culture
 中国人,zhong1 guo2 ren2,chinese
@@ -262,8 +262,7 @@
 不对,bu4->2 dui4,incorrect
 都,dou1,all/both/entirely
 个,ge4,individual/generic measure word
-个人,ge4 ren2,person/people quantity
-几个,ji3 ge4,how many? (countable less than 10)
+几个,ji3 ge4,several/a few/how many? (countable less than 10)
 老,lao3,old/venerable (person)
 师,shi1,teacher/expert
 老师,lao3 shi1,teacher (in a school)
@@ -311,8 +310,8 @@
 有,you3,have/possess
 没有,mei2 you3,does not have/conversational "no I have not"
 爱,ai4,love
-妈妈,ma1 ma,mom
-爸爸,ba4 ba,dad
+妈妈,ma1 ma,mom/mother
+爸爸,ba4 ba,dad/father
 # 母亲,mu3 qin1,mother
 # 父亲,fu4 qin1,father
 男,nan2,male
@@ -344,7 +343,9 @@
 非,fei1,not/wrong/incorrect
 常,chang2,always/often/frequently
 非常,fei1 chang2,very/extremely
-可,ke3,can/may (appears uncommon)
+可,ke3,can/may (component)
+以,yi1,by means of/according to
+可以,ke3 yi1,can/may
 可爱,ke3 ai4,cute
 洗,xi3,wash/bathe
 手,shou3,hand
@@ -438,7 +439,7 @@
 上网,shang4 wang3,go online
 机,ji1,machine
 手机,shou3 ji1,cell phone
-手机游戏,shou3 ji1 you2 xi4,cellphone games
+手机游戏,shou3 ji1 you2 xi4,cell phone games
 明星,ming2 xing1,celebrity
 男明星,nan2 ming2 xing1,male celebrity
 女明星,nv3 ming2 xing1,female celebrity
