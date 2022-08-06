@@ -38,10 +38,14 @@
 岁,sui4,is X years old (after numbers)
 二〇三四年,er4 ling2 er4 si4 nian2,2034 year
 一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
+东,dong1,east (said first)
+南,nan2,south (said second)
+西,xi1,west (said third)
+北,bei3,north (said fourth)
 月,yue4,month (after numbers)
 号,hao4,number/day of month (conversational)
 日,re4,day of month (written)
-点,dian3,point/dot/drop/oclock (after numbers)
+点,dian3,point/dot/drop/oclock (after numbers)/order food or drink
 点钟,dian3 zhong1,oclock (after numbers)
 半,ban4,half past the hour
 四点,si4 dian3,4:00/4 oclock
@@ -115,6 +119,8 @@
 昨天晚上,zuo2 tian1 wan3 shang4,last night/yesterday night
 今天晚上,jin1 tian1 wan3 shang4,tonight/this evening
 # 今晚,jin1 wan3,tonight (common shorthand)
+个,ge4,individual/generic measure word
+一个,yi1->2 ge4,one unit/a/an
 这个周末,zhe4 ge4 zhou1 mo4,this weekend
 这个星期五,zhe4 ge4 xing1 qi1 wu3,this friday
 下个周,xia4 ge4 zhou1,next week
@@ -264,7 +270,6 @@
 对,dui4,right/correct/yes
 不对,bu4->2 dui4,incorrect
 都,dou1,all/both/entirely
-个,ge4,individual/generic measure word
 老,lao3,old/venerable (person)
 师,shi1,teacher/expert
 老师,lao3 shi1,teacher (in a school)
@@ -311,7 +316,7 @@
 谁,shei2,who?
 谁的,shei2 de,whose?/whom?
 有,you3,have/possess
-没有,mei2 you3,does not have/conversational "no I have not"
+没有,mei2 you3,does not have (negate past-tense verb)
 爱,ai4,love
 妈妈,ma1 ma,mom/mother
 爸爸,ba4 ba,dad/father
@@ -457,6 +462,7 @@
 体育节目,ti3 yu4 ji2 mu4,sports show/sports program
 体育新闻,ti3 yu4 xin1 wen2,sports news
 体育电影,ti3 yu4 dian4 ying3,sports movie
+# NEW
 桌子,zhuo1 zi,table/desk
 椅子,yi3 zi,chair
 冰箱,bing1 xiang1,icebox/refrigerator
@@ -475,24 +481,41 @@
 进,jin4,enter/advance/go forward
 菜,cai4,vegetable/cuisine/dish (type of food)
 单,dan1,bill/list/form
-买单,mai3 dan1,pay bill/take check(restaurant)
+买单,mai3 dan1,pay bill/take check (restaurant)
 菜单,cai4 dan1,food menu
-点菜,dian3 cai4,order food
 服,fu2,clothes/dress/garment
 务,wu4,affair/matter
 员,yuan2,employee/member
 服务员,fu2 wu4 yuan2,server/waiter/waitress
-# first
 些,xie1,plural marker
 一些,yi1->4 xie1,some
 这些,zhe4 xie1,these
 那些,na4 xie1,those
 这次,zhe4 xie1,this time
 那次,na4 xie1,that time
-# second
 为,wei4,for
 因,yin1,cause
 为什么,wei4 shen2 me,why? (adjacent to person targeted)
 因为,yin1 wei4,because/since (before noun)
 所,suo2,actually/that which
 所以,suo2 yi3,so/therefore (before noun)
+东西,dong1 xi1->,thing/stuff
+什么东西,shen2 me dong1 xi1->,something?/anything?
+超,chao1,super/ultra
+市,shi4,market/city
+超市,chao1 shi4,supermarket
+给,gei3,give
+水果,shui3->2 guo3,fruit
+苹果,ping2 guo3,apple
+瓜,gua1,melon/squash
+西瓜,xi1 gua1,watermelon
+蛋,dan4,egg
+鸡,ji1,chicken/fowl
+鸡蛋,ji1 dan4,chicken's egg
+蔬菜,shu1 cai,vegetable
+新鲜,xin1 xian1,fresh
+包,bag1,cover or wrap (verb)/bag or pack of (mw)
+面包,mian4 bao1,bread
+糖,tang2,sugar/candy
+米,mi3,rice
+袋,dai4,bag/sack
