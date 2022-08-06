@@ -279,7 +279,6 @@
 医,yi1,medicine
 生,sheng1,new/raw/immature
 医生,yi1 sheng1,doctor
-学,xue2,study/learn/imitate
 学生,xue2 sheng1,student
 怎,zen3,how
 怎么,zen3 me,how?
@@ -486,34 +485,35 @@
 员,yuan2,employee/member
 服务员,fu2 wu4 yuan2,server/waiter/waitress
 些,xie1,plural marker
-一些,yi1->4 xie1,some
+一些,yi1->4 xie1,some/a few/a little/slighty (after adjective)
 这些,zhe4 xie1,these
 那些,na4 xie1,those
 这次,zhe4 ci4,this time
 那次,na4 ci4,that time
+东西,dong1 xi1->,things/stuff
+什么东西,shen2 me dong1 xi1->,something?/anything?
+超,chao1,super/ultra
+市,shi4,market/city
+超市,chao1 shi4,supermarket
+给,gei3,give/allow
+水果,shui3->2 guo3,fruit
+苹果,ping2 guo3,apple
+瓜,gua1,melon/squash
+西瓜,xi1 gua1,watermelon
+蛋,dan4,egg/oval-shaped thing
+鸡,ji1,chicken/fowl
+鸡蛋,ji1 dan4,chicken's egg
+蔬菜,shu1 cai4,vegetables/produce
+新鲜,xin1 xian1,fresh/novel/uncommon
+包,bao1,mw for small sealed bags like snacks
+袋,dai4,mw for large open bags like shopping
+面包,mian4 bao1,bread
+糖,tang2,sugar/candy
+米,mi3,rice
 为,wei4,for
 因,yin1,cause/reason
 为什么,wei4 shen2 me,why?/for what? (adjacent to person targeted)
 因为,yin1 wei4,because/since (before noun)
 所,suo2,actually/that which
 所以,suo2 yi3,so/therefore (before noun)
-东西,dong1 xi1->,things/stuff
-什么东西,shen2 me dong1 xi1->,something?/anything?
-超,chao1,super/ultra
-市,shi4,market/city
-超市,chao1 shi4,supermarket
-给,gei3,give
-水果,shui3->2 guo3,fruit
-苹果,ping2 guo3,apple
-瓜,gua1,melon/squash
-西瓜,xi1 gua1,watermelon
-蛋,dan4,egg
-鸡,ji1,chicken/fowl
-鸡蛋,ji1 dan4,chicken's egg
-蔬菜,shu1 cai4,vegetables
-新鲜,xin1 xian1,fresh
-包,bao1,cover or wrap (verb)/bag or pack of (mw)
-面包,mian4 bao1,bread
-糖,tang2,sugar/candy
-米,mi3,rice
-袋,dai4,bag/sack
+学习,xue2 xi2,learn/study
