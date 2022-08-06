@@ -40,7 +40,7 @@
 一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
 月,yue4,month (after numbers)
 号,hao4,number/day of month (conversational)
-日,re4,sun/day of month (written)
+日,re4,day of month (written)
 点,dian3,point/dot/drop/oclock (after numbers)
 点钟,dian3 zhong1,oclock (after numbers)
 半,ban4,half past the hour
@@ -49,8 +49,8 @@
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
 四点零六,si4 dian3 ling2 liu4,4:06
 一下,yi1->2 xia4,a bit/give it a shot/try quickly
-一点,yi1 dian3,a little bit
-一点儿,yi1 diar3,a little bit
+一点,yi1->4 dian3,a little bit
+一点儿,yi1->4 diar3,a little bit
 星,xing1,star/heavenly body
 期,qi1,phase/stage/term
 星期,xing1 qi1,week day specifier (before numbers)
@@ -173,7 +173,7 @@
 吗,ma,yn?/yes or no question
 不,bu4,no/not
 是不是,shi4 bu4->2 shi4,whether/is not it? (pattern for yn?)
-也,ye3,also
+也,ye3,also/too (adverb; after subject and before verb)
 吃,chi1,eat
 饭,fan4,rice/meal
 餐,can1,meal
@@ -207,7 +207,7 @@
 快,kuai4,fast/quickly
 慢,man4,slowly
 次,ci4,number of times/iteration (mw)
-一次,yi1 ci4,once/once time
+一次,yi1->2 ci4,once/once time
 两次,liang3 ci4,twice/two times
 高,gao1,tall/high
 矮,ai3,short/low
@@ -216,16 +216,18 @@
 不错,bu4->2 cuo4,not bad/pretty good
 近,jin4,near/close to/approximately
 最近,zui4 jin4,recently
-一会儿,yi1 hui4 r,in a bit/in a moment
+一会儿,yi1->2 hui4 r,in a bit/in a moment
 很,hen3,very/dummy adverb (tie noun to adjective)
 呢,ne,and?/what about?/ok?
 和,he2,and (link nouns)
 元,yuan2,yuan
 钱,qian2,money
 名字,ming2 zi,name
+什,shen2,assorted/varied
+么,me,interrogative suffix only
 什么,shen2 me,what?
-多,duo1,many/more
-少,shao3,few/less
+多,duo1,many/more/much
+少,shao3,few/less/little
 多少,duo1 shao3,how much? (large or uncountable quantity)
 多少钱,duo1 shao3 qian2,how much money?
 叫,jiao4,am/be called
@@ -272,7 +274,7 @@
 学,xue2,study/learn/imitate
 学生,xue2 sheng1,student
 怎,zen3,how
-怎么,zen3 me,how?/why?
+怎么,zen3 me,how?
 样,yang4,manner/way/appearance
 怎么样,zen3 me yang4,how? how are things?/how about?
 早上好,zao3 shang4 hao3,good morning
@@ -294,13 +296,13 @@
 哪,na3,which?
 哪儿,na3 r,where?
 哪里,na3->2 li3,where?
-那,na4,that/those
+那,na4,that
 那是,na4 shi4,that is
 那个,na4 ge4,that one
 那两个,na4 liang3 ge4,those two
 那儿,na4 r,there/over there
 那里,na4 li3,there/over there
-这,zhe4,this/these
+这,zhe4,this
 这是,zhe4 shi4,this is
 这个,zhe4 ge4,this one
 这两个,na4 liang3 ge4,these two
@@ -346,7 +348,7 @@
 非常,fei1 chang2,very/extremely
 可,ke3,can/may (component)
 以,yi1,by means of/according to
-可以,ke3 yi1,can/may
+可以,ke3 yi3,can/may
 可爱,ke3 ai4,cute
 洗,xi3,wash/bathe
 手,shou3,hand
@@ -414,7 +416,7 @@
 毛,mao2,hair/tenth of yuan
 二千七百零五块四毛九分,er4 qian1 qi1 bai3 ling2 wu3 kuai4 si4 mao2 jiu3 fen1,2705.49 yuan
 共,gong4,common/general
-一共,yi1 gong4,altogether/in total
+一共,yi1->2 gong4,altogether/in total
 收,shou1,receive/accept/collect
 信,xin4,letter/mail
 用,yong4,use/employ
@@ -470,13 +472,27 @@
 坐,zuo4,sit/take a seat
 订,ding4,agree/conclude/order
 订位,ding4 wei4,make reservation/book a table
-员,yuan2,employee/member
 进,jin4,enter/advance/go forward
-务,wu4,affair/matter
 菜,cai4,vegetable/cuisine/dish (type of food)
 单,dan1,bill/list/form
 买单,mai3 dan1,pay bill/take check(restaurant)
 菜单,cai4 dan1,food menu
 点菜,dian3 cai4,order food
 服,fu2,clothes/dress/garment
+务,wu4,affair/matter
+员,yuan2,employee/member
 服务员,fu2 wu4 yuan2,server/waiter/waitress
+# first
+些,xie1,plural marker
+一些,yi1->4 xie1,some
+这些,zhe4 xie1,these
+那些,na4 xie1,those
+这次,zhe4 xie1,this time
+那次,na4 xie1,that time
+# second
+为,wei4,for
+因,yin1,cause
+为什么,wei4 shen2 me,why? (adjacent to person targeted)
+因为,yin1 wei4,because/since (before noun)
+所,suo2,actually/that which
+所以,suo2 yi3,so/therefore (before noun)
