@@ -186,7 +186,7 @@ def process_args():
         "--infile",
         help="input file in CSV format (chinese,pinyin,english)",
         type=str,
-        default="inputs/all.csv",
+        default="inputs/default.csv",
     )
     args = parser.parse_args()
 

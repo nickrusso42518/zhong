@@ -49,9 +49,9 @@ are frequently updated.
 ## Advanced Usage
 Detailed explanation:
   * `-i`: Pass in a CSV import file. The file must contain exactly 3 columns:
-          chinese,pinyin,english. You can check the `all.csv` file for an
+          chinese,pinyin,english. You can check the `default.csv` file for an
           example of proper formatting. The file may include comments beginning
-          with the `#` symbol, just like Python or YAML.  Defaults to `all.csv`
+          with the `#` symbolas in Python or YAML. Defaults to `default.csv`
           which is my current (and constantly growing) general-purpose list.
 
   * `-s`: Enable nosound mode. This disables audio narration of the Chinese

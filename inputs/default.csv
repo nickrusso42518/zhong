@@ -245,19 +245,20 @@
 码,ma3,code
 电话,dian4 hua4,phone/telephone
 电话号码,dian4 hua4 hao4 ma3,phone number
-中,zhong1,central
-中国,zhong1 guo2,china
-韩国,han2 guo2,korea
-美国,mei3 guo2,usa/america
-英国,ying1 guo2,uk/britain
-加拿大,jia1 na2 da4,canada
+中,zhong1,central/middle
+国,guo2,country/kingdon
+中国,zhong1 guo2,china country
+韩国,han2 guo2,korea country
+美国,mei3 guo2,usa/america country
+英国,ying1 guo2,uk/britain country
+加拿大,jia1 na2 da4,canada country
 人,ren2,person/man
 语,yu3,language/dialect
 文,wen2,language/arts/culture
-中国人,zhong1 guo2 ren2,chinese
-美国人,mei3 guo2 ren2,american
-英国人,ying1 guo2 ren2,british
-加拿大人,jia1 na2 da4 ren2,canadian
+中国人,zhong1 guo2 ren2,chinese person
+美国人,mei3 guo2 ren2,american person
+英国人,ying1 guo2 ren2,british person
+加拿大人,jia1 na2 da4 ren2,canadian person
 中文,zhong1 wen2,chinese language
 汉语,han4 yu3,chinese language
 英文,ying1 wen2,english language
@@ -430,7 +431,7 @@
 贵,gui4,expensive/precious
 金,jin1,gold
 现金,xian4 jin1,cash (right now gold!)
-行,xing2,ok/will do
+行,xing2,ok/will do/to travel
 报,bao4,announce/inform/report
 纸,zhi3,paper
 报纸,bao4 zhi3,newspaper
@@ -517,3 +518,21 @@
 所,suo2,actually/that which
 所以,suo2 yi3,so/therefore (before noun)
 学习,xue2 xi2,learn/study
+西班牙,xi1 ban1 ya2,spain country
+西班牙人,xi1 ban1 ya2 ren2,spanish person/spaniard
+西班牙语,xi1 ban1 ya2 yu3,spanish language
+西班牙文,xi1 ban1 ya2 wen2,spanish language
+印度,yin1 du4,india country
+印度人,yin1 du4 ren2,indian person
+印度语,yin1 du4 yu3,indian language (hindi)
+印度文,yin1 du4 wen2,indian language (hindi)
+爱好,ai1 hai3,hobby/interest
+松,song1,loose (noun)/loosen (verb)
+轻,qing1,light/easy/gentle/soft
+轻松,qing1 song1,relax/take things less seriously
+旅游,lv3 you2,tour/journey (after destination)
+旅行,lv3 xing1,tour/journey (after destination)
+照相机,zhao4 xiang4 ji1,camera
+拍,pai1,pat/clap/slap/swat
+照,zhao4,illuminate/reflect
+拍照,pai1 zhao4,take a picture
