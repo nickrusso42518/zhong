@@ -98,13 +98,13 @@
 下,xia4,next (hour or week or month)/to get off (work)/below/under
 每,mei3,every (all time periods)
 分,fen1,minute/hundreth of yuan
-末,mo4,end
+末,mo4,end/final stage/latter part
 周,zhou1,lap/cycle/to circle
 做,zuo4,do/make/produce
 明年,ming2 nian2,next year
-去,qu4,go/to denote last year
+去,qu4,go to a place/to denote last year
 去年,qu4 nian2,last year
-今年,jin1 nian2, this year
+今年,jin1 nian2,this year
 周末,zhou1 mo4,weekend
 下午,xia4 wu3,afternoon
 中午,zhong1 wu3,noon/midday
@@ -119,7 +119,6 @@
 明天晚上,ming2 tian1 wan3 shang4,tomorrow night
 昨天晚上,zuo2 tian1 wan3 shang4,last night/yesterday night
 今天晚上,jin1 tian1 wan3 shang4,tonight/this evening
-# 今晚,jin1 wan3,tonight (common shorthand)
 个,ge4,individual/generic measure word
 一个,yi1->2 ge4,one unit/a/an
 这个周末,zhe4 ge4 zhou1 mo4,this weekend
@@ -156,7 +155,7 @@
 你好,ni3->2 hao3,hello/hi
 喂,wei4,hey/use 2nd tone to answer phone
 久,jiu3,long duration of time
-好久不见,hao3->2 jiu3 bu4-> jian4,long time no see
+好久不见,hao3->2 jiu3 bu4->2 jian4,long time no see
 请,qing3,please/precedes a command
 问,wen4,ask
 请问,qing3 wen4,excuse me/pardon me (get attention)
@@ -245,7 +244,7 @@
 电话,dian4 hua4,phone/telephone
 电话号码,dian4 hua4 hao4 ma3,phone number
 中,zhong1,central/middle
-国,guo2,country/kingdon
+国,guo2,country/kingdom
 中国,zhong1 guo2,china country
 韩国,han2 guo2,korea country
 美国,mei3 guo2,usa/america country
@@ -267,7 +266,8 @@
 认识,ren4 shi2->,know personally/meet/recognize
 知,zhi1,know/aware
 道,dao4,road/principle/truth
-知道,zhi1 dao4,know/know about/aware of
+知道,zhi1 dao4,know about/aware of
+我知道了,wo3 zhi1 dao4 le,i know/i see (response to newly-learned info)
 忙,mang2,busy/rush
 是的,shi4 de,yes (formal and rarely spoken)
 对,dui4,right/correct/yes
@@ -323,8 +323,6 @@
 爱,ai4,love
 妈妈,ma1 ma,mom/mother
 爸爸,ba4 ba,dad/father
-# 母亲,mu3 qin1,mother
-# 父亲,fu4 qin1,father
 男,nan2,male
 女,nv3,female (v means ü)
 女儿,nv3 er2,daughter
@@ -360,14 +358,14 @@
 医院,yi1 yuan4,hospital
 馆,guan3,shop/building
 饭馆,fan4 guan3,restaurant
-厅,ting1,hall
+厅,ting1,hall/office/living room
 餐厅,can1 ting1,restaurant
 校,xiao4,school
 学校,xue2 xiao4,school
 从,cong2,from a place/from a time (before noun)
-到,dao4,to a place/until a time (before noun)
+到,dao4,to a place/until a time (before noun)/arrive
 怎么走,zen3 me zou3,how to get? (to a place)
-走,zou3,walk/go
+走,zou3,walk/run/go
 路,lu4,road/the way
 往,wang3,towards
 左,zuo3,left direction
@@ -459,7 +457,6 @@
 体育节目,ti3 yu4 ji2 mu4,sports show/sports program
 体育新闻,ti3 yu4 xin1 wen2,sports news
 体育电影,ti3 yu4 dian4 ying3,sports movie
-# NEW
 外,wai4,outside/external
 房间,fang2 jian1,room
 桌子,zhuo1 zi,table/desk
