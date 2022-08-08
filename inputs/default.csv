@@ -44,7 +44,7 @@
 北,bei3,north (said fourth)
 月,yue4,month (after numbers)
 号,hao4,number/day of month (conversational)
-日,re4,day of month (written)
+日,ri4,sun/day of month (written)
 点,dian3,point/dot/drop/oclock (after numbers)/order food or drink
 点钟,dian3 zhong1,oclock (after numbers)
 半,ban4,half past the hour
@@ -65,7 +65,7 @@
 星期五,xing1 qi1 wu3,friday day of week
 星期六,xing1 qi1 liu4,saturday day of week
 星期天,xing1 qi1 tian1,sunday day of week
-星期日,xing1 qi1 re4,sunday day of week
+星期日,xing1 qi1 ri4,sunday day of week
 几,ji3,how many? (countable less than 10 with mw after)
 几点,ji3->2 dian3,when?/what time? (oclock)
 几号,ji3 hao4,what day of month?
@@ -102,6 +102,7 @@
 周,zhou1,lap/cycle/to circle
 做,zuo4,do/make/produce
 明年,ming2 nian2,next year
+来,lai2,come/arrive
 去,qu4,go to a place/to denote last year
 去年,qu4 nian2,last year
 今年,jin1 nian2,this year
@@ -180,10 +181,10 @@
 是不是,shi4 bu4->2 shi4,whether/is not it? (pattern for yn?)
 也,ye3,also/too (adverb; after subject and before verb)
 吃,chi1,eat
-饭,fan4,rice/meal
+饭,fan4,rice/meal/serving
 餐,can1,meal
 鱼,yu2,fish
-面,mian4,noodles/side/surface
+面,mian4,side/surface/noodles (component)
 早饭,zao3 fan4,breakfast
 早餐,zao3 can1,breakfast
 午饭,wu3 fan4,lunch
@@ -195,7 +196,7 @@
 茶,cha2,tea
 牛,niu4,cow/bull/ox
 奶,nai3,milk
-牛奶,niu2 nai3,cow's milk
+牛奶,niu2 nai3,cow milk
 咖啡,ka1 fei1,coffee (loanword)
 冰,bing1,ice/chill/feel cold
 热,re4,hot
@@ -229,7 +230,9 @@
 和,he2,and/together with (link nouns)
 元,yuan2,yuan
 钱,qian2,money
-名字,ming2 zi,name
+字,zi4,letter/symbol/character
+名字,ming2 zi4->,name
+汉字,han4 zi4,chinese character/chinese writing
 什,shen2,assorted/varied
 么,me,interrogative suffix only
 什么,shen2 me,what?
@@ -299,7 +302,8 @@
 住,zhu4,live/dwell/reside
 在,zai4,located at/to be in/actively doing (before verb is -ing)
 住在,zhu4 zai4,lives in
-里,li3,inside
+里,li3,inside/internal (modifier)
+外,wai4,outside/external (modifier)
 哪,na3,which?
 哪儿,na3 r,where?
 哪里,na3->2 li3,where?
@@ -319,7 +323,7 @@
 谁的,shei2 de,whose?/whom?
 有,you3,have/possess
 没有,mei2 you3,does not have (negate past actions)
-没关系,mei2 guan1 xi4,it doesn't matter/no problem
+没关系,mei2 guan1 xi4,it doesn't matter/no problem/no worries
 爱,ai4,love
 妈妈,ma1 ma,mom/mother
 爸爸,ba4 ba,dad/father
@@ -347,9 +351,9 @@
 常,chang2,always/often/frequently
 非常,fei1 chang2,very/extremely
 可,ke3,can/may (component)
-以,yi1,by means of/according to
-可以,ke3 yi3,can/may
-可爱,ke3 ai4,cute
+以,yi3,by means of/according to
+可以,ke3 yi3,can/may/able to/possible
+可爱,ke3 ai4,cute/adorable/lovely
 洗,xi3,wash/bathe
 手,shou3,hand
 间,jian1,room (mw)
@@ -377,6 +381,8 @@
 左边,zuo3 bian1,left side
 右边,you4 bian1,right side
 旁边,pang2 bian1,lateral/generic side
+里面,li3 mian4,inside/interior
+外面,wai4 mian4,outside/exterior
 喜欢,xi3 huan1,like/enjoy
 看,kan4,read/look at/watch
 书,shu1,book/letter/document
@@ -457,7 +463,6 @@
 体育节目,ti3 yu4 ji2 mu4,sports show/sports program
 体育新闻,ti3 yu4 xin1 wen2,sports news
 体育电影,ti3 yu4 dian4 ying3,sports movie
-外,wai4,outside/external
 房间,fang2 jian1,room
 桌子,zhuo1 zi,table/desk
 椅子,yi3 zi,chair
@@ -500,7 +505,7 @@
 西瓜,xi1 gua1,watermelon
 蛋,dan4,egg/oval-shaped thing
 鸡,ji1,chicken/fowl
-鸡蛋,ji1 dan4,chicken's egg
+鸡蛋,ji1 dan4,chicken egg
 蔬菜,shu1 cai4,vegetables/produce
 新鲜,xin1 xian1,fresh/novel/uncommon
 包,bao1,mw for small sealed bags like snacks
@@ -527,8 +532,8 @@
 松,song1,loose (noun)/loosen (verb)
 轻,qing1,light/easy/gentle/soft
 轻松,qing1 song1,relax/take things less seriously
-旅游,lv3 you2,tour/journey (after destination)
-旅行,lv3 xing1,tour/journey (after destination)
+旅游,lv3 you2,trip/tour/travel (after destination)
+旅行,lv3 xing2,trip/tour/travel (after destination)
 照相机,zhao4 xiang4 ji1,camera
 拍,pai1,pat/clap/slap/swat
 照,zhao4,illuminate/reflect
@@ -545,3 +550,29 @@
 它不吃鱼,ta1 bu4 chi1 yu2,it does not eat fish
 她没有唱歌,ta1 mei2 you3 chang4 ge1,she has not sung a song/she did not sing a song
 我们没听过音乐,wo3 men mei2 ting1 guo4 yin1 yue4,we have never listened to music
+# NEW,NEW,NEW
+抽烟,cho1 yan1,smoke a cigarette (verb)
+还,hai2,still in progress/still more/yet
+还是,hai2 shi4,or?/still/nevertheless
+但,dan4,but/however/yet (component)
+但是,dan4 shi4,but/however/yet
+肉,rou4,meat/flesh/pulp of a fruit
+牛肉,niu rou4,beef/cow meat
+鸡肉,ji1 rou4,chicken meat
+羊,yang2,sheep
+羊肉,yang2 rou4,lamb/mutton/sheep meat
+猪,zhu1,pig/hog/swine
+猪肉,zhu1 rou4,pork/pig meat
+条,tiao2,strip (mw for long objects/animals)
+面条,mian4 tiao2,noodles
+写,xie3,write
+本,ben3,root/stem/source/origin/mw for books
+日本,ri4 ben3,japan country
+日本人,ri4 ben3 ren2,japanese person
+日文,ri4 wen2,japanese language
+日语,ri4 yu3,japanese language
+海,hai3,sea/ocean
+上海,shang4 hai3,shanghai city
+料,liao4,material/stuff/grain
+饮,yin3,beverage/drink (component)
+饮料,yin3 liao4,beverage/drink (noun)
