@@ -99,7 +99,7 @@
 昨天,zuo2 tian1,yesterday
 会,hui4,will (in the future)/can (apply a learned skill)
 上,shang4,previous (hour or week or month)/to go to (work)/above/on
-下,xia4,next (hour or week or month)/to get off (work)/below/under
+下,xia4,next (hour or week or month)/to get off (work)/below/under/disembark from vehicle
 每,mei3,every (all time periods)
 分,fen1,minute/hundreth of yuan
 末,mo4,end/final stage/latter part
@@ -230,7 +230,7 @@
 高,gao1,tall/high
 矮,ai3,short/low
 高兴,gao1 xing4,happy
-错,cuo4,mistake/wrong/bad
+错,cuo4,mistake/wrong/bad/incorrectly
 不错,bu4->2 cuo4,not bad/pretty good
 近,jin4,near/close to/approximately
 最近,zui4 jin4,recently
@@ -277,7 +277,7 @@
 英语,ying1 yu3,english language
 认,ren4,recognize/know
 识,shi2,know/knowledge
-认识,ren4 shi2->,know personally/meet/recognize
+认识,ren4 shi2->,know personally/recognize a noun/meet
 知,zhi1,know/aware
 道,dao4,road/principle/truth
 知道,zhi1 dao4,know about/aware of
@@ -295,7 +295,7 @@
 医生,yi1 sheng1,doctor
 学生,xue2 sheng1,student
 怎,zen3,how
-怎么,zen3 me,how?
+怎么,zen3 me,how to?
 样,yang4,manner/way/appearance
 怎么样,zen3 me yang4,how? how are things?/how about?
 早上好,zao3 shang4 hao3,good morning
@@ -382,7 +382,7 @@
 从,cong2,from a place/from a time (before noun)
 到,dao4,to a place/until a time (before noun)/arrive
 怎么走,zen3 me zou3,how to get? (to a place)
-走,zou3,walk/run/go
+走,zou3,walk/run/go (sharp command)
 路,lu4,road/the way
 往,wang3,towards
 左,zuo3,left direction
@@ -397,7 +397,7 @@
 里面,li3 mian4,inside/interior
 外面,wai4 mian4,outside/exterior
 喜欢,xi3 huan1,like/enjoy
-看,kan4,read/look at/watch
+看,kan4,look at/watch/read without focus
 书,shu1,book/letter/document
 看书,kan4 shu1,read a book
 听,ting1,listen/hear
@@ -434,7 +434,7 @@
 块,kuai4,yuan (lit. chunk or piece)
 毛,mao2,hair/tenth of yuan
 二千七百零五块四毛九分,er4 qian1 qi1 bai3 ling2 wu3 kuai4 si4 mao2 jiu3 fen1,2705.49 yuan
-共,gong4,common/general
+共,gong4,common/general (component)
 一共,yi1->2 gong4,altogether/in total
 收,shou1,receive/accept/collect
 信,xin4,letter/mail
@@ -487,11 +487,10 @@
 找,zhao3,seek/search for/find
 位,wei4,individual/seat/place (formal mw)
 等,deng3,await/wait for/equal to
-坐,zuo4,sit/take a seat
+坐,zuo4,sit/take a seat/embark onto vehicle
 订,ding4,agree/conclude/order
 订位,ding4 wei4,make reservation/book a table
 进,jin4,enter/advance/go forward
-出,chu1,exit/occur/happen
 菜,cai4,cuisine/dish (type of food)
 单,dan1,bill/list/form
 买单,mai3 dan1,pay bill/take check (restaurant)
@@ -590,7 +589,7 @@
 料,liao4,material/stuff/grain
 饮,yin3,beverage/drink (component)
 饮料,yin3 liao4,beverage/drink (noun)
-工,gong1,work/labor/profession/job (noun)
+工,gong1,work/job/profession (noun)
 作,zuo4,do/grow
 工作,gong1 zuo4,work (verb or noun)/operate machine
 觉得,jue2 de,think/feel/feeling
@@ -634,3 +633,30 @@
 讨论讨论,tao3 lun4 tao4 lun4,discuss a bit
 打听,da3 ting1->,ask about/make inquiries
 打听打听,da3 ting1-> da3 ting1->,ask a little about
+您,nin2,you (formal)
+读,du2,read with focus (verb)/reading (noun)
+# 商,shang1,trader/business
+# 迎,ying2,welcome/meet/greet
+# 需,xu1,need (component)
+# 需要,xu1 yao4,need/require/demand
+字中文,zi3 zhong1 wen2,chinese character
+难,nan2,difficult/problem
+思,si1,think/consider
+意思,yi4 si1->,meaning/idea/opinion
+站,zhan4,stand/halt/stop (verb)/station (noun)
+哪个站,na3 ge4 zhan4,which stop/station? (transportation)
+车,che1,vehicle/transportation/car
+下车,xia4 che1,disembark from vehicle
+船,chuan2,boat/vessel/ship
+地铁,di4 tie3,subway/metro
+酒店,jiu3 dian4,hotel/pub/bar
+随便,sui2 bian4,as one wishes/casual
+准,zhun3,allow/grant
+出,chu1,go out/come out/occur
+租,zu1,rent/hire
+汽,qi4,steam/vapor
+汽车,qi4 che1,car/automobile
+出租车,chu1 zu1 che1,taxi
+公,gong1,public/common (component)
+公共,gong1 gong4,public/community
+公共汽车,gong1 gong4 qi4 che1,bus
