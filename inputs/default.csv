@@ -113,7 +113,7 @@
 周末,zhou1 mo4,weekend
 下午,xia4 wu3,afternoon
 中午,zhong1 wu3,noon/midday
-晚上,wan3 shang->,night/evening/pm time
+晚上,wan3 shang4->,night/evening/pm time
 上午,shang4 wu3,morning/am time
 明天早上,ming2 tian1 zao3 shang4,tomorrow morning
 昨天早上,zuo2 tian1 zao3 shang4,yesterday morning
@@ -134,17 +134,17 @@
 上个星期三,shang4 ge4 xing1 qi1 san1,last wednesday
 我,wo3,i/me
 你,ni3,you
-他,ta1,he/him/his
-她,ta1,she/her/hers
+他,ta1,he/him
+她,ta1,she/her
 它,ta1,it
 是,shi4,is/am/are/to be (equates two nouns)
 是吗,shi4 ma,is that true?/is that to be?
 们,men,plural modifier
-我们,wo3 men,we
+我们,wo3 men,we/us
 你们,ni3 men,you (plural)
-他们,ta1 men,they (male)
-她们,ta1 men,they (female)
-它们,ta1 men,they (neutral)
+他们,ta1 men,they/them (male)
+她们,ta1 men,they/them (female)
+它们,ta1 men,they/them (neutral)
 的,de,noun-de-noun possession/adj-de-noun description
 我的,wo3 de,my
 你的,ni3 de,your
@@ -215,7 +215,9 @@
 要,yao4,wants/need/will (forceful and determined)
 想,xiang3,think/desire/consider
 想要,xiang3 yao4,would like/seriously consider
-帮助,bang1 zhu4,help/assist
+帮,bang1,help/assist/support
+帮助,bang1 zhu4,assistance/aid
+帮忙,bang1 mang2,help/lend a hand/do a favor
 说,shuo1,say/speak/tell
 白,bai2,white/pure
 明白,ming2 bai2,understand/clear/obvious
@@ -234,10 +236,10 @@
 不错,bu4->2 cuo4,not bad/pretty good
 近,jin4,near/close to/approximately
 最近,zui4 jin4,recently
-很,hen3,very or really (before verb)/noun-hen-adj connector
+很,hen3,very/really (before verb)/noun-hen-adj connector
 呢,ne,and?/what about?/ok?
 和,he2,and/together with (link nouns)
-元,yuan2,yuan
+元,yuan2,yuan/rmb
 钱,qian2,money
 字,zi4,letter/symbol/character
 名字,ming2 zi4->,name
@@ -365,7 +367,7 @@
 非常,fei1 chang2,very/extremely
 可,ke3,can/may (component)
 以,yi3,by means of/according to
-可以,ke3 yi3,can/may/able to/possible
+可以,ke3->2 yi3,may/allowed to/permitted to
 可爱,ke3 ai4,cute/adorable/lovely
 洗,xi3,wash/bathe
 手,shou3,hand
@@ -430,8 +432,9 @@
 下班,xia4 ban1,get out of work
 太,tai4,too much/excessive
 买,mai3,buy/purchase
+卖,mai4,sell or betray (verb)/sale (noun)
 只,zhi3,only/merely/just
-块,kuai4,yuan (lit. chunk or piece)
+块,kuai4,yuan/rmb (lit. chunk or piece)
 毛,mao2,hair/tenth of yuan
 二千七百零五块四毛九分,er4 qian1 qi1 bai3 ling2 wu3 kuai4 si4 mao2 jiu3 fen1,2705.49 yuan
 共,gong4,common/general (component)
@@ -506,7 +509,7 @@
 这次,zhe4 ci4,this time
 那次,na4 ci4,that time
 东西,dong1 xi1->,things/stuff
-什么东西,shen2 me dong1 xi1->,something?/anything?
+什么东西,shen2 me dong1 xi1->,something?/anything?/what thing?
 超,chao1,super/ultra
 市,shi4,market/city
 超市,chao1 shi4,supermarket
@@ -562,7 +565,6 @@
 它不吃鱼,ta1 bu4 chi1 yu2,it does not eat fish
 她没有唱歌,ta1 mei2 you3 chang4 ge1,she has not sung a song/she did not sing a song
 我们没听过音乐,wo3 men mei2 ting1 guo4 yin1 yue4,we have never listened to music
-# NEW,NEW,NEW
 脏,zang1,dirty/filthy
 抽烟,cho1 yan1,smoke a cigarette (verb)
 还,hai2,still in progress/still more/yet
@@ -630,16 +632,20 @@
 聊,liao2,chat
 聊一聊,liao2 yi1->4 liao2,chat a bit
 讨论,tao3 lun4,discuss/talk over
-讨论讨论,tao3 lun4 tao4 lun4,discuss a bit
+讨论讨论,tao3 lun4 tao3 lun4,discuss a bit
 打听,da3 ting1->,ask about/make inquiries
-打听打听,da3 ting1-> da3 ting1->,ask a little about
+打听打听,da3 ting1-> da3 ting1->,ask a bit about
 您,nin2,you (formal)
 读,du2,read with focus (verb)/reading (noun)
-# 商,shang1,trader/business
-# 迎,ying2,welcome/meet/greet
-# 需,xu1,need (component)
-# 需要,xu1 yao4,need/require/demand
-字中文,zi3 zhong1 wen2,chinese character
+商,shang1,trader/business
+业,ye4,industry/occupation
+商业,shang1 ye4,business
+迎,ying2,meet/welcome/greet
+接,jie1,connect/receive/meet
+迎接,ying2 jie1,meet/welcome/greet
+需,xu1,need/require (component)
+需要,xu1 yao4,need or demand (verb)/required (adj)
+字中文,zi4 zhong1 wen2,chinese character
 难,nan2,difficult/problem
 思,si1,think/consider
 意思,yi4 si1->,meaning/idea/opinion
@@ -648,8 +654,14 @@
 车,che1,vehicle/transportation/car
 下车,xia4 che1,disembark from vehicle
 船,chuan2,boat/vessel/ship
+地,di4,earth/ground/land
+铁,tie3,iron (noun)
 地铁,di4 tie3,subway/metro
+酒,jiu3,alcohol/wine/liquor
+店,dian4,inn/shop/store
 酒店,jiu3 dian4,hotel/pub/bar
+随,sui2,follow/comply with
+便,bian4,plain/informal
 随便,sui2 bian4,as one wishes/casual
 准,zhun3,allow/grant
 出,chu1,go out/come out/occur
@@ -660,3 +672,10 @@
 公,gong1,public/common (component)
 公共,gong1 gong4,public/community
 公共汽车,gong1 gong4 qi4 che1,bus
+龙,long2,dragon/serpent
+衣,yi1,wear/dress/put on clothes
+衣服,yi1 fu2->,clothes/clothing/outfit
+件,jian4,mw for a piece of something (eg clothing)
+商店,shang1 dian4,shop/store (noun)
+关门,guan1 men2,close a door/close down a shop
+开门,kai1 men2,open a door/open up a shop

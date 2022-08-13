@@ -1,6 +1,10 @@
 from chinese import ChineseAnalyzer
 import json
 
+
+# import collections
+# print([item for item, count in collections.Counter(c_list).items() if count > 1])
+
 REPLACE = {
     "'": "\"",
     "\n": "",
