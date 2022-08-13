@@ -18,9 +18,9 @@ from colorama import Fore, Back, Style
 C_SYM_EXCEPTIONS = ["〇"]
 
 # Identify valid pinyin characters. Numbers 1-4 map to the chinese tones.
-# The -> symbol represents a non-written tone transition or special rule.
+# The : symbol represents a non-written tone transition via special rule.
 # The space is used for cleanliness to separate pinyin words.
-VALID_PINYIN = string.ascii_lowercase + " ->1234"
+VALID_PINYIN = string.ascii_lowercase + " :1234"
 
 # String used to test a system for MacOS
 MACOS_PLATFORM = "darwin"
@@ -32,9 +32,9 @@ def main(args):
     """
 
     # Load symbols and initialize counters to track progress
-    symbols = load_symbols(args.infile)
+    rows = load_symbols(args.infile)
     i = 1
-    total = len(symbols)
+    total = len(rows)
 
     # Print gameplay instructions before asking translation questions
     print("HOW TO PLAY:")
@@ -43,15 +43,15 @@ def main(args):
     print("  Enter a comma (,) character to skip/forfeit a question.")
     print("  Enter a period (.) character to quit gracefully.")
 
-    # Keep looping while more symbols exist
-    while symbols:
+    # Keep looping while more rows exist
+    while rows:
 
         # Select a random symbol by index
-        index = random.randint(0, len(symbols) - 1)
-        sym = symbols[index]
+        index = random.randint(0, len(rows) - 1)
+        row = rows[index]
 
         # Extract chinese, pinyin, and english from the symbol entry
-        chinese, pinyin, english = [s.lower().strip() for s in sym]
+        chinese, pinyin, english = [r.lower().strip() for r in row]
 
         # Attempt to collect input from user interactively
         attempt = run_attempt(args, chinese, pinyin, i, total)
@@ -61,7 +61,7 @@ def main(args):
         print(f"correct english: {e_color}{english}{Style.RESET_ALL}")
 
         # Delete symbol from list (won't see twice) and increment counter
-        del symbols[index]
+        del rows[index]
         i += 1
 
 
@@ -76,7 +76,7 @@ def load_symbols(csv_filename):
         # If the file exists, include rows that don't begin with # (comment)
         with open(csv_filename, encoding="utf=8") as handle:
             csv_reader = csv.reader(handle)
-            symbols = [row for row in csv_reader if not row[0].startswith("#")]
+            rows = [row for row in csv_reader if not row[0].startswith("#")]
 
     # File does not exist; print Python-generated error and quit with rc=3
     except FileNotFoundError as fnf_error:
@@ -84,16 +84,16 @@ def load_symbols(csv_filename):
         sys.exit(3)
 
     # Iterate over list of symbols (rows from CSV)
-    c_list = []
-    c_set = set()
-    for symbol in symbols:
+    seen_chin = set()
+    dup_chin = []
+    for row in rows:
 
-        # Ensure exactly 3 columns exist
-        assert len(symbol) == 3, f"len({symbol}) = {len(symbol)}"
+        # Ensure exactly 3 columns exist in each row
+        assert len(row) == 3, f"len({row}) = {len(row)}"
 
         # Ensure chinese symbols are within proper unicode range or
         # are explicitly permitted as exceptions
-        for c_sym in symbol[0]:
+        for c_sym in row[0]:
             c_sym_ord = ord(c_sym)
             assert (
                 0x4E00 <= c_sym_ord <= 0x9FFF
@@ -101,18 +101,20 @@ def load_symbols(csv_filename):
 
         # Ensure pinyin only contains valid characters
         assert all(
-            pinyin_char in VALID_PINYIN for pinyin_char in symbol[1]
-        ), f"{symbol[1]} not in {VALID_PINYIN}"
+            pinyin_char in VALID_PINYIN for pinyin_char in row[1]
+        ), f"{row[1]} not in {VALID_PINYIN}"
 
-        # Valid chinese/pinyin; add entire chinese phrase to a list and a set
-        c_list.append(symbol[0])
-        c_set.add(symbol[0])
+        # Capture duplicates; if symbol in set already, it's a duplicate
+        if row[0] in seen_chin:
+            dup_chin.append(row[0])
+        else:
+            seen_chin.add(row[0])
 
     # Ensure chinese list and set are same length, else we have duplicates
-    assert len(c_list) == len(c_set), f"{len(c_list)} != {len(c_set)}"
+    assert not dup_chin, f"dup_chin: {','.join(dup_chin)}"
 
-    # All tests passed; return the symbols list
-    return symbols
+    # All tests passed; return the list of rows
+    return rows
 
 
 def run_attempt(args, chinese, pinyin, i, total):
