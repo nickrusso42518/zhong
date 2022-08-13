@@ -97,7 +97,11 @@
 过,guo4,experienced action marker
 昨,zuo2,to denote yesterday
 昨天,zuo2 tian1,yesterday
+可,ke3,can/may (component)
+以,yi3,by means of/according to
+可以,ke3:2 yi3,may/allowed to/permitted to
 会,hui4,will (in the future)/can (apply a learned skill)
+能,neng2,able to/physically capable of doing
 上,shang4,previous (hour or week or month)/to go to (work)/above/on
 下,xia4,next (hour or week or month)/to get off (work)/below/under/disembark from vehicle
 每,mei3,every (all time periods)
@@ -338,6 +342,7 @@
 谁的,shei2 de,whose?/whom?
 有,you3,have/possess
 没有,mei2 you3,not have (negate past actions)
+关系,guan1 xi4,relationship
 没关系,mei2 guan1 xi4,it doesn't matter/no problem/no worries
 爱,ai4,love
 妈妈,ma1 ma,mom/mother
@@ -367,9 +372,6 @@
 非,fei1,not/wrong/incorrect
 常,chang2,always/often/frequently
 非常,fei1 chang2,very/extremely
-可,ke3,can/may (component)
-以,yi3,by means of/according to
-可以,ke3:2 yi3,may/allowed to/permitted to
 可爱,ke3 ai4,cute/adorable/lovely
 洗,xi3,wash/bathe
 手,shou3,hand
@@ -609,7 +611,7 @@
 身,shen1,body (component)
 身体,shen1 ti3,body/one's health
 身体健康,shen1 ti3 jian4 kang1,body/one's health
-开,kai1,start/open (verb component)
+开,kai1,start/open (verb component)/drive car
 始,shi3,start/beginning (noun)
 开始,kai1 shi3,start/begin/beginning (verb or adj)
 锻,duan4,forge/discipline (verb)/wrought (adj)
@@ -679,3 +681,13 @@
 商店,shang1 dian4,shop/store (noun)
 关门,guan1 men2,close the door/close down a shop
 开门,kai1 men2,open the door/open up a shop
+时,shi2,time
+小时,xiao3 shi2,hour
+秒,miao3,seconds
+刻,ke4,quarter/moment
+一刻,yi1:2 ke4,quarter after
+差,cha4,differ from/fall short of/lacking
+差一刻,cha4 yi1:2 ke4,quarter until/quarter to
+整,zheng3,exactly/whole/sharp (time)
+很早,hen3:2 zao3,early (time reference)
+很晚,hen3:2 wan3,early (time reference)
