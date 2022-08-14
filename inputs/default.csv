@@ -47,7 +47,7 @@
 日,ri4,sun/day of month (written)
 点,dian3,point/dot/drop/oclock (after numbers)/order food or drink
 点钟,dian3 zhong1,oclock (after numbers)
-半,ban4,half past the hour
+半,ban4,half/half past the hour (30 minutes)
 四点,si4 dian3,4:00/4 oclock
 四点半,si4 dian3 ban4,4:30/half past 4
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
@@ -311,6 +311,7 @@
 早安,zao3 an1,good morning
 晚上好,wan3 shang4 hao3,good night/good evening
 晚安,wan3 an1,good night/good evening
+香,xiang1,fragrant/sweet smelling
 港,gang3,port/harbor
 香港,xiang1 gang3,hong kong
 纽约,niu3 yue1,new york
@@ -417,7 +418,7 @@
 脑,nao3,brain/mind
 电脑,dian4 nao3,computer
 玩,wan2,play/have fun
-游,you2,tour/travel
+游,you2,tour/travel/swim
 戏,xi4,drama/performance
 游戏,you2 xi4,game
 电脑游戏,dian4 nao3 you2 xi4,computer game
@@ -440,7 +441,7 @@
 买,mai3,buy/purchase
 卖,mai4,sell or betray (verb)/sale (noun)
 只,zhi3,only/merely/just
-块,kuai4,yuan/rmb (lit. chunk or piece)
+块,kuai4,yuan or rmb (noun)/mw for piece or slice
 毛,mao2,hair/tenth of yuan
 二千七百零五块四毛九分,er4 qian1 qi1 bai3 ling2 wu3 kuai4 si4 mao2 jiu3 fen1,2705.49 yuan
 共,gong4,common/general (component)
@@ -456,7 +457,7 @@
 贵,gui4,expensive/precious
 金,jin1,gold
 现金,xian4 jin1,cash
-行,xing2,ok/will do/to travel
+行,xing2,ok/will do
 报,bao4,announce/inform/report
 纸,zhi3,paper
 报纸,bao4 zhi3,newspaper
@@ -548,8 +549,8 @@
 松,song1,loose (noun)/loosen (verb)
 轻,qing1,light/easy/gentle/soft
 轻松,qing1 song1,relax/take things less seriously
-旅游,lv3 you2,trip/tour/travel (after destination)
-旅行,lv3 xing2,trip/tour/travel (after destination)
+旅游,lv3 you2,trip/tour/travel (noun)
+旅行,lv3 xing2,trip/tour/travel (noun)
 照相机,zhao4 xiang4 ji1,camera
 拍,pai1,pat/clap/slap/swat
 照,zhao4,illuminate/reflect
@@ -677,17 +678,40 @@
 龙,long2,dragon/serpent
 衣,yi1,wear/dress/put on clothes
 衣服,yi1 fu2:,clothes/clothing/outfit
-件,jian4,mw for a piece of something (eg clothing)
+件,jian4,mw for a piece of clothing or an event
 商店,shang1 dian4,shop/store (noun)
-关门,guan1 men2,close the door/close down a shop
 开门,kai1 men2,open the door/open up a shop
+关门,guan1 men2,close the door/close down a shop
+开关,kai1 guan1,on-off switch
 时,shi2,time
 小时,xiao3 shi2,hour
 秒,miao3,seconds
 刻,ke4,quarter/moment
-一刻,yi1:2 ke4,quarter after
+两点一刻,yi1:2 ke4,2:15/quarter after 2:00/quarter past 2:00
 差,cha4,differ from/fall short of/lacking
-差一刻,cha4 yi1:2 ke4,quarter until/quarter to
+四点差一刻,cha4 yi1:2 ke4,3:45/quarter until 4:00/quarter to 4:00
 整,zheng3,exactly/whole/sharp (time)
+八点整,ba1 dian3:2 zheng3,8:00 sharp/exactly 8:00
 很早,hen3:2 zao3,early (time reference)
-很晚,hen3:2 wan3,early (time reference)
+很晚,hen3:2 wan3,late (time reference)
+明天早上很早,ming2 tian1 zao3 shang4 hen3:2 zao3,early tomorrow morning
+昨天晚上很晚,zuo2 tian1 wan3 shang4 hen3:2 wan3,late last night
+筷子,kuai4 zi,chopsticks
+勺子,shao2 zi,spoon/ladle
+叉,cha1,fork
+刀,dao1,knife/blade
+碗,wan3,bowl (mw and noun)
+杯,bei1,cup/glass (mw)
+杯子,bei1 zi,cup/glass (noun)
+盘,pan2,plate/dish/tray (mw)
+盘子,pan2 zi,plate/dish (noun)
+德,de2,virtue/goodness/morality
+德国,de2 guo2,germany country
+德国人,de2 guo2 ren2,german person
+德语,de2 yu3,german language
+德文,de2 wen2,german language
+啤酒,pi2 jiu3,beer (loanword)
+汁,zhi1,juice
+果汁,guo3 zhi1,fruit juice
+香蕉,xiang1 jiao1,banana
+蛋糕,dan4 gao1,cake
