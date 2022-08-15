@@ -32,9 +32,8 @@ def main(args):
     """
 
     # Load symbols and initialize counters to track progress
-    rows = load_symbols(args.infile)
-    i = 1
-    total = len(rows)
+    rows = load_csv_data(args.infile)
+    succ_c, i, total = 0, 1, len(rows)
 
     # Print gameplay instructions before asking translation questions
     print("HOW TO PLAY:")
@@ -56,18 +55,25 @@ def main(args):
         # Attempt to collect input from user interactively
         attempt = run_attempt(args, chinese, pinyin, i, total)
 
-        # Test for proper english input, colorize it, and print result
-        e_color = Fore.GREEN if attempt in english else Fore.RED
-        print(f"correct english: {e_color}{english}{Style.RESET_ALL}")
+        # Test for proper english input, colorize it, and track successes
+        if attempt in english:
+            e_color = Fore.GREEN
+            succ_c += 1
+        else:
+            e_color = Fore.RED
 
-        # Delete symbol from list (won't see twice) and increment counter
+        # Print colorized output, then current success count and percent
+        print(f"correct english: {e_color}{english}{Style.RESET_ALL}")
+        print(f"[success# = {succ_c}   success% = {int(succ_c / i * 100)}]")
+
+        # Delete row from list (won't see twice) and increment counter
         del rows[index]
         i += 1
 
 
-def load_symbols(csv_filename):
+def load_csv_data(csv_filename):
     """
-    Load and validate Chinese symbols from file using three column format:
+    Load and validate row data from CSV file using three column format:
     chinese,pinyin,english
     """
 
@@ -83,9 +89,8 @@ def load_symbols(csv_filename):
         print(f"ERROR: {fnf_error}")
         sys.exit(3)
 
-    # Iterate over list of symbols (rows from CSV)
-    seen_chin = set()
-    dup_chin = []
+    # Iterate over list of rows from CSV
+    seen_chin, dup_chin = set(), []
     for row in rows:
 
         # Ensure exactly 3 columns exist in each row
@@ -110,7 +115,7 @@ def load_symbols(csv_filename):
         else:
             seen_chin.add(row[0])
 
-    # Ensure chinese list and set are same length, else we have duplicates
+    # Ensure duplicate list has zero length, else we have duplicates
     assert not dup_chin, f"dup_chin: {','.join(dup_chin)}"
 
     # All tests passed; return the list of rows
@@ -127,21 +132,25 @@ def run_attempt(args, chinese, pinyin, i, total):
     p_color = Fore.BLACK + Back.BLACK if args.nopin else ""
 
     # While attempt is blank, keep looping
-    attempt = ""
+    attempt, say_sp = None, None
     while not attempt:
 
         # Print chinese and pinyin together using the proper color
         print(f"\n{i}/{total}:    {c_color}{chinese}{Style.RESET_ALL}", end="")
         print(f"    ({p_color}{pinyin}{Style.RESET_ALL})")
 
-        # Run the "say" command if -s is not set (default)
+        # Spawn new process to run the "say" command if -s is not set (default)
         # Example: say --voice=Ting-Ting --rate=150 电话号码
         if not args.nosound:
             say_cmd = f"say --voice=Ting-Ting --rate={args.rate} {chinese}"
-            subprocess.run(say_cmd.split(" "), check=True, shell=False)
+            say_sp = subprocess.Popen(say_cmd.split(" "))
 
         # Prompt for input and string extra whitespace
         attempt = input("english meaning: ").lower().strip()
+
+        # If "say" command ran, ensure the process terminates
+        if say_sp:
+            say_sp.communicate()
 
         # If user entered a period (.) then quit gracefully (rc=0)
         if attempt == ".":
