@@ -80,7 +80,7 @@ def load_csv_data(csv_filename):
     # Try to open the file
     try:
         # If the file exists, include rows that don't begin with # (comment)
-        with open(csv_filename, encoding="utf=8") as handle:
+        with open(csv_filename, encoding="utf-8") as handle:
             csv_reader = csv.reader(handle)
             rows = [row for row in csv_reader if not row[0].startswith("#")]
 
