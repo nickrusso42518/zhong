@@ -18,6 +18,7 @@ quick gameplay and scorekeeping.
   * [Advanced Usage](#advanced-usage)
   * [Forking](#forking)
   * [Testing](#testing)
+  * [Disclaimer](#disclaimer)
 
 ## Installation
 You must be running Python 3.6 or later.
@@ -102,35 +103,35 @@ The `no_commit/` directory is ignored by `git` and can be used to
 store temporary CSV files. I use these to create private, personalized
 quizzes on my weak areas.
 
-Gameplay (not colorized) with comments in brackets:
+Gameplay (not colorized) with comments in {curly braces}:
 ```
-$ python play.py 
 HOW TO PLAY:
   Provide the english meaning for the chinese/pinyin phrase shown.
   Press ENTER by itself (no input) to reprint/restate the phrase.
   Enter a comma (,) character to skip/forfeit a question.
   Enter a period (.) character to quit gracefully.
 
-1/451:    末    (mo4)
-english meaning: end
-correct english: end  [green]
+1/761:    电影    (dian4 ying3)
+english meaning: movie
+correct english: movie   {GREEN TEXT}
+[success# = 1   success% = 100]
 
-2/451:    中文    (zhong1 wen2)
-english meaning: chinese language
-correct english: chinese language  [green]
+2/761:    我没有去中国    (wo3 mei2 you3 qu4 zhong1 guo2)
+english meaning: I did not go to China
+correct english: i did not go to china   {GREEN TEXT}
+[success# = 2   success% = 100]
 
-3/451:    星期    (xing1 qi1)
+3/761:    校    (xiao4)
 english meaning: wrong on purpose
-correct english: week day specifier  [red]
+correct english: school   {RED TEXT}
+[success# = 2   success% = 66]
 
-4/451:    一共    (yi1 gong4)
-english meaning: 
-
-4/451:    一共    (yi1 gong4)
+4/761:    但是    (dan4 shi4)
 english meaning: ,
-correct english: altogether/in total  [red]
+correct english: but/however/yet   {RED_TEXT}
+[success# = 2   success% = 50]
 
-5/451:    电    (dian4)
+5/761:    哪个站    (na3 ge4 zhan4)
 english meaning: .
 
 
@@ -161,3 +162,10 @@ There are currently three steps:
 You can run `make` or `make all` to run all the testing in series when doing
 manual regression testing from the shell. As mentioned earlier in the README,
 this is a good idea after first cloning/forking the repository.
+
+## Disclaimer
+I am actively learning Mandarin Chinese and consider myself a novice. This
+program helps me study. I often discover errors in my CSV files (which I
+promptly correct), so these files should not be viewed as authoritative
+databases. You can check out the Python `chinese` package or perhaps a
+professionally published Chinese dictionary to get the "right" information.

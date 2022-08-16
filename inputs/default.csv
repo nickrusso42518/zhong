@@ -45,10 +45,10 @@
 月,yue4,month (after numbers)
 号,hao4,number/day of month (conversational)
 日,ri4,sun/day of month (written)
-点,dian3,point/dot/drop/oclock (after numbers)/order food or drink
-点钟,dian3 zhong1,oclock (after numbers)
+点,dian3,point/oclock/o'clock (after numbers)/order food or drink
+点钟,dian3 zhong1,oclock/o'clock (after numbers)
 半,ban4,half/half past the hour (30 minutes)
-四点,si4 dian3,4:00/4 oclock
+四点,si4 dian3,4:00/4 oclock/4 o'clock
 四点半,si4 dian3 ban4,4:30/half past 4
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
 四点零六,si4 dian3 ling2 liu4,4:06
@@ -71,7 +71,8 @@
 星期天,xing1 qi1 tian1,sunday day of week
 星期日,xing1 qi1 ri4,sunday day of week
 几,ji3,how many? (countable less than 10 with mw after)
-几点,ji3:2 dian3,when?/what time? (oclock)
+几点,ji3:2 dian3,when?/what time? (o'clock)
+星期几,xing qi1 ji3,what day of week?
 几号,ji3 hao4,what day of month?
 几月,ji3 yue4,what month?
 几月几号,ji3 yue4 ji3 hao4,what date? (month and day)
@@ -107,7 +108,7 @@
 每,mei3,every (all time periods)
 钟,zhong1,bell
 分,fen1,slice/fraction/minute on clock (specify time)/hundreth of yuan
-分钟,fen1 zhong1,quantity of minutes
+分钟,fen1 zhong1,duration of minutes
 末,mo4,end/final stage/latter part
 周,zhou1,lap/cycle/to circle
 做,zuo4,do/make/produce
@@ -139,26 +140,30 @@
 上个月,shang4 ge4 yue4,last month
 上个星期三,shang4 ge4 xing1 qi1 san1,last wednesday
 我,wo3,i/me
-你,ni3,you
+你,ni3,you (informal)
+您,nin2,you (formal)
 他,ta1,he/him
 她,ta1,she/her
 它,ta1,it
 是,shi4,is/am/are/to be (equates two nouns)
-# 是吗,shi4 ma,is that true?/is that to be?
+是吗,shi4 ma,is that true?/is that so?
 们,men,plural modifier
 我们,wo3 men,we/us
-你们,ni3 men,you (plural)
+你们,ni3 men,you (plural & informal)
+您们,nin2 men,you (plural & formal)
 他们,ta1 men,they/them (male)
 她们,ta1 men,they/them (female)
 它们,ta1 men,they/them (neutral)
-的,de,noun-de-noun possession/adj-de-noun description
+的,de,noun-de-noun possession/adj&time-de-noun description
 我的,wo3 de,my
-你的,ni3 de,your
+你的,ni3 de,your (informal)
+您的,nin2 de,your (formal)
 他的,ta1 de,his
 她的,ta1 de,hers
 它的,ta1 de,its
 我们的,wo3 men de,our
-你们的,ni3 men de,your (plural)
+你们的,ni3 men de,your (plural & informal)
+您们的,nin2 men de,your (plural & formal)
 他们的,ta1 men de,their (male)
 她们的,ta1 men de,their (female)
 它们的,ta1 men de,their (neutral)
@@ -244,7 +249,7 @@
 近,jin4,near/close to/approximately
 最近,zui4 jin4,recently
 很,hen3,very/really (before verb)/noun-hen-adj connector
-呢,ne,and?/what about?/ok?
+呢,ne,and?/what about?/how about?
 和,he2,and/together with (link nouns)
 元,yuan2,yuan/rmb
 钱,qian2,money
@@ -254,6 +259,8 @@
 什,shen2,assorted/varied
 么,me,interrogative suffix only
 什么,shen2 me,what?
+候,hou4,time (noun)/wait (verb)
+什么时候,shen2 me shi2 hou4:,when?
 多,duo1,many/more/much
 少,shao3,few/less/little
 多少,duo1 shao3,how much? (large or uncountable quantity)
@@ -504,8 +511,12 @@
 务,wu4,service/affair/matter
 员,yuan2,employee/member
 服务员,fu2 wu4 yuan2,server/waiter/waitress
+有人,you3 ren2,someone
+有一天,you3 yi1:4 tian1,someday/one day
+有的,you3 de,some of (subset of members in group)
 些,xie1,plural marker
-一些,yi1:4 xie1,some/a few/a little/slighty (after adj)
+有些,you3 xie1,some/a few/a little/slighty (before subject)
+一些,yi1:4 xie1,some/a few/a little/slighty (before object)
 这些,zhe4 xie1,these
 那些,na4 xie1,those
 这次,zhe4 ci4,this time
@@ -528,6 +539,9 @@
 包,bao1,mw for small sealed bags like snacks
 袋,dai4,mw for large open bags like shopping
 面包,mian4 bao1,bread
+包子,bao1 zi,steamed bun/steamed stuffed bun
+肉包子,rou4 bao1 zi,meat stuffed bun
+菜包子,cai4 bao1 zi,vegetable stuffed bun
 糖,tang2,sugar/candy
 米,mi3,rice
 为,wei4,for
@@ -604,7 +618,9 @@
 健康,jian4 kang1,health/healthy
 胖,pang2,fat/chubby/plump
 瘦,shou4,thin/lean/tight
-不要,bu4:2 yao4,do not/don't (sharp command)
+不要,bu4:2 yao4,do not/don't (often negates a command & formal)
+别,bie2,do not/don't (often negates a command & colloquial)
+吧,ba,softening particle (let's ...)
 大,da4,big/large/great
 小,xiao3,small/little/tiny
 注,zhu4,concentrate/inject/pour into
@@ -638,7 +654,6 @@
 讨论讨论,tao3 lun4 tao3 lun4,discuss a bit
 打听,da3 ting1:,ask about/make inquiries
 打听打听,da3 ting1: da3 ting1:,ask a bit about
-您,nin2,you (formal)
 读,du2,read with focus (verb)/reading (noun)
 商,shang1,trader/business
 业,ye4,industry/occupation
@@ -686,6 +701,7 @@
 开关,kai1 guan1,on-off switch
 时,shi2,time
 小时,xiao3 shi2,hour
+半个小时,ban4 ge4 xiao3 shi2,half an hour/30 minutes
 秒,miao3,seconds
 刻,ke4,quarter/moment
 两点一刻,yi1:2 ke4,2:15/quarter after 2:00/quarter past 2:00
@@ -722,12 +738,25 @@
 室,shi4,room/work unit
 办公,ban4 gong1,work in an office
 办公室,ban4 gong1 shi4,office/bureau
-辆,liang4,mw for vehicles
+辆,liang4,mw for wheeled vehicles
 马,ma3,horse
-足,zu2,foot/to be sufficient/ample
 篮,lan2,basket (receptable)
-泳,yong3,swim/swimming
 片,pian4,thin piece/slice/mw for slices
 瓶,ping2,bottle/pitcher/mw for liquids
 瓶子,ping2 zi,bottle (noun)
 照片,zhao4 pian4,photograph/picture
+打,da3,beat/strike/hit/play arm-ball sport
+踢,ti1,kick/play leg-ball sport
+球,qiu2,ball/sphere/globe
+篮球,lan2 qiu2,basketball
+足,zu2,foot/to be sufficient/ample
+足球,zu2 qiu2,soccer
+跑,pao3,run (component)
+步,bu4,step/pace (noun)
+跑步,pao3 bu4,running/runs
+泳,yong3,swim/swimming
+游泳,you2 yong3,swimming/swims
+骑,qi2,riding/rides (animal or bicycle)
+运,yun4,transport/move object
+动,dong4,set in movement/displace
+运动,yun4 dong4,move/exercise (verb)/sports (noun)
