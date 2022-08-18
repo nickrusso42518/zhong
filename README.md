@@ -105,34 +105,49 @@ quizzes on my weak areas.
 
 Gameplay (not colorized) with comments in {curly braces}:
 ```
+$ python play.py
 HOW TO PLAY:
   Provide the english meaning for the chinese/pinyin phrase shown.
   Press ENTER by itself (no input) to reprint/restate the phrase.
   Enter a comma (,) character to skip/forfeit a question.
+  Enter a question mark (?) character to consult the dictionary.
   Enter a period (.) character to quit gracefully.
 
-1/761:    电影    (dian4 ying3)
-english meaning: movie
-correct english: movie   {GREEN TEXT}
+1/796:    有点儿    (you3:2 diar3)
+english meaning: a bit
+correct english: a bit of intensity (before adj & northern)   {GREEN TEXT}
 [success# = 1   success% = 100]
 
-2/761:    我没有去中国    (wo3 mei2 you3 qu4 zhong1 guo2)
-english meaning: I did not go to China
-correct english: i did not go to china   {GREEN TEXT}
+2/796:    瓶子    (ping2 zi)
+english meaning: bottle
+correct english: bottle (noun)   {GREEN TEXT}
 [success# = 2   success% = 100]
 
-3/761:    校    (xiao4)
+3/796:    报    (bao4)
 english meaning: wrong on purpose
-correct english: school   {RED TEXT}
+correct english: announce/inform/report   {RED TEXT}
 [success# = 2   success% = 66]
 
-4/761:    但是    (dan4 shi4)
-english meaning: ,
-correct english: but/however/yet   {RED_TEXT}
+4/796:    员    (yuan2)
+english meaning: ?
+
+員   (yuan2)
+  1. person
+  2. employee
+  3. member
+
+
+correct english: employee/member   {RED TEXT}
 [success# = 2   success% = 50]
 
-5/761:    哪个站    (na3 ge4 zhan4)
+5/796:    二    (er4)
+english meaning: ,
+correct english: 2/two   {RED TEXT}
+[success# = 2   success% = 40]
+
+6/796:    住    (zhu4)
 english meaning: .
+
 
 
 $

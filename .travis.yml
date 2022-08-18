@@ -7,11 +7,12 @@ python:
 install:
   - "pip install -r requirements.txt"
 
-# Perform pre-checks
+# Perform pre-checks before gameplay simulations.
 before_script:
   - "make lint"
+  - "make db"
 
-# Perform runbook testing with mock ASA inputs.
+# Perform gameplay simulation with various inputs.
 script:
   - "make run"
 ...
