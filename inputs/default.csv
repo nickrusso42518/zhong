@@ -113,8 +113,8 @@
 周,zhou1,lap/cycle/to circle
 做,zuo4,do/make/produce
 明年,ming2 nian2,next year
-来,lai2,come/arrive
-去,qu4,go to a place/to denote last year
+来,lai2,come (verb)/coming (adj)
+去,qu4,physically go somewhere
 去年,qu4 nian2,last year
 今年,jin1 nian2,this year
 周末,zhou1 mo4,weekend
@@ -176,11 +176,11 @@
 喂,wei4,hey/hello/use 2nd tone to answer phone
 久,jiu3,long duration of time
 好久不见,hao3:2 jiu3 bu4:2 jian4,long time no see
-请,qing3,please/precedes a command
+请,qing3,please/request/invite
 问,wen4,ask
 题,ti2,topic/subject
 问题,wen4 ti2,question/problem/issue
-请问,qing3 wen4,excuse me/pardon me (get attention)
+请问,qing3 wen4,excuse me/pardon me (lit. please ask)
 谢谢,xie4 xie,thanks
 谢谢你,xie4 xie ni3,thank you
 客,ke4,guest/customer
@@ -215,7 +215,7 @@
 喝,he1,drink (verb)
 水,shui3,water
 茶,cha2,tea
-牛,niu4,cow/bull/ox
+牛,niu2,cow/bull/ox
 奶,nai3,milk
 牛奶,niu2 nai3,cow milk
 咖啡,ka1 fei1,coffee (loanword)
@@ -236,10 +236,13 @@
 快,kuai4,fast/rapid/speed/quickly
 慢,man4,slowly
 他吃得很快,ta1 chi1 de hen3 kuai4,he eats quickly
-她说得很慢,ta1 shou1 de hen3 man4,she speaks slowly
-它游泳游得最好,ta1 you2 yong3 you3 de zui4 hao3,it swims the best (no prior context)
-我跑步跑得不错,wo3:2 pao3 bu4 pao3 de bu4:2 cuo4,i run pretty well (no prior context)
-你们游得最好,ni3 men you2 de zui4 hao3,you swim the best (context established)
+她说得很清楚,ta1 shou1 de hen3 qing1 chu3,she speaks clearly
+你游泳游得最好,ni3 you2 yong3 you3 de zui4 hao3,you swim the best (no context)
+你游得最好,ni3 you2 de zui4 hao3,you swim the best (in context)
+我跑步跑得不错,wo3:2 pao3 bu4 pao3 de bu4:2 cuo4,i run pretty well (no context)
+我跑得不错,wo3:2 pao3 de bu4:2 cuo4,i run pretty well (in context)
+他们打篮球打得非常慢,ta1 men da3 lan2 qiu2 da3 de fei1 chang2 man4,they play basketball very slowly (no context)
+他们打得非常慢,ta1 men da3 de fei1 chang2 man4,they play very slowly (in context)
 次,ci4,number of times/iteration (mw)
 一次,yi1:2 ci4,once/once time
 两次,liang3 ci4,twice/two times
@@ -257,13 +260,17 @@
 元,yuan2,yuan/rmb
 钱,qian2,money
 字,zi4,letter/symbol/character
-名字,ming2 zi4:,name
+名字,ming2 zi4:,name/first name
 汉字,han4 zi4,chinese character/chinese writing
 什,shen2,assorted/varied
 么,me,interrogative suffix only
 什么,shen2 me,what?
 候,hou4,time (noun)/wait (verb)
 什么时候,shen2 me shi2 hou4:,when?
+时,shi2,time (component)
+时间,shi2 jian1,time (standalone noun)
+空,kong4,vacant (adj)/to empty (verb)
+有空,you3 kong4,available/have time to do something
 多,duo1,many/more/much
 少,shao3,few/less/little
 多少,duo1 shao3,how much? (large or uncountable quantity)
@@ -326,6 +333,7 @@
 香,xiang1,fragrant/sweet smelling
 港,gang3,port/harbor
 香港,xiang1 gang3,hong kong
+约,yue1,approximately (adv)
 纽约,niu3 yue1,new york
 台湾,tai2 wan1,taiwan
 伦敦,lun2 dun1,london
@@ -381,7 +389,7 @@
 猫,mao1,cat
 狗,gou3,dog
 漂,piao4,elegant/polished
-亮,liang4,clear/resonant
+亮,liang4,bright/clear/resonant
 漂亮,piao4 liang4,beautiful/pretty
 非,fei1,not/wrong/incorrect
 常,chang2,always/often/frequently
@@ -391,7 +399,7 @@
 手,shou3,hand
 间,jian1,between or among (adv)/room (mw)
 洗手间,xi3:2 shou3 jian1,bathroom
-院,yuan4,yard
+院,yuan4,yard/courtyard/institution
 医院,yi1 yuan4,hospital
 馆,guan3,shop/building
 饭馆,fan4 guan3,restaurant
@@ -399,12 +407,13 @@
 餐厅,can1 ting1,restaurant
 校,xiao4,school
 学校,xue2 xiao4,school
+大学,da4 xue2,college/university
 从,cong2,from a place/from a time (before noun)
 到,dao4,to a place/until a time (before noun)/arrive
+往,wang3,towards a place (before noun)
 走,zou3,walk/run/go (sharp command)
 怎么走,zen3 me zou3,how to get? (to a place)
 路,lu4,road/the way
-往,wang3,towards
 左,zuo3,left direction
 右,you4,right direction
 边,bian1,side/boundary
@@ -445,7 +454,8 @@
 睡觉,shui4 jiao4,sleep/go to bed
 回,hui2,return/go back/turn around
 放,fang4,put/release/free
-做饭,zuo4 fan4,cook (could have noun in between)
+做饭,zuo4 fan4,cook (lit. make food)
+煮,zhu3,cook/boil
 上学,shang4 xue2,go to school
 放学,fang4 xue2,get out of school
 上班,shang4 ban1,go to work/be on duty
@@ -459,6 +469,7 @@
 二千七百零五块四毛九分,er4 qian1 qi1 bai3 ling2 wu3 kuai4 si4 mao2 jiu3 fen1,2705.49 yuan
 共,gong4,common/general (component)
 一共,yi1:2 gong4,altogether/in total
+一起,yi1:4 qi3,together
 收,shou1,receive/accept/collect
 信,xin4,letter/mail
 用,yong4,use/employ
@@ -492,7 +503,7 @@
 节目,jie2 mu4,show/program
 体,ti3,body/form/substance (component)
 育,yu4,educate
-体育,ti3 yu4,sports/physical education
+体育,ti3 yu4,sports/physical education/physical training
 房间,fang2 jian1,room
 桌子,zhuo1 zi,table/desk
 椅子,yi3 zi,chair
@@ -594,7 +605,7 @@
 但,dan4,but/however/yet (component)
 但是,dan4 shi4,but/however/yet
 肉,rou4,meat/flesh/pulp of a fruit
-牛肉,niu rou4,beef/cow meat
+牛肉,niu2 rou4,beef/cow meat
 鸡肉,ji1 rou4,chicken meat
 羊,yang2,sheep
 羊肉,yang2 rou4,lamb/mutton/sheep meat
@@ -706,14 +717,12 @@
 开门,kai1 men2,open the door/open up a shop
 关门,guan1 men2,close the door/close down a shop
 开关,kai1 guan1,on-off switch
-时,shi2,time (component)
-时间,shi2 jian1,time
 小时,xiao3 shi2,hour
 半个小时,ban4 ge4 xiao3 shi2,half an hour/30 minutes
 秒,miao3,seconds
 刻,ke4,quarter/moment
 两点一刻,yi1:2 ke4,2:15/quarter after 2:00/quarter past 2:00
-差,cha4,differ from/fall short of/lacking
+差,cha1 :: cha4,difference/discrepancy (noun) :: differ from/fall short of (verb)
 四点差一刻,cha4 yi1:2 ke4,3:45/quarter until 4:00/quarter to 4:00
 整,zheng3,exactly/whole/sharp (time)
 八点整,ba1 dian3:2 zheng3,8:00 sharp/exactly 8:00
@@ -767,4 +776,22 @@
 骑,qi2,riding/rides (animal or bicycle)
 运,yun4,transport (verb)/transportation or luck (noun)
 动,dong4,move
-运动,yun4 dong4,move/exercise (verb)/sports (noun)
+运动,yun4 dong4,move or exercise (verb)/sports or motion (noun)
+清,qing1,clear/distinct
+楚,chu3,clear/distinct
+清楚,qing1 chu3,clear (adj)/understand (verb)
+漫,man4,overflow/flood (noun or verb)
+浪,lang4,ocean wave/unrestrained
+浪漫,lang4 man4,romantic
+约会,yue1 hui4,appointment/date
+不好意思,bu4 hao3 yi1:4 si1:,feel embarrassed/sorry for inconveniencing
+诉,su4,complain or appeal (verb)/complaint (noun)
+告,gao4,tell/inform/accuse
+告诉,gai4 su4,tell/inform
+应,ying1,should/agree to do something (component)
+该,gai1,should/ought to (component)
+应该,ying1 gai1,should/ought to
+舒,shu1,stretch/physically relax
+舒服,shu1 fu2,comfortable/well (lit. stretch clothes)
+病,bing4,disease/illness/sickness
+生病,sheng1 bing4,sick/ill (adj)
