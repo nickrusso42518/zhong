@@ -68,3 +68,36 @@ def load_csv_data(csv_filename):
 
     # All tests passed; return the list of rows
     return rows
+
+
+def print_report(argv):
+    """
+    Count Chinese phrases by length and display the results. This helps
+    determine how much of a given CSV file has individual characters/words
+    versus longer phrases.
+    """
+
+    # Loop over CLI arguments
+    for arg in argv[1:]:
+
+        # Perform regular data loading and validation process
+        rows = load_csv_data(arg)
+        counters = {}
+
+        # Loop over rows, creating a new dict key upon first seeing a new
+        # length word, then increment that counter afterwards
+        for row in rows:
+            key = len(row[0])
+            counters[key] = (counters[key] + 1) if (key in counters) else 1
+
+        # Print the report for a given file, including the word length
+        # and number of words having that length
+        print(f"Report for {arg}")
+        for key, val in counters.items():
+            if val:
+                print(f"  - {key}: {val}")
+        print()
+
+
+if __name__ == "__main__":
+    print_report(sys.argv)

@@ -318,7 +318,7 @@
 老,lao3,old/venerable (person)
 师,shi1,teacher/expert
 老师,lao3 shi1,teacher (in a school)
-医,yi1,medicine
+医,yi1,medical/medicine
 生,sheng1,new/raw/immature
 医生,yi1 sheng1,doctor
 学生,xue2 sheng1,student
@@ -339,7 +339,7 @@
 伦敦,lun2 dun1,london
 京,jing1,capital city
 北京,bei3 jing1,beijing
-家,jia1,house/home (mw for buildings)
+家,jia1,house/home (mw for family-run buildings)
 家人,jia1 ren2,family
 住,zhu4,lives/dwells/resides
 在,zai4,located at/to be in/actively doing (before verb is -ing)
@@ -714,6 +714,8 @@
 衣服,yi1 fu2:,clothes/clothing/outfit
 件,jian4,mw for a piece of clothing or an event
 商店,shang1 dian4,shop/store (noun)
+面包店,mian4 bao1 dian4,bakery/bread shop
+咖啡店,ka1 fei1 dian4,cafe/coffee shop
 开门,kai1 men2,open the door/open up a shop
 关门,guan1 men2,close the door/close down a shop
 开关,kai1 guan1,on-off switch
@@ -788,10 +790,35 @@
 诉,su4,complain or appeal (verb)/complaint (noun)
 告,gao4,tell/inform/accuse
 告诉,gai4 su4,tell/inform
+肚,du3 :: du4,tripe :: abdomen/stomach (component)
+肚子,du4 zi,stomach
+留,liu2,stay/remain
+留在家工作,liu2 zai4 jia1 gon1 zuo4,work from home
+定,ding4,set or fix (verb)/fixed or definite (adj)
+一定,yi1:2 ding4,surely/necessarily/certainly
+感,gan3,feel/move/touch
+冒,mao4,emit/give off
+感冒,gan3 mao4,have a cold/sick with a cold
+药,yao4,medicine/drug (as food or drink)
+发,fa1,send/issue
+烧,shao1,burn/cook/stew
+发烧,fa1 shao1,have a fever/sick with a fever
 应,ying1,should/agree to do something (component)
 该,gai1,should/ought to (component)
 应该,ying1 gai1,should/ought to
-舒,shu1,stretch/physically relax
-舒服,shu1 fu2,comfortable/well (lit. stretch clothes)
+舒,shu1,stretch/unfold/physically relax
+舒服,shu1 fu2,comfortable/feeling well (lit. stretch clothes)
 病,bing4,disease/illness/sickness
-生病,sheng1 bing4,sick/ill (adj)
+生病,sheng1 bing4,get sick/fall ill
+头,tou2,head/hair style
+头疼,tou2 teng2,headache
+她有头疼,ta1 de tou2 teng2,she has a headache
+他的头很疼,ta1 de tou2 hen3 teng2,his head hurts
+休,xiu1,rest/cease/stop for a period of time
+息,xi1,breath/interest on investment
+休息,xiu1 xi1,rest/take break
+疼,teng2,hurts/painful
+好吃,hao3 chi1,tasty/good to eat (adj)
+好喝,hao3 he1,tasty/good to drink (adj)
+假,jia3 :: jia4,false/fake/artificial :: vacation
+请假,qing3 jia4,ask for leave of absence/ask for time off

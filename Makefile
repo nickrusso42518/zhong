@@ -20,6 +20,7 @@ lint:
 db:
 	@echo "Starting  db"
 	python test_lookups.py inputs/default.csv inputs/tp.csv >> /dev/null
+	python utils/fileio.py inputs/default.csv inputs/tp.csv
 	@echo "Completed db"
 
 .PHONY: run
