@@ -38,7 +38,7 @@ def load_csv_data(csv_filename):
         sys.exit(3)
 
     # Iterate over list of rows from CSV
-    seen_chin, dup_chin = set(), []
+    chin_unique, chin_dup = set(), []
     for row in rows:
 
         # Ensure exactly 3 columns exist in each row
@@ -57,14 +57,19 @@ def load_csv_data(csv_filename):
             pinyin_char in VALID_PINYIN for pinyin_char in row[1]
         ), f"{row[1]} not in {VALID_PINYIN}"
 
+        # Ensure number of chinese and pinyin elements are the same
+        # Ignore this test if pinyin contains "::" for multi-tone characters
+        if not "::" in row[1]:
+            assert len(row[0]) == row[1].count(" ") + 1, f"{row[0]}: {row[1]}"
+
         # Capture duplicates; if symbol in set already, it's a duplicate
-        if row[0] in seen_chin:
-            dup_chin.append(row[0])
+        if not row[0] in chin_unique:
+            chin_unique.add(row[0])
         else:
-            seen_chin.add(row[0])
+            chin_dup.append(row[0])
 
     # Ensure duplicate list has zero length, else we have duplicates
-    assert not dup_chin, f"dup_chin: {','.join(dup_chin)}"
+    assert not chin_dup, f"duplicate entries: {','.join(chin_dup)}"
 
     # All tests passed; return the list of rows
     return rows

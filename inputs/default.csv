@@ -54,11 +54,11 @@
 四点零六,si4 dian3 ling2 liu4,4:06
 一下,yi1:2 xia4,a bit of effort/try quickly (after action verb)
 一会,yi1:2 hui4,in a bit of time/in a moment (after motion verb & southern)
-一会儿,yi1:2 hui4 er,in a bit of time/in a moment (after motion verb & northern)
-一点,yi1:4 dian3,a bit of the item (before noun & southern)
-一点儿,yi1:4 diar3,a bit of the item (before noun & northern)
+一会儿,yi1:2 hui4 r,in a bit of time/in a moment (after motion verb & northern)
+一点,yi1:4 dian3,a bit of quantity (before noun & southern)
+一点儿,yi1:4 dia3 r,a bit of quantity (before noun & northern)
 有点,you3:2 dian3,a bit of intensity (before adj & southern)
-有点儿,you3:2 diar3,a bit of intensity (before adj & northern)
+有点儿,you3:2 dia3 r,a bit of intensity (before adj & northern)
 星,xing1,star/heavenly body
 期,qi1,phase/stage/term
 星期,xing1 qi1,week day specifier (before numbers)
@@ -190,13 +190,13 @@
 抱,bao4,hug/surround/carry in arms
 歉,qian4,apologize/regret
 抱歉,bao4 qian4,sorry (minor)
-起,qi3,arise/get up
+起,qi3,arise/get up/stand up
 对不起,dui4 bu4 qi3,sorry (major)
 关,guan1,close/shut
 系,xi4,connect/bind/tie up
 再,zai4,again (used before verb)
 见,jian4,see/meet
-再见,zai4 jian4,goodbye
+再见,zai4 jian4,goodbye/see soon
 吗,ma,yn?/yes or no question
 不,bu4,no/not (negates present/future actions)
 是不是,shi4 bu4:2 shi4,whether/is it not? (pattern for yn?)
@@ -232,8 +232,8 @@
 说,shuo1,say/speak/tell
 白,bai2,white/pure
 明白,ming2 bai2,understand/clear/obvious
-得,de,describe/modify action (after verb)
-快,kuai4,fast/rapid/speed/quickly
+得,de,describe/modify action (after verb) when object is absent
+快,kuai4,fast/quickly/soon
 慢,man4,slowly
 他吃得很快,ta1 chi1 de hen3 kuai4,he eats quickly
 她说得很清楚,ta1 shou1 de hen3 qing1 chu3,she speaks clearly
@@ -271,8 +271,8 @@
 时间,shi2 jian1,time (standalone noun)
 空,kong4,vacant (adj)/to empty (verb)
 有空,you3 kong4,available/have time to do something
-多,duo1,many/more/much
-少,shao3,few/less/little
+多,duo1,many/more/much (adj)
+少,shao3,few/less/little (adj)
 多少,duo1 shao3,how much? (large or uncountable quantity)
 多少钱,duo1 shao3 qian2,how much money?
 叫,jiao4,am/be called
@@ -319,7 +319,7 @@
 师,shi1,teacher/expert
 老师,lao3 shi1,teacher (in a school)
 医,yi1,medical/medicine
-生,sheng1,new/raw/immature
+生,sheng1,raw or immature (adj)/life (noun)
 医生,yi1 sheng1,doctor
 学生,xue2 sheng1,student
 怎,zen3,how
@@ -364,7 +364,7 @@
 有,you3,has/have/possess
 没有,mei2 you3,not have (negate past actions)
 她有没有,ta1 you3 mei2 you3,does she have? (pattern for yn?)
-关系,guan1 xi4,relationship
+关系,guan1 xi4,relationship (noun)/affect or concern (verb)
 没关系,mei2 guan1 xi4,it doesn't matter/no problem/no worries
 爱,ai4,love
 妈妈,ma1 ma,mom/mother
@@ -379,10 +379,10 @@
 女孩,nv3 hai2,girl/girls
 丈夫,zhang4 fu1:,husband
 妻子,qi1 zi,wife
-姐姐,jie3 jie,older sister
-哥哥,ge1 ge,older brother
-妹妹,mei4 mei,younger sister
-弟弟,di4 di,younger brother
+姐姐,jie3 jie,older sister/big sister
+哥哥,ge1 ge,older brother/big brother
+妹妹,mei4 mei,younger sister/little sister
+弟弟,di4 di,younger brother/little brother
 朋友,peng2 you3,friend
 男朋友,nan2 peng2 you3,boyfriend
 女朋友,nv3 peng2 you3,girlfriend
@@ -503,7 +503,7 @@
 节目,jie2 mu4,show/program
 体,ti3,body/form/substance (component)
 育,yu4,educate
-体育,ti3 yu4,sports/physical education/physical training
+体育,ti3 yu4,sports/physical education
 房间,fang2 jian1,room
 桌子,zhuo1 zi,table/desk
 椅子,yi3 zi,chair
@@ -611,7 +611,7 @@
 羊肉,yang2 rou4,lamb/mutton/sheep meat
 猪,zhu1,pig/hog/swine
 猪肉,zhu1 rou4,pork/pig meat
-条,tiao2,strip (mw for long objects/animals)
+条,tiao2,strip (mw for long and soft objects/animals)
 面条,mian4 tiao2,noodles
 写,xie3,write
 本,ben3,root/stem/source/origin/mw for books or magazines
@@ -644,14 +644,14 @@
 意,yi4,idea/meaning/thought
 注意,zhu4 yi4,pay attention to/take note of
 身,shen1,body (component)
-身体,shen1 ti3,body/one's health
-身体健康,shen1 ti3 jian4 kang1,body/one's health
+身体,shen1 ti3,body
+身体健康,shen1 ti3 jian4 kang1,healthy body/one's health
 开,kai1,start/open (verb component)/drive car
 始,shi3,start/beginning (noun)
 开始,kai1 shi3,start/begin/beginning (verb or adj)
 锻,duan4,forge/discipline (verb)/wrought (adj)
 炼,lian4,refine/smelt/temper with fire
-锻炼,duan4 lian4,work out/exercise
+锻炼,duan4 lian4,train/work out/exercise
 提,ti2,lift/carry/put forward
 手提,shou3 ti2,portable
 手提包,shou3 ti2 bao1,handbag/purse
@@ -712,7 +712,7 @@
 龙,long2,dragon/serpent
 衣,yi1,wear/dress/put on clothes
 衣服,yi1 fu2:,clothes/clothing/outfit
-件,jian4,mw for a piece of clothing or an event
+件,jian4,mw for a clothing top or an event
 商店,shang1 dian4,shop/store (noun)
 面包店,mian4 bao1 dian4,bakery/bread shop
 咖啡店,ka1 fei1 dian4,cafe/coffee shop
@@ -723,9 +723,9 @@
 半个小时,ban4 ge4 xiao3 shi2,half an hour/30 minutes
 秒,miao3,seconds
 刻,ke4,quarter/moment
-两点一刻,yi1:2 ke4,2:15/quarter after 2:00/quarter past 2:00
+两点一刻,liang3:2 dian3 yi1:2 ke4,2:15/quarter after 2:00/quarter past 2:00
 差,cha1 :: cha4,difference/discrepancy (noun) :: differ from/fall short of (verb)
-四点差一刻,cha4 yi1:2 ke4,3:45/quarter until 4:00/quarter to 4:00
+四点差一刻,si4 dian3 cha4 yi1:2 ke4,3:45/quarter until 4:00/quarter to 4:00
 整,zheng3,exactly/whole/sharp (time)
 八点整,ba1 dian3:2 zheng3,8:00 sharp/exactly 8:00
 很早,hen3:2 zao3,early (time reference)
@@ -778,7 +778,7 @@
 骑,qi2,riding/rides (animal or bicycle)
 运,yun4,transport (verb)/transportation or luck (noun)
 动,dong4,move
-运动,yun4 dong4,move or exercise (verb)/sports or motion (noun)
+运动,yun4 dong4,move or exercise (verb)/movement or motion (noun)
 清,qing1,clear/distinct
 楚,chu3,clear/distinct
 清楚,qing1 chu3,clear (adj)/understand (verb)
@@ -789,19 +789,20 @@
 不好意思,bu4 hao3 yi1:4 si1:,feel embarrassed/sorry for inconveniencing
 诉,su4,complain or appeal (verb)/complaint (noun)
 告,gao4,tell/inform/accuse
-告诉,gai4 su4,tell/inform
+告诉,gai4 su4,tell/inform/let know
 肚,du3 :: du4,tripe :: abdomen/stomach (component)
-肚子,du4 zi,stomach
+肚子,du4 zi,stomach/belly
+肚子疼,du4 zi teng2,stomachache/bellyache
 留,liu2,stay/remain
-留在家工作,liu2 zai4 jia1 gon1 zuo4,work from home
+留在家工作,liu2 zai4 jia1 gong1 zuo4,work from home
 定,ding4,set or fix (verb)/fixed or definite (adj)
-一定,yi1:2 ding4,surely/necessarily/certainly
-感,gan3,feel/move/touch
-冒,mao4,emit/give off
+一定,yi1:2 ding4,surely/necessarily/certainly/definitely
+感,gan3,sense/feel
+冒,mao4,risk/dare
 感冒,gan3 mao4,have a cold/sick with a cold
 药,yao4,medicine/drug (as food or drink)
-发,fa1,send/issue
-烧,shao1,burn/cook/stew
+发,fa1,send out/issue/dispatch
+烧,shao1,burn/bake/heat/roast
 发烧,fa1 shao1,have a fever/sick with a fever
 应,ying1,should/agree to do something (component)
 该,gai1,should/ought to (component)
@@ -816,9 +817,33 @@
 他的头很疼,ta1 de tou2 hen3 teng2,his head hurts
 休,xiu1,rest/cease/stop for a period of time
 息,xi1,breath/interest on investment
-休息,xiu1 xi1,rest/take break
+休息,xiu1 xi1,rest/take a break
 疼,teng2,hurts/painful
-好吃,hao3 chi1,tasty/good to eat (adj)
-好喝,hao3 he1,tasty/good to drink (adj)
+好吃,hao3 chi1,tasty/delicious/good to eat (adj)
+好喝,hao3 he1,tasty/delicious/good to drink (adj)
+好看,hao3 kan4,looks good/good to look (adj)
 假,jia3 :: jia4,false/fake/artificial :: vacation
 请假,qing3 jia4,ask for leave of absence/ask for time off
+他喝很多水,ta1 he1 hen3 duo1 shui3,he drinks a lot of water
+他喝得很快很多水,ta1 he1 de hen3 kuai4 hen3 duo1 shui3,he quickly drinks a lot of water
+# 你喝了很少啤酒,ni3 he1 le hen3:2 shao3 pi2 jiu3,you drank a little beer
+# 你喝了很慢很少啤酒,ni3 he1 le hen3 man4 hen3:2 shao3 pi2 jiu3,you slowly drank a little beer
+扮,ban4,disguise/dress up/play a role
+打扮,da3 ban4,dress/decorate
+饿,e4,hungry (verb or adj)
+力,li4,power/force/strength/ability
+生日,sheng1 ri4,birthday
+跟,gen1,with/go with/follow closely
+跟你一起,gen1 ni3 yi1:4 qi3,together with you
+跟我的狗一起,gen1 wo3 de gou3 yi1:4 qi3,together with my dog
+希,xi1,hope (verb)/rare (adj)
+望,wang4,hope/expect/look forward
+希望,xi1 wang4,wish for/desire/hope
+派,pai4,clique/group/faction
+派对,pai4 dui4,party (loanword)
+司,si1,take charge of/manage
+公司,gong1 si1,company/corporation (location)
+正,zheng4,straight/upright/positive
+正在,zheng4 zai4,just at (time)/right at (place)/currently doing (action)
+大家,da4 jia1,everyone/influential family
+才,cai2,finally/took longer than expected (after time & before verb)
