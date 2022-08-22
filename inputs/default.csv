@@ -262,8 +262,8 @@
 字,zi4,letter/symbol/character
 名字,ming2 zi4:,name/first name
 汉字,han4 zi4,chinese character/chinese writing
-什,shen2,assorted/varied
-么,me,interrogative suffix only
+什,shen2,what
+么,me,interrogative suffix/non-yn?
 什么,shen2 me,what?
 候,hou4,time (noun)/wait (verb)
 什么时候,shen2 me shi2 hou4:,when?
@@ -282,7 +282,7 @@
 电话,dian4 hua4,phone/telephone
 电话号码,dian4 hua4 hao4 ma3,phone number
 打电话,da3 dian4 hua4,make phone call/call on the phone
-给他打电话,gei3 ta1 da3 dian4 hua4,call him on the phone
+给他打电话,gei3 ta1 da3 dian4 hua4,call him on the phone/give him a call
 中,zhong1,central/middle
 国,guo2,country/kingdom
 中国,zhong1 guo2,china country
@@ -325,15 +325,16 @@
 怎,zen3,how
 怎么,zen3 me,how to?
 样,yang4,manner/way/appearance
-怎么样,zen3 me yang4,how? how are things?/how about?
+怎么样,zen3 me yang4,how?/how was it?/how are things?/how about?
 早上好,zao3 shang4 hao3,good morning
+安,an1,content/calm/secure/safe
 早安,zao3 an1,good morning
 晚上好,wan3 shang4 hao3,good night/good evening
 晚安,wan3 an1,good night/good evening
 香,xiang1,fragrant/sweet smelling
 港,gang3,port/harbor
 香港,xiang1 gang3,hong kong
-约,yue1,approximately (adv)
+约,yue1,make appointment/invite
 纽约,niu3 yue1,new york
 台湾,tai2 wan1,taiwan
 伦敦,lun2 dun1,london
@@ -449,7 +450,7 @@
 跳舞,tiao4 wu3,dance
 唱,chang2,sing/call/chant
 床,chuang2,bed
-起床,qi3 chuang2,rise from bed
+起床,qi3 chuang2,arise from bed/wake up/get up/get out of bed
 班,ban1,work shift/team/class
 睡觉,shui4 jiao4,sleep/go to bed
 回,hui2,return/go back/turn around
@@ -557,8 +558,8 @@
 袋,dai4,mw for large open bags like shopping
 面包,mian4 bao1,bread
 包子,bao1 zi,steamed bun/steamed stuffed bun
-肉包子,rou4 bao1 zi,meat stuffed bun
-菜包子,cai4 bao1 zi,vegetable stuffed bun
+肉包子,rou4 bao1 zi,meat stuffed bun/meat steamed bun
+菜包子,cai4 bao1 zi,vegetable stuffed bun/vegetable steamed bun
 糖,tang2,sugar/candy
 米,mi3,rice
 为,wei4,for
@@ -688,7 +689,7 @@
 站,zhan4,stand/halt/stop (verb)/station (noun)
 哪个站,na3 ge4 zhan4,which stop/station? (transportation)
 车,che1,vehicle/transportation/car
-下车,xia4 che1,get off/disembark from generic vehicle
+下车,xia4 che1,get off/get out/disembark from generic vehicle
 船,chuan2,boat/vessel/ship
 地,di4,earth/ground/land
 铁,tie3,iron (noun)
@@ -821,7 +822,7 @@
 疼,teng2,hurts/painful
 好吃,hao3 chi1,tasty/delicious/good to eat (adj)
 好喝,hao3 he1,tasty/delicious/good to drink (adj)
-好看,hao3 kan4,looks good/good to look (adj)
+好看,hao3 kan4,looks good/good looking/good to look (adj)
 假,jia3 :: jia4,false/fake/artificial :: vacation
 请假,qing3 jia4,ask for leave of absence/ask for time off
 他喝得很快,ta1 he1 de hen3 kuai4,he drinks quickly
@@ -855,6 +856,6 @@
 一点的时候,yi1:4 dian3 de shi2 hou4,at one o'clock/at 1:00
 爸妈,ba4 ma1,parents/dad and mom/father and mother
 回去,hui2 qu4,go back (omit qu when destination exists)
-饭店,hotel/restaurant/diner
+饭店,fan4 dian4,hotel/restaurant/diner
 同学,tong2 xue2,schoolmate/classmate
 色,se4,color
