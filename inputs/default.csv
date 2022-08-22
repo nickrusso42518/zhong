@@ -3,7 +3,7 @@
 〇,ling2,0/zero (year dates only)
 一,yi1,1/one
 二,er4,2/two
-两,liang3,2/two (with measure words/quantities)
+两,liang3,2/two/couple (with measure words/quantities)
 三,san1,3/three
 四,si4,4/four
 五,wu3,5/five
@@ -101,12 +101,12 @@
 可,ke3,can/may (component)
 以,yi3,by means of/according to
 可以,ke3:2 yi3,may/allowed to/permitted to
-会,hui4,will (in the future)/can (apply a learned skill)
+会,hui4,can (apply a learned skill)/will (with future time reference)
 能,neng2,able to/physically capable of doing
 上,shang4,previous (hour or week or month)/to go to (work)/above/on
 下,xia4,next (hour or week or month)/to get off (work)/below/under/disembark from vehicle
 每,mei3,every (all time periods)
-钟,zhong1,bell
+钟,zhong1,bell/oclock/o'clock
 分,fen1,slice/fraction/minute on clock (specify time)/hundreth of yuan
 分钟,fen1 zhong1,duration of minutes
 末,mo4,end/final stage/latter part
@@ -200,6 +200,7 @@
 吗,ma,yn?/yes or no question
 不,bu4,no/not (negates present/future actions)
 是不是,shi4 bu4:2 shi4,whether/is it not? (pattern for yn?)
+好不好,hao3 bu4 hao3,ok?/good?
 也,ye3,also/too (adverb; after subject and before verb)
 吃,chi1,eat
 饭,fan4,rice/meal/serving
@@ -223,7 +224,7 @@
 热,re4,hot
 姓,xing4,last name/to be surnamed
 最,zui4,best/most (superlative)
-要,yao4,wants/need/will (forceful and determined)
+要,yao4,wants or needs/will (with future time reference)
 想,xiang3,think/desire/consider
 想要,xiang3 yao4,would like/seriously consider
 帮,bang1,help/assist/support
@@ -768,6 +769,7 @@
 打,da3,beat/strike/hit/play arm-ball sport
 踢,ti1,kick/play leg-ball sport
 球,qiu2,ball/sphere/globe
+打球,da3 qui2,play ball (verb or noun)
 篮球,lan2 qiu2,basketball
 足,zu2,foot/to be sufficient/ample
 足球,zu2 qiu2,soccer
@@ -775,7 +777,7 @@
 步,bu4,step/pace (noun)
 跑步,pao3 bu4,running/runs
 泳,yong3,swimming (noun)
-游泳,you2 yong3,swimming/swims
+游泳,you2 yong3,swims (verb)/swimming (noun)
 骑,qi2,riding/rides (animal or bicycle)
 运,yun4,transport (verb)/transportation or luck (noun)
 动,dong4,move
