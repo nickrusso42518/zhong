@@ -30,7 +30,7 @@
 一百一十四,yi1 bai3 yi1 shi2 si4,114/one hundred fourteen
 千,qian1,thousand
 万,wan4,ten thousand
-现在,xian4 zai4,now/right now
+现在,xian4 zai4,now/right now (cannot reference past)
 今天,jin1 tian1,today
 明,ming2,bright/next (day or year)
 明天,ming2 tian1,tomorrow
@@ -374,7 +374,7 @@
 男,nan2,male
 女,nv3,female (v means ü)
 女儿,nv3 er2,daughter
-子,zi,noun suffix only
+子,zi,offspring/seed of/noun suffix
 儿子,er2 zi,son
 孩子,hai2 zi,child/children
 男孩,nan2 hai2,boy/boys
@@ -781,7 +781,7 @@
 游泳,you2 yong3,swims (verb)/swimming (noun)
 骑,qi2,riding/rides (animal or bicycle)
 运,yun4,transport (verb)/transportation or luck (noun)
-动,dong4,move
+动,dong4,move/displace
 运动,yun4 dong4,move or exercise (verb)/movement or motion (noun)
 清,qing1,clear/distinct
 楚,chu3,clear/distinct
@@ -848,7 +848,7 @@
 司,si1,take charge of/manage
 公司,gong1 si1,company/corporation (location)
 正,zheng4,straight/upright/positive
-正在,zheng4 zai4,just at (time)/right at (place)/currently doing (action)
+正在,zheng4 zai4,currently doing or was doing (action)
 大家,da4 jia1,everyone/influential family
 才,cai2,finally/took longer than expected (after time & before verb)
 情,qing2,situation/feeling/sentiment/emotion
@@ -860,6 +860,7 @@
 爸妈,ba4 ma1,parents/dad and mom/father and mother
 回去,hui2 qu4,go back (omit qu when destination exists)
 饭店,fan4 dian4,hotel/restaurant/diner
+酒吧,jiu3 ba1,bar/pub/saloon
 同,tong2,same (pronoun)/with (preposition)
 同学,tong2 xue2,schoolmate/classmate
 色,se4,color
@@ -904,3 +905,21 @@
 质,zhi4,material/substance
 量,liang4,amount/quantity/capacity
 质量,zhi4 liang4,quality (noun)
+又,you4,connect like-to-like adjs (both adj-A and adj-B)
+那个鱼又大又好吃,na4 ge4 yu2 you4 da4 you4 hao3 chi1,that fish is both big and tasty
+绿,lv4,green color
+黑,hei1,black color
+耳,er3,ear/handle
+朵,duo3,earlobe
+耳朵,er3:2 duo3,ears (body part)
+眼,yan3,eye/eyelet/hole/opening
+睛,jing1,eye/eyeball
+眼睛,yan3 jing1,eyes (body part)
+头发,tou2 fa4,hair on head
+脸,lian3,face (body part)
+鼻,bi2,nose (component)
+鼻子,bi2 zi,nose (body part)
+脚,jiao3,foot/feet (body part)
+嘴,zui3,mouth/lips
+巴,ba1,greatly desire/anxiously hope
+嘴巴,zui3 ba1,mouth (body part)
