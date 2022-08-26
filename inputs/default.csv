@@ -103,7 +103,7 @@
 可以,ke3:2 yi3,may/allowed to/permitted to
 会,hui4,can (apply a learned skill)/will (with future time reference)
 能,neng2,able to/physically capable of doing
-上,shang4,previous (hour or week or month)/to go to (work)/above/on
+上,shang4,previous (hour or week or month)/to go to (work)/above/on/embark onto vehicle
 下,xia4,next (hour or week or month)/to get off (work)/below/under/disembark from vehicle
 每,mei3,every (all time periods)
 钟,zhong1,bell/oclock/o'clock
@@ -154,7 +154,7 @@
 他们,ta1 men,they/them (male)
 她们,ta1 men,they/them (female)
 它们,ta1 men,they/them (neutral)
-的,de,noun-de-noun possession/adj&time-de-noun description
+的,de,noun-的-noun possession/adj&time-的-noun description
 我的,wo3 de,my
 你的,ni3 de,your (informal)
 您的,nin2 de,your (formal)
@@ -233,7 +233,7 @@
 说,shuo1,say/speak/tell
 白,bai2,white/pure
 明白,ming2 bai2,understand/clear/obvious
-得,de,describe/modify action (after verb) when object is absent
+得,de :: dei3,describe/modify action (after verb) :: need to (before verb)
 快,kuai4,fast/quickly/soon
 慢,man4,slowly
 他吃得很快,ta1 chi1 de hen3 kuai4,he eats quickly
@@ -253,9 +253,7 @@
 高兴,gao1 xing4,happy
 错,cuo4,mistake/wrong/bad/incorrectly
 不错,bu4:2 cuo4,not bad/pretty good
-近,jin4,near/close to/approximately
-最近,zui4 jin4,recently
-很,hen3,very/really (before verb)/noun-hen-adj connector
+很,hen3,very/really (before verb)/noun-很-adj connector
 呢,ne,and?/what about?/how about?
 和,he2,and/together with (link nouns)
 元,yuan2,yuan/rmb
@@ -538,8 +536,10 @@
 一些,yi1:4 xie1,some/a few/a little/slighty (before object)
 这些,zhe4 xie1,these
 那些,na4 xie1,those
-这次,zhe4 ci4,this time
-那次,na4 ci4,that time
+这次,zhe4 ci4,this time (uncommon)
+这个时候,zhe4 ge4 shi2 hou4, this time (common)
+那次,na4 ci4,that time (uncommon)
+那个时候,na4 ge4 shi2 hou4, that time (common)
 东西,dong1 xi1:,things/stuff
 什么东西,shen2 me dong1 xi1:,something?/anything?/what thing?
 超,chao1,super/ultra
@@ -555,7 +555,7 @@
 鸡,ji1,chicken/fowl
 鸡蛋,ji1 dan4,chicken egg
 蔬菜,shu1 cai4,vegetables/produce
-新鲜,xin1 xian1,fresh/novel/uncommon
+新鲜,xin1 xian1,fresh/novel/uncommon (experience or food)
 包,bao1,mw for small sealed bags like snacks
 袋,dai4,mw for large open bags like shopping
 面包,mian4 bao1,bread
@@ -568,8 +568,8 @@
 因,yin1,cause/reason
 为什么,wei4 shen2 me,why?/for what? (adjacent to person targeted)
 因为,yin1 wei4,because/since (before noun)
-所,suo2,actually/that which
-所以,suo2 yi3,so/therefore (before noun)
+所,suo3,actually/that which/mw for houses and small buildings
+所以,suo3:2 yi3,so/therefore (before noun)
 学习,xue2 xi2,learn/study
 西班牙,xi1 ban1 ya2,spain country
 西班牙人,xi1 ban1 ya2 ren2,spanish person/spaniard
@@ -594,7 +594,7 @@
 我去过中国,wo3 qu4 guo4 zhong1 guo2,i have been to china
 我不去中国,wo3 bu4:2 qu4 zhong1 guo2,i do not go to china
 我没有去中国,wo3 mei2 you3 qu4 zhong1 guo2,i have not gone to china/i did not go to china
-我没去过中国,wo3 mei2 qu4 guo2 zhong1 guo2,i have never been to china
+我没去过中国,wo3 mei2 qu4 guo4 zhong1 guo2,i have never been to china
 我吃米饭,wo3 chi1 mi3 fan4,i eat rice
 你喝了热茶,ni3 he1 le re4 cha2,you drank hot tea
 他们看过报纸,ta1 men kan4 guo4 bao4 zhi3,they have read a newspaper
@@ -691,6 +691,7 @@
 站,zhan4,stand/halt/stop (verb)/station (noun)
 哪个站,na3 ge4 zhan4,which stop/station? (transportation)
 车,che1,vehicle/transportation/car
+上车,shang4 che1,get on/get in/embark onto generic vehicle
 下车,xia4 che1,get off/get out/disembark from generic vehicle
 船,chuan2,boat/vessel/ship
 地,di4,earth/ground/land
@@ -770,7 +771,7 @@
 打,da3,beat/strike/hit/play arm-ball sport
 踢,ti1,kick/play leg-ball sport
 球,qiu2,ball/sphere/globe
-打球,da3 qui2,play ball (verb or noun)
+打球,da3 qiu2,play ball (verb or noun)
 篮球,lan2 qiu2,basketball
 足,zu2,foot/to be sufficient/ample
 足球,zu2 qiu2,soccer
@@ -853,6 +854,7 @@
 才,cai2,finally/took longer than expected (after time & before verb)
 情,qing2,situation/feeling/sentiment/emotion
 事,shi4,matter/affair
+急,ji2,urgent/pressing/hurried
 事情,shi4 qing2,matter/affair/thing to be told
 一件事情,yi1:2 jian4 shi4 qing2,something/one thing/one matter
 有时候,you3 shi2 hou4,sometimes
@@ -897,7 +899,7 @@
 双,shuang1,pair (noun)/mw for pair objects (eg shoes but not pants)
 鞋子,xie2 zi,shoes
 蓝色的鞋子,lan2 se4 de xie2 zi,blue shoes
-比,bi3,compare to/adj-er than (noun-bi-noun-adj)
+比,bi3,compare to/adj-er than (noun-比-noun-adj)
 这双比那双小,zhe4 shuang1 bi3 na4 shuang1 xiao3,this pair is smaller than that pair
 意大利,yi4 da4 li4,italy country
 裤,ku4,pants/trousers (component)
@@ -905,7 +907,7 @@
 质,zhi4,material/substance
 量,liang4,amount/quantity/capacity
 质量,zhi4 liang4,quality (noun)
-又,you4,connect like-to-like adjs (both adj-A and adj-B)
+又,you4,connect like-to-like adjs (又-adj1-又-adj2)
 那个鱼又大又好吃,na4 ge4 yu2 you4 da4 you4 hao3 chi1,that fish is both big and tasty
 绿,lv4,green color
 黑,hei1,black color
@@ -923,3 +925,12 @@
 嘴,zui3,mouth/lips
 巴,ba1,greatly desire/anxiously hope
 嘴巴,zui3 ba1,mouth (body part)
+有钱人,you3 qian2 ren2,rich person
+我是应该吃饭的,wo3 shi4 ying1 gai1 chi1 fan4 de,i should eat
+你是能游泳的,ni3 shi4 neng2 you2 yong3 de,you could swim (able to)
+他是会开车的,ta1 shi4 hui4 kai1 che1 de,he could drive (knows how to)
+她是可以睡觉的,ta1 shi4 ke3:2 yi3 shui4 jiao4 de,she could sleep (permitted to)
+离,li2,from/distance between locations (loc1-离-loc2)
+远,yuan3,distant/far (loc1-离-loc2-远)
+近,jin4,near/close/approximately (loc1-离-loc2-近)
+最近,zui4 jin4,recently
