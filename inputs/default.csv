@@ -95,7 +95,7 @@
 二〇三四年十二月七号,er4 ling2 er4 si4 nian2 shi2 er4 yue4 qi1 hao4,7 december 2034
 一九八五年五月二十六号,yi1 jiu3 ba1 wu3 nian2 wu3 yue4 er4 shi2 liu4 hao4,26 may 1985
 了,le,completed action marker/change in situation (end of sentence)
-过,guo4,experienced action marker
+过,guo4,experienced action marker (after verb)
 昨,zuo2,to denote yesterday
 昨天,zuo2 tian1,yesterday
 可,ke3,can/may (component)
@@ -691,6 +691,7 @@
 站,zhan4,stand/halt/stop (verb)/station (noun)
 哪个站,na3 ge4 zhan4,which stop/station? (transportation)
 车,che1,vehicle/transportation/car
+开车,kai1 che1,drive car
 上车,shang4 che1,get on/get in/embark onto generic vehicle
 下车,xia4 che1,get off/get out/disembark from generic vehicle
 船,chuan2,boat/vessel/ship
@@ -892,9 +893,9 @@
 蓝,lan2,blue
 试,shi4,try or experiment (verb)/exam or test (noun)
 利,li4,gains/advantage
-裙子,qun2 zi,skirt
+裙子,qun2 zi,skirt/dress
 衬,chen4,underwear/lining/liner
-衫,shan1,shirt
+衫,shan1,shirt/robe/gown/jacket
 衬衫,chen4 shan1,shirt/blouse
 双,shuang1,pair (noun)/mw for pair objects (eg shoes but not pants)
 鞋子,xie2 zi,shoes
@@ -933,4 +934,25 @@
 离,li2,from/distance between locations (loc1-离-loc2)
 远,yuan3,distant/far (loc1-离-loc2-远)
 近,jin4,near/close/approximately (loc1-离-loc2-近)
+餐厅离学校不近,can1 ting1 li2 xue2 xiao4 bu4:2 jin4,the restaurant is not near the school
+我们离酒店很近,wo3 men li2 jiu3 dian4 hen3 jin4,we are close to the hotel/we are near the hotel
+医院离这里远吗,yi1 yuan4 li2 zhe4 li3 yuan3 ma,is the hospital far from here?
+火车站离机场远不远,huo3 che1 zhan4 li2 ji1 chang3 yuan3 bu4 yuan3,is the train station far from the airport?
 最近,zui4 jin4,recently
+走路,zou3 lu4,walk/go by foot
+飞,fei1,fly (verb)
+飞机,fei1 ji1,airplane/flight
+场,chang3,large place/stage
+机场,ji1 chang3,airport
+停,ting2,stop/halt/park car
+靠,kao4,lean on/come near
+火,huo3,fire/fiery/flaming
+火车,huo3 che1,train vehicle (noun)
+票,piao4,ticket/ballot/banknote
+机票,ji1 piao4,airplane tickets
+飞机票,fei1 ji1 piao4,airplane tickets
+火车票,huo3 che1 piao4,train tickets
+让,rang4,let someone do something/allow/yield/permit
+迟,chi2,late/delayed
+迟到了,chi2 dao4 le,arrived late
+怎么办,zen3 me ban4,what to do?
