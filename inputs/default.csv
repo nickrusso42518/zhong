@@ -408,8 +408,8 @@
 校,xiao4,school
 学校,xue2 xiao4,school
 大学,da4 xue2,college/university
-从,cong2,from a place/from a time (before noun)
-到,dao4,to a place/until a time (before noun)/arrive
+从,cong2,from a place/from a time (before noun and before 到)
+到,dao4,to a place/until a time (before noun and after 从)/arrive
 往,wang3,towards a place (before noun)
 走,zou3,walk/run/go (sharp command)
 怎么走,zen3 me zou3,how to get? (to a place)
@@ -567,10 +567,11 @@
 为,wei4,for
 因,yin1,cause/reason
 为什么,wei4 shen2 me,why?/for what? (adjacent to person targeted)
-因为,yin1 wei4,because/since (before noun)
+因为,yin1 wei4,because/since (before noun and before 所以)
 所,suo3,actually/that which/mw for houses and small buildings
-所以,suo3:2 yi3,so/therefore (before noun)
+所以,suo3:2 yi3,so/therefore (before noun and after 因为)
 学习,xue2 xi2,learn/study
+牙,ya2,tooth/ivory
 西班牙,xi1 ban1 ya2,spain country
 西班牙人,xi1 ban1 ya2 ren2,spanish person/spaniard
 西班牙语,xi1 ban1 ya2 yu3,spanish language
@@ -711,6 +712,7 @@
 汽,qi4,steam/vapor
 汽车,qi4 che1,car/automobile
 出租车,chu1 zu1 che1,taxi
+打车,da3 che1,take a taxi
 公,gong1,public/common (component)
 公共,gong1 gong4,public/community
 公共汽车,gong1 gong4 qi4 che1,bus
@@ -850,7 +852,7 @@
 司,si1,take charge of/manage
 公司,gong1 si1,company/corporation (location)
 正,zheng4,straight/upright/positive
-正在,zheng4 zai4,currently doing or was doing (action)
+正在,zheng4 zai4,actively doing or was doing (action)
 大家,da4 jia1,everyone/influential family
 才,cai2,finally/took longer than expected (after time & before verb)
 情,qing2,situation/feeling/sentiment/emotion
@@ -890,6 +892,7 @@
 游客,you2 ke4,traveler/tourist
 如,ru2,if/like/as
 如果,ru2 guo3,if/in case of/in the event that
+就,jiu4,then (following 如果 in formal setting)
 蓝,lan2,blue
 试,shi4,try or experiment (verb)/exam or test (noun)
 利,li4,gains/advantage
@@ -964,3 +967,25 @@
 还没有,hai2 mei2 you3,not yet (long style)
 还没,hai2 mei2,not yet (short style)
 没什么,mei2 shen2 me,nothing
+着,zhe,actively doing (after verb is -ing)
+雨,yu3,rain (noun)
+下雨,xia yu3,rain (verb)
+雪,xue3,snow (noun)
+下雪,xia4 xue3,snow (verb)
+阴,yin1,cloudy/overcast (adj)
+阴天,yin1 tian1,cloudy day/overcast day (noun)
+晴,qing2,clear weather/sunny weather (adj)
+晴天,qing2 tian1,clear day/sunny day (noun)
+天气,tian1 qi4,weather
+带,dai4,bring with (verb)/band to hold item together (noun)
+伞,san3,umbrella/parasol
+冷,leng3,cold
+有多,you3 duo1,how much (adj)?
+有多冷,you3 duo1 leng3,how cold?
+从来不,cong2 lai2 bu4,never (before verb)
+长,chang2,length/long/forever
+穿,chuan1,wear/put on/dress
+刮,gua1,blow/scrape/shave (verb)
+风,feng1,wind (fast moving air & noun)
+刮风,gua1 feng1,be windy/blow wind
+可能,ke2 neng2,might happen/maybe/possible
