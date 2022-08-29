@@ -410,6 +410,7 @@
 大学,da4 xue2,college/university
 从,cong2,from a place/from a time (before noun and before 到)
 到,dao4,to a place/until a time (before noun and after 从)/arrive
+从，到,cong2 : dao4,from ... to a place/from ... until a time
 往,wang3,towards a place (before noun)
 走,zou3,walk/run/go (sharp command)
 怎么走,zen3 me zou3,how to get? (to a place)
@@ -570,6 +571,7 @@
 因为,yin1 wei4,because/since (before noun and before 所以)
 所,suo3,actually/that which/mw for houses and small buildings
 所以,suo3:2 yi3,so/therefore (before noun and after 因为)
+因为，所以,yin1 wei4 : suo3:2 yi3,because ... so
 学习,xue2 xi2,learn/study
 牙,ya2,tooth/ivory
 西班牙,xi1 ban1 ya2,spain country
@@ -892,7 +894,8 @@
 游客,you2 ke4,traveler/tourist
 如,ru2,if/like/as
 如果,ru2 guo3,if/in case of/in the event that
-就,jiu4,then (following 如果 in formal setting)
+就,jiu4,then (after 如果 in formal setting)
+如果，就,ru2 guo3 : jiu4,if ... then
 蓝,lan2,blue
 试,shi4,try or experiment (verb)/exam or test (noun)
 利,li4,gains/advantage
@@ -930,6 +933,7 @@
 巴,ba1,greatly desire/anxiously hope
 嘴巴,zui3 ba1,mouth (body part)
 有钱人,you3 qian2 ren2,rich person
+是，的,shi4 : de,emphasized question and answer construction
 我是应该吃饭的,wo3 shi4 ying1 gai1 chi1 fan4 de,i should eat
 他是会开车的,ta1 shi4 hui4 kai1 che1 de,he would drive (knows how to)
 你是能游泳的,ni3 shi4 neng2 you2 yong3 de,you could swim (able to)
