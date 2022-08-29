@@ -23,7 +23,10 @@ def main(args):
 
     # Load symbols and initialize counters to track progress
     rows = load_csv_data(args.infile)
-    succ_c, i, total = 0, 1, len(rows)
+    fail_list = []
+    succ_c = 0
+    i = 1
+    total = len(rows)
 
     # Print gameplay instructions before asking translation questions
     print("HOW TO PLAY:")
@@ -46,12 +49,20 @@ def main(args):
         # Attempt to collect input from user interactively
         attempt = run_attempt(args, chinese, pinyin, i, total)
 
+        # If attempt is None, user wants to quit. Print failed items
+        # and exit with rc=0 to signal success (no error)
+        if attempt is None:
+            fail_list_str = "\n".join(fail_list)
+            print(f"\nINCORRECTLY ANSWERED:\n{fail_list_str}\n")
+            sys.exit(0)
+
         # Test for proper english input, colorize it, and track successes
         if attempt in english:
             e_color = Fore.GREEN
             succ_c += 1
         else:
             e_color = Fore.RED
+            fail_list.append(",".join(row))
 
         # Print colorized output, then current success count and percent
         print(f"correct english: {e_color}{english}{Style.RESET_ALL}")
@@ -96,10 +107,9 @@ def run_attempt(args, chinese, pinyin, i, total):
         if attempt == "?":
             lookup(chinese)
 
-        # If user entered a period (.) then quit gracefully (rc=0)
+        # If user entered a period (.) then return None
         elif attempt == ".":
-            print("\n\n")
-            sys.exit(0)
+            return None
 
     # Return the user input
     return attempt
