@@ -7,7 +7,6 @@ Description: Chinese language trainer. See README.md for details.
 
 import random
 import subprocess
-import sys
 
 from colorama import Fore, Back, Style
 
@@ -49,12 +48,9 @@ def main(args):
         # Attempt to collect input from user interactively
         attempt = run_attempt(args, chinese, pinyin, i, total)
 
-        # If attempt is None, user wants to quit. Print failed items
-        # and exit with rc=0 to signal success (no error)
+        # If attempt is None, user wants to quit. Break out of the loop
         if attempt is None:
-            fail_list_str = "\n".join(fail_list)
-            print(f"\nINCORRECTLY ANSWERED:\n{fail_list_str}\n")
-            sys.exit(0)
+            break
 
         # Test for proper english input, colorize it, and track successes
         if attempt in english:
@@ -71,6 +67,11 @@ def main(args):
         # Delete row from list (won't see twice) and increment counter
         del rows[index]
         i += 1
+
+    # If attempt is None, user wants to quit. Print failed items
+    # and exit with rc=0 to signal success (no error)
+    fail_list_str = "\n".join(fail_list)
+    print(f"\nINCORRECTLY ANSWERED:\n{fail_list_str}\n")
 
 
 def run_attempt(args, chinese, pinyin, i, total):
