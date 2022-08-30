@@ -95,7 +95,7 @@
 二〇三四年十二月七号,er4 ling2 er4 si4 nian2 shi2 er4 yue4 qi1 hao4,7 december 2034
 一九八五年五月二十六号,yi1 jiu3 ba1 wu3 nian2 wu3 yue4 er4 shi2 liu4 hao4,26 may 1985
 了,le,completed action marker/change in situation (end of sentence)
-过,guo4,experienced action marker (after verb)
+过,guo4,experienced action marker (after verb)/pass or cross or celebrate (verb)
 昨,zuo2,to denote yesterday
 昨天,zuo2 tian1,yesterday
 可,ke3,can/may (component 可以)
@@ -433,22 +433,22 @@
 书,shu1,book/letter/document
 看书,kan4 shu1,read a book
 听,ting1,listen/hear
-音,yin1,sound/noise
-乐,yue4,music
+音,yin1,sound/noise (component 音乐)
+乐,le4 :: yue4,cheerful/laugh (component 快乐) :: music (component 音乐)
 音乐,yin1 yue4,music/musical sound
-听音乐,ting1 yin1 yue4,listen to music
 歌,ge1,song
 脑,nao3,brain/mind
 电脑,dian4 nao3,computer
 玩,wan2,play/have fun
 游,you2,tour/travel/swim
-戏,xi4,drama/performance
+戏,xi4,drama/performance (component 游戏)
 游戏,you2 xi4,game
 电脑游戏,dian4 nao3 you2 xi4,computer game
-跳,tiao4,jump/hop/bounce
-舞,wu3,dance/wield/brandish
+跳,tiao4,jump/hop/bounce (component 跳舞)
+舞,wu3,dance/wield/brandish (component 跳舞)
 跳舞,tiao4 wu3,dance
-唱,chang2,sing/call/chant
+唱,chang2,sing/call (component 唱歌)
+唱歌,chang ge1,sing/call
 床,chuang2,bed
 起床,qi3 chuang2,arise from bed/wake up/get up/get out of bed
 班,ban1,work shift/team/class
@@ -546,7 +546,7 @@
 超,chao1,super/ultra
 市,shi4,market/city
 超市,chao1 shi4,supermarket
-给,gei3,give/allow
+给,gei3,give/allow (verb)/to (prep)
 果,guo3,fruit/result
 水果,shui3:2 guo3,fruit
 苹果,ping2 guo3,apple
@@ -1011,3 +1011,17 @@
 表,biao3,watch/timepiece
 手表,shou3:2 biao3,wristwatch/timepiece
 卖完,mai4 wan2,sold out (verb)
+春,chun1,spring season/joyful
+春节,chun1 jie2,spring festival/chinese new year
+而,er2,and/as well as
+介,jie4,introduce/lie between
+聪,cong1,wise/clever/intelligent
+快乐,kuai4 le4,happy/cheerful
+节日,jie2 ri4,festival/holiday
+送,song4,delivery/give as a present
+送给,song4 gei3,give
+礼,li3,gift/rite/ceremony (component 礼物)
+物,wu4,thing/object (component 礼物)
+礼物,li3 wu4,gift
+怎么过,zen3 me guo4,how to celebrate?/how will one celebrate?
+中国白酒,zhong1 guo2 bai2 jiu3,chinese white wine
