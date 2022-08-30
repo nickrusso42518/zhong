@@ -98,7 +98,7 @@
 过,guo4,experienced action marker (after verb)
 昨,zuo2,to denote yesterday
 昨天,zuo2 tian1,yesterday
-可,ke3,can/may (component)
+可,ke3,can/may (component 可以)
 以,yi3,by means of/according to
 可以,ke3:2 yi3,may/allowed to/permitted to
 会,hui4,can (apply a learned skill)/will (with future time reference)
@@ -174,7 +174,7 @@
 好啦,hao3 la,express reluctant agreement/fine!/whatever!
 你好,ni3:2 hao3,hello/hi
 喂,wei4,hey/hello/use 2nd tone to answer phone
-久,jiu3,long duration of time
+久,jiu3,long (time only)
 好久不见,hao3:2 jiu3 bu4:2 jian4,long time no see
 请,qing3,please/request/invite
 问,wen4,ask
@@ -206,7 +206,7 @@
 饭,fan4,rice/meal/serving
 餐,can1,meal
 鱼,yu2,fish
-面,mian4,side/surface/noodles (component)
+面,mian4,side/surface/noodles
 早饭,zao3 fan4,breakfast
 早餐,zao3 can1,breakfast
 午饭,wu3 fan4,lunch
@@ -247,8 +247,8 @@
 次,ci4,number of times/iteration (mw)
 一次,yi1:2 ci4,once/once time
 两次,liang3 ci4,twice/two times
-高,gao1,tall/high
-矮,ai3,short/low
+高,gao1,tall/high person
+矮,ai3,short/low person
 兴,xing4,excitement/interest in
 高兴,gao1 xing4,happy
 错,cuo4,mistake/wrong/bad/incorrectly
@@ -266,7 +266,7 @@
 什么,shen2 me,what?
 候,hou4,time (noun)/wait (verb)
 什么时候,shen2 me shi2 hou4:,when?
-时,shi2,time (component)
+时,shi2,time (component 时间)
 时间,shi2 jian1,time (standalone noun)
 空,kong4,vacant (adj)/to empty (verb)
 有空,you3 kong4,available/have time to do something
@@ -426,8 +426,8 @@
 旁边,pang2 bian1,lateral/generic side
 里面,li3 mian4,inside/interior
 外面,wai4 mian4,outside/exterior
-喜,xi3,be fond of/like/enjoy (component)
-欢,huan1,joyous/happy/pleased (component)
+喜,xi3,be fond of/like/enjoy (component 喜欢)
+欢,huan1,joyous/happy/pleased (component 喜欢)
 喜欢,xi3 huan1,like/enjoy
 看,kan4,look at/watch/read without focus
 书,shu1,book/letter/document
@@ -468,7 +468,7 @@
 块,kuai4,yuan or rmb (noun)/mw for piece or slice
 毛,mao2,hair/tenth of yuan
 二千七百零五块四毛九分,er4 qian1 qi1 bai3 ling2 wu3 kuai4 si4 mao2 jiu3 fen1,2705.49 yuan
-共,gong4,common/general (component)
+共,gong4,common/general
 一共,yi1:2 gong4,altogether/in total
 一起,yi1:4 qi3,together
 收,shou1,receive/accept/collect
@@ -502,7 +502,7 @@
 节,jie2,festival/holiday
 目,mu4,eye/item/list
 节目,jie2 mu4,show/program
-体,ti3,body/form/substance (component)
+体,ti3,body/form/substance (component 身体)
 育,yu4,educate
 体育,ti3 yu4,sports/physical education
 房间,fang2 jian1,room
@@ -608,8 +608,6 @@
 抽烟,cho1 yan1,smoke a cigarette (verb)
 还,hai2,still in progress/still more/yet
 还是,hai2 shi4,or?/still/nevertheless
-但,dan4,but/however/yet (component)
-但是,dan4 shi4,but/however/yet
 肉,rou4,meat/flesh/pulp of a fruit
 牛肉,niu2 rou4,beef/cow meat
 鸡肉,ji1 rou4,chicken meat
@@ -629,7 +627,7 @@
 海,hai3,sea/ocean
 上海,shang4 hai3,shanghai city
 料,liao4,material/stuff/grain
-饮,yin3,beverage/drink (component)
+饮,yin3,beverage/drink (component 饮料)
 饮料,yin3 liao4,beverage/drink (noun)
 工,gong1,work/job/profession (noun)
 作,zuo4,do/grow
@@ -649,7 +647,7 @@
 注,zhu4,concentrate/inject/pour into
 意,yi4,idea/meaning/thought
 注意,zhu4 yi4,pay attention to/take note of
-身,shen1,body (component)
+身,shen1,body (component 身体)
 身体,shen1 ti3,body
 身体健康,shen1 ti3 jian4 kang1,healthy body/one's health
 开,kai1,start/open (verb component)/drive car
@@ -685,7 +683,7 @@
 接,jie1,connect/receive/meet
 迎接,ying2 jie1,meet/greet (verb)/greeting (noun)
 欢迎,huan1 ying2,welcome (verb or noun)
-需,xu1,need/require (component)
+需,xu1,need/require (component 需要)
 需要,xu1 yao4,need or demand (verb)/required (adj)
 字中文,zi4 zhong1 wen2,chinese character
 难,nan2,difficult/problem
@@ -708,14 +706,14 @@
 便,bian4,plain/informal
 随便,sui2 bian4,as one pleases/as one wishes/casual
 准,zhun3,allow/grant
-出,chu1,go out/come out/occur (component)
+出,chu1,go out/come out/occur (component 出去)
 出去,chu1 qu4,go out
 租,zu1,rent/hire
 汽,qi4,steam/vapor
 汽车,qi4 che1,car/automobile
 出租车,chu1 zu1 che1,taxi
 打车,da3 che1,take a taxi
-公,gong1,public/common (component)
+公,gong1,public/common (component 公共 & 公司)
 公共,gong1 gong4,public/community
 公共汽车,gong1 gong4 qi4 che1,bus
 龙,long2,dragon/serpent
@@ -780,8 +778,8 @@
 篮球,lan2 qiu2,basketball
 足,zu2,foot/to be sufficient/ample
 足球,zu2 qiu2,soccer
-跑,pao3,run (component)
-步,bu4,step/pace (noun)
+跑,pao3,run (component 跑步)
+步,bu4,step/pace (noun & component 跑步)
 跑步,pao3 bu4,running/runs
 泳,yong3,swimming (noun)
 游泳,you2 yong3,swims (verb)/swimming (noun)
@@ -800,7 +798,7 @@
 诉,su4,complain or appeal or tell (verb)/complaint (noun)
 告,gao4,tell/inform/accuse
 告诉,gai4 su4,tell/inform/let know
-肚,du3 :: du4,tripe :: abdomen/stomach (component)
+肚,du3 :: du4,tripe :: abdomen/stomach (component 肚子)
 肚子,du4 zi,stomach/belly
 肚子疼,du4 zi teng2,stomachache/bellyache
 留,liu2,stay/remain
@@ -814,8 +812,8 @@
 发,fa1,send out/issue/dispatch
 烧,shao1,burn/bake/heat/roast
 发烧,fa1 shao1,have a fever/sick with a fever
-应,ying1,should/agree to do something (component)
-该,gai1,should/ought to (component)
+应,ying1,should/agree to do something (component 应该)
+该,gai1,should/ought to (component 应该)
 应该,ying1 gai1,should/ought to
 舒,shu1,stretch/unfold/physically relax
 舒服,shu1 fu2,comfortable/feeling well (lit. stretch clothes)
@@ -874,8 +872,8 @@
 完,wan2,finish (after verb)/complete (adj)
 完了,wan2 le,finished (after verb)
 读完了,du2 wan2 le,finished reading
-已,yi3,already/finished (component)
-经,jing1,through/after
+已,yi3,already/finished (component 已经)
+经,jing1,through/after (component 已经)
 已经,yi3 jing1,already (before verb)
 已经喝,yi3 jing1 he1,already drinking
 已经吃完了,yi3 jing1 chi1 wan2 le,already finished eating
@@ -909,7 +907,7 @@
 比,bi3,compare to/adj-er than (noun-比-noun-adj)
 这双比那双小,zhe4 shuang1 bi3 na4 shuang1 xiao3,this pair is smaller than that pair
 意大利,yi4 da4 li4,italy country
-裤,ku4,pants/trousers (component)
+裤,ku4,pants/trousers (component 裤子)
 裤子,ku4 zi,pants/trousers
 质,zhi4,material/substance
 量,liang4,amount/quantity/capacity
@@ -926,7 +924,7 @@
 眼睛,yan3 jing1,eyes (body part)
 头发,tou2 fa4,hair on head
 脸,lian3,face (body part)
-鼻,bi2,nose (component)
+鼻,bi2,nose (component 鼻子)
 鼻子,bi2 zi,nose (body part)
 脚,jiao3,foot/feet (body part)
 嘴,zui3,mouth/lips
@@ -987,9 +985,29 @@
 有多,you3 duo1,how much (adj)?
 有多冷,you3 duo1 leng3,how cold?
 从来不,cong2 lai2 bu4,never (before verb)
-长,chang2,length/long/forever
+长,chang2,long object (sometimes used for time)
 穿,chuan1,wear/put on/dress
 刮,gua1,blow/scrape/shave (verb)
 风,feng1,wind (fast moving air & noun)
 刮风,gua1 feng1,be windy/blow wind
 可能,ke2 neng2,might happen/maybe/possible
+雨雪,yu3:2 xue3,sleet/rain and snow mix
+在雨雪中,zai4 yu3:2 xue3 zhong1,surrounded by sleet/in the sleet
+虽,sui1,although (component 虽然)
+然,ran2,yes/certainly/of course (component 虽然)
+虽然,sui1 ran2,although/though/despite (before 但是)
+但,dan4,but/however/yet (component 但是)
+但是,dan4 shi4,but/however/yet (after 虽然)
+虽然，但是,sui1 ran2 : dan4 shi4,although ... but
+帽子,mao4 zi,hat/cap
+短,duan3,short object
+红,hong2,red color
+颜,yan2,color (component 颜色)
+颜色,yan2 se4,color (noun)
+黄,huang2,yellow color
+用手,yong4 shou3,by hand +verb
+用手洗,yong4 shou3:2 xi3,wash by hand/hand wash
+紫,zi3,purple color
+表,biao3,watch/timepiece
+手表,shou3:2 biao3,wristwatch/timepiece
+卖完,mai4 wan2,sold out (verb)
