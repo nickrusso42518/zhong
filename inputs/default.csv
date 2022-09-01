@@ -250,7 +250,7 @@
 高,gao1,tall/high person
 矮,ai3,short/low person
 兴,xing4,excitement/interest in
-高兴,gao1 xing4,happy
+高兴,gao1 xing4,happy (short lasting)
 错,cuo4,mistake/wrong/bad/incorrectly
 不错,bu4:2 cuo4,not bad/pretty good
 很,hen3,very/really (before verb)/noun-很-adj connector
@@ -258,7 +258,7 @@
 和,he2,and/together with (link nouns)
 元,yuan2,yuan/rmb
 钱,qian2,money
-字,zi4,letter/symbol/character
+字,zi4,letter/symbol/character/word
 名字,ming2 zi4:,name/first name
 汉字,han4 zi4,chinese character/chinese writing
 什,shen2,what
@@ -283,6 +283,8 @@
 打电话,da3 dian4 hua4,make phone call/call on the phone
 给他打电话,gei3 ta1 da3 dian4 hua4,call him on the phone/give him a call
 中,zhong1,central/middle
+拿,na2,hold/seize/catch/apprehend
+英,ying1,hero/brave (rare)
 国,guo2,country/kingdom
 中国,zhong1 guo2,china country
 韩国,han2 guo2,korea country
@@ -667,10 +669,10 @@
 说说,shuo1 shuo1,speak a bit/say a few words
 走走,zou3:2 zou3,walk a bit
 笑,xiao4,laugh/smile
-笑一笑,xiao4 yi1:2 xiao4,smile a bit
+笑一笑,xiao4 yi1:2 xiao4,laugh a bit/smile a bit
 用一用,yong3 yi1:4 yong3,use a bit/use for a bit
-尝,chang2,taste/try/experience
-尝一尝,chang2 yi1:4 chang2,taste a bit
+尝,chang2,taste/try/experience (food only)
+尝一尝,chang2 yi1:4 chang2,taste a bit (food only)
 聊,liao2,chat
 聊一聊,liao2 yi1:4 liao2,chat a bit
 讨论,tao3 lun4,discuss/talk over
@@ -892,12 +894,12 @@
 味,wei4,taste/flavor/mw for medicine prescription ingredients
 味道,wei4 dao4,flavor
 游客,you2 ke4,traveler/tourist
-如,ru2,if/like/as
-如果,ru2 guo3,if/in case of/in the event that
+如,ru2,if/like/as (component 如果)
+如果,ru2 guo3,if/in case of/in the event that (before 就 in formal setting)
 就,jiu4,then (after 如果 in formal setting)
 如果，就,ru2 guo3 : jiu4,if ... then
-蓝,lan2,blue
-试,shi4,try or experiment (verb)/exam or test (noun)
+蓝,lan2,blue color
+试,shi4,try or experiment or taste drink (verb)/exam or test (noun)
 利,li4,gains/advantage
 裙子,qun2 zi,skirt/dress
 衬,chen4,underwear/lining/liner
@@ -933,7 +935,7 @@
 巴,ba1,greatly desire/anxiously hope
 嘴巴,zui3 ba1,mouth (body part)
 有钱人,you3 qian2 ren2,rich person
-是，的,shi4 : de,emphasized question and answer construction
+是，的,shi4 : de,q&a construction to emphasize when or where event occurred
 我是应该吃饭的,wo3 shi4 ying1 gai1 chi1 fan4 de,i should eat
 他是会开车的,ta1 shi4 hui4 kai1 che1 de,he would drive (knows how to)
 你是能游泳的,ni3 shi4 neng2 you2 yong3 de,you could swim (able to)
@@ -992,7 +994,8 @@
 刮,gua1,blow/scrape/shave (verb)
 风,feng1,wind (fast moving air & noun)
 刮风,gua1 feng1,be windy/blow wind
-可能,ke2 neng2,might happen/maybe/possible
+可能,ke3:2 neng2,might happen/maybe/possible
+不可能,bu4 ke3:2 neng2,impossible
 雨雪,yu3:2 xue3,sleet/rain and snow mix
 在雨雪中,zai4 yu3:2 xue3 zhong1,surrounded by sleet/in the sleet
 虽,sui1,although (component 虽然)
@@ -1015,10 +1018,10 @@
 卖完,mai4 wan2,sold out (verb)
 春,chun1,spring season/joyful
 春节,chun1 jie2,spring festival/chinese new year
-而,er2,and/as well as
-介,jie4,introduce/lie between
-聪,cong1,wise/clever/intelligent
-快乐,kuai4 le4,happy/cheerful
+聪,cong1,clever/intelligent/smart (component 聪明)
+聪明,cong1 ming2,clever/intelligent/smart
+能干,neng2 gan4,capable/competent
+快乐,kuai4 le4,happy/cheerful (wish someone a happy event)
 节日,jie2 ri4,festival/holiday
 送,song4,delivery/give as a present
 送给,song4 gei3,give
@@ -1031,3 +1034,28 @@
 法,fa3,law/regulation
 法国,fa3 guo2,france country
 祝,zhu4,wish/express good wishes
+我们多吃蔬菜吧,wo3 men duo1 chi1 shu1 cai4 ba,let's eat more vegetables (suggestion)
+你需要少喝啤酒,ni3 xu1 yao4 shao3 he1 pi2 jiu3,you need to drink less beer (command)
+让我们坐在火车的前面,rang4 wo3 men zuo4 zai4 huo3 che1 de qian2 mian4,let's sit at the front of the train
+张老师在学校的后面,zhang1 lao3 shi1 zai4 xue2 xiao4 de hou2 mian4,teacher zhang is behind the school
+我用左手写字,wo3 yong4 zuo3 shou3:2 xie3 zi4,i write with my left hand (no 边)
+请靠右边开车得很慢,qing3 kao4 you4 bian1 kai1 che1 de hen3 man4,please drive slowly on the right side
+李医生走你的旁边,li3 yi1 sheng1 zou3:2 ni3 de pang2 bian1,doctor li walks beside you
+没事吧,mei2 shi4 ba,are you alright?/is everything ok?
+没事,mei2 shi4,i'm fine/it's ok
+喽,lou2 :: lou,gang member or bandit :: suffix to warn or call attention to event
+心,xin1,heart/soul (component 开心)
+开心,kai1 xin1,happy (long lasting)
+快了,kuai4 le,almost/just about to/soon (construction 快-verb-了)
+快到了,kuai4 dao4 le,almost arrived/almost there
+快下雨了,kuai4 xia4 yu3 le,it will rain soon
+不但,bu4:2 dan4,not only (before 而且)
+而,er2,and/as well as (component 而且 & after 不但)
+而且,er2 qie3,but also (after 不但)
+不但，而且,bu4:2 dan4 : er2 qie3,not only ... but also
+介,jie4,introduce/lie between (component 介绍)
+绍,shao4,continue/carry on (component 介绍)
+介绍,jie4 shao4,introduce/present/give presentation
+帅,shuai4,handsome/cool!
+说话,shuo1 hua4,say/speak/talk/converse
+的时候,de shi2 hou4,when action occurs or at a time (verb/time-的时候)
