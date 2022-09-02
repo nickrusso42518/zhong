@@ -38,11 +38,7 @@
 岁,sui4,is X years old (after numbers)
 二〇三四年,er4 ling2 er4 si4 nian2,2034 year
 一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
-东,dong1,east (said first)
-南,nan2,south (said second)
-西,xi1,west (said third)
-北,bei3,north (said fourth)
-月,yue4,month (after numbers)
+月,yue4,moon/month (after numbers)
 号,hao4,number/day of month (conversational)
 日,ri4,sun/day of month (written)
 点,dian3,point/oclock/o'clock (after numbers)/order food or drink
@@ -186,7 +182,7 @@
 客,ke4,guest/customer
 气,qi4,gas/air/vital energy
 客气,ke4 qi4,polite/modest
-不客气,bu4:2 ke4 qi4,you're welcome
+不客气,bu4:2 ke4 qi4,you're welcome/you are welcome
 抱,bao4,hug/surround/carry in arms
 歉,qian4,apologize/regret
 抱歉,bao4 qian4,sorry (minor)
@@ -541,10 +537,12 @@
 一些,yi1:4 xie1,some/a few/a little/slighty (before object)
 这些,zhe4 xie1,these
 那些,na4 xie1,those
-这次,zhe4 ci4,this time (uncommon)
-这个时候,zhe4 ge4 shi2 hou4, this time (common)
-那次,na4 ci4,that time (uncommon)
-那个时候,na4 ge4 shi2 hou4, that time (common)
+这次,zhe4 ci4,this time/this iteration
+这个时候,zhe4 ge4 shi2 hou4,this time/at this time
+那次,na4 ci4,that time/that iteration
+那个时候,na4 ge4 shi2 hou4,that time/at that time
+上次,shang4 ci4,last time/last iteration
+下次,xia4 ci4,next time/next iteration
 东西,dong1 xi1:,things/stuff
 什么东西,shen2 me dong1 xi1:,something?/anything?/what thing?
 超,chao1,super/ultra
@@ -864,8 +862,6 @@
 急,ji2,urgent/pressing/hurried
 事情,shi4 qing2,matter/affair/thing to be told
 一件事情,yi1:2 jian4 shi4 qing2,something/one thing/one matter
-有时候,you3 shi2 hou4,sometimes
-一点的时候,yi1:4 dian3 de shi2 hou4,at one o'clock/at 1:00
 爸妈,ba4 ma1,parents/dad and mom/father and mother
 回去,hui2 qu4,go back (omit qu when destination exists)
 饭店,fan4 dian4,hotel/restaurant/diner
@@ -935,7 +931,7 @@
 巴,ba1,greatly desire/anxiously hope
 嘴巴,zui3 ba1,mouth (body part)
 有钱人,you3 qian2 ren2,rich person
-是，的,shi4 : de,q&a construction to emphasize when or where event occurred
+是，的,shi4 : de,emphasize when/where/with whom an event occurred (q&a)
 我是应该吃饭的,wo3 shi4 ying1 gai1 chi1 fan4 de,i should eat
 他是会开车的,ta1 shi4 hui4 kai1 che1 de,he would drive (knows how to)
 你是能游泳的,ni3 shi4 neng2 you2 yong3 de,you could swim (able to)
@@ -945,6 +941,8 @@
 你是在哪里喝的,ni3 shi4 zai4 na3:2 li3 he1 de,where did you drink? (southern)
 你是在哪儿喝的,ni3 shi4 zai4 na3 er he1 de,where did you drink? (northern)
 我是在那家酒店喝的,wo3 shi4 zai4 na4 jia1 jiu3 dian4 he1 de,i drank at that hotel
+你是跟谁出去的,ni3 shi4 gen1 shei2 chu1 qu4 de,who did you go out with/with whom did you go out
+我是跟她出去的,wo3 shi4 gen1 ta1 chu1 qu4 de,i went out with her
 离,li2,from/distance between locations (loc1-离-loc2)
 远,yuan3,distant/far (loc1-离-loc2-远)
 近,jin4,near/close/approximately (loc1-离-loc2-近)
@@ -1042,13 +1040,16 @@
 请靠右边开车得很慢,qing3 kao4 you4 bian1 kai1 che1 de hen3 man4,please drive slowly on the right side
 李医生走你的旁边,li3 yi1 sheng1 zou3:2 ni3 de pang2 bian1,doctor li walks beside you
 没事吧,mei2 shi4 ba,are you alright?/is everything ok?
-没事,mei2 shi4,i'm fine/it's ok
+没事,mei2 shi4,i am fine/it is ok
 喽,lou2 :: lou,gang member or bandit :: suffix to warn or call attention to event
 心,xin1,heart/soul (component 开心)
 开心,kai1 xin1,happy (long lasting)
-快了,kuai4 le,almost/just about to/soon (construction 快-verb-了)
-快到了,kuai4 dao4 le,almost arrived/almost there
+快了,kuai4 le,almost/just about to/soon (spoken & construction 快-verb-了)
+我快到了,wo3 kuai4 dao4 le,i have almost arrived/i am almost there
 快下雨了,kuai4 xia4 yu3 le,it will rain soon
+快要了,kuai4 yao4 le,almost/just about to/soon (written & construction 快要-verb-了)
+快要下雪了,kuai4 yao4 xia4 xue3 le,it will snow soon
+学生快要放学了,xue2 sheng1 kuai4 yao4 fang4 xue2 le,students are about to leave school
 不但,bu4:2 dan4,not only (before 而且)
 而,er2,and/as well as (component 而且 & after 不但)
 而且,er2 qie3,but also (after 不但)
@@ -1059,3 +1060,18 @@
 帅,shuai4,handsome/cool!
 说话,shuo1 hua4,say/speak/talk/converse
 的时候,de shi2 hou4,when action occurs or at a time (verb/time-的时候)
+下雪的时候,xia4 xue3 de shi2 hou4,when it snows
+有时候,you3 shi2 hou4,sometimes
+一点的时候,yi1:4 dian3 de shi2 hou4,at one o'clock/at 1:00
+别人,bie2 ren2,others/other people
+东,dong1,east (said first)
+南,nan2,south (said second)
+西,xi1,west (said third)
+北,bei3,north (said fourth)
+东北,dong1 bei3,northeast/eastnorth
+西北,xi1 bei3,northwest/westnorth
+西南,xi1 nan2,southwest/westsouth
+东南,dong1 nan2,southeast/eastsouth
+第,di4,prefix mw for ordinal numbers
+第一,di4 yi1,the first/number one/primary
+第二,di4 er4,the second/number two/secondary
