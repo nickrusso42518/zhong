@@ -99,8 +99,8 @@
 可以,ke3:2 yi3,may/allowed to/permitted to
 会,hui4,can (apply a learned skill)/will (with future time reference)
 能,neng2,able to/physically capable of doing
-上,shang4,previous (hour or week or month)/to go to (work)/above/on/embark onto vehicle
-下,xia4,next (hour or week or month)/to get off (work)/below/under/disembark from vehicle
+上,shang4,previous (hour & week & month)/to go to (work/class)/above/on/embark onto vehicle
+下,xia4,next (hour & week & month)/to get off (work/class)/below/under/disembark from vehicle
 每,mei3,every (all time periods)
 钟,zhong1,bell/oclock/o'clock
 分,fen1,slice/fraction/minute on clock (specify time)/hundreth of yuan
@@ -398,7 +398,7 @@
 洗,xi3,wash/bathe
 手,shou3,hand
 间,jian1,between or among (adv)/room (mw)
-洗手间,xi3:2 shou3 jian1,bathroom
+洗手间,xi3:2 shou3 jian1,bathroom/restroom
 院,yuan4,yard/courtyard/institution
 医院,yi1 yuan4,hospital
 馆,guan3,shop/building
@@ -513,6 +513,7 @@
 在椅子下,zai4 yi3 zi xia4,under the chair
 在冰箱里,zai4 bing1 xiang1 li3,inside the icebox/inside the refrigerator
 在房间外,zai4 fang2 jian1 wai4,outside the room
+你看见，了吗,ni3 kan4 jian4 ta1 le ma,did you see ...?have you seen ...?
 你看见他了吗,ni3 kan4 jian4 ta1 le ma,did you see him?/have you seen him?
 找,zhao3,seek/search for/find
 位,wei4,individual/seat/place (formal mw)
@@ -597,14 +598,14 @@
 我去了中国,wo3 qu4 le zhong1 guo2,i went to china
 我去过中国,wo3 qu4 guo4 zhong1 guo2,i have been to china
 我不去中国,wo3 bu4:2 qu4 zhong1 guo2,i do not go to china
-我没有去中国,wo3 mei2 you3 qu4 zhong1 guo2,i have not gone to china/i did not go to china
-我没去过中国,wo3 mei2 qu4 guo4 zhong1 guo2,i have never been to china
+我没有去中国,wo3 mei2 you3 qu4 zhong1 guo2,i did not go to china
+我没去过中国,wo3 mei2 qu4 guo4 zhong1 guo2,i have not been to china
 我吃米饭,wo3 chi1 mi3 fan4,i eat rice
 你喝了热茶,ni3 he1 le re4 cha2,you drank hot tea
 他们看过报纸,ta1 men kan4 guo4 bao4 zhi3,they have read a newspaper
 它不吃鱼,ta1 bu4 chi1 yu2,it does not eat fish
-她没有唱歌,ta1 mei2 you3 chang4 ge1,she has not sung a song/she did not sing a song
-我们没听过音乐,wo3 men mei2 ting1 guo4 yin1 yue4,we have never listened to music
+她没有唱歌,ta1 mei2 you3 chang4 ge1,she did not sing a song
+我们没听过音乐,wo3 men mei2 ting1 guo4 yin1 yue4,we have not listened to music
 脏,zang1,dirty/filthy
 抽烟,cho1 yan1,smoke a cigarette (verb)
 还,hai2,still in progress/still more/yet
@@ -843,6 +844,7 @@
 渴,ke3,thirsty
 生日,sheng1 ri4,birthday
 跟,gen1,with/go with/follow closely
+跟，一起,gen1 : yi1:4 qi3,together with ...
 跟你一起,gen1 ni3 yi1:4 qi3,together with you
 跟我的狗一起,gen1 wo3 de gou3 yi1:4 qi3,together with my dog
 希,xi1,hope (verb)/rare (adj)
@@ -862,7 +864,7 @@
 事情,shi4 qing2,matter/affair/thing to be told
 一件事情,yi1:2 jian4 shi4 qing2,something/one thing/one matter
 爸妈,ba4 ma1,parents/dad and mom/father and mother
-回去,hui2 qu4,go back (omit qu when destination exists)
+回去,hui2 qu4,go back (omit 去 when destination exists)
 饭店,fan4 dian4,hotel/restaurant/diner
 酒吧,jiu3 ba1,bar/pub/saloon
 同,tong2,same (pronoun)/with (preposition)
@@ -1057,7 +1059,7 @@
 绍,shao4,continue/carry on (component 介绍)
 介绍,jie4 shao4,introduce/present/give presentation
 帅,shuai4,handsome/cool!
-说话,shuo1 hua4,say/speak/talk/converse
+说话,shuo1 hua4,say/speak/talk/talking
 的时候,de shi2 hou4,when action occurs or at a time (verb/time-的时候)
 下雪的时候,xia4 xue3 de shi2 hou4,when it snows
 有时候,you3 shi2 hou4,sometimes
@@ -1095,6 +1097,21 @@
 网球,wang3 qiu2,tennis (lit. net ball)
 输,shu1,lose/losing
 赢,ying2,win/winning
-失,shi1,lose/make mistake/neglect
-失望,shi1 wang?,disappointed/lose hope/despair
+失,shi1,lose/make mistake/neglect (component 失望)
+失望,shi1 wang4,disappointed/lose hope/despair
 信心,xin4 xin1,confidence/faith in
+懂,dong3,understand/comprehend
+课,ke4,class/course/lesson
+教,jiao4,teach (component 教室)
+教室,jiao4 shi4,classroom
+理,li3,reason/logic (component 地理)
+地理,di4 li3,geography
+术,shu4,/art/skill/special feat (component 美术)
+美术,mei3 shu4,fine arts
+笔,bi3,pen/pencil/writing brush
+考,kao3,examine/test/investigate (component 考试)
+考试,kao4 shi4,take an exam/take a test
+科,ke1,section/department/science (component 科学)
+科学,ke1 xue2,science/scientific knowledge
+备,bei4,prepare (component 准备)
+准备,zhun3 bei4,prepare/prepare for/preparation
