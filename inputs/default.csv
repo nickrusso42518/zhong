@@ -367,8 +367,8 @@
 关系,guan1 xi4,relationship (noun)/affect or concern (verb)
 没关系,mei2 guan1 xi4,it doesn't matter/no problem/no worries
 爱,ai4,love
-妈妈,ma1 ma,mom/mother
-爸爸,ba4 ba,dad/father
+妈妈,ma1 ma1:,mom/mother
+爸爸,ba4 ba4:,dad/father
 男,nan2,male
 女,nv3,female (v means ü)
 女儿,nv3 er2,daughter
@@ -379,10 +379,10 @@
 女孩,nv3 hai2,girl/girls
 丈夫,zhang4 fu1:,husband
 妻子,qi1 zi,wife
-姐姐,jie3 jie,older sister/big sister
-哥哥,ge1 ge,older brother/big brother
-妹妹,mei4 mei,younger sister/little sister
-弟弟,di4 di,younger brother/little brother
+姐姐,jie3 jie3:,older sister/big sister
+哥哥,ge1 ge1:,older brother/big brother
+妹妹,mei4 mei4:,younger sister/little sister
+弟弟,di4 di4:,younger brother/little brother
 朋友,peng2 you3,friend
 男朋友,nan2 peng2 you3,boyfriend
 女朋友,nv3 peng2 you3,girlfriend
@@ -1080,15 +1080,13 @@
 练,lian4,practice/drill (component 练习)
 习,xi2,practice/flapping wings (component 练习)
 练习,lian4 xi2,practice/drill
-# 乓,pang1,pong (loanword & component 乒乓球)
-# 乒,ping1,ping (loanword & component 乒乓球)
 乒乓球,ping1 pang1 qiu2,ping pong/table tennis
 赛,sai4,compete or contend (verb)/contest or race (component 比赛)
 比赛,bi3 sai4,match/competition/game
 好在,hao3 zai4,luckily
 每天,mei3 tian1,every day
 参,can1,take part in/intervene (component 参加)
-参加,can1 jia1,participate/take part in
+参加,can1 jia1,participate/take part in/join/attend
 排,pai2,row/rank/line (component 排球)
 排球,pai2 qiu2,volleyball (lit. row/rank/line ball)
 加,jia1,add/increase/augment
@@ -1097,16 +1095,16 @@
 网球,wang3 qiu2,tennis (lit. net ball)
 输,shu1,lose/losing
 赢,ying2,win/winning
-失,shi1,lose/make mistake/neglect (component 失望)
+失,shi1,lose/miss/fail (component 失望)
 失望,shi1 wang4,disappointed/lose hope/despair
 信心,xin4 xin1,confidence/faith in
 懂,dong3,understand/comprehend
 课,ke4,class/course/lesson
-教,jiao4,teach (component 教室)
+教,jiao1 :: jiao4,teach :: religion/teaching (component 教室)
 教室,jiao4 shi4,classroom
 理,li3,reason/logic (component 地理)
 地理,di4 li3,geography
-术,shu4,/art/skill/special feat (component 美术)
+术,shu4,art/skill/special feat (component 美术)
 美术,mei3 shu4,fine arts
 笔,bi3,pen/pencil/writing brush
 考,kao3,examine/test/investigate (component 考试)
@@ -1115,3 +1113,24 @@
 科学,ke1 xue2,science/scientific knowledge
 备,bei4,prepare (component 准备)
 准备,zhun3 bei4,prepare/prepare for/preparation
+还有,hai2 you3,furthermore/in addition/still
+阿,a1,prefix to indicate kinship (component 阿姨)
+亲,qin1,close/dear
+亲戚,qin1 qi1:,relatives (family relation)
+父亲,fu4 qin1,father
+母亲,mu3 qin1,mother
+父母,fu4 mu3,parents
+爷爷,ye2 ye2:,grandfather/grandpa
+奶奶,nai3 nai3:,grandmother/grandma
+阿姨,a1 yi2,aunt
+叔叔,shu1 shu1:,uncle
+兄,xiong1,older brother (component 兄弟/兄弟姐妹)
+兄弟,xiong1 di4,brothers
+姐妹,jie3 mei4,sisters
+兄弟姐妹,xiong1 di4 jie3 mei4,siblings/brothers and sisters
+像,xiang4,same/similar/like (very similar to 和 & before 一样)
+一样,yi1:2 yang4,same (after 像 or 和)
+像，一样,xiang4 : yi1:2 yang4,is the same as .../is similar to .../is like ...
+像，一样高,xiang4 : yi1:2 yang4 gao1,is as tall as ...
+你的头发像我的一样,ni3 de tou2 fa1 xiang4 wo3 de yi1:2 yang4,your hair is like mine
+她像猫一样聪明,ta1 xiang4 mao1 yi1:2 yang4 cong1 ming2,she is as smart as a cat
