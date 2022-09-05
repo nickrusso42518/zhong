@@ -252,7 +252,6 @@
 很,hen3,very/really (before verb)/noun-很-adj connector
 呢,ne,and?/what about?/how about?
 和,he2,and/together with (link nouns)
-元,yuan2,yuan/rmb
 钱,qian2,money
 字,zi4,letter/symbol/character/word
 名字,ming2 zi4:,name/first name
@@ -465,8 +464,6 @@
 买,mai3,buy/purchase
 卖,mai4,sell or betray (verb)/sale (noun)
 只,zhi1 :: zhi3,mw for cats/dogs/birds :: only/merely/just
-块,kuai4,yuan or rmb (noun)/mw for piece or slice
-毛,mao2,hair/tenth of yuan
 二千七百零五块四毛九分,er4 qian1 qi1 bai3 ling2 wu3 kuai4 si4 mao2 jiu3 fen1,2705.49 yuan
 共,gong4,common/general
 一共,yi1:2 gong4,altogether/in total
@@ -715,7 +712,7 @@
 汽车,qi4 che1,car/automobile
 出租车,chu1 zu1 che1,taxi
 打车,da3 che1,take a taxi
-公,gong1,public/common (component 公共 & 公司)
+公,gong1,public/fair/equitable (component 公共 & 公司)
 公共,gong1 gong4,public/community
 公共汽车,gong1 gong4 qi4 che1,bus
 龙,long2,dragon/serpent
@@ -934,9 +931,9 @@
 嘴巴,zui3 ba1,mouth (body part)
 有钱人,you3 qian2 ren2,rich person
 是，的,shi4 : de,emphasize when/where/with whom an event occurred (q&a)
-我是应该吃饭的,wo3 shi4 ying1 gai1 chi1 fan4 de,i should eat
-他是会开车的,ta1 shi4 hui4 kai1 che1 de,he would drive (knows how to)
-你是能游泳的,ni3 shi4 neng2 you2 yong3 de,you could swim (able to)
+我是应该吃饭的,wo3 shi4 ying1 gai1 chi1 fan4 de,i should have eaten
+他是会开车的,ta1 shi4 hui4 kai1 che1 de,he would have driven (knows how to)
+你是能游泳的,ni3 shi4 neng2 you2 yong3 de,you could have swam (able to)
 她是可以睡觉的,ta1 shi4 ke3:2 yi3 shui4 jiao4 de,she could sleep (permitted to)
 你是什么时候来的,ni3 shi4 shen2 me shi4 hou2 lai2 de,when did you come?
 我是昨天早上来的,wo3 shi4 zuo2 tian1 zao3 shang4 lai2 de,i came yesterday morning
@@ -951,7 +948,7 @@
 餐厅离学校不近,can1 ting1 li2 xue2 xiao4 bu4:2 jin4,the restaurant is not near the school
 我们离酒店很近,wo3 men li2 jiu3 dian4 hen3 jin4,we are close to the hotel/we are near the hotel
 医院离这里远吗,yi1 yuan4 li2 zhe4 li3 yuan3 ma,is the hospital far from here?
-火车站离机场远不远,huo3 che1 zhan4 li2 ji1 chang3 yuan3 bu4 yuan3,is the train station far from the airport?
+火车站离机场远不远,huo3 che1 zhan4 li2 ji1 chang3:2 yuan3 bu4 yuan3,is the train station far from the airport?
 最近,zui4 jin4,recently
 走路,zou3 lu4,walk/go by foot
 飞,fei1,fly (verb)
@@ -1010,14 +1007,12 @@
 颜,yan2,color (component 颜色)
 颜色,yan2 se4,color (noun)
 黄,huang2,yellow color
-用手,yong4 shou3,by hand +verb
+用手,yong4 shou3,by hand +verb (lit. use hand)
 用手洗,yong4 shou3:2 xi3,wash by hand/hand wash
 紫,zi3,purple color
 表,biao3,watch/timepiece
 手表,shou3:2 biao3,wristwatch/timepiece
 卖完,mai4 wan2,sold out (verb)
-春,chun1,spring season/joyful
-春节,chun1 jie2,spring festival/chinese new year
 聪,cong1,clever/intelligent/smart (component 聪明)
 聪明,cong1 ming2,clever/intelligent/smart
 能干,neng2 gan4,capable/competent
@@ -1029,7 +1024,7 @@
 物,wu4,thing/object (component 礼物)
 礼物,li3 wu4,gift
 怎么过,zen3 me guo4,how to celebrate?/how will one celebrate?
-中国白酒,zhong1 guo2 bai2 jiu3,chinese white wine
+中国白酒,zhong1 guo2 bai2 jiu3,chinese white wine/baijiu
 干杯,gan1 bei1,cheers/drink a toast
 法,fa3,law/regulation
 法国,fa3 guo2,france country
@@ -1064,7 +1059,7 @@
 的时候,de shi2 hou4,when action occurs or at a time (verb/time-的时候)
 下雪的时候,xia4 xue3 de shi2 hou4,when it snows
 有时候,you3 shi2 hou4,sometimes
-一点的时候,yi1:4 dian3 de shi2 hou4,at one o'clock/at 1:00
+十一点的时候,shi2 yi1:4 dian3 de shi2 hou4,at 11 o'clock/at 11:00
 别人,bie2 ren2,others/other people
 东,dong1,east (said first)
 南,nan2,south (said second)
@@ -1149,3 +1144,34 @@
 拉面,la1 mian4,ramen/lamian/pulled noodles
 锅,guo1,pot/pan
 火锅,huo3 guo1,hot pot (style of serving food)
+# ,,
+# 前天,qian2 tian1,day before yesterday
+# 后天,hou4 tian1,day after tomorrow
+# 三天前,san1 tian1 qian2,3 days ago/3 days back
+# 七天后,qi1 tian1 hou4,7 days later/7 days from now
+# 春,chun1,spring season/joyful (component 春节/春天)
+# 春节,chun1 jie2,spring festival/chinese new year
+# 春天,chun3 tian1,spring season
+# 夏,xia4,summer/great/grand (component 夏天)
+# 夏天,xia4 tian1,summer season
+# 秋,qiu1,autumn/fall (component 秋天)
+# 秋天,qiu1 tian1,autumn season/fall season
+# 冬,dong1,winter (component 冬天)
+# 冬天,dong1 tian1,winter season
+# ,,
+# 附,fu4,adhere to/append (component 附近)
+# 附近,fu4 jin4,vicinity/near/close (after location)
+# 中间,zhong1 jian1,between/among (after 在)
+# 在，中间,zai4 : zhong1 jian1,between/among
+# 园,yuan2,park/garden/orchard
+# 公园,gong1 yuan2,public park
+# 图,tu2,diagram/chart/map
+# 图书馆,tu2 shu1 guan3,library
+# 公园在图书馆和学校中间,gong1 yuan2 zai4 tu2 shu1 guan3 he2 xue2 xiao4 de zhong1 jian1,the park is between the library and the school
+# 上面,shang4 mian4,top side/on/above
+# 下面,xia4 mian4,bottom side/under
+# ,,
+# 元,yuan2,yuan/rmb (formal)
+# 角,jiao3,angle/corner/tenth of yuan (formal)
+# 块,kuai4,yuan or rmb (informal)/mw for piece or slice
+# 毛,mao2,hair/tenth of yuan (informal)
