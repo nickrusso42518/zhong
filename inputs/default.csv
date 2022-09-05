@@ -856,7 +856,8 @@
 公司,gong1 si1,company/corporation (location)
 正,zheng4,straight/upright/positive
 正在,zheng4 zai4,actively doing or was doing (action)
-大家,da4 jia1,everyone/influential family
+大家,da4 jia1,influential family/everyone (greeting)
+每个人,mei3 ge4 ren2,everyone/every person (non-greeting)
 才,cai2,finally/took longer than expected (after time & before verb)
 情,qing2,situation/feeling/sentiment/emotion
 事,shi4,matter/affair
@@ -923,7 +924,7 @@
 眼,yan3,eye/eyelet/hole/opening
 睛,jing1,eye/eyeball
 眼睛,yan3 jing1,eyes (body part)
-头发,tou2 fa4,hair on head
+头发,tou2 fa4:,hair on head
 脸,lian3,face (body part)
 鼻,bi2,nose (component 鼻子)
 鼻子,bi2 zi,nose (body part)
@@ -1022,7 +1023,7 @@
 能干,neng2 gan4,capable/competent
 快乐,kuai4 le4,happy/cheerful (wish someone a happy event)
 节日,jie2 ri4,festival/holiday
-送,song4,delivery/give as a present
+送,song4,see off/send off/give
 送给,song4 gei3,give
 礼,li3,gift/rite/ceremony (component 礼物)
 物,wu4,thing/object (component 礼物)
@@ -1113,6 +1114,7 @@
 科学,ke1 xue2,science/scientific knowledge
 备,bei4,prepare (component 准备)
 准备,zhun3 bei4,prepare/prepare for/preparation
+准备好了,zhun3 bei4 hao3 le,ready/well-prepared
 还有,hai2 you3,furthermore/in addition/still
 阿,a1,prefix to indicate kinship (component 阿姨)
 亲,qin1,close/dear
@@ -1132,5 +1134,18 @@
 一样,yi1:2 yang4,same (after 像 or 和)
 像，一样,xiang4 : yi1:2 yang4,is the same as .../is similar to .../is like ...
 像，一样高,xiang4 : yi1:2 yang4 gao1,is as tall as ...
-你的头发像我的一样,ni3 de tou2 fa1 xiang4 wo3 de yi1:2 yang4,your hair is like mine
+你的头发像我的一样,ni3 de tou2 fa4: xiang4 wo3 de yi1:2 yang4,your hair is like mine
 她像猫一样聪明,ta1 xiang4 mao1 yi1:2 yang4 cong1 ming2,she is as smart as a cat
+点心,dian3 xin1,refreshment/pasty/dim sum
+笼,long2,cage
+小笼包,xiao3 long2 bao1,steamed dumplings/soup dumplings
+油条,you2 tiao2,fritter/deep-fried dough stick
+豆,dou4,beans/bean-shaped/peas
+浆,jiang1,starch/broth/thick fruid
+豆浆,dou4 jiang1,soy milk
+炒,chao3,fried
+粥,zhou1,congee/porridge/gruel (eat or drink)
+拉,la1,pull/drag
+拉面,la1 mian4,ramen/lamian/pulled noodles
+锅,guo1,pot/pan
+火锅,huo3 guo1,hot pot (style of serving food)
