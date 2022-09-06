@@ -292,11 +292,14 @@
 语,yu3,language/dialect
 文,wen2,language/arts/culture
 中国人,zhong1 guo2 ren2,chinese person
+韩国人,han2 guo2 ren2,korean person
 美国人,mei3 guo2 ren2,american person
 英国人,ying1 guo2 ren2,british person
 加拿大人,jia1 na2 da4 ren2,canadian person
 中文,zhong1 wen2,chinese language
 汉语,han4 yu3,chinese language
+韩文,han2 wen2,korean language
+韩语,han2 yu3,korean language
 英文,ying1 wen2,english language
 英语,ying1 yu3,english language
 认,ren4,recognize/know
@@ -701,14 +704,14 @@
 酒,jiu3,alcohol/wine/liquor
 店,dian4,inn/shop/store
 酒店,jiu3 dian4,hotel/pub/bar
-随,sui2,follow/comply with
-便,bian4,plain/informal
+随,sui2,follow/comply with (component 随便)
+便,bian4,plain/informal (component 随便/便宜)
 随便,sui2 bian4,as one pleases/as one wishes/casual
-准,zhun3,allow/grant
+准,zhun3,allow/approve/grant
 出,chu1,go out/come out/occur (component 出去)
 出去,chu1 qu4,go out
 租,zu1,rent/hire
-汽,qi4,steam/vapor
+汽,qi4,steam/vapor (component 汽车)
 汽车,qi4 che1,car/automobile
 出租车,chu1 zu1 che1,taxi
 打车,da3 che1,take a taxi
@@ -761,7 +764,6 @@
 树,shu4,tree
 办,ban4,manage/handle
 室,shi4,room/work unit
-办公,ban4 gong1,work in an office
 办公室,ban4 gong1 shi4,office/bureau
 辆,liang4,mw for wheeled vehicles
 马,ma3,horse
@@ -836,8 +838,8 @@
 他喝很多水,ta1 he1 hen3 duo1 shui3,he drinks a lot of water
 他喝得很快很多水,ta1 he1 de hen3 kuai4 hen3 duo1 shui3,he drinks a lot of water quickly
 扮,ban4,disguise/dress up/play a role
-打扮,da3 ban4,dress/decorate
-饿,e4,hungry (verb or adj)
+打扮,da3 ban4,dress up/decorate
+饿,e4,hungry
 渴,ke3,thirsty
 生日,sheng1 ri4,birthday
 跟,gen1,with/go with/follow closely
@@ -930,18 +932,20 @@
 巴,ba1,greatly desire/anxiously hope
 嘴巴,zui3 ba1,mouth (body part)
 有钱人,you3 qian2 ren2,rich person
-是，的,shi4 : de,emphasize when/where/with whom an event occurred (q&a)
+是，的,shi4 : de,emphasize who/when/where/how regarding an event (q&a)
 我是应该吃饭的,wo3 shi4 ying1 gai1 chi1 fan4 de,i should have eaten
 他是会开车的,ta1 shi4 hui4 kai1 che1 de,he would have driven (knows how to)
 你是能游泳的,ni3 shi4 neng2 you2 yong3 de,you could have swam (able to)
 她是可以睡觉的,ta1 shi4 ke3:2 yi3 shui4 jiao4 de,she could sleep (permitted to)
 你是什么时候来的,ni3 shi4 shen2 me shi4 hou2 lai2 de,when did you come?
-我是昨天早上来的,wo3 shi4 zuo2 tian1 zao3 shang4 lai2 de,i came yesterday morning
+我是昨天早上来的,wo3 shi4 zuo2 tian1 zao3 shang4 lai2 de,i came yesterday morning/it was yesterday morning that i came (when)
 你是在哪里喝的,ni3 shi4 zai4 na3:2 li3 he1 de,where did you drink? (southern)
 你是在哪儿喝的,ni3 shi4 zai4 na3 er he1 de,where did you drink? (northern)
-我是在那家酒店喝的,wo3 shi4 zai4 na4 jia1 jiu3 dian4 he1 de,i drank at that hotel
+我是在那家酒店喝的,wo3 shi4 zai4 na4 jia1 jiu3 dian4 he1 de,i drank at that hotel/it was at that hotel that i drank (where)
+你是怎么喝的,ni shi4 zen3 me he1 de,how did you drink?
+我是喝得很开心的,wo3 shi4 he1 de hen3 kai1 xin1 de,i drank happily/it was happily that i drank (how)
 你是跟谁出去的,ni3 shi4 gen1 shei2 chu1 qu4 de,who did you go out with/with whom did you go out
-我是跟她出去的,wo3 shi4 gen1 ta1 chu1 qu4 de,i went out with her
+我是跟她出去的,wo3 shi4 gen1 ta1 chu1 qu4 de,i went out with her/it was with her that i went out (with whom)
 离,li2,from/distance between locations (loc1-离-loc2)
 远,yuan3,distant/far (loc1-离-loc2-远)
 近,jin4,near/close/approximately (loc1-离-loc2-近)
@@ -1026,8 +1030,11 @@
 怎么过,zen3 me guo4,how to celebrate?/how will one celebrate?
 中国白酒,zhong1 guo2 bai2 jiu3,chinese white wine/baijiu
 干杯,gan1 bei1,cheers/drink a toast
-法,fa3,law/regulation
+法,fa3,law/regulation (component 法国)
 法国,fa3 guo2,france country
+法国人,fa3 guo2 ren2,french person
+法文,fa3 wen2,french language
+法语,fa3:2 yu3,french language
 祝,zhu4,wish/express good wishes
 我们多吃蔬菜吧,wo3 men duo1 chi1 shu1 cai4 ba,let's eat more vegetables (suggestion)
 你需要少喝啤酒,ni3 xu1 yao4 shao3 he1 pi2 jiu3,you need to drink less beer (command)
@@ -1144,20 +1151,39 @@
 拉面,la1 mian4,ramen/lamian/pulled noodles
 锅,guo1,pot/pan
 火锅,huo3 guo1,hot pot (style of serving food)
-# ,,
-# 前天,qian2 tian1,day before yesterday
-# 后天,hou4 tian1,day after tomorrow
-# 三天前,san1 tian1 qian2,3 days ago/3 days back
-# 七天后,qi1 tian1 hou4,7 days later/7 days from now
-# 春,chun1,spring season/joyful (component 春节/春天)
-# 春节,chun1 jie2,spring festival/chinese new year
-# 春天,chun3 tian1,spring season
-# 夏,xia4,summer/great/grand (component 夏天)
-# 夏天,xia4 tian1,summer season
-# 秋,qiu1,autumn/fall (component 秋天)
-# 秋天,qiu1 tian1,autumn season/fall season
-# 冬,dong1,winter (component 冬天)
-# 冬天,dong1 tian1,winter season
+前,qian2,before/ago (placed after time)
+后,hou4,after/from now (placed after time)
+前天,qian2 tian1,day before yesterday
+后天,hou4 tian1,day after tomorrow
+三天前,san1 tian1 qian2,3 days ago/3 days back
+七天后,qi1 tian1 hou4,7 days later/7 days from now
+春,chun1,spring season/joyful (component 春节/春天)
+春节,chun1 jie2,spring festival/chinese new year
+春天,chun3 tian1,spring season
+夏,xia4,summer/great/grand (component 夏天)
+夏天,xia4 tian1,summer season
+秋,qiu1,autumn/fall (component 秋天)
+秋天,qiu1 tian1,autumn season/fall season
+冬,dong1,winter (component 冬天)
+冬天,dong1 tian1,winter season
+季,ji4,season/quarter of the year (component 季节)
+季节,ji4 jie2,season
+澳,ao4,inlet/bay (component 澳大利亚)
+亚,ya4,asia continent (component 澳大利亚)
+澳大利亚,ao4 da4 li4 ya4,australia country
+澳大利亚人,ao4 da4 li4 ya4 ren2,australian person
+越,yue4,exceed/climb/surpass (component 越来越)
+越来越,yue4 lai2 yue4,more and more/getting more (+adj)
+越来越热,yue4 lai2 yue4 re4,getting hotter
+堵,du3,stop/block/prevent (component 堵车)
+堵车,du3 che1,traffic jams
+概,gai4,generally/approximately (component 大概)
+大概,da4 gai4,probably/roughly/approximately (before verb)
+刚,gang1,only/just/barely
+准时,zhun3 shi2,punctual/on time/on schedule
+# 皮,pi2,skin/fur/leather
+# 折,zhe2,bend/break/fracture
+# 城,cheng2,city/city walls/town
 # ,,
 # 附,fu4,adhere to/append (component 附近)
 # 附近,fu4 jin4,vicinity/near/close (after location)
