@@ -125,9 +125,9 @@
 昨天下午,zuo2 tian1 xia4 wu3,yesterday afternoon
 今天下午,jin1 tian1 xia4 wu3,this afternoon
 明天晚上,ming2 tian1 wan3 shang4,tomorrow night
-昨天晚上,zuo2 tian1 wan3 shang4,last night/yesterday night
+昨天晚上,zuo2 tian1 wan3 shang4,last night/yesterday evening
 今天晚上,jin1 tian1 wan3 shang4,tonight/this evening
-个,ge4,individual/generic measure word
+个,ge4,individual/generic mw
 一个,yi1:2 ge4,one unit/a/an
 这个周末,zhe4 ge4 zhou1 mo4,this weekend
 这个星期五,zhe4 ge4 xing1 qi1 wu3,this friday
@@ -151,7 +151,7 @@
 她们,ta1 men,they/them (female)
 它们,ta1 men,they/them (neutral)
 的,de,noun-的-noun possession/adj&time-的-noun description
-我的,wo3 de,my
+我的,wo3 de,my/mine
 你的,ni3 de,your (informal)
 您的,nin2 de,your (formal)
 他的,ta1 de,his
@@ -243,6 +243,11 @@
 次,ci4,number of times/iteration (mw)
 一次,yi1:2 ci4,once/once time
 两次,liang3 ci4,twice/two times
+几次,ji3 ci4,how many times?/many times
+这次,zhe4 ci4,this time/this iteration
+这个时候,zhe4 ge4 shi2 hou4,this time/at this time
+那次,na4 ci4,that time/that iteration
+那个时候,na4 ge4 shi2 hou4,that time/at that time
 高,gao1,tall/high person
 矮,ai3,short/low person
 兴,xing4,excitement/interest in
@@ -450,7 +455,7 @@
 舞,wu3,dance/wield/brandish (component 跳舞)
 跳舞,tiao4 wu3,dance
 唱,chang2,sing/call (component 唱歌)
-唱歌,chang ge1,sing/call
+唱歌,chang2 ge1,sing/call
 床,chuang2,bed
 起床,qi3 chuang2,arise from bed/wake up/get up/get out of bed
 班,ban1,work shift/team/class
@@ -477,7 +482,7 @@
 卡,ka3,card (noun)/stop or block (verb)
 信用,xin4 yong4,trust/commercial credit
 信用卡,xin4 yong4 ka3,credit card
-宜,yi2,should (verb)/suitable (adj)
+宜,yi2,should (verb)/suitable (adj) (component 便宜)
 便宜,pian2 yi2,inexpensive/cheap
 贵,gui4,expensive/precious
 金,jin1,gold
@@ -490,7 +495,7 @@
 干,gan4,do/doing
 影,ying3,film
 电影,dian4 ying3,movie
-网,wang3,network
+网,wang3,net/network
 上网,shang4 wang3,go online
 机,ji1,machine
 手机,shou3 ji1,cell phone
@@ -513,7 +518,7 @@
 在椅子下,zai4 yi3 zi xia4,under the chair
 在冰箱里,zai4 bing1 xiang1 li3,inside the icebox/inside the refrigerator
 在房间外,zai4 fang2 jian1 wai4,outside the room
-你看见，了吗,ni3 kan4 jian4 ta1 le ma,did you see ...?have you seen ...?
+你看见，了吗,ni3 kan4 jian4 : le ma,did you see ...?have you seen ...?
 你看见他了吗,ni3 kan4 jian4 ta1 le ma,did you see him?/have you seen him?
 找,zhao3,seek/search for/find
 位,wei4,individual/seat/place (formal mw)
@@ -538,10 +543,6 @@
 一些,yi1:4 xie1,some/a few/a little/slighty (before object)
 这些,zhe4 xie1,these
 那些,na4 xie1,those
-这次,zhe4 ci4,this time/this iteration
-这个时候,zhe4 ge4 shi2 hou4,this time/at this time
-那次,na4 ci4,that time/that iteration
-那个时候,na4 ge4 shi2 hou4,that time/at that time
 上次,shang4 ci4,last time/last iteration
 下次,xia4 ci4,next time/next iteration
 东西,dong1 xi1:,things/stuff
@@ -796,9 +797,9 @@
 浪漫,lang4 man4,romantic
 约会,yue1 hui4,appointment/date
 不好意思,bu4 hao3 yi1:4 si1:,feel embarrassed/sorry for inconveniencing
-诉,su4,complain or appeal or tell (verb)/complaint (noun)
-告,gao4,tell/inform/accuse
-告诉,gai4 su4,tell/inform/let know
+诉,su4,complain/appeal/tell (component 告诉)
+告,gao4,tell/inform/accuse (component 告诉)
+告诉,gao4 su4,tell/inform/let know
 肚,du3 :: du4,tripe :: abdomen/stomach (component 肚子)
 肚子,du4 zi,stomach/belly
 肚子疼,du4 zi teng2,stomachache/bellyache
@@ -824,8 +825,8 @@
 头疼,tou2 teng2,headache
 她有头疼,ta1 you3 tou2 teng2,she has a headache
 他的头很疼,ta1 de tou2 hen3 teng2,his head hurts
-休,xiu1,rest/cease/stop for a period of time
-息,xi1,breath/interest on investment
+休,xiu1,rest/cease/stop for a period of time (component 休息)
+息,xi1,breath/interest on investment (component 休息)
 休息,xiu1 xi1,rest/take a break
 疼,teng2,hurts/painful
 好吃,hao3 chi1,tasty/delicious/good to eat (adj)
@@ -858,9 +859,9 @@
 大家,da4 jia1,influential family/everyone (greeting)
 每个人,mei3 ge4 ren2,everyone/every person (non-greeting)
 才,cai2,finally/took longer than expected (after time & before verb)
-情,qing2,situation/feeling/sentiment/emotion
-事,shi4,matter/affair
 急,ji2,urgent/pressing/hurried
+情,qing2,situation/feeling/sentiment/emotion (component 事情)
+事,shi4,matter/affair (component 事情)
 事情,shi4 qing2,matter/affair/thing to be told
 一件事情,yi1:2 jian4 shi4 qing2,something/one thing/one matter
 爸妈,ba4 ma1,parents/dad and mom/father and mother
@@ -937,16 +938,16 @@
 他是会开车的,ta1 shi4 hui4 kai1 che1 de,he would have driven (knows how to)
 你是能游泳的,ni3 shi4 neng2 you2 yong3 de,you could have swam (able to)
 她是可以睡觉的,ta1 shi4 ke3:2 yi3 shui4 jiao4 de,she could sleep (permitted to)
-你是什么时候来的,ni3 shi4 shen2 me shi4 hou2 lai2 de,when did you come?
+你是什么时候来的,ni3 shi4 shen2 me shi2 hou4 lai2 de,when did you come?
 我是昨天早上来的,wo3 shi4 zuo2 tian1 zao3 shang4 lai2 de,i came yesterday morning/it was yesterday morning that i came (when)
 你是在哪里喝的,ni3 shi4 zai4 na3:2 li3 he1 de,where did you drink? (southern)
 你是在哪儿喝的,ni3 shi4 zai4 na3 er he1 de,where did you drink? (northern)
 我是在那家酒店喝的,wo3 shi4 zai4 na4 jia1 jiu3 dian4 he1 de,i drank at that hotel/it was at that hotel that i drank (where)
-你是怎么喝的,ni shi4 zen3 me he1 de,how did you drink?
+你是怎么喝的,ni3 shi4 zen3 me he1 de,how did you drink?
 我是喝得很开心的,wo3 shi4 he1 de hen3 kai1 xin1 de,i drank happily/it was happily that i drank (how)
 你是跟谁出去的,ni3 shi4 gen1 shei2 chu1 qu4 de,who did you go out with/with whom did you go out
 我是跟她出去的,wo3 shi4 gen1 ta1 chu1 qu4 de,i went out with her/it was with her that i went out (with whom)
-离,li2,from/distance between locations (loc1-离-loc2)
+离,li2,away from/apart/distance between locations (loc1-离-loc2)
 远,yuan3,distant/far (loc1-离-loc2-远)
 近,jin4,near/close/approximately (loc1-离-loc2-近)
 餐厅离学校不近,can1 ting1 li2 xue2 xiao4 bu4:2 jin4,the restaurant is not near the school
@@ -1048,11 +1049,11 @@
 喽,lou2 :: lou,gang member or bandit :: suffix to warn or call attention to event
 心,xin1,heart/soul (component 开心)
 开心,kai1 xin1,happy (long lasting)
-快了,kuai4 le,almost/just about to/soon (spoken & construction 快-verb-了)
+快，了,kuai4 : le,almost .../about to .../will ... soon (spoken)
 我快到了,wo3 kuai4 dao4 le,i have almost arrived/i am almost there
-快下雨了,kuai4 xia4 yu3 le,it will rain soon
-快要了,kuai4 yao4 le,almost/just about to/soon (written & construction 快要-verb-了)
-快要下雪了,kuai4 yao4 xia4 xue3 le,it will snow soon
+快下雨了,kuai4 xia4 yu3 le,it will rain soon/it is about to rain
+快要，了,kuai4 yao4 : le,almost .../about to .../will ... soon (written)
+快要下雪了,kuai4 yao4 xia4 xue3 le,it will snow soon/it is about to snow
 学生快要放学了,xue2 sheng1 kuai4 yao4 fang4 xue2 le,students are about to leave school
 不但,bu4:2 dan4,not only (before 而且)
 而,er2,and/as well as (component 而且 & after 不但)
@@ -1132,7 +1133,7 @@
 兄弟,xiong1 di4,brothers
 姐妹,jie3 mei4,sisters
 兄弟姐妹,xiong1 di4 jie3 mei4,siblings/brothers and sisters
-像,xiang4,same/similar/like (very similar to 和 & before 一样)
+像,xiang4,same/similar/like (very similar to 是 & before 一样)
 一样,yi1:2 yang4,same (after 像 or 和)
 像，一样,xiang4 : yi1:2 yang4,is the same as .../is similar to .../is like ...
 像，一样高,xiang4 : yi1:2 yang4 gao1,is as tall as ...
@@ -1143,7 +1144,7 @@
 小笼包,xiao3 long2 bao1,steamed dumplings/soup dumplings
 油条,you2 tiao2,fritter/deep-fried dough stick
 豆,dou4,beans/bean-shaped/peas
-浆,jiang1,starch/broth/thick fruid
+浆,jiang1,starch/broth/thick fluid
 豆浆,dou4 jiang1,soy milk
 炒,chao3,fried
 粥,zhou1,congee/porridge/gruel (eat or drink)
@@ -1179,8 +1180,12 @@
 堵车,du3 che1,traffic jams
 概,gai4,generally/approximately (component 大概)
 大概,da4 gai4,probably/roughly/approximately (before verb)
-刚,gang1,only/just/barely
+刚,gang1,just/barely
 准时,zhun3 shi2,punctual/on time/on schedule
+挺，的,ting3 : de,quite ...
+挺冷的,ting3:2 leng3 de,quite cold
+一边，一边,yi1:4 bian1 : yi1:4 bian1,concurrent action (一边-v1-一边-v2)
+她爱一边唱歌一边跳舞,ta1 ai4 yi1:4 bian1 chang2 ge1 yi1:4 bian1 tiao4 wu3,she loves to sing and dance (concurrently)
 # 皮,pi2,skin/fur/leather
 # 折,zhe2,bend/break/fracture
 # 城,cheng2,city/city walls/town
