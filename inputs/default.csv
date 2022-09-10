@@ -91,7 +91,7 @@
 二〇三四年十二月七号,er4 ling2 er4 si4 nian2 shi2 er4 yue4 qi1 hao4,7 december 2034
 一九八五年五月二十六号,yi1 jiu3 ba1 wu3 nian2 wu3 yue4 er4 shi2 liu4 hao4,26 may 1985
 了,le,completed action marker/change in situation (end of sentence)
-过,guo4,experienced action marker (after verb)/pass or cross or celebrate (verb)
+过,guo4,experienced action marker (after verb)/pass time or cross or celebrate (verb)
 昨,zuo2,to denote yesterday
 昨天,zuo2 tian1,yesterday
 可,ke3,can/may (component 可以)
@@ -224,10 +224,10 @@
 想,xiang3,think/desire/consider
 想要,xiang3 yao4,would like/seriously consider
 帮,bang1,help/assist/support
-帮助,bang1 zhu4,assistance/aid
+帮助,bang1 zhu4,help/assist
 帮忙,bang1 mang2,help/lend a hand/do a favor
 说,shuo1,say/speak/tell
-白,bai2,white/pure
+白,bai2,white color/pure
 明白,ming2 bai2,understand/clear/obvious
 得,de :: dei3,describe/modify action (after verb) :: need to (before verb)
 快,kuai4,fast/quickly/soon
@@ -245,9 +245,9 @@
 两次,liang3 ci4,twice/two times
 几次,ji3 ci4,how many times?/many times
 这次,zhe4 ci4,this time/this iteration
-这个时候,zhe4 ge4 shi2 hou4,this time/at this time
+这个时候,zhe4 ge4 shi2 hou4,at this time
 那次,na4 ci4,that time/that iteration
-那个时候,na4 ge4 shi2 hou4,that time/at that time
+那个时候,na4 ge4 shi2 hou4,at that time
 高,gao1,tall/high person
 矮,ai3,short/low person
 兴,xing4,excitement/interest in
@@ -284,6 +284,7 @@
 给他打电话,gei3 ta1 da3 dian4 hua4,call him on the phone/give him a call
 中,zhong1,central/middle
 拿,na2,hold/seize/catch/apprehend
+美,mei3,beautiful (adj)/beautify (verb)
 英,ying1,hero/brave (rare)
 国,guo2,country/kingdom
 中国,zhong1 guo2,china country
@@ -302,6 +303,7 @@
 英国人,ying1 guo2 ren2,british person
 加拿大人,jia1 na2 da4 ren2,canadian person
 中文,zhong1 wen2,chinese language
+汉,han4,han ethnic group/han dynasty
 汉语,han4 yu3,chinese language
 韩文,han2 wen2,korean language
 韩语,han2 yu3,korean language
@@ -399,8 +401,8 @@
 亮,liang4,bright/clear/resonant
 漂亮,piao4 liang4,beautiful/pretty
 非,fei1,not/wrong/incorrect
-常,chang2,always/often/frequently
-非常,fei1 chang2,very/extremely
+常,chang2,regular/often/frequently
+非常,fei1 chang2,very/extraordinary
 可爱,ke3 ai4,cute/adorable/lovely
 洗,xi3,wash/bathe
 手,shou3,hand
@@ -454,8 +456,8 @@
 跳,tiao4,jump/hop/bounce (component 跳舞)
 舞,wu3,dance/wield/brandish (component 跳舞)
 跳舞,tiao4 wu3,dance
-唱,chang2,sing/call (component 唱歌)
-唱歌,chang2 ge1,sing/call
+唱,chang4,sing/call (component 唱歌)
+唱歌,chang4 ge1,sing/call
 床,chuang2,bed
 起床,qi3 chuang2,arise from bed/wake up/get up/get out of bed
 班,ban1,work shift/team/class
@@ -576,7 +578,7 @@
 所,suo3,actually/that which/mw for houses and small buildings
 所以,suo3:2 yi3,so/therefore (before noun and after 因为)
 因为，所以,yin1 wei4 : suo3:2 yi3,because ... so
-牙,ya2,tooth/ivory
+牙,ya2,tooth/ivory (component 刷牙)
 西班牙,xi1 ban1 ya2,spain country
 西班牙人,xi1 ban1 ya2 ren2,spanish person/spaniard
 西班牙语,xi1 ban1 ya2 yu3,spanish language
@@ -591,9 +593,10 @@
 轻松,qing1 song1,relax/take things less seriously
 旅游,lv3 you2,trip/tour/travel (noun)
 旅行,lv3 xing2,trip/tour/travel (noun)
+照,zhao4,illuminate/shine/reflect
+相,xiang4,mutual/reciprocal
 照相机,zhao4 xiang4 ji1,camera
 拍,pai1,pat/clap/slap/swat
-照,zhao4,illuminate/reflect
 拍照,pai1 zhao4,take a picture (verb)/photography (noun)
 我去中国,wo3 qu4 zhong1 guo2,i go to china
 我去了中国,wo3 qu4 le zhong1 guo2,i went to china
@@ -711,6 +714,7 @@
 准,zhun3,allow/approve/grant
 出,chu1,go out/come out/occur (component 出去)
 出去,chu1 qu4,go out
+出来,chu1 lai2,come out/emerge
 租,zu1,rent/hire
 汽,qi4,steam/vapor (component 汽车)
 汽车,qi4 che1,car/automobile
@@ -853,7 +857,7 @@
 派,pai4,clique/group/faction
 派对,pai4 dui4,party (loanword)
 司,si1,take charge of/manage
-公司,gong1 si1,company/corporation (location)
+公司,gong1 si1:,company/corporation (location)
 正,zheng4,straight/upright/positive
 正在,zheng4 zai4,actively doing or was doing (action)
 大家,da4 jia1,influential family/everyone (greeting)
@@ -862,10 +866,11 @@
 急,ji2,urgent/pressing/hurried
 情,qing2,situation/feeling/sentiment/emotion (component 事情)
 事,shi4,matter/affair (component 事情)
-事情,shi4 qing2,matter/affair/thing to be told
+事情,shi4 qing2,matter/affair/task/thing to be told
 一件事情,yi1:2 jian4 shi4 qing2,something/one thing/one matter
 爸妈,ba4 ma1,parents/dad and mom/father and mother
 回去,hui2 qu4,go back (omit 去 when destination exists)
+回来,hui2 lai2,come back (omit 来 when destination exists)
 饭店,fan4 dian4,hotel/restaurant/diner
 酒吧,jiu3 ba1,bar/pub/saloon
 同,tong2,same (pronoun)/with (preposition)
@@ -875,7 +880,7 @@
 完了,wan2 le,finished (after verb)
 读完了,du2 wan2 le,finished reading
 已,yi3,already/finished (component 已经)
-经,jing1,through/after (component 已经)
+经,jing1,through/after (component 已经/经过)
 已经,yi3 jing1,already (before verb)
 已经喝,yi3 jing1 he1,already drinking
 已经吃完了,yi3 jing1 chi1 wan2 le,already finished eating
@@ -886,7 +891,7 @@
 力,li4,power/force
 巧克力,qiao3 ke4 li4,chocolate (loanword)
 饱,bao3,full of food/no longer hungry
-真,zhen1,really/truly
+真,zhen1,really/truly/real/true
 甜,tian2,sweet
 甜点,tian2 dian3,dessert
 味,wei4,taste/flavor/mw for medicine prescription ingredients
@@ -996,8 +1001,8 @@
 刮,gua1,blow/scrape/shave (verb)
 风,feng1,wind (fast moving air & noun)
 刮风,gua1 feng1,be windy/blow wind
-可能,ke3:2 neng2,might happen/maybe/possible
-不可能,bu4 ke3:2 neng2,impossible
+可能,ke3 neng2,might happen/maybe/possible
+不可能,bu4 ke3 neng2,impossible
 雨雪,yu3:2 xue3,sleet/rain and snow mix
 在雨雪中,zai4 yu3:2 xue3 zhong1,surrounded by sleet/in the sleet
 虽,sui1,although (component 虽然)
@@ -1039,7 +1044,7 @@
 祝,zhu4,wish/express good wishes
 我们多吃蔬菜吧,wo3 men duo1 chi1 shu1 cai4 ba,let's eat more vegetables (suggestion)
 你需要少喝啤酒,ni3 xu1 yao4 shao3 he1 pi2 jiu3,you need to drink less beer (command)
-让我们坐在火车的前面,rang4 wo3 men zuo4 zai4 huo3 che1 de qian2 mian4,let's sit at the front of the train
+让我们坐在火车的前面,rang4 wo3 men zuo4 zai4 huo3 che1 de qian2 mian4,allow us to sit at the front of the train
 张老师在学校的后面,zhang1 lao3 shi1 zai4 xue2 xiao4 de hou2 mian4,teacher zhang is behind the school
 我用左手写字,wo3 yong4 zuo3 shou3:2 xie3 zi4,i write with my left hand (no 边)
 请靠右边开车得很慢,qing3 kao4 you4 bian1 kai1 che1 de hen3 man4,please drive slowly on the right side
@@ -1077,7 +1082,7 @@
 西北,xi1 bei3,northwest/westnorth
 西南,xi1 nan2,southwest/westsouth
 东南,dong1 nan2,southeast/eastsouth
-第,di4,prefix mw for ordinal numbers
+第,di4,prefix for ordinal numbers (first second third etc.)
 第一,di4 yi1,the first/number one/primary
 第二次,di4 er4 ci4,second time
 学习,xue2 xi2,learn/study
@@ -1184,25 +1189,77 @@
 准时,zhun3 shi2,punctual/on time/on schedule
 挺，的,ting3 : de,quite ...
 挺冷的,ting3:2 leng3 de,quite cold
-一边，一边,yi1:4 bian1 : yi1:4 bian1,concurrent action (一边-v1-一边-v2)
-她爱一边唱歌一边跳舞,ta1 ai4 yi1:4 bian1 chang2 ge1 yi1:4 bian1 tiao4 wu3,she loves to sing and dance (concurrently)
-# 皮,pi2,skin/fur/leather
-# 折,zhe2,bend/break/fracture
-# 城,cheng2,city/city walls/town
-# ,,
-# 附,fu4,adhere to/append (component 附近)
-# 附近,fu4 jin4,vicinity/near/close (after location)
-# 中间,zhong1 jian1,between/among (after 在)
-# 在，中间,zai4 : zhong1 jian1,between/among
-# 园,yuan2,park/garden/orchard
-# 公园,gong1 yuan2,public park
-# 图,tu2,diagram/chart/map
-# 图书馆,tu2 shu1 guan3,library
-# 公园在图书馆和学校中间,gong1 yuan2 zai4 tu2 shu1 guan3 he2 xue2 xiao4 de zhong1 jian1,the park is between the library and the school
-# 上面,shang4 mian4,top side/on/above
-# 下面,xia4 mian4,bottom side/under
-# ,,
-# 元,yuan2,yuan/rmb (formal)
-# 角,jiao3,angle/corner/tenth of yuan (formal)
-# 块,kuai4,yuan or rmb (informal)/mw for piece or slice
-# 毛,mao2,hair/tenth of yuan (informal)
+一边，一边,yi1:4 bian1 : yi1:4 bian1,concurrently/at the same time (一边-v1-一边-v2)
+她爱一边唱歌一边跳舞,ta1 ai4 yi1:4 bian1 chang4 ge1 yi1:4 bian1 tiao4 wu3,she loves to sing and dance at the same time
+皮,pi2,skin/fur/leather
+折,zhe2,bend/break/fracture (component 打折)
+打折,da3 zhe2,offer a discounted price
+附,fu4,adhere to/append (component 附近)
+附近,fu4 jin4,vicinity/near/close (after location)
+出租车附近有两只鸟,chu1 zu1 che1 fu4 jin4 you3:2 liang3 zhi1 niao3,there are two birds near the taxi
+中间,zhong1 jian1,between/among (after 在)
+在，中间,zai4 : zhong1 jian1,between/among
+园,yuan2,park/garden/orchard
+公园,gong1 yuan2,public park
+图,tu2,diagram/chart/map
+图书馆,tu2 shu1 guan3,library
+公园在图书馆和学校中间,gong1 yuan2 zai4 tu2 shu1 guan3 he2 xue2 xiao4 zhong1 jian1,the park is between the library and the school
+上面,shang4 mian4,top side/on/above
+下面,xia4 mian4,bottom side/under
+元,yuan2,yuan/rmb (formal)
+角,jiao3,angle/corner/tenth of yuan (formal)
+块,kuai4,yuan or rmb (informal)/mw for piece or slice
+毛,mao2,hair/tenth of yuan (informal)
+城,cheng2,city walls (component 城市)
+城市,cheng2 shi4,city/town
+长城,chang2 cheng2,great wall of china
+花,hua1,flower or blossom (noun)/spend time or spend money (verb)
+换,huan4,exchange/substitute
+方,fang1,square/direction (cardinal)
+地方,di4 fang1,area/place/site
+咖啡馆,ka1 fei1 guan3,cafe/coffee shop
+过一会,guo4 yi1:2 hui4,later/after a while (southern)
+过一会儿,guo4 yi1:2 hui4 er,later/after a while (northern)
+袋子,dai4 zi,bag
+经过,jing1 guo4,pass by/walk by
+退,tui4,step back/retreat/withdraw
+货,huo4,goods/products
+退货,tui2 huo4,return a purchase/withdraw a product
+款,kuan3,paragraph/section/money
+退款,tui4 kuan3,refund (noun or verb)/return money
+以前,yi3 qian2,before doing action (after verb)/previous or former (adj)
+以后,yi3 hou4,after doing action (after verb)/next or future (adj)
+这是我以前的公司,zhe4 shi4 wo3:2 yi3 qian2 de gong1 si1:,this is my former company
+那是她以后的丈夫,na4 shi4 ta1 yi3 hou4 de zhang4 fu1,that is her future husband
+有些人上班以前洗澡,you3 xie1 ren2 shang4 ban1 yi3 qian2 xi3:2 zao3,some people shower before going to work
+别刷牙以后吃牛肉,bie2 shua1 ya2 yi3 hou4 chi1 niu2 rou4,do not eat beef after brushing your teeth
+马上,ma3 shang4,immediately/right away/at once (before verb)
+刷,shua1,clean with a brush/scrub (component 刷牙)
+刷牙,shua1 ya2,brush teeth
+澡,zao3,wash/bathe (component 洗澡)
+洗澡,xi3:2 zao3,shower/bathe
+惯,guan4,habit/custom (component 习惯)
+习惯,xi2 guan4,habit (noun)/habitually or accustomed to (verb)
+总,zong3,always/overall/chief (component 总是)
+总是,zong3 shi4,always
+梦,meng4,dream/visionary/wishful (component 做梦)
+做梦,zuo4 meng4,dream (verb or noun)
+故,gu4,ancient/old (component 故事)
+故事,gu4 shi4,story/tale
+讲,jiang3,speak/explain/talk (rare)
+除,chu2,remove/exclude/eliminate
+除了，都,chu2 le : dou1,except for ...
+除了你他们都在这里,chu2 le ni3 ta1 men dou1 zai4 zhe4 li3,they are all here except you
+除了，还,chu2 le : hai2,in addition to ...
+除了冰水我们还喝热茶,chu2 le bing1 shui3:2 wo3 men hai2 he1 re4 cha2,in addition to ice water we also drink hot tea
+其,qi2,possessive prefix/that or those previously mentioned
+其他,qi2 ta1,other/the rest/something else/someone else
+饺子,jiao3 zi,dumpling
+极了,ji2 le,extremely/utmost (after adj)
+辣,la4,spicy/pungent
+苦,ku3,bitter/hardship/suffer
+难吃,nan2 chi1,tastes bad/difficult to eat (adj)
+难喝,nan2 he1,tastes bad/difficult to drink (adj)
+炒饭,chao3 fan4,fried rice
+盐,yan2,salt
+咸,xian2,salty
