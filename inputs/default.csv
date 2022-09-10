@@ -426,7 +426,7 @@
 路,lu4,road/the way
 左,zuo3,left direction
 右,you4,right direction
-边,bian1,side/boundary
+边,bian1,boundary/side (cardinal or relative)
 旁,pang2,beside/one side
 前面,qian2 mian4,ahead/front side
 后面,hou4 mian4,behind/back side
@@ -997,7 +997,7 @@
 有多冷,you3 duo1 leng3,how cold?
 从来不,cong2 lai2 bu4,never (before verb)
 长,chang2,long object (sometimes used for time)
-穿,chuan1,wear/put on/dress
+穿,chuan1,wear main clothing article (shirts dresses pants shoes)
 刮,gua1,blow/scrape/shave (verb)
 风,feng1,wind (fast moving air & noun)
 刮风,gua1 feng1,be windy/blow wind
@@ -1263,3 +1263,13 @@
 炒饭,chao3 fan4,fried rice
 盐,yan2,salt
 咸,xian2,salty
+较,jiao4,more than (component 比较)
+比较,bi3 jiao4,comparatively more/adj-er than (before adj)
+戴,dai4,wear accessory clothing (glasses hat gloves jewelry etc)
+镜,jing4,mirror/lens (component 眼镜)
+眼镜,yan3 jing4,eyeglasses/spectacles
+自,zi4,self/private/personal (component 自己)
+己,ji3,self/oneself/personal (component 自己)
+自己,zi4 ji3,by one's self (before verb)
+一个人,yi1:2 ge4 ren2,alone
+自己一个人,zi4 ji3 yi1:2 ge4 ren2,alone by one's self (emphasis)
