@@ -31,6 +31,7 @@
 千,qian1,thousand
 万,wan4,ten thousand
 现在,xian4 zai4,now/right now (cannot reference past)
+今,jin1,present/current/this time period
 今天,jin1 tian1,today
 明,ming2,bright/next (day or year)
 明天,ming2 tian1,tomorrow
@@ -147,23 +148,23 @@
 我们,wo3 men,we/us
 你们,ni3 men,you (plural & informal)
 您们,nin2 men,you (plural & formal)
-他们,ta1 men,they/them (male)
+他们,ta1 men,they/them (male or mixed)
 她们,ta1 men,they/them (female)
 它们,ta1 men,they/them (neutral)
-的,de,noun-的-noun possession/adj&time-的-noun description
+的,de,noun-的-noun possession/adj&time-的-noun description/phantom noun suffix
 我的,wo3 de,my/mine
 你的,ni3 de,your (informal)
 您的,nin2 de,your (formal)
 他的,ta1 de,his
-她的,ta1 de,hers
+她的,ta1 de,her/hers
 它的,ta1 de,its
-我们的,wo3 men de,our
-你们的,ni3 men de,your (plural & informal)
-您们的,nin2 men de,your (plural & formal)
-他们的,ta1 men de,their (male)
-她们的,ta1 men de,their (female)
-它们的,ta1 men de,their (neutral)
-好,hao3,good/well/fine
+我们的,wo3 men de,our/ours
+你们的,ni3 men de,your/yours (plural & informal)
+您们的,nin2 men de,your/yours (plural & formal)
+他们的,ta1 men de,their/theirs (male or mixed)
+她们的,ta1 men de,their/theirs (female)
+它们的,ta1 men de,their/theirs (neutral)
+好,hao3,good/well/fine/easy (before verb)
 好的,hao3 de,express agreement or understanding/sure./ok.
 好啊,hao3 a,express enthusiastic agreement/sure!/ok!
 好吧,hao3 ba,express unenthusiastic agreement/sure.../ok...
@@ -185,15 +186,15 @@
 不客气,bu4:2 ke4 qi4,you're welcome/you are welcome
 抱,bao4,hug/surround/carry in arms
 歉,qian4,apologize/regret
-抱歉,bao4 qian4,sorry (minor)
+抱歉,bao4 qian4,feel sorry/feel apologetic
 起,qi3,arise/get up/stand up
-对不起,dui4 bu4 qi3,sorry (major)
+对不起,dui4 bu4 qi3,sorry
 关,guan1,close/shut
 系,xi4,connect/bind/tie up
 再,zai4,again (used before verb)
-见,jian4,see/meet
+见,jian4,see/observe/meet (often a person)
 再见,zai4 jian4,goodbye/see soon
-吗,ma,yn?/yes or no question
+吗,ma,yn?/yes or no question suffix
 不,bu4,no/not (negates present/future actions)
 是不是,shi4 bu4:2 shi4,whether/is it not? (pattern for yn?)
 好不好,hao3 bu4 hao3,ok?/good?
@@ -202,7 +203,7 @@
 饭,fan4,rice/meal/serving
 餐,can1,meal
 鱼,yu2,fish
-面,mian4,side/surface/noodles
+面,mian4,face/surface/noodles
 早饭,zao3 fan4,breakfast
 早餐,zao3 can1,breakfast
 午饭,wu3 fan4,lunch
@@ -255,7 +256,7 @@
 错,cuo4,mistake/wrong/bad/incorrectly
 不错,bu4:2 cuo4,not bad/pretty good
 很,hen3,very/really (before verb)/noun-很-adj connector
-呢,ne,and?/what about?/how about?
+呢,ne,and?/what about?/how about? (suffix)
 和,he2,and/together with (link nouns)
 钱,qian2,money
 字,zi4,letter/symbol/character/word
@@ -277,7 +278,7 @@
 叫,jiao4,am/be called
 电,dian4,electric/electricity
 话,hua4,spoken words/speech
-码,ma3,code
+码,ma3,code or weight (noun)/stack or pile (verb)
 电话,dian4 hua4,phone/telephone
 电话号码,dian4 hua4 hao4 ma3,phone number
 打电话,da3 dian4 hua4,make phone call/call on the phone
@@ -297,18 +298,11 @@
 女人,nv3 ren2,woman/women
 语,yu3,language/dialect
 文,wen2,language/arts/culture
-中国人,zhong1 guo2 ren2,chinese person
-韩国人,han2 guo2 ren2,korean person
-美国人,mei3 guo2 ren2,american person
-英国人,ying1 guo2 ren2,british person
-加拿大人,jia1 na2 da4 ren2,canadian person
 中文,zhong1 wen2,chinese language
 汉,han4,han ethnic group/han dynasty
 汉语,han4 yu3,chinese language
-韩文,han2 wen2,korean language
-韩语,han2 yu3,korean language
-英文,ying1 wen2,english language
-英语,ying1 yu3,english language
+韩文,han2 wen2,korean language (alt 韩语)
+英语,ying1 yu3,english language (alt 英文)
 认,ren4,recognize/know
 识,shi2,know/knowledge
 认识,ren4 shi2:,know personally/recognize a noun/meet
@@ -342,13 +336,13 @@
 香港,xiang1 gang3,hong kong
 约,yue1,make appointment/invite
 纽约,niu3 yue1,new york
-台,tai2,mw for machines used on a flat surface (eg computers)
-湾,wan1,bay or gulf (noun)/cast anchor or moor a boat(verb
+台,tai2,mw for machines used on a flat surface (eg computers phones)
+湾,wan1,bay or gulf (noun)/cast anchor or moor a boat (verb)
 台湾,tai2 wan1,taiwan
 伦敦,lun2 dun1,london
 京,jing1,capital city
 北京,bei3 jing1,beijing
-家,jia1,house/home (mw for family-run buildings)
+家,jia1,house/home (mw for family-run businesses)
 家人,jia1 ren2,family
 住,zhu4,lives/dwells/resides
 在,zai4,located at/to be in/actively doing (before verb is -ing)
@@ -359,7 +353,7 @@
 哪儿,na3 r,where? (northern)
 哪里,na3:2 li3,where? (southern)
 那,na4,that
-那个,na4 ge4,that one
+那个,na4 ge4,that one/filler word
 那两个,na4 liang3 ge4,those two
 那儿,na4 r,there/over there (northern)
 那里,na4 li3,there/over there (southern)
@@ -371,7 +365,7 @@
 谁,shei2,who/whom?
 谁的,shei2 de,whose?
 有,you3,has/have/possess
-没有,mei2 you3,not have (negate past actions)
+没有,mei2 you3,not have (negate past actions)/not as much as (n1-没有-n2-adj)
 她有没有,ta1 you3 mei2 you3,does she have? (pattern for yn?)
 关系,guan1 xi4,relationship (noun)/affect or concern (verb)
 没关系,mei2 guan1 xi4,it doesn't matter/no problem/no worries
@@ -420,13 +414,15 @@
 从,cong2,from a place/from a time (before noun and before 到)
 到,dao4,to a place/until a time (before noun and after 从)/arrive
 从，到,cong2 : dao4,from ... to a place/from ... until a time
+张同学从公园到大学走路,zhang1 tong2 xue2 cong2 gong1 yuan2 dao4 da4 xue2 zou3 lu4,classmate zhang walks from the park to the college
+他从两点到四点半喝啤酒,ta1 cong2 liang3:2 dian3 dao4 si4 dian3 ban4 he1 pi2 jiu3,he drinks beer from 2:00 to 4:30
 往,wang3,towards a place (before noun)
 走,zou3,walk/run/go (sharp command)
 怎么走,zen3 me zou3,how to get? (to a place)
 路,lu4,road/the way
 左,zuo3,left direction
 右,you4,right direction
-边,bian1,boundary/side (cardinal or relative)
+边,bian1,boundary/side/edge (cardinal or relative)
 旁,pang2,beside/one side
 前面,qian2 mian4,ahead/front side
 后面,hou4 mian4,behind/back side
@@ -439,6 +435,7 @@
 欢,huan1,joyous/happy/pleased (component 喜欢)
 喜欢,xi3 huan1,like/enjoy
 看,kan4,look at/watch/read without focus
+看见,kan4 jian4,see/catch sight of (generic)
 书,shu1,book/letter/document
 看书,kan4 shu1,read a book
 听,ting1,listen/hear
@@ -464,13 +461,12 @@
 睡觉,shui4 jiao4,sleep/go to bed
 回,hui2,return/go back/turn around
 放,fang4,put/release/free
-做饭,zuo4 fan4,cook (lit. make food)
 煮,zhu3,cook/boil
 上学,shang4 xue2,go to school
 放学,fang4 xue2,get out of school
 上班,shang4 ban1,go to work/be on duty
 下班,xia4 ban1,get out of work
-太,tai4,too much/excessive
+太，了,tai4 : le,too much/excessive
 买,mai3,buy/purchase
 卖,mai4,sell or betray (verb)/sale (noun)
 只,zhi1 :: zhi3,mw for cats/dogs/birds :: only/merely/just
@@ -520,9 +516,9 @@
 在椅子下,zai4 yi3 zi xia4,under the chair
 在冰箱里,zai4 bing1 xiang1 li3,inside the icebox/inside the refrigerator
 在房间外,zai4 fang2 jian1 wai4,outside the room
-你看见，了吗,ni3 kan4 jian4 : le ma,did you see ...?have you seen ...?
+你看见，了吗,ni3 kan4 jian4 : le ma,did you see ...?/have you seen ...?
 你看见他了吗,ni3 kan4 jian4 ta1 le ma,did you see him?/have you seen him?
-找,zhao3,seek/search for/find
+找,zhao3,seek/search for/look for/find
 位,wei4,individual/seat/place (formal mw)
 等,deng3,await/wait for/equal to
 坐,zuo4,sit/take a seat/embark onto vehicle
@@ -580,13 +576,9 @@
 因为，所以,yin1 wei4 : suo3:2 yi3,because ... so
 牙,ya2,tooth/ivory (component 刷牙)
 西班牙,xi1 ban1 ya2,spain country
-西班牙人,xi1 ban1 ya2 ren2,spanish person/spaniard
-西班牙语,xi1 ban1 ya2 yu3,spanish language
-西班牙文,xi1 ban1 ya2 wen2,spanish language
+西班牙文,xi1 ban1 ya2 wen2,spanish language (alt 西班牙语)
 印度,yin1 du4,india country
-印度人,yin1 du4 ren2,indian person
-印度语,yin1 du4 yu3,indian language (hindi)
-印度文,yin1 du4 wen2,indian language (hindi)
+印度语,yin1 du4 yu3,indian language/hindi (alt 印度文)
 爱好,ai4 hao4,hobby/interest
 松,song1,loose (noun)/loosen (verb)
 轻,qing1,light/easy/gentle/soft
@@ -612,7 +604,7 @@
 我们没听过音乐,wo3 men mei2 ting1 guo4 yin1 yue4,we have not listened to music
 脏,zang1,dirty/filthy
 抽烟,cho1 yan1,smoke a cigarette (verb)
-还,hai2,still in progress/still more/yet
+还,hai2,still in progress/still more/yet/moderate positive adj (before adj)
 还是,hai2 shi4,or?/still/nevertheless
 肉,rou4,meat/flesh/pulp of a fruit
 牛肉,niu2 rou4,beef/cow meat
@@ -626,10 +618,9 @@
 写,xie3,write
 本,ben3,root/stem/source/origin/mw for books or magazines
 张,zhang1,spread open/mw for flat objects (paper or tables)
+王,wang2,king/monarch
 日本,ri4 ben3,japan country
-日本人,ri4 ben3 ren2,japanese person
-日文,ri4 wen2,japanese language
-日语,ri4 yu3,japanese language
+日文,ri4 wen2,japanese language (alt 日语)
 海,hai3,sea/ocean
 上海,shang4 hai3,shanghai city
 料,liao4,material/stuff/grain
@@ -757,9 +748,7 @@
 盘子,pan2 zi,plate/dish (noun)
 德,de2,virtue/goodness/morality
 德国,de2 guo2,germany country
-德国人,de2 guo2 ren2,german person
-德语,de2 yu3,german language
-德文,de2 wen2,german language
+德语,de2 yu3,german language (alt 德文)
 啤酒,pi2 jiu3,beer (loanword)
 汁,zhi1,juice
 果汁,guo3 zhi1,fruit juice
@@ -809,8 +798,9 @@
 肚子疼,du4 zi teng2,stomachache/bellyache
 留,liu2,stay/remain
 留在家工作,liu2 zai4 jia1 gong1 zuo4,work from home/wfh
-定,ding4,set or fix (verb)/fixed or definite (adj)
+定,ding4,fixed or definite (component 一定/一定要)
 一定,yi1:2 ding4,surely/necessarily/certainly/definitely
+一定要,yi1:2 ding4 yao4,must
 感,gan3,sense/feel
 冒,mao4,risk/dare
 感冒,gan3 mao4,have a cold/sick with a cold
@@ -847,7 +837,7 @@
 饿,e4,hungry
 渴,ke3,thirsty
 生日,sheng1 ri4,birthday
-跟,gen1,with/go with/follow closely
+跟,gen1,with/go with/follow closely (very similar to 和)
 跟，一起,gen1 : yi1:4 qi3,together with ...
 跟你一起,gen1 ni3 yi1:4 qi3,together with you
 跟我的狗一起,gen1 wo3 de gou3 yi1:4 qi3,together with my dog
@@ -995,8 +985,9 @@
 冷,leng3,cold
 有多,you3 duo1,how much (adj)?
 有多冷,you3 duo1 leng3,how cold?
-从来不,cong2 lai2 bu4,never (before verb)
-长,chang2,long object (sometimes used for time)
+从来不,cong2 lai2 bu4,never do (before verb)
+从来没有,cong2 lai2 mei3 you3,never have (before verb)
+长,chang2 :: zhang3,long object :: chief or elder (noun)/enhance or increase (verb)
 穿,chuan1,wear main clothing article (shirts dresses pants shoes)
 刮,gua1,blow/scrape/shave (verb)
 风,feng1,wind (fast moving air & noun)
@@ -1006,10 +997,10 @@
 雨雪,yu3:2 xue3,sleet/rain and snow mix
 在雨雪中,zai4 yu3:2 xue3 zhong1,surrounded by sleet/in the sleet
 虽,sui1,although (component 虽然)
-然,ran2,yes/certainly/of course (component 虽然)
+然,ran2,yes/of course/pledge/promise (component 虽然)
 虽然,sui1 ran2,although/though/despite (before 但是)
 但,dan4,but/however/yet (component 但是)
-但是,dan4 shi4,but/however/yet (after 虽然)
+但是,dan4 shi4,but/however/yet (after 虽然, similar to 可是)
 虽然，但是,sui1 ran2 : dan4 shi4,although ... but
 帽子,mao4 zi,hat/cap
 短,duan3,short object
@@ -1038,14 +1029,12 @@
 干杯,gan1 bei1,cheers/drink a toast
 法,fa3,law/regulation (component 法国)
 法国,fa3 guo2,france country
-法国人,fa3 guo2 ren2,french person
-法文,fa3 wen2,french language
-法语,fa3:2 yu3,french language
+法文,fa3 wen2,french language (alt 法语)
 祝,zhu4,wish/express good wishes
 我们多吃蔬菜吧,wo3 men duo1 chi1 shu1 cai4 ba,let's eat more vegetables (suggestion)
 你需要少喝啤酒,ni3 xu1 yao4 shao3 he1 pi2 jiu3,you need to drink less beer (command)
 让我们坐在火车的前面,rang4 wo3 men zuo4 zai4 huo3 che1 de qian2 mian4,allow us to sit at the front of the train
-张老师在学校的后面,zhang1 lao3 shi1 zai4 xue2 xiao4 de hou2 mian4,teacher zhang is behind the school
+王老师在学校的后面,wang2 lao3 shi1 zai4 xue2 xiao4 de hou2 mian4,teacher wang is behind the school
 我用左手写字,wo3 yong4 zuo3 shou3:2 xie3 zi4,i write with my left hand (no 边)
 请靠右边开车得很慢,qing3 kao4 you4 bian1 kai1 che1 de hen3 man4,please drive slowly on the right side
 李医生走你的旁边,li3 yi1 sheng1 zou3:2 ni3 de pang2 bian1,doctor li walks beside you
@@ -1177,7 +1166,6 @@
 澳,ao4,inlet/bay (component 澳大利亚)
 亚,ya4,asia continent (component 澳大利亚)
 澳大利亚,ao4 da4 li4 ya4,australia country
-澳大利亚人,ao4 da4 li4 ya4 ren2,australian person
 越,yue4,exceed/climb/surpass (component 越来越)
 越来越,yue4 lai2 yue4,more and more/getting more (+adj)
 越来越热,yue4 lai2 yue4 re4,getting hotter
@@ -1227,8 +1215,8 @@
 退货,tui2 huo4,return a purchase/withdraw a product
 款,kuan3,paragraph/section/money
 退款,tui4 kuan3,refund (noun or verb)/return money
-以前,yi3 qian2,before doing action (after verb)/previous or former (adj)
-以后,yi3 hou4,after doing action (after verb)/next or future (adj)
+以前,yi3 qian2,before doing action or time (after verb)/previous or former (adj)
+以后,yi3 hou4,after doing action or time (after verb)/next or future (adj)
 这是我以前的公司,zhe4 shi4 wo3:2 yi3 qian2 de gong1 si1:,this is my former company
 那是她以后的丈夫,na4 shi4 ta1 yi3 hou4 de zhang4 fu1,that is her future husband
 有些人上班以前洗澡,you3 xie1 ren2 shang4 ban1 yi3 qian2 xi3:2 zao3,some people shower before going to work
@@ -1241,7 +1229,7 @@
 惯,guan4,habit/custom (component 习惯)
 习惯,xi2 guan4,habit (noun)/habitually or accustomed to (verb)
 总,zong3,always/overall/chief (component 总是)
-总是,zong3 shi4,always
+总是,zong3 shi4,always (as a matter of habit)
 梦,meng4,dream/visionary/wishful (component 做梦)
 做梦,zuo4 meng4,dream (verb or noun)
 故,gu4,ancient/old (component 故事)
@@ -1263,13 +1251,41 @@
 炒饭,chao3 fan4,fried rice
 盐,yan2,salt
 咸,xian2,salty
-较,jiao4,more than (component 比较)
-比较,bi3 jiao4,comparatively more/adj-er than (before adj)
-戴,dai4,wear accessory clothing (glasses hat gloves jewelry etc)
-镜,jing4,mirror/lens (component 眼镜)
-眼镜,yan3 jing4,eyeglasses/spectacles
-自,zi4,self/private/personal (component 自己)
-己,ji3,self/oneself/personal (component 自己)
-自己,zi4 ji3,by one's self (before verb)
-一个人,yi1:2 ge4 ren2,alone
-自己一个人,zi4 ji3 yi1:2 ge4 ren2,alone by one's self (emphasis)
+南方菜,nan2 fang1 cai4,southern cuisine/southern food
+西方人,xi1 fang1 ren2,westerner/western person
+东边,dong1 bian1,east side/east edge
+北面,bei3 mian4,north side/north face
+# 较,jiao4,more than (component 比较)
+# 比较,bi3 jiao4,comparatively more/adj-er than (before adj)
+# 戴,dai4,wear accessory clothing (glasses hat gloves jewelry etc)
+# 镜,jing4,mirror/lens (component 眼镜)
+# 眼镜,yan3 jing4,eyeglasses/spectacles
+# 自,zi4,self/private/personal (component 自己)
+# 己,ji3,self/oneself/personal (component 自己)
+# 自己,zi4 ji3,by one's self (before verb)
+# 一个人,yi1:2 ge4 ren2,alone
+# 自己一个人,zi4 ji3 yi1:2 ge4 ren2,alone by one's self (emphasis)
+# 长大,zhang3 da4,grow up
+# 初,chu1,at first/at the beginning/junior/basic
+先,xian1,first/prior to/in advance (before 然后 and 最后)
+然后,ran2 hou4,then/afterwards (after 先)
+最后,zui4 hou4,last/lastly/eventually (after 先 and 然后)
+先，然后,xian1 : ran2 hou4,first ... then/afterwards
+先，然后，最后,xian1 : ran2 hou4 : zui4 hou4,first ... then ... last
+往左去,wang3:2 zuo3 qu4,go left
+往右走,wang3 you4 zou3,walk right
+往前开车,wang3 qian2 kai1 che1,drive straight/drive forward
+往后看,wang3 hou4 kan4,look backwards/look behind
+直,zhi2,straight/reasonable/frank (component 一直)
+一直,yi1:4 zhi2,constantly/continuously/always doing something
+围,wei2,encircle/all around (component 周围)
+周围,zhou1 wei2,around/surroundings/environment
+商店周围有很少树,shang1 dian3 zhou1 wei2 you3 hen3:2 shao3 shu4,there are few trees around the shop
+址,zhi3,location/site/building foundation
+地址,di4 zhi3,address (lit. earth place)
+迷,mi2,charm/infatuate/bewitch
+迷路,mi2 lu4,lost/lose the way
+去国,qu4 guo2,leave home country/go abroad
+回国,hui2 guo2,return to home country
+普通,pu3 tong1,ordinary/common/general
+普通话,pu3 tong1 hua4,mandarin chinese language
