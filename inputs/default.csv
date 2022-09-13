@@ -68,7 +68,7 @@
 星期天,xing1 qi1 tian1,sunday day of week
 星期日,xing1 qi1 ri4,sunday day of week
 几,ji3,how many? (countable less than 10 with mw after)
-几点,ji3:2 dian3,when?/what time? (o'clock)
+几点,ji3:2 dian3,what time? (o'clock)
 星期几,xing qi1 ji3,what day of week?
 几号,ji3 hao4,what day of month?
 几月,ji3 yue4,what month?
@@ -107,7 +107,7 @@
 分,fen1,slice/fraction/minute on clock (specify time)/hundreth of yuan
 分钟,fen1 zhong1,duration of minutes
 末,mo4,end/final stage/latter part
-周,zhou1,lap/cycle/to circle
+周,zhou1,lap/cycle/week
 做,zuo4,do/make/produce
 明年,ming2 nian2,next year
 来,lai2,come (verb)/coming (adj)
@@ -1230,7 +1230,7 @@
 惯,guan4,habit/custom (component 习惯)
 习惯,xi2 guan4,habit (noun)/habitually or accustomed to (verb)
 总,zong3,always/overall/chief (component 总是)
-总是,zong3 shi4,always (as a matter of habit)
+总是,zong3 shi4,always (as a matter of habit & before verb)
 梦,meng4,dream/visionary/wishful (component 做梦)
 做梦,zuo4 meng4,dream (verb or noun)
 故,gu4,ancient/old (component 故事)
@@ -1290,11 +1290,16 @@
 戴,dai4,wear accessory clothing (glasses hat gloves jewelry etc)
 镜,jing4,mirror/lens (component 眼镜)
 眼镜,yan3 jing4,eyeglasses/spectacles
-年轻人,nian1 qinq1 ren2,young person
+年轻人,nian1 qing1 ren2,young person
 老人,lao3 ren2,old person/elder
 比较,bi3 jiao4,comparatively more/adj-er than (before adj & requires context)
-# 自,zi4,self/private/personal (component 自己)
-# 己,ji3,self/oneself/personal (component 自己)
-# 自己,zi4 ji3,by one's self (before verb)
-# 一个人,yi1:2 ge4 ren2,alone
-# 自己一个人,zi4 ji3 yi1:2 ge4 ren2,alone by one's self (emphasis)
+自,zi4,self/private/personal (component 自己)
+己,ji3,self/oneself/personal (component 自己)
+自己,zi4 ji3,by one's self (before verb)
+一个人,yi1:2 ge4 ren2,alone (before verb)
+自己一个人,zi4 ji3 yi1:2 ge4 ren2,alone by one's self (before verb & added emphasis)
+般,ban1,sort/kind/class (component 一般)
+一般,yi1:4 ban1,normally/generally/usually (before verb)
+见面,jian4 mian4,meet up/see each other
+聊天,liao2 tian1,chat/gossip
+买东西,mai3 dong1 xi1:,shopping
