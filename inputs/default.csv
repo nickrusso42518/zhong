@@ -311,7 +311,6 @@
 知道,zhi1 dao4,know about/aware of
 我知道了,wo3 zhi1 dao4 le,i know/i see (response to newly-learned info)
 忙,mang2,busy/rush
-是的,shi4 de,yes (formal and rarely spoken)
 对,dui4,right/correct/yes
 不对,bu4:2 dui4,incorrect
 都,dou1,all/both/entirely
@@ -571,9 +570,12 @@
 因,yin1,cause/reason
 为什么,wei4 shen2 me,why?/for what? (adjacent to person targeted)
 因为,yin1 wei4,because/since (before noun and before 所以)
-所,suo3,actually/that which/mw for houses and small buildings
+所,suo3,actually/that which/mw for houses and small buildings (component 所以)
 所以,suo3:2 yi3,so/therefore (before noun and after 因为)
 因为，所以,yin1 wei4 : suo3:2 yi3,because ... so
+因为我很胖所以她不高兴,yin1 wei4 wo3 hen3 pang4 suo3:2 yi3 ta1 bu4 gao1 xing4,because i am fat so she is unhappy (formal)
+我很胖所以她不高兴,wo3 hen3 pang4 suo3:2 yi3 ta1 bu4 gao1 xing4,i am fat so she is unhappy (informal)
+她不高兴因为我很胖,ta1 bu4 gao1 xing4 yin1 wei4 wo3 hen3 pang4,she is unhappy because i am fat (informal)
 牙,ya2,tooth/ivory (component 刷牙)
 西班牙,xi1 ban1 ya2,spain country
 西班牙文,xi1 ban1 ya2 wen2,spanish language (alt 西班牙语)
@@ -634,7 +636,7 @@
 健,jian4,invigorate/strengthen
 康,kang1,peaceful/abundant
 健康,jian4 kang1,health/healthy
-胖,pang2,fat/chubby/plump
+胖,pang4,fat/chubby/plump
 瘦,shou4,thin/lean/tight
 不要,bu4:2 yao4,do not/don't (often negates a command & formal)
 别,bie2,do not/don't (often negates a command & colloquial)
@@ -657,10 +659,10 @@
 手提,shou3 ti2,portable
 手提包,shou3 ti2 bao1,handbag/purse
 手提电脑,shou3 ti2 dian4 nao3,laptop/portable computer
-等等,deng3:2 deng3,etc./and so on/wait a bit/hold on
-看看,kan4 kan4,look a bit/have a look
-说说,shuo1 shuo1,speak a bit/say a few words
-走走,zou3:2 zou3,walk a bit
+等等,deng3 deng3:,wait a bit/hold on/et cetera
+看看,kan4 kan4:,look a bit/have a look
+说说,shuo1 shuo1:,speak a bit/say a few words
+走走,zou3 zou3:,walk a bit
 笑,xiao4,laugh/smile
 笑一笑,xiao4 yi1:2 xiao4,laugh a bit/smile a bit
 用一用,yong3 yi1:4 yong3,use a bit/use for a bit
@@ -678,7 +680,7 @@
 商业,shang1 ye4,business
 迎,ying2,meet/welcome/greet
 接,jie1,connect/receive/meet
-迎接,ying2 jie1,meet/greet (verb)/greeting (noun)
+迎接,ying2 jie1,meet/greet/welcome (verb)/greeting (noun)
 欢迎,huan1 ying2,welcome (verb or noun)
 需,xu1,need/require (component 需要)
 需要,xu1 yao4,need or demand (verb)/required (adj)
@@ -841,14 +843,14 @@
 跟，一起,gen1 : yi1:4 qi3,together with ...
 跟你一起,gen1 ni3 yi1:4 qi3,together with you
 跟我的狗一起,gen1 wo3 de gou3 yi1:4 qi3,together with my dog
-希,xi1,hope (verb)/rare (adj)
-望,wang4,hope/expect/look forward
+希,xi1,hope (verb)/rare (adj) (component 希望)
+望,wang4,hope/expect/look forward (component 希望)
 希望,xi1 wang4,wish for/desire/hope
-派,pai4,clique/group/faction
+派,pai4,clique/group/faction (component 派对)
 派对,pai4 dui4,party (loanword)
-司,si1,take charge of/manage
+司,si1,take charge of/manage (component 公司)
 公司,gong1 si1:,company/corporation (location)
-正,zheng4,straight/upright/positive
+正,zheng4,straight/upright/positive (component 正在)
 正在,zheng4 zai4,actively doing or was doing (action)
 大家,da4 jia1,influential family/everyone (greeting)
 每个人,mei3 ge4 ren2,everyone/every person (non-greeting)
@@ -913,8 +915,8 @@
 那条鱼又大又好吃,na4 tiao2 yu2 you4 da4 you4 hao3 chi1,that fish is both big and tasty
 绿,lv4,green color
 黑,hei1,black color
-耳,er3,ear/handle
-朵,duo3,earlobe
+耳,er3,ear/handle (component 耳朵)
+朵,duo3,earlobe (component 耳朵)
 耳朵,er3:2 duo3,ears (body part)
 眼,yan3,eye/eyelet/hole/opening
 睛,jing1,eye/eyeball
@@ -928,11 +930,11 @@
 巴,ba1,greatly desire/anxiously hope
 嘴巴,zui3 ba1,mouth (body part)
 有钱人,you3 qian2 ren2,rich person
-是，的,shi4 : de,emphasize who/when/where/how regarding an event (q&a)
+是，的,shi4 : de,emphasize who/when/where/how regarding a past event (q&a)
 我是应该吃饭的,wo3 shi4 ying1 gai1 chi1 fan4 de,i should have eaten
 他是会开车的,ta1 shi4 hui4 kai1 che1 de,he would have driven (knows how to)
 你是能游泳的,ni3 shi4 neng2 you2 yong3 de,you could have swam (able to)
-她是可以睡觉的,ta1 shi4 ke3:2 yi3 shui4 jiao4 de,she could sleep (permitted to)
+她是可以睡觉的,ta1 shi4 ke3:2 yi3 shui4 jiao4 de,she was permitted to sleep/she could have slept
 你是什么时候来的,ni3 shi4 shen2 me shi2 hou4 lai2 de,when did you come?
 我是昨天早上来的,wo3 shi4 zuo2 tian1 zao3 shang4 lai2 de,i came yesterday morning/it was yesterday morning that i came (when)
 你是在哪里喝的,ni3 shi4 zai4 na3:2 li3 he1 de,where did you drink? (southern)
@@ -943,8 +945,8 @@
 你是跟谁出去的,ni3 shi4 gen1 shei2 chu1 qu4 de,who did you go out with/with whom did you go out
 我是跟她出去的,wo3 shi4 gen1 ta1 chu1 qu4 de,i went out with her/it was with her that i went out (with whom)
 离,li2,away from/apart/distance between locations (loc1-离-loc2)
-远,yuan3,distant/far (loc1-离-loc2-远)
-近,jin4,near/close/approximately (loc1-离-loc2-近)
+远,yuan3,distant/far (loc1-离-loc2-很远)
+近,jin4,near/close/approximately (loc1-离-loc2-很近)
 餐厅离学校不近,can1 ting1 li2 xue2 xiao4 bu4:2 jin4,the restaurant is not near the school
 我们离酒店很近,wo3 men li2 jiu3 dian4 hen3 jin4,we are close to the hotel/we are near the hotel
 医院离这里远吗,yi1 yuan4 li2 zhe4 li3 yuan3 ma,is the hospital far from here?
@@ -972,7 +974,7 @@
 没什么,mei2 shen2 me,nothing
 着,zhe,actively doing (after verb is -ing)
 雨,yu3,rain (noun)
-下雨,xia yu3,rain (verb)
+下雨,xia4 yu3,rain (verb)
 雪,xue3,snow (noun)
 下雪,xia4 xue3,snow (verb)
 阴,yin1,cloudy/overcast (adj)
@@ -1000,7 +1002,7 @@
 然,ran2,yes/of course/pledge/promise (component 虽然)
 虽然,sui1 ran2,although/though/despite (before 但是)
 但,dan4,but/however/yet (component 但是)
-但是,dan4 shi4,but/however/yet (after 虽然, similar to 可是)
+但是,dan4 shi4,but/however/yet (after 虽然 & similar to 可是)
 虽然，但是,sui1 ran2 : dan4 shi4,although ... but
 帽子,mao4 zi,hat/cap
 短,duan3,short object
@@ -1185,8 +1187,7 @@
 附,fu4,adhere to/append (component 附近)
 附近,fu4 jin4,vicinity/near/close (after location)
 出租车附近有两只鸟,chu1 zu1 che1 fu4 jin4 you3:2 liang3 zhi1 niao3,there are two birds near the taxi
-中间,zhong1 jian1,between/among (after 在)
-在，中间,zai4 : zhong1 jian1,between/among
+中间,zhong1 jian1,between/among
 园,yuan2,park/garden/orchard
 公园,gong1 yuan2,public park
 图,tu2,diagram/chart/map
@@ -1212,7 +1213,7 @@
 经过,jing1 guo4,pass by/walk by
 退,tui4,step back/retreat/withdraw
 货,huo4,goods/products
-退货,tui2 huo4,return a purchase/withdraw a product
+退货,tui4 huo4,return a purchase/withdraw a product
 款,kuan3,paragraph/section/money
 退款,tui4 kuan3,refund (noun or verb)/return money
 以前,yi3 qian2,before doing action or time (after verb)/previous or former (adj)
@@ -1255,18 +1256,6 @@
 西方人,xi1 fang1 ren2,westerner/western person
 东边,dong1 bian1,east side/east edge
 北面,bei3 mian4,north side/north face
-# 较,jiao4,more than (component 比较)
-# 比较,bi3 jiao4,comparatively more/adj-er than (before adj)
-# 戴,dai4,wear accessory clothing (glasses hat gloves jewelry etc)
-# 镜,jing4,mirror/lens (component 眼镜)
-# 眼镜,yan3 jing4,eyeglasses/spectacles
-# 自,zi4,self/private/personal (component 自己)
-# 己,ji3,self/oneself/personal (component 自己)
-# 自己,zi4 ji3,by one's self (before verb)
-# 一个人,yi1:2 ge4 ren2,alone
-# 自己一个人,zi4 ji3 yi1:2 ge4 ren2,alone by one's self (emphasis)
-# 长大,zhang3 da4,grow up
-# 初,chu1,at first/at the beginning/junior/basic
 先,xian1,first/prior to/in advance (before 然后 and 最后)
 然后,ran2 hou4,then/afterwards (after 先)
 最后,zui4 hou4,last/lastly/eventually (after 先 and 然后)
@@ -1289,3 +1278,23 @@
 回国,hui2 guo2,return to home country
 普通,pu3 tong1,ordinary/common/general
 普通话,pu3 tong1 hua4,mandarin chinese language
+个子,ge4 zi,height/stature
+长大,zhang3 da4,grow up
+长得,zhang3 de,how something looks (pretty or the same etc)
+小学,xiao3 xue2,elementary school
+级,ji2,level/grade/rank/mw for levels or steps
+五年级,wu3 nian2 ji2,fifth grade/5th grade
+初,chu1,at first/at the beginning/junior/basic
+初中,chu1 zhong1,middle school
+较,jiao4,more than (component 比较)
+戴,dai4,wear accessory clothing (glasses hat gloves jewelry etc)
+镜,jing4,mirror/lens (component 眼镜)
+眼镜,yan3 jing4,eyeglasses/spectacles
+年轻人,nian1 qinq1 ren2,young person
+老人,lao3 ren2,old person/elder
+比较,bi3 jiao4,comparatively more/adj-er than (before adj & requires context)
+# 自,zi4,self/private/personal (component 自己)
+# 己,ji3,self/oneself/personal (component 自己)
+# 自己,zi4 ji3,by one's self (before verb)
+# 一个人,yi1:2 ge4 ren2,alone
+# 自己一个人,zi4 ji3 yi1:2 ge4 ren2,alone by one's self (emphasis)
