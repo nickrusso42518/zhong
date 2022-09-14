@@ -30,6 +30,7 @@
 一百一十四,yi1 bai3 yi1 shi2 si4,114/one hundred fourteen
 千,qian1,thousand
 万,wan4,ten thousand
+现,xian4,appear/present/now
 现在,xian4 zai4,now/right now (cannot reference past)
 今,jin1,present/current/this time period
 今天,jin1 tian1,today
@@ -67,7 +68,7 @@
 星期六,xing1 qi1 liu4,saturday day of week
 星期天,xing1 qi1 tian1,sunday day of week
 星期日,xing1 qi1 ri4,sunday day of week
-几,ji3,how many? (countable less than 10 with mw after)
+几,ji1 :: ji3,almost :: how many? (countable less than 10 with mw after)
 几点,ji3:2 dian3,what time? (o'clock)
 星期几,xing qi1 ji3,what day of week?
 几号,ji3 hao4,what day of month?
@@ -313,9 +314,9 @@
 忙,mang2,busy/rush
 对,dui4,right/correct/yes
 不对,bu4:2 dui4,incorrect
-都,dou1,all/both/entirely
+都,dou1,all/both/entirely (before verb)
 老,lao3,old/venerable (person)
-师,shi1,teacher/expert
+师,shi1,teacher/expert/master
 老师,lao3 shi1,teacher (in a school)
 医,yi1,medical/medicine
 生,sheng1,raw or immature (adj)/life (noun)
@@ -735,8 +736,8 @@
 四点差一刻,si4 dian3 cha4 yi1:2 ke4,3:45/quarter until 4:00/quarter to 4:00
 整,zheng3,exactly/whole/sharp (time)
 八点整,ba1 dian3:2 zheng3,8:00 sharp/exactly 8:00
-很早,hen3:2 zao3,early (time reference)
-很晚,hen3:2 wan3,late (time reference)
+早,zao3,early (adj)
+晚,wan3,late (adj)
 明天早上很早,ming2 tian1 zao3 shang4 hen3:2 zao3,early tomorrow morning
 昨天晚上很晚,zuo2 tian1 wan3 shang4 hen3:2 wan3,late last night
 筷子,kuai4 zi,chopsticks
@@ -807,7 +808,7 @@
 冒,mao4,risk/dare
 感冒,gan3 mao4,have a cold/sick with a cold
 药,yao4,medicine/drug (as food or drink)
-发,fa1,send out/issue/dispatch
+发,fa1 :: fa4,send out/issue/dispatch :: hair
 烧,shao1,burn/bake/heat/roast
 发烧,fa1 shao1,have a fever/sick with a fever
 应,ying1,should/agree to do something (component 应该)
@@ -1184,7 +1185,7 @@
 皮,pi2,skin/fur/leather
 折,zhe2,bend/break/fracture (component 打折)
 打折,da3 zhe2,offer a discounted price
-附,fu4,adhere to/append (component 附近)
+附,fu4,adhere to/be close to/attach (component 附近)
 附近,fu4 jin4,vicinity/near/close (after location)
 出租车附近有两只鸟,chu1 zu1 che1 fu4 jin4 you3:2 liang3 zhi1 niao3,there are two birds near the taxi
 中间,zhong1 jian1,between/among
@@ -1237,9 +1238,9 @@
 故事,gu4 shi4,story/tale
 讲,jiang3,speak/explain/talk (rare)
 除,chu2,remove/exclude/eliminate
-除了，都,chu2 le : dou1,except for ...
-除了你他们都在这里,chu2 le ni3 ta1 men dou1 zai4 zhe4 li3,they are all here except you
-除了，还,chu2 le : hai2,in addition to ...
+除了，都,chu2 le : dou1,except for .../excluding ...
+除了你他们都在这里,chu2 le ni3 ta1 men dou1 zai4 zhe4 li3,they are all here except for you
+除了，还,chu2 le : hai2,in addition to .../apart from ...
 除了冰水我们还喝热茶,chu2 le bing1 shui3:2 wo3 men hai2 he1 re4 cha2,in addition to ice water we also drink hot tea
 其,qi2,possessive prefix/that or those previously mentioned
 其他,qi2 ta1,other/the rest/something else/someone else
@@ -1286,7 +1287,7 @@
 五年级,wu3 nian2 ji2,fifth grade/5th grade
 初,chu1,at first/at the beginning/junior/basic
 初中,chu1 zhong1,middle school
-较,jiao4,more than (component 比较)
+较,jiao4,compare/dispute/more than (component 比较)
 戴,dai4,wear accessory clothing (glasses hat gloves jewelry etc)
 镜,jing4,mirror/lens (component 眼镜)
 眼镜,yan3 jing4,eyeglasses/spectacles
@@ -1303,3 +1304,28 @@
 见面,jian4 mian4,meet up/see each other
 聊天,liao2 tian1,chat/gossip
 买东西,mai3 dong1 xi1:,shopping
+护,hu4,protect/guard/defend
+护照,hu4 zhao4,passport
+签,qian1,endorse/sign onto (component 签证)
+证,zheng4,prove/confirm/verify (component 签证)
+签证,qian1 zheng4,visa/certificate
+起飞,qi3 fei1,airplane take off
+离开,li2 kai1,leave/depart
+发现,fa1 xian4,realize/discover
+检,jian3,check/examine/inspect (component 检查)
+查,cha2,research/investigate/check (component 检查)
+检查,jian3 cha2,inspect or examine (verb)/inspection or examination (noun)
+李,li3,plum/common surname
+行李,xing2 li3,luggage/baggage
+全,quan2,all/whole/entire/complete
+安全,an1 quan2,safe/secure
+安全检查,an1 quan2 jian3 cha2,security checkpoint (airport etc)
+再，一次,zai4 : yi1:2 ci4,... one more time/... once more
+乎,hu1,doubt/astonishment (final particle)
+几乎,ji1 hu1,almost/nearly
+忘,wang4,forget/neglect/overlook/omit
+记,ji4,remember/memorize/record
+忘记,wang4 ji4,forget
+海关,hai3 guan1,customs (when crossing borders)
+怒,nu3,anger/fury
+易,yi4,easy/amiable/prefix for -able or -ible
