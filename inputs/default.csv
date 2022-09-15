@@ -262,7 +262,7 @@
 钱,qian2,money
 字,zi4,letter/symbol/character/word
 名字,ming2 zi4:,name/first name
-汉字,han4 zi4,chinese character/chinese writing
+汉字,han4 zi4:,chinese character/chinese writing
 什,shen2,what
 么,me,interrogative suffix/non-yn?
 什么,shen2 me,what?
@@ -380,6 +380,8 @@
 孩子,hai2 zi,child/children
 男孩,nan2 hai2,boy/boys
 女孩,nv3 hai2,girl/girls
+丈,zhang4,husband (component 丈夫)/to measure (verb) 
+夫,fu1,husband/manual worker (component 丈夫)
 丈夫,zhang4 fu1:,husband
 妻子,qi1 zi,wife
 姐姐,jie3 jie3:,older sister/big sister
@@ -409,6 +411,7 @@
 厅,ting1,hall/office/living room
 餐厅,can1 ting1,restaurant
 校,xiao4,school
+学,xue2,learn/study
 学校,xue2 xiao4,school
 大学,da4 xue2,college/university
 从,cong2,from a place/from a time (before noun and before 到)
@@ -1329,5 +1332,22 @@
 忘记,wang4 ji4,forget
 海关,hai3 guan1,customs (when crossing borders)
 早一点到。我们先喝一点茶,zao3 yi1:4 dian3 dao4 : wo3 men xian1 he1 yi1:4 dian3 cha2,arrive a bit early. we will drink a bit of tea first
-# 怒,nu3,anger/fury
-# 易,yi4,easy/amiable/prefix for -able or -ible
+，了，了,: le : le,been doing (action) for (period of) time
+我想了很久了,wo3 xiang3 le hen3:2 jiu3 le,i thought for a long time/i thought about it for a long time
+他留医院留了二十月了,ta1 liu2 yi1 yuan4 liu2 le er4 shi2 yue4 le,he has been in the hospital for 20 months
+你拍照拍了九分钟了,ni3 pai1 zhao4 pai1 le jiu3 fen1 zhong1 le,you have been taking pictures for 9 minutes
+外国人,wai4 guo2 ren2,foreigner
+种,zhong3,kind/type/mw for kinds or types
+言,yan2,words/speech
+容,rong2,hold/contain/tolerate
+易,yi4,easy/amiable/prefix for -able or -ible
+容易,rong2 yi1,easy/likely
+语言,yu3 yan2,language
+很多种语言,hen3 duo1 zhong3:2 yu3 yan2,many languages
+更,geng4,more/even more (before adj)
+努,nu3,exert/strive/make an effort (component 努力)
+努力,nu3 li4,try hard/great effort/strive (adv)
+平,ping2,flat/level/equal (component 水平)
+水平,shui3 ping2,skills/proficiency/standard
+提高,ti2 gao1,increase/improve/raise
+后来,hou2 lai2,afterwards/later
