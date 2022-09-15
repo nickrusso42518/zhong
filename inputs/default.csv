@@ -51,10 +51,10 @@
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
 四点零六,si4 dian3 ling2 liu4,4:06
 一下,yi1:2 xia4,a bit of effort/try quickly (after action verb)
-一会,yi1:2 hui4,in a bit of time/in a moment (after motion verb & southern)
-一会儿,yi1:2 hui4 r,in a bit of time/in a moment (after motion verb & northern)
-一点,yi1:4 dian3,a bit of quantity (before noun & southern)
-一点儿,yi1:4 dia3 r,a bit of quantity (before noun & northern)
+一会,yi1:2 hui4,in a bit of time/in a moment (after subject & southern)
+一会儿,yi1:2 hui4 r,in a bit of time/in a moment (after subject & northern)
+一点,yi1:4 dian3,a bit of quantity (after adj or before noun & southern)
+一点儿,yi1:4 dia3 r,a bit of quantity (after adj or before noun & northern)
 有点,you3:2 dian3,a bit of intensity (before adj & southern)
 有点儿,you3:2 dia3 r,a bit of intensity (before adj & northern)
 星,xing1,star/heavenly body
@@ -517,7 +517,7 @@
 在冰箱里,zai4 bing1 xiang1 li3,inside the icebox/inside the refrigerator
 在房间外,zai4 fang2 jian1 wai4,outside the room
 你看见，了吗,ni3 kan4 jian4 : le ma,did you see ...?/have you seen ...?
-你看见他了吗,ni3 kan4 jian4 ta1 le ma,did you see him?/have you seen him?
+你看见他的眼镜了吗,ni3 kan4 jian4 ta1 de yan3 jing4 le ma,did you see his glasses?/have you seen his glasses?
 找,zhao3,seek/search for/look for/find
 位,wei4,individual/seat/place (formal mw)
 等,deng3,await/wait for/equal to
@@ -620,8 +620,8 @@
 面条,mian4 tiao2,noodles
 写,xie3,write
 本,ben3,root/stem/source/origin/mw for books or magazines
-张,zhang1,spread open/mw for flat objects (paper or tables)
-王,wang2,king/monarch
+张,zhang1,spread open/mw for flat objects (paper or tables)/common surname
+王,wang2,king/monarch/common surname
 日本,ri4 ben3,japan country
 日文,ri4 wen2,japanese language (alt 日语)
 海,hai3,sea/ocean
@@ -1239,9 +1239,9 @@
 讲,jiang3,speak/explain/talk (rare)
 除,chu2,remove/exclude/eliminate
 除了，都,chu2 le : dou1,except for .../excluding ...
-除了你他们都在这里,chu2 le ni3 ta1 men dou1 zai4 zhe4 li3,they are all here except for you
+除了你，他们都在这里,chu2 le ni3 : ta1 men dou1 zai4 zhe4 li3,they are all here except for you
 除了，还,chu2 le : hai2,in addition to .../apart from ...
-除了冰水我们还喝热茶,chu2 le bing1 shui3:2 wo3 men hai2 he1 re4 cha2,in addition to ice water we also drink hot tea
+除了冰水，我们还喝热茶,chu2 le bing1 shui3:2 : wo3 men hai2 he1 re4 cha2,in addition to ice water we also drink hot tea
 其,qi2,possessive prefix/that or those previously mentioned
 其他,qi2 ta1,other/the rest/something else/someone else
 饺子,jiao3 zi,dumpling
@@ -1284,6 +1284,7 @@
 长得,zhang3 de,how something looks (pretty or the same etc)
 小学,xiao3 xue2,elementary school
 级,ji2,level/grade/rank/mw for levels or steps
+年级,nian2 ji2,school grade level
 五年级,wu3 nian2 ji2,fifth grade/5th grade
 初,chu1,at first/at the beginning/junior/basic
 初中,chu1 zhong1,middle school
@@ -1327,5 +1328,6 @@
 记,ji4,remember/memorize/record
 忘记,wang4 ji4,forget
 海关,hai3 guan1,customs (when crossing borders)
-怒,nu3,anger/fury
-易,yi4,easy/amiable/prefix for -able or -ible
+早一点到。我们先喝一点茶,zao3 yi1:4 dian3 dao4 : wo3 men xian1 he1 yi1:4 dian3 cha2,arrive a bit early. we will drink a bit of tea first
+# 怒,nu3,anger/fury
+# 易,yi4,easy/amiable/prefix for -able or -ible
