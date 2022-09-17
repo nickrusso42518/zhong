@@ -539,7 +539,7 @@
 有人,you3 ren2,someone
 有一天,you3 yi1:4 tian1,someday/one day
 有的,you3 de,some of (subset of members in group)
-些,xie1,plural marker
+些,xie1,plural marker/suffix for "some"
 有些,you3 xie1,some/a few/a little/slighty (before subject)
 一些,yi1:4 xie1,some/a few/a little/slighty (before object)
 这些,zhe4 xie1,these
@@ -699,8 +699,7 @@
 上车,shang4 che1,get on/get in/embark onto generic vehicle
 下车,xia4 che1,get off/get out/disembark from generic vehicle
 船,chuan2,boat/vessel/ship
-地,di4,earth/ground/land
-铁,tie3,iron (noun)
+铁,tie3,iron (metal noun)
 地铁,di4 tie3,subway/metro
 酒,jiu3,alcohol/wine/liquor
 店,dian4,inn/shop/store
@@ -1043,7 +1042,7 @@
 王老师在学校的后面,wang2 lao3 shi1 zai4 xue2 xiao4 de hou2 mian4,teacher wang is behind the school
 我用左手写字,wo3 yong4 zuo3 shou3:2 xie3 zi4,i write with my left hand (no 边)
 请靠右边开车得很慢,qing3 kao4 you4 bian1 kai1 che1 de hen3 man4,please drive slowly on the right side
-李医生走你的旁边,li3 yi1 sheng1 zou3:2 ni3 de pang2 bian1,doctor li walks beside you
+李医生走在你的旁边,li3 yi1 sheng1 zou3 zai4 ni3 de pang2 bian1,doctor li walks beside you
 没事吧,mei2 shi4 ba,are you alright?/is everything ok?
 没事,mei2 shi4,i am fine/it is ok
 喽,lou2 :: lou,gang member or bandit :: suffix to warn or call attention to event
@@ -1152,8 +1151,8 @@
 拉面,la1 mian4,ramen/lamian/pulled noodles
 锅,guo1,pot/pan
 火锅,huo3 guo1,hot pot (style of serving food)
-前,qian2,before/ago (placed after time)
-后,hou4,after/from now (placed after time)
+前,qian2,before/ago (placed after time or event)
+后,hou4,after/from now (placed after time or event)
 前天,qian2 tian1,day before yesterday
 后天,hou4 tian1,day after tomorrow
 三天前,san1 tian1 qian2,3 days ago/3 days back
@@ -1225,7 +1224,7 @@
 这是我以前的公司,zhe4 shi4 wo3:2 yi3 qian2 de gong1 si1:,this is my former company
 那是她以后的丈夫,na4 shi4 ta1 yi3 hou4 de zhang4 fu1,that is her future husband
 有些人上班以前洗澡,you3 xie1 ren2 shang4 ban1 yi3 qian2 xi3:2 zao3,some people shower before going to work
-别刷牙以后吃牛肉,bie2 shua1 ya2 yi3 hou4 chi1 niu2 rou4,do not eat beef after brushing your teeth
+刷牙以后别吃牛肉,shua1 ya2 yi3 hou4 bie2 chi1 niu2 rou4,do not eat beef after brushing your teeth
 马上,ma3 shang4,immediately/right away/at once (before verb)
 刷,shua1,clean with a brush/scrub (component 刷牙)
 刷牙,shua1 ya2,brush teeth
@@ -1273,7 +1272,7 @@
 一直,yi1:4 zhi2,constantly/continuously/always doing something
 围,wei2,encircle/all around (component 周围)
 周围,zhou1 wei2,around/surroundings/environment
-商店周围有很少树,shang1 dian3 zhou1 wei2 you3 hen3:2 shao3 shu4,there are few trees around the shop
+商店周围有很少树,shang1 dian4 zhou1 wei2 you3 hen3:2 shao3 shu4,there are few trees around the shop
 址,zhi3,location/site/building foundation
 地址,di4 zhi3,address (lit. earth place)
 迷,mi2,charm/infatuate/bewitch
@@ -1285,12 +1284,16 @@
 个子,ge4 zi,height/stature
 长大,zhang3 da4,grow up
 长得,zhang3 de,how something looks (pretty or the same etc)
-小学,xiao3 xue2,elementary school
 级,ji2,level/grade/rank/mw for levels or steps
 年级,nian2 ji2,school grade level
 五年级,wu3 nian2 ji2,fifth grade/5th grade
 初,chu1,at first/at the beginning/junior/basic
-初中,chu1 zhong1,middle school
+小学,xiao3 xue2,elementary school/primary school
+中学,zhong1 xue2,generic secondary school (middle or high)
+初中,chu1 zhong1,middle school/junior high school (abbreviated)
+初级中学,chu1 ji2 zhong1 xue2,middle school/junior high school (unabbreviated)
+高中,gao1 zhong1,high school/senior high school (abbreviated)
+高级中学,gao1 ji2 zhong1 xue2,high school/senior high school (unabbreviated)
 较,jiao4,compare/dispute/more than (component 比较)
 戴,dai4,wear accessory clothing (glasses hat gloves jewelry etc)
 镜,jing4,mirror/lens (component 眼镜)
@@ -1318,7 +1321,7 @@
 发现,fa1 xian4,realize/discover
 检,jian3,check/examine/inspect (component 检查)
 查,cha2,research/investigate/check (component 检查)
-检查,jian3 cha2,inspect or examine (verb)/inspection or examination (noun)
+检查,jian3 cha2,inspect or examine or check (verb)/inspection or examination (noun)
 李,li3,plum/common surname
 行李,xing2 li3,luggage/baggage
 全,quan2,all/whole/entire/complete
@@ -1333,7 +1336,7 @@
 海关,hai3 guan1,customs (when crossing borders)
 早一点到。我们先喝一点茶,zao3 yi1:4 dian3 dao4 : wo3 men xian1 he1 yi1:4 dian3 cha2,arrive a bit early. we will drink a bit of tea first
 ，了，了,: le : le,been doing (action) for (period of) time
-我想了很久了,wo3 xiang3 le hen3:2 jiu3 le,i thought for a long time/i thought about it for a long time
+我想了很久了,wo3:2 xiang3 le hen3:2 jiu3 le,i thought for a long time/i thought about it for a long time
 他留医院留了二十月了,ta1 liu2 yi1 yuan4 liu2 le er4 shi2 yue4 le,he has been in the hospital for 20 months
 你拍照拍了九分钟了,ni3 pai1 zhao4 pai1 le jiu3 fen1 zhong1 le,you have been taking pictures for 9 minutes
 外国人,wai4 guo2 ren2,foreigner
@@ -1350,4 +1353,34 @@
 平,ping2,flat/level/equal (component 水平)
 水平,shui3 ping2,skills/proficiency/standard
 提高,ti2 gao1,increase/improve/raise
-后来,hou2 lai2,afterwards/later
+后来,hou4 lai2,afterwards/later
+地,di4 :: de,earth/ground/land :: modify action (adj-地-verb)
+哭,ku1,cry/weep
+生气,sheng1 qi1,angry/take offense
+难过,nan2 guo4,sad
+看起来,kan4 qi3 lai2,looks like/seems like/appears to be (before adj)
+奇怪,qi3 guai4,strange/odd
+紧,jin3,tight/strict/short of money (component 紧张)
+紧张,jin3 zhang1,nervous/strained
+怕,pa4,fear/dread/be afraid (component 可怕)
+可怕,ke3 pa4,fearful/dreadful/scary
+遇,yu4,encounter/receive/opportunity (component 遇到)
+遇到,yu4 dao4,encounter/come across/run into
+好笑,hao3 xiao4,funny/laughable/ridiculous
+经常,jing1 chang2,often/frequently
+热情,re4 qing2,passionate/warm-hearted/affectionate
+关心,guan1 xin1,care about/be concerned about
+我的妻子有点可怕,wo3 de qi1 zi you3:2 dian3 ke3 pa4,my wife is a little scary
+你们看起来紧张极了,ni3 men kan4 qi3 lai2 jin3 zhang1 ji2 le,you look extremely nervous
+你难过地哭着吗,ni3 nan2 gu4 de ku1 zhe ma,are you crying sadly?
+他后来生气地锻炼了,ta1 hou4 lai2 sheng1 qi4 de duan4 lian4 le,he later trained angrily/he later exercised angrily
+这些故事经常更好笑,zhe4 xie1 gu4 shi4 jing1 chang2 geng4 hao3 xiao4,these stores are often even funnier
+# 铅,qian1,lead (metal noun)
+# 铅笔,qian1 bi3,pencil
+# 笔记本,bi3 ji4 ben3,notebook
+# 向,xiang4,borrow from/tend toward
+# 借,jie4,lend/borrow
+# 向，借，,xiang4 : jie4 :,from (person) borrow (item)
+# 让我向你借铅笔和纸,rang2 wo3 xiang4 ni3 jie4 qian1 bi3 he2 zhi3,let me borrow your pencil and paper
+# 棠,tang2,cherry apple/crab apple
+# 成,cheng2,succeed/finish/complete
