@@ -50,13 +50,12 @@
 四点半,si4 dian3 ban4,4:30/half past 4
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
 四点零六,si4 dian3 ling2 liu4,4:06
-一下,yi1:2 xia4,a bit of effort/try quickly (after action verb)
-一会,yi1:2 hui4,in a bit of time/in a moment (after subject & southern)
-一会儿,yi1:2 hui4 r,in a bit of time/in a moment (after subject & northern)
-一点,yi1:4 dian3,a bit of quantity (after adj or before noun & southern)
-一点儿,yi1:4 dia3 r,a bit of quantity (after adj or before noun & northern)
-有点,you3:2 dian3,a bit of intensity (before adj & southern)
-有点儿,you3:2 dia3 r,a bit of intensity (before adj & northern)
+一下,yi1:2 xia4,a bit of effort/perform quickly (after verb)
+一会儿,yi1:2 hui4 r,in a bit of time/in a moment (after subj)
+一点儿,yi1:4 dia3 r,a bit of quantity (before obj)/a bit more (after adj)
+一点儿也不,yi1:4 dia3:2 r ye3 bu4,not at all/not even a bit (present or future & swap 也/都)
+一点儿都没,yi1:4 dia3 r dou1 mei2,not at all/not even a bit (past & swap 都/也)
+有点儿,you3:2 dia3 r,a bit of intensity (before adj)
 星,xing1,star/heavenly body
 期,qi1,phase/stage/term
 星期,xing1 qi1,week day specifier (before numbers)
@@ -144,8 +143,9 @@
 她,ta1,she/her
 它,ta1,it
 是,shi4,is/am/are/to be (equates two nouns)
+是的,shi4 de,that is so/yes
 是吗,shi4 ma,is that true?/is that so?
-们,men,plural modifier
+们,men,plural modifier for pronouns and some people
 我们,wo3 men,we/us
 你们,ni3 men,you (plural & informal)
 您们,nin2 men,you (plural & formal)
@@ -340,7 +340,7 @@
 湾,wan1,bay or gulf (noun)/cast anchor or moor a boat (verb)
 台湾,tai2 wan1,taiwan
 伦敦,lun2 dun1,london
-京,jing1,capital city
+京,jing1,capital city/beijing (in context)
 北京,bei3 jing1,beijing
 家,jia1,house/home (mw for family-run businesses)
 家人,jia1 ren2,family
@@ -388,6 +388,8 @@
 哥哥,ge1 ge1:,older brother/big brother
 妹妹,mei4 mei4:,younger sister/little sister
 弟弟,di4 di4:,younger brother/little brother
+朋,peng2,friend (component 朋友)
+友,you3,friend (component 朋友)
 朋友,peng2 you3,friend
 男朋友,nan2 peng2 you3,boyfriend
 女朋友,nv3 peng2 you3,girlfriend
@@ -408,12 +410,11 @@
 医院,yi1 yuan4,hospital
 馆,guan3,shop/building
 饭馆,fan4 guan3,restaurant
-厅,ting1,hall/office/living room
+厅,ting1,hall/office/living room (component 餐厅)
 餐厅,can1 ting1,restaurant
 校,xiao4,school
 学,xue2,learn/study
 学校,xue2 xiao4,school
-大学,da4 xue2,college/university
 从,cong2,from a place/from a time (before noun and before 到)
 到,dao4,to a place/until a time (before noun and after 从)/arrive
 从，到,cong2 : dao4,from ... to a place/from ... until a time
@@ -658,7 +659,7 @@
 开始,kai1 shi3,start/begin/beginning (verb or adj)
 锻,duan4,forge/discipline (verb)/wrought (adj)
 炼,lian4,refine/smelt/temper with fire
-锻炼,duan4 lian4,train/work out/exercise
+锻炼,duan4 lian4,train/work out
 提,ti2,lift/carry/put forward
 手提,shou3 ti2,portable
 手提包,shou3 ti2 bao1,handbag/purse
@@ -787,8 +788,8 @@
 运,yun4,transport (verb)/transportation or luck (noun)
 动,dong4,move/displace
 运动,yun4 dong4,move or exercise (verb)/movement or motion (noun)
-清,qing1,clear/distinct
-楚,chu3,clear/distinct
+清,qing1,clear/distinct (component 清楚)
+楚,chu3,clear/distinct (component 清楚)
 清楚,qing1 chu3,clear (adj)/understand (verb)
 漫,man4,overflow/flood (noun or verb)
 浪,lang4,ocean wave/unrestrained
@@ -1173,15 +1174,13 @@
 澳大利亚,ao4 da4 li4 ya4,australia country
 越,yue4,exceed/climb/surpass (component 越来越)
 越来越,yue4 lai2 yue4,more and more/getting more (+adj)
-越来越热,yue4 lai2 yue4 re4,getting hotter
 堵,du3,stop/block/prevent (component 堵车)
 堵车,du3 che1,traffic jams
 概,gai4,generally/approximately (component 大概)
 大概,da4 gai4,probably/roughly/approximately (before verb)
 刚,gang1,just/barely
 准时,zhun3 shi2,punctual/on time/on schedule
-挺，的,ting3 : de,quite ...
-挺冷的,ting3:2 leng3 de,quite cold
+挺，的,ting3 : de,quite .../rather ...
 一边，一边,yi1:4 bian1 : yi1:4 bian1,concurrently/at the same time (一边-v1-一边-v2)
 她爱一边唱歌一边跳舞,ta1 ai4 yi1:4 bian1 chang4 ge1 yi1:4 bian1 tiao4 wu3,she loves to sing and dance at the same time
 皮,pi2,skin/fur/leather
@@ -1210,8 +1209,7 @@
 方,fang1,square/direction (cardinal)
 地方,di4 fang1,area/place/site
 咖啡馆,ka1 fei1 guan3,cafe/coffee shop
-过一会,guo4 yi1:2 hui4,later/after a while (southern)
-过一会儿,guo4 yi1:2 hui4 er,later/after a while (northern)
+过一会儿,guo4 yi1:2 hui4 r,later/after a while
 袋子,dai4 zi,bag
 经过,jing1 guo4,pass by/walk by
 退,tui4,step back/retreat/withdraw
@@ -1275,7 +1273,7 @@
 商店周围有很少树,shang1 dian4 zhou1 wei2 you3 hen3:2 shao3 shu4,there are few trees around the shop
 址,zhi3,location/site/building foundation
 地址,di4 zhi3,address (lit. earth place)
-迷,mi2,charm/infatuate/bewitch
+迷,mi2,charm/infatuate/bewitch (component 迷路)
 迷路,mi2 lu4,lost/lose the way
 去国,qu4 guo2,leave home country/go abroad
 回国,hui2 guo2,return to home country
@@ -1294,6 +1292,7 @@
 初级中学,chu1 ji2 zhong1 xue2,middle school/junior high school (unabbreviated)
 高中,gao1 zhong1,high school/senior high school (abbreviated)
 高级中学,gao1 ji2 zhong1 xue2,high school/senior high school (unabbreviated)
+大学,da4 xue2,college/university
 较,jiao4,compare/dispute/more than (component 比较)
 戴,dai4,wear accessory clothing (glasses hat gloves jewelry etc)
 镜,jing4,mirror/lens (component 眼镜)
@@ -1304,7 +1303,7 @@
 自,zi4,self/private/personal (component 自己)
 己,ji3,self/oneself/personal (component 自己)
 自己,zi4 ji3,by one's self (before verb)
-一个人,yi1:2 ge4 ren2,alone (before verb)
+一个人,yi1:2 ge4 ren2,alone (adv & before verb)/one person (noun)
 自己一个人,zi4 ji3 yi1:2 ge4 ren2,alone by one's self (before verb & added emphasis)
 般,ban1,sort/kind/class (component 一般)
 一般,yi1:4 ban1,normally/generally/usually (before verb)
@@ -1334,8 +1333,8 @@
 记,ji4,remember/memorize/record
 忘记,wang4 ji4,forget
 海关,hai3 guan1,customs (when crossing borders)
-早一点到。我们先喝一点茶,zao3 yi1:4 dian3 dao4 : wo3 men xian1 he1 yi1:4 dian3 cha2,arrive a bit early. we will drink a bit of tea first
-，了，了,: le : le,been doing (action) for (period of) time
+早一点到。我们先喝一点茶,zao3 yi1:4 dian3 dao4 : wo3 men xian1 he1 yi1:4 dian3 cha2,arrive earlier. we will drink a bit of tea first
+，了，了,: le : le,has been doing (action) for (period of) time
 我想了很久了,wo3:2 xiang3 le hen3:2 jiu3 le,i thought for a long time/i thought about it for a long time
 他留医院留了二十月了,ta1 liu2 yi1 yuan4 liu2 le er4 shi2 yue4 le,he has been in the hospital for 20 months
 你拍照拍了九分钟了,ni3 pai1 zhao4 pai1 le jiu3 fen1 zhong1 le,you have been taking pictures for 9 minutes
@@ -1357,8 +1356,10 @@
 地,di4 :: de,earth/ground/land :: modify action (adj-地-verb)
 哭,ku1,cry/weep
 生气,sheng1 qi1,angry/take offense
-难过,nan2 guo4,sad
+难过,nan2 guo4,sad/upset/unhappy
 看起来,kan4 qi3 lai2,looks like/seems like/appears to be (before adj)
+奇,qi3,strange/odd (component 奇怪)
+怪,guai4,strange/odd (component 奇怪)
 奇怪,qi3 guai4,strange/odd
 紧,jin3,tight/strict/short of money (component 紧张)
 紧张,jin3 zhang1,nervous/strained
@@ -1372,15 +1373,46 @@
 关心,guan1 xin1,care about/be concerned about
 我的妻子有点可怕,wo3 de qi1 zi you3:2 dian3 ke3 pa4,my wife is a little scary
 你们看起来紧张极了,ni3 men kan4 qi3 lai2 jin3 zhang1 ji2 le,you look extremely nervous
-你难过地哭着吗,ni3 nan2 gu4 de ku1 zhe ma,are you crying sadly?
-他后来生气地锻炼了,ta1 hou4 lai2 sheng1 qi4 de duan4 lian4 le,he later trained angrily/he later exercised angrily
+你难过地哭着吗,ni3 nan2 guo4 de ku1 zhe ma,are you crying sadly?
+他后来生气地锻炼了,ta1 hou4 lai2 sheng1 qi4 de duan4 lian4 le,he later trained angrily/he later worked out angrily
 这些故事经常更好笑,zhe4 xie1 gu4 shi4 jing1 chang2 geng4 hao3 xiao4,these stores are often even funnier
-# 铅,qian1,lead (metal noun)
-# 铅笔,qian1 bi3,pencil
-# 笔记本,bi3 ji4 ben3,notebook
-# 向,xiang4,borrow from/tend toward
-# 借,jie4,lend/borrow
-# 向，借，,xiang4 : jie4 :,from (person) borrow (item)
-# 让我向你借铅笔和纸,rang2 wo3 xiang4 ni3 jie4 qian1 bi3 he2 zhi3,let me borrow your pencil and paper
-# 棠,tang2,cherry apple/crab apple
-# 成,cheng2,succeed/finish/complete
+一点儿都不苦,yi1:4 dia3 r dou1 bu4 ku3,not bitter at all/not even a little bitter
+有点辣,you3:2 dian3 la4,a bit spicy/a little spicy
+很舒服,hen3 shu1 fu2,comfortable (no intensity change)
+挺咸的,ting3 xian2 de,quite salty/rather salty
+比较矮,bi3 jiao4 ai3,shorter than/relatively short
+越来越热,yue4 lai2 yue4 re4,getting hotter/more and more hot
+更冷,geng4 leng3,even colder/even more cold
+真老,zhen1 lao3,really old (possibly sarcastic)
+好忙,hao3 mang2,so busy (好 to intensify adj)
+非常小,fei1 chang2 xiao3,very small
+美极了,mei3 ji2 le,extremely pretty
+太贵了,tai4 gui4 le,too expensive
+最好,zui4 hao3,best/superlatively good
+食,shi2,eat or feed (verb)/food (noun)
+堂,tang2,hall/large room (component 食堂)
+食堂,shi2 tang2,cafeteria/dining hall
+求,qiu2,seek/look for/request/demand (component 要求)
+要求,yao4 qiu2,request or require (verb)/requirements or standards (noun)
+校长,xiao4 zhang3,school principal/headmaster
+必,bi4,certainly/must/necessarily (component 必须)
+须,xu1,must/have to (component 必须)
+必须,bi4 xu1,have to/must/necessarily/compulsory
+作业,zuo4 ye4,homework assignment
+成,cheng2,succeed/finish/complete
+完成,wan2 cheng2,complete/accomplish
+铅,qian1,lead (metal noun)
+铅笔,qian1 bi3,pencil
+笔记,bi3 ji4,notes
+笔记本,bi3 ji4 ben3,notebook
+向,xiang4,borrow from/tend toward
+借,jie4,lend/borrow
+向，借，,xiang4 : jie4 :,from (person) borrow (item)
+可以借我，吗,ke3 yi2 jie4 wo3 : ma,could you lend me ... ?/may i borrow ... ?
+让我向你借铅笔和纸,rang2 wo3 xiang4 ni3 jie4 qian1 bi3 he2 zhi3,let me borrow your pencil and paper
+天天,tian1 tian1,every day/daily/day by day
+向上,xiang4 shang4,upwards/advance/make progress
+向下,xiang4 xia4,downwards/regress
+板,ban3,board/plank (component 老板/黑板)
+黑板,hei1 ban3,blackboard
+体育馆,ti3 yu4 guan3,gymnasium
