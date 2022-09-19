@@ -103,7 +103,7 @@ The `no_commit/` directory is ignored by `git` and can be used to
 store temporary CSV files. I use these to create private, personalized
 quizzes on my weak areas.
 
-Gameplay (not colorized) with comments in {curly braces}:
+Non-colorized gameplay with comments in `{curly braces}`:
 ```
 $ python play.py
 HOW TO PLAY:
@@ -113,20 +113,20 @@ HOW TO PLAY:
   Enter a question mark (?) character to consult the dictionary.
   Enter a period (.) character to quit gracefully.
 
-1/796:    有点儿    (you3:2 diar3)
+1/796:    有点儿    (you3:2 dia3 r)
 english meaning: a bit
 correct english: a bit of intensity (before adj & northern)   {GREEN TEXT}
-[success# = 1   success% = 100]
+[success# = 1, success% = 100]
 
 2/796:    瓶子    (ping2 zi)
 english meaning: bottle
 correct english: bottle (noun)   {GREEN TEXT}
-[success# = 2   success% = 100]
+[success# = 2, success% = 100]
 
 3/796:    报    (bao4)
 english meaning: wrong on purpose
 correct english: announce/inform/report   {RED TEXT}
-[success# = 2   success% = 66]
+[success# = 2, success% = 66]
 
 4/796:    员    (yuan2)
 english meaning: ?
@@ -148,6 +148,10 @@ correct english: 2/two   {RED TEXT}
 6/796:    住    (zhu4)
 english meaning: .
 
+INCORRECTLY ANSWERED:
+员,yuan2,employee/member
+报,bao4,announce/inform/report
+二,er4,2/two
 
 
 $

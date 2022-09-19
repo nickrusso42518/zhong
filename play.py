@@ -62,7 +62,7 @@ def main(args):
 
         # Print colorized output, then current success count and percent
         print(f"correct english: {e_color}{english}{Style.RESET_ALL}")
-        print(f"[success# = {succ_c}   success% = {int(succ_c / i * 100)}]")
+        print(f"[success# = {succ_c}, success% = {round(succ_c / i * 100, 2)}]")
 
         # Delete row from list (won't see twice) and increment counter
         del rows[index]

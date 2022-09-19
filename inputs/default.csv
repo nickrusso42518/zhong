@@ -37,7 +37,7 @@
 明,ming2,bright/next (day or year)
 明天,ming2 tian1,tomorrow
 年,nian2,year (after numbers)
-岁,sui4,is X years old (after numbers)
+岁,sui4,is ... years old (after numbers)
 二〇三四年,er4 ling2 er4 si4 nian2,2034 year
 一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
 月,yue4,moon/month (after numbers)
@@ -142,7 +142,7 @@
 您,nin2,you (formal)
 他,ta1,he/him
 她,ta1,she/her
-它,ta1,it
+它,ta1,it (non-human)
 是,shi4,is/am/are/to be (equates two nouns)
 是的,shi4 de,that is so/yes
 是吗,shi4 ma,is that true?/is that so?
@@ -152,7 +152,7 @@
 您们,nin2 men,you (plural & formal)
 他们,ta1 men,they/them (male or mixed)
 她们,ta1 men,they/them (female)
-它们,ta1 men,they/them (neutral)
+它们,ta1 men,they/them (non-human)
 的,de,noun-的-noun possession/adj&time-的-noun description/phantom noun suffix
 我的,wo3 de,my/mine
 你的,ni3 de,your (informal)
@@ -165,7 +165,7 @@
 您们的,nin2 men de,your/yours (plural & formal)
 他们的,ta1 men de,their/theirs (male or mixed)
 她们的,ta1 men de,their/theirs (female)
-它们的,ta1 men de,their/theirs (neutral)
+它们的,ta1 men de,their/theirs (non-human)
 好,hao3,good/well/fine/easy (before verb)
 好的,hao3 de,express agreement or understanding/sure./ok.
 好啊,hao3 a,express enthusiastic agreement/sure!/ok!
@@ -224,7 +224,7 @@
 姓,xing4,last name/to be surnamed
 最,zui4,best/most (superlative)
 要,yao4,wants or needs/will (with future time reference)
-想,xiang3,think/desire/consider
+想,xiang3,think/desire/miss someone
 想要,xiang3 yao4,would like/seriously consider
 帮,bang1,help/assist/support
 帮助,bang1 zhu4,help/assist
@@ -342,8 +342,9 @@
 台湾,tai2 wan1,taiwan
 伦敦,lun2 dun1,london
 京,jing1,capital city/beijing (in context)
-北京,bei3 jing1,beijing
-家,jia1,house/home (mw for family-run businesses)
+北京,bei3 jing1,beijing/north capital
+南京,nan2 jing1,nanjing/south capital
+家,jia1,house/home/mw for family-run businesses
 家人,jia1 ren2,family
 住,zhu4,lives/dwells/resides
 在,zai4,located at/to be in/actively doing (before verb is -ing)
@@ -471,7 +472,7 @@
 放学,fang4 xue2,get out of school
 上班,shang4 ban1,go to work/be on duty
 下班,xia4 ban1,get out of work
-太，了,tai4 : le,too much/excessive
+太，了,tai4 : le,too .../excessively ...
 买,mai3,buy/purchase
 卖,mai4,sell or betray (verb)/sale (noun)
 只,zhi1 :: zhi3,mw for cats/dogs/birds :: only/merely/just
@@ -621,7 +622,7 @@
 羊肉,yang2 rou4,lamb/mutton/sheep meat
 猪,zhu1,pig/hog/swine
 猪肉,zhu1 rou4,pork/pig meat
-条,tiao2,strip (mw for long and soft objects/animals)
+条,tiao2,strip/mw for long and soft objects or animals
 面条,mian4 tiao2,noodles
 写,xie3,write
 本,ben3,root/stem/source/origin/mw for books or magazines
@@ -636,7 +637,7 @@
 饮料,yin3 liao4,beverage/drink (noun)
 工,gong1,work/job/profession (noun)
 作,zuo4,do/grow
-工作,gong1 zuo4,work (verb or noun)/operate machine
+工作,gong1 zuo4,work or operate machine (verb)/job (noun)
 觉得,jue2 de,think/feel/have opinion about
 累,lei4,tired/weary
 健,jian4,invigorate/strengthen
@@ -899,7 +900,7 @@
 如果，就,ru2 guo3 : jiu4,if ... then
 蓝,lan2,blue color
 试,shi4,try or experiment (verb)/exam or test (noun)
-利,li4,gains/advantage
+利,li4,gains/advantage/profit
 裙子,qun2 zi,skirt/dress
 衬,chen4,underwear/lining/liner
 衫,shan1,shirt/robe/gown/jacket
@@ -910,7 +911,6 @@
 比,bi3,compare to/adj-er than (noun-比-noun-adj)
 这双比那双小,zhe4 shuang1 bi3 na4 shuang1 xiao3,this pair is smaller than that pair
 意大利,yi4 da4 li4,italy country
-裤,ku4,pants/trousers (component 裤子)
 裤子,ku4 zi,pants/trousers
 质,zhi4,material/substance
 量,liang4,amount/quantity/capacity
@@ -991,8 +991,8 @@
 冷,leng3,cold
 有多,you3 duo1,how much (adj)?
 有多冷,you3 duo1 leng3,how cold?
-从来不,cong2 lai2 bu4,never do (before verb)
-从来没有,cong2 lai2 mei3 you3,never have (before verb)
+从来不,cong2 lai2 bu4,never (before verb)
+从来没有,cong2 lai2 mei3 you3,have never/never before (before verb)
 长,chang2 :: zhang3,long object :: chief or elder (noun)/enhance or increase (verb)
 穿,chuan1,wear main clothing article (shirts dresses pants shoes)
 刮,gua1,blow/scrape/shave (verb)
