@@ -50,11 +50,12 @@
 四点半,si4 dian3 ban4,4:30/half past 4
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
 四点零六,si4 dian3 ling2 liu4,4:06
-一下,yi1:2 xia4,a bit of effort/perform quickly (after verb)
+一下,yi1:2 xia4,a bit of effort/perform quickly (after action verb)
 一会儿,yi1:2 hui4 r,in a bit of time/in a moment (after subj)
 一点儿,yi1:4 dia3 r,a bit of quantity (before obj)/a bit more (after adj)
-一点儿也不,yi1:4 dia3:2 r ye3 bu4,not at all/not even a bit (present or future & swap 也/都)
-一点儿都没,yi1:4 dia3 r dou1 mei2,not at all/not even a bit (past & swap 都/也)
+一点儿也不,yi1:4 dia3:2 r ye3 bu4,not at all/not even a bit (before adj & present or future & swap 也/都)
+一点儿都没,yi1:4 dia3 r dou1 mei2,not at all/not even a bit (before adj & past only & swap 都/也)
+一点点,yi1:4 dian3 dian3:,a tiny bit of quantity (before obj)/a tiny bit more (after adj)
 有点儿,you3:2 dia3 r,a bit of intensity (before adj)
 星,xing1,star/heavenly body
 期,qi1,phase/stage/term
@@ -304,8 +305,8 @@
 汉语,han4 yu3,chinese language
 韩文,han2 wen2,korean language (alt 韩语)
 英语,ying1 yu3,english language (alt 英文)
-认,ren4,recognize/know
-识,shi2,know/knowledge
+认,ren4,recognize/know (component 认识/认真)
+识,shi2,know/knowledge (component 认识)
 认识,ren4 shi2:,know personally/recognize a noun/meet
 知,zhi1,know/aware
 道,dao4,road/principle/truth
@@ -313,14 +314,13 @@
 我知道了,wo3 zhi1 dao4 le,i know/i see (response to newly-learned info)
 忙,mang2,busy/rush
 对,dui4,right/correct/yes
-不对,bu4:2 dui4,incorrect
 都,dou1,all/both/entirely (before verb)
-老,lao3,old/venerable (person)
+老,lao3,old/experienced/venerable (person)
 师,shi1,teacher/expert/master
 老师,lao3 shi1,teacher (in a school)
 医,yi1,medical/medicine
 生,sheng1,raw or immature (adj)/life (noun)
-医生,yi1 sheng1,doctor
+医生,yi1 sheng1,doctor/dr.
 学生,xue2 sheng1,student
 怎,zen3,how
 怎么,zen3 me,how to?
@@ -334,7 +334,8 @@
 香,xiang1,fragrant/sweet smelling
 港,gang3,port/harbor
 香港,xiang1 gang3,hong kong
-约,yue1,make appointment/invite
+纽,niu3,turn/wrench (component 纽约)
+约,yue1,make appointment/invite (component 纽约/约会)
 纽约,niu3 yue1,new york
 台,tai2,mw for machines used on a flat surface (eg computers phones)
 湾,wan1,bay or gulf (noun)/cast anchor or moor a boat (verb)
@@ -499,7 +500,7 @@
 电影,dian4 ying3,movie
 网,wang3,net/network
 上网,shang4 wang3,go online
-机,ji1,machine
+机,ji1,machine/opportunity/intention
 手机,shou3 ji1,cell phone
 手机游戏,shou3 ji1 you2 xi4,cell phone games
 明星,ming2 xing1,celebrity
@@ -507,10 +508,10 @@
 闻,wen2,hear/smell
 新闻,xin1 wen2,news
 节,jie2,festival/holiday
-目,mu4,eye/item/list
+目,mu4,item/list/catalogue (component 节目)
 节目,jie2 mu4,show/program
 体,ti3,body/form/substance (component 身体)
-育,yu4,educate
+育,yu4,educate (component 体育)
 体育,ti3 yu4,sports/physical education
 房间,fang2 jian1,room
 桌子,zhuo1 zi,table/desk
@@ -671,8 +672,8 @@
 笑,xiao4,laugh/smile
 笑一笑,xiao4 yi1:2 xiao4,laugh a bit/smile a bit
 用一用,yong3 yi1:4 yong3,use a bit/use for a bit
-尝,chang2,taste/try/experience (food only)
-尝一尝,chang2 yi1:4 chang2,taste a bit (food only)
+尝,chang2,taste/try/experience
+尝一尝,chang2 yi1:4 chang2,taste a bit
 聊,liao2,chat
 聊一聊,liao2 yi1:4 liao2,chat a bit
 讨论,tao3 lun4,discuss/talk over
@@ -721,7 +722,7 @@
 公共,gong1 gong4,public/community
 公共汽车,gong1 gong4 qi4 che1,bus
 龙,long2,dragon/serpent
-衣,yi1,wear/dress/put on clothes
+衣,yi1,wear/dress/put on clothes (component 衣服)
 衣服,yi1 fu2:,clothes/clothing/outfit
 件,jian4,mw for a clothing top or an event
 商店,shang1 dian4,shop/store (noun)
@@ -794,7 +795,7 @@
 漫,man4,overflow/flood (noun or verb)
 浪,lang4,ocean wave/unrestrained
 浪漫,lang4 man4,romantic
-约会,yue1 hui4,appointment/date
+约会,yue1 hui4,appointment/date/engagement
 不好意思,bu4 hao3 yi1:4 si1:,feel embarrassed/sorry for inconveniencing
 诉,su4,complain/appeal/tell (component 告诉)
 告,gao4,tell/inform/accuse (component 告诉)
@@ -802,15 +803,15 @@
 肚,du3 :: du4,tripe :: abdomen/stomach (component 肚子)
 肚子,du4 zi,stomach/belly
 肚子疼,du4 zi teng2,stomachache/bellyache
-留,liu2,stay/remain
+留,liu2,stay/remain/keep/retain
 留在家工作,liu2 zai4 jia1 gong1 zuo4,work from home/wfh
 定,ding4,fixed or definite (component 一定/一定要)
 一定,yi1:2 ding4,surely/necessarily/certainly/definitely
 一定要,yi1:2 ding4 yao4,must
-感,gan3,sense/feel
-冒,mao4,risk/dare
+感,gan3,sense/feel/affect (component 感冒)
+冒,mao4,risk/dare/emit (component 感冒)
 感冒,gan3 mao4,have a cold/sick with a cold
-药,yao4,medicine/drug (as food or drink)
+药,yao4,medicine/drug (consumed as food or drink)
 发,fa1 :: fa4,send out/issue/dispatch :: hair
 烧,shao1,burn/bake/heat/roast
 发烧,fa1 shao1,have a fever/sick with a fever
@@ -873,7 +874,6 @@
 同学,tong2 xue2,schoolmate/classmate
 色,se4,color
 完,wan2,finish (after verb)/complete (adj)
-完了,wan2 le,finished (after verb)
 读完了,du2 wan2 le,finished reading
 已,yi3,already/finished (component 已经)
 经,jing1,through/after (component 已经/经过)
@@ -898,7 +898,7 @@
 就,jiu4,then (after 如果 in formal setting)
 如果，就,ru2 guo3 : jiu4,if ... then
 蓝,lan2,blue color
-试,shi4,try or experiment or taste drink (verb)/exam or test (noun)
+试,shi4,try or experiment (verb)/exam or test (noun)
 利,li4,gains/advantage
 裙子,qun2 zi,skirt/dress
 衬,chen4,underwear/lining/liner
@@ -1003,7 +1003,7 @@
 雨雪,yu3:2 xue3,sleet/rain and snow mix
 在雨雪中,zai4 yu3:2 xue3 zhong1,surrounded by sleet/in the sleet
 虽,sui1,although (component 虽然)
-然,ran2,yes/of course/pledge/promise (component 虽然)
+然,ran2,yes/of course/pledge/promise (component 虽然/当然/然后)
 虽然,sui1 ran2,although/though/despite (before 但是)
 但,dan4,but/however/yet (component 但是)
 但是,dan4 shi4,but/however/yet (after 虽然 & similar to 可是)
@@ -1310,7 +1310,7 @@
 见面,jian4 mian4,meet up/see each other
 聊天,liao2 tian1,chat/gossip
 买东西,mai3 dong1 xi1:,shopping
-护,hu4,protect/guard/defend
+护,hu4,protect/guard/defend (component 护照)
 护照,hu4 zhao4,passport
 签,qian1,endorse/sign onto (component 签证)
 证,zheng4,prove/confirm/verify (component 签证)
@@ -1323,9 +1323,10 @@
 检查,jian3 cha2,inspect or examine or check (verb)/inspection or examination (noun)
 李,li3,plum/common surname
 行李,xing2 li3,luggage/baggage
-全,quan2,all/whole/entire/complete
+全,quan2,all/whole/entire (component 安全)
 安全,an1 quan2,safe/secure
-安全检查,an1 quan2 jian3 cha2,security checkpoint (airport etc)
+安全检查,an1 quan2 jian3 cha2,undergo a security check (unabbreviated)
+安检,an1 jian3,undergo a security check (abbreviated)
 再，一次,zai4 : yi1:2 ci4,... one more time/... once more
 乎,hu1,doubt/astonishment (final particle)
 几乎,ji1 hu1,almost/nearly
@@ -1340,17 +1341,17 @@
 你拍照拍了九分钟了,ni3 pai1 zhao4 pai1 le jiu3 fen1 zhong1 le,you have been taking pictures for 9 minutes
 外国人,wai4 guo2 ren2,foreigner
 种,zhong3,kind/type/mw for kinds or types
-言,yan2,words/speech
-容,rong2,hold/contain/tolerate
-易,yi4,easy/amiable/prefix for -able or -ible
-容易,rong2 yi1,easy/likely
+言,yan2,words/speech (component 语言)
 语言,yu3 yan2,language
+容,rong2,hold/contain/tolerate (component 容易)
+易,yi4,easy/amiable/prefix for -able or -ible (component 容易)
+容易,rong2 yi1,easy/likely
 很多种语言,hen3 duo1 zhong3:2 yu3 yan2,many languages
 更,geng4,more/even more (before adj)
 努,nu3,exert/strive/make an effort (component 努力)
 努力,nu3 li4,try hard/great effort/strive (adv)
 平,ping2,flat/level/equal (component 水平)
-水平,shui3 ping2,skills/proficiency/standard
+水平,shui3 ping2,skills/skill level/proficiency/standards
 提高,ti2 gao1,increase/improve/raise
 后来,hou4 lai2,afterwards/later
 地,di4 :: de,earth/ground/land :: modify action (adj-地-verb)
@@ -1363,7 +1364,7 @@
 奇怪,qi3 guai4,strange/odd
 紧,jin3,tight/strict/short of money (component 紧张)
 紧张,jin3 zhang1,nervous/strained
-怕,pa4,fear/dread/be afraid (component 可怕)
+怕,pa4,fear/dread/be afraid (component 可怕/害怕)
 可怕,ke3 pa4,fearful/dreadful/scary
 遇,yu4,encounter/receive/opportunity (component 遇到)
 遇到,yu4 dao4,encounter/come across/run into
@@ -1376,17 +1377,27 @@
 你难过地哭着吗,ni3 nan2 guo4 de ku1 zhe ma,are you crying sadly?
 他后来生气地锻炼了,ta1 hou4 lai2 sheng1 qi4 de duan4 lian4 le,he later trained angrily/he later worked out angrily
 这些故事经常更好笑,zhe4 xie1 gu4 shi4 jing1 chang2 geng4 hao3 xiao4,these stores are often even funnier
+特,te4,special/unique/distinguished (component 特别)
+特别,te4 bie2,especially (before adj)
+不太,bu4:2 tai4,not very (don't need 了 after)
+死,si3,die/impassable/inflexible
+死了,si3 le,died/to death (extreme intensifier & after adj)
 一点儿都不苦,yi1:4 dia3 r dou1 bu4 ku3,not bitter at all/not even a little bitter
+不太大,bu4:2 tai4 da4,not too big/not so big/not very big
 有点辣,you3:2 dian3 la4,a bit spicy/a little spicy
 很舒服,hen3 shu1 fu2,comfortable (no intensity change)
-挺咸的,ting3 xian2 de,quite salty/rather salty
-比较矮,bi3 jiao4 ai3,shorter than/relatively short
+短一点点,duan3 yi1:4 dian3 dian3:,a tiny bit shorter (non-person)
+长一点儿,chang2 yi1:4 dia3 r,a bit longer (non-person)
+比较矮,bi3 jiao4 ai3,shorter than/relatively short (person)
 越来越热,yue4 lai2 yue4 re4,getting hotter/more and more hot
-更冷,geng4 leng3,even colder/even more cold
+更可爱,geng4 ke3 ai4,even cuter/even more lovely
 真老,zhen1 lao3,really old (possibly sarcastic)
+挺咸的,ting3 xian2 de,quite salty/rather salty
+特别冷,te4 bie2 leng3,especially cold
 好忙,hao3 mang2,so busy (好 to intensify adj)
 非常小,fei1 chang2 xiao3,very small
-美极了,mei3 ji2 le,extremely pretty
+美极了,mei3 ji2 le,extremely pretty/extremely beautiful (formal)
+高兴死了,gao1 xing4 si3 le,happy to death/extremely happy (slang)
 太贵了,tai4 gui4 le,too expensive
 最好,zui4 hao3,best/superlatively good
 食,shi2,eat or feed (verb)/food (noun)
@@ -1399,20 +1410,48 @@
 须,xu1,must/have to (component 必须)
 必须,bi4 xu1,have to/must/necessarily/compulsory
 作业,zuo4 ye4,homework assignment
-成,cheng2,succeed/finish/complete
-完成,wan2 cheng2,complete/accomplish
+成,cheng2,succeed/finish/complete (component 完成)
+完成,wan2 cheng2,complete/accomplish/finish successfully
 铅,qian1,lead (metal noun)
 铅笔,qian1 bi3,pencil
 笔记,bi3 ji4,notes
 笔记本,bi3 ji4 ben3,notebook
 向,xiang4,borrow from/tend toward
 借,jie4,lend/borrow
-向，借，,xiang4 : jie4 :,from (person) borrow (item)
+向，借，,xiang4 : jie4 :,from (someone) borrow (something)
 可以借我，吗,ke3 yi2 jie4 wo3 : ma,could you lend me ... ?/may i borrow ... ?
 让我向你借铅笔和纸,rang2 wo3 xiang4 ni3 jie4 qian1 bi3 he2 zhi3,let me borrow your pencil and paper
 天天,tian1 tian1,every day/daily/day by day
 向上,xiang4 shang4,upwards/advance/make progress
 向下,xiang4 xia4,downwards/regress
 板,ban3,board/plank (component 老板/黑板)
+老板,lao3:2 ban3,boss
 黑板,hei1 ban3,blackboard
-体育馆,ti3 yu4 guan3,gymnasium
+体育馆,ti3 yu4 guan3,gymnasium/stadium
+没错,mei2 cuo4,not wrong/cannot go wrong/sure
+没了,mei2 le,not to be/cease to exist
+变,bian4,transform/change/become different (component 变化)
+化,hua4,transform/make into/change into (component 变化)
+变化,bian4 hua4,change/vary
+搬,ban1,relocate/move residence
+算,suan4,regard as/figure/calculate (component 打算)
+打算,da3 suan4,plan/intend/calculate
+机会,ji1 hui4,chance/opportunity/occasion
+选,xuan3,select/choose/elect (component 选择)
+择,ze2,select/choose/differentiate (component 选择)
+选择,xuan3 ze2,select or choose (verb)/selection or choice (noun)
+国家,guo2 jia1,country/nation/state
+留学,liu2 xue2,study abroad
+结,jie2,tie or bind (verb)/knot or bond (noun) (component 结婚)
+婚,hun1,marry (verb)/marriage or wedding (noun) (component 结婚)
+结婚,jie2 hun1,marry
+认真,ren4 zhen1,serious or earnest (adj)/take seriously (verb)
+愿,yuan4,ready or willing (adj)/wish or desire (verb) (component 愿意)
+愿意,yuan4 yi4,ready or willing (adj)/wish or want (verb)
+害,hai4,harm/evil/cause trouble (component 害怕)
+害怕,hai4 pa4,afraid/scared
+分手,fen1 shou3,part company/split up/break up
+当,dang1,to be/act as/withstand (component 当然)
+当然,dang1 rang2,of course/as it should be/no doubt
+放心,fang4 xin1,feel relieved/feel reassured/be at ease
+# 环,huan2,ring/hoop/loop
