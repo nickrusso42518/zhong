@@ -186,9 +186,6 @@
 气,qi4,gas/air/vital energy
 客气,ke4 qi4,polite/modest
 不客气,bu4:2 ke4 qi4,you're welcome/you are welcome
-抱,bao4,hug/surround/carry in arms
-歉,qian4,apologize/regret
-抱歉,bao4 qian4,feel sorry/feel apologetic
 起,qi3,arise/get up/stand up
 对不起,dui4 bu4 qi3,sorry
 关,guan1,close/shut
@@ -1025,8 +1022,8 @@
 能干,neng2 gan4,capable/competent
 快乐,kuai4 le4,happy/cheerful (wish someone a happy event)
 节日,jie2 ri4,festival/holiday
-送,song4,see off/send off/give
-送给,song4 gei3,give
+送,song4,see off/send off/give a gift
+送给,song4 gei3,give a gift to
 礼,li3,gift/rite/ceremony (component 礼物)
 物,wu4,thing/object (component 礼物)
 礼物,li3 wu4,gift
@@ -1454,4 +1451,44 @@
 当,dang1,to be/act as/withstand (component 当然)
 当然,dang1 rang2,of course/as it should be/no doubt
 放心,fang4 xin1,feel relieved/feel reassured/be at ease
-# 环,huan2,ring/hoop/loop
+上去,shang4 qu4,go up/ascend
+下去,xia4 qu4,go down/descend/continue
+上来,shang4 lai2,come up/approach
+下来,xia4 lai2,come down/completed action marker
+走上去,zou3 shang4 qu4,walk up/go up by walking
+游下去,you2 xia4 qu4,swim down/go down by swimming
+飞上来,fei1 shang4 lai2,fly up/come up by flying
+跑下来,pao3 xia4 lai2,run down/come down by running
+环,huan2,ring/hoop/loop (component 环境)
+境,jing4,border/boundary (component 环境)
+环境,huan2 jing4,surroundings/environment
+方便,fang1 bian4,convenient/make things easy
+草,cao3,grass/straw/manuscript
+阳,yang2,sun/taoist yang element
+太阳,tai4 yang2,sun
+星星,xing1 xing1:,star
+不见了,bu4:2 jian4 le,missing/disappeared/gone (after noun)
+送，给，,song4 : gei3 :,give (something) to (someone)
+送花给她,song4 hua1 gei3 ta1,give flowers to her/give her flowers
+静,jing4,quiet/still/not moving (component 安静)
+安静,an1 jing4,quiet/silent/peaceful/calm
+层,ceng2,floor/layer/stratum (mw)
+楼,lou2,floor/storied building (noun)
+三层楼,san1 ceng2 lou2,three stories/3 stories (of a building)
+第三层楼,di4 san1 ceng2 lou2,third floor/3rd floor
+响,xiang3,echo/sound/ring (mw) (component 影响)
+声,sheng1,sound/voice/tone (component 声音)
+邻,lin2,neighbor/adjacent (component 邻居)
+居,ju1,reside (verb)/residence (noun) (component 邻居)
+邻居,lin2 ju1,neighbor/next door
+影响,ying3:2 xiang3,influence/affect/bother/disturb
+声音,sheng1 yin1,sound/noise/volume
+轻声,qing1 sheng1,soft/softly/neutral tone
+大声,da4 sheng1,loud/loudly/high voice
+小声,xiao3 sheng1,quietly/whisper/low voice
+他大声地说话,ta1 da4 sheng1 de shuo1 hua4,he speaks loudly/he talks loudly
+她唱歌唱得好轻声,ta1 chang4 ge1 chang4 de hao3 qing1 sheng1,she sings so softly
+它死得真小声,ta1 si3 de zhen1 xiao3 sheng1,it dies really quietly
+抱,bao4,hug/surround/carry in arms (component 抱歉)
+歉,qian4,apologize/regret (component 抱歉)
+抱歉,bao4 qian4,feel sorry/feel apologetic
