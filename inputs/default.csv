@@ -176,7 +176,7 @@
 久,jiu3,long (time only)
 好久不见,hao3:2 jiu3 bu4:2 jian4,long time no see
 请,qing3,please/request/invite
-问,wen4,ask
+问,wen4,ask someone about something
 题,ti2,topic/subject
 问题,wen4 ti2,question/problem/issue
 请问,qing3 wen4,excuse me/pardon me (lit. please ask)
@@ -274,7 +274,7 @@
 少,shao3,few/less/little (adj)
 多少,duo1 shao3,how much? (large or uncountable quantity)
 多少钱,duo1 shao3 qian2,how much money?
-叫,jiao4,am/be called
+叫,jiao4,am/be called/tell someone to do something
 电,dian4,electric/electricity
 话,hua4,spoken words/speech
 码,ma3,code or weight (noun)/stack or pile (verb)
@@ -705,7 +705,7 @@
 店,dian4,inn/shop/store
 酒店,jiu3 dian4,hotel/pub/bar
 随,sui2,follow/comply with (component 随便)
-便,bian4,plain/informal (component 随便/便宜)
+便,bian4,plain/convenient (component 随便/便宜/方便)
 随便,sui2 bian4,as one pleases/as one wishes/casual
 准,zhun3,allow/approve/grant
 出,chu1,go out/come out/occur (component 出去)
@@ -797,7 +797,7 @@
 不好意思,bu4 hao3 yi1:4 si1:,feel embarrassed/sorry for inconveniencing
 诉,su4,complain/appeal/tell (component 告诉)
 告,gao4,tell/inform/accuse (component 告诉)
-告诉,gao4 su4,tell/inform/let know
+告诉,gao4 su4,inform/tell someone about something
 肚,du3 :: du4,tripe :: abdomen/stomach (component 肚子)
 肚子,du4 zi,stomach/belly
 肚子疼,du4 zi teng2,stomachache/bellyache
@@ -874,7 +874,7 @@
 完,wan2,finish (after verb)/complete (adj)
 读完了,du2 wan2 le,finished reading
 已,yi3,already/finished (component 已经)
-经,jing1,through/after (component 已经/经过)
+经,jing1,through/after (component 已经/经过/经常)
 已经,yi3 jing1,already (before verb)
 已经喝,yi3 jing1 he1,already drinking
 已经吃完了,yi3 jing1 chi1 wan2 le,already finished eating
@@ -1413,10 +1413,10 @@
 铅笔,qian1 bi3,pencil
 笔记,bi3 ji4,notes
 笔记本,bi3 ji4 ben3,notebook
-向,xiang4,borrow from/tend toward
+向,xiang4,turn towards/direction
 借,jie4,lend/borrow
 向，借，,xiang4 : jie4 :,from (someone) borrow (something)
-可以借我，吗,ke3 yi2 jie4 wo3 : ma,could you lend me ... ?/may i borrow ... ?
+可以借我，吗,ke3:2 yi3 jie4 wo3 : ma,could you lend me ... ?/may i borrow ... ?
 让我向你借铅笔和纸,rang2 wo3 xiang4 ni3 jie4 qian1 bi3 he2 zhi3,let me borrow your pencil and paper
 天天,tian1 tian1,every day/daily/day by day
 向上,xiang4 shang4,upwards/advance/make progress
@@ -1430,7 +1430,8 @@
 变,bian4,transform/change/become different (component 变化)
 化,hua4,transform/make into/change into (component 变化)
 变化,bian4 hua4,change/vary
-搬,ban1,relocate/move residence
+搬,ban1,relocate/move residence (component 搬家)
+搬家,ban1 jia1,relocate/move residence (can replace 家 with 去/来)
 算,suan4,regard as/figure/calculate (component 打算)
 打算,da3 suan4,plan/intend/calculate
 机会,ji1 hui4,chance/opportunity/occasion
@@ -1492,3 +1493,8 @@
 抱,bao4,hug/surround/carry in arms (component 抱歉)
 歉,qian4,apologize/regret (component 抱歉)
 抱歉,bao4 qian4,feel sorry/feel apologetic
+桶,tong3,bucket/bin
+水桶,shui3:2 tong3,bucket
+丢,diu1,lose/throw/discard
+垃圾,la1 ji1,trash/garbage/low quality
+垃圾桶,la1 ji1 tong3,trash can/garbage can
