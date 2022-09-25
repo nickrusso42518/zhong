@@ -92,8 +92,8 @@
 五月二十六号,wu3 yue4 er4 shi2 liu4 hao4,26 may
 二〇三四年十二月七号,er4 ling2 er4 si4 nian2 shi2 er4 yue4 qi1 hao4,7 december 2034
 一九八五年五月二十六号,yi1 jiu3 ba1 wu3 nian2 wu3 yue4 er4 shi2 liu4 hao4,26 may 1985
-了,le,completed action marker/change in situation (end of sentence)
-过,guo4,experienced action marker (after verb)/pass time or cross or celebrate (verb)
+了,le :: liao3,completed action/state change (end of phrase) :: understand clearly (c. 了解)
+过,guo4,experienced action (after verb)/pass time or cross or celebrate (verb)
 昨,zuo2,to denote yesterday (c. 昨天)
 昨天,zuo2 tian1,yesterday
 可,ke3,can/may (c. 可以)
@@ -250,7 +250,7 @@
 那个时候,na4 ge4 shi2 hou4,at that time
 高,gao1,tall/high person
 矮,ai3,short/low person
-兴,xing4,excitement/interest in
+兴,xing4,excitement/interest in (c. 高兴/兴趣)
 高兴,gao1 xing4,happy (short lasting)
 错,cuo4,mistake/wrong/bad/incorrectly
 不错,bu4:2 cuo4,not bad/pretty good
@@ -261,7 +261,7 @@
 字,zi4,letter/symbol/character/word
 名字,ming2 zi4:,name/first name
 汉字,han4 zi4:,chinese character/chinese writing
-什,shen2,what
+什,shen2,what (c. 什么)
 么,me,interrogative suffix/non-yn?
 什么,shen2 me,what?
 候,hou4,time (noun)/wait (verb)
@@ -716,7 +716,7 @@
 汽车,qi4 che1,car/automobile
 出租车,chu1 zu1 che1,taxi
 打车,da3 che1,take a taxi
-公,gong1,public/fair/equitable (c. 公共 & 公司)
+公,gong1,public/fair/equitable (c. 公共/公司/公斤)
 公共,gong1 gong4,public/community
 公共汽车,gong1 gong4 qi4 che1,bus
 龙,long2,dragon/serpent
@@ -858,7 +858,6 @@
 大家,da4 jia1,influential family/everyone (greeting)
 每个人,mei3 ge4 ren2,everyone/every person (non-greeting)
 才,cai2,finally/took longer than expected (after time & before verb)
-急,ji2,urgent/pressing/hurried
 情,qing2,situation/feeling/sentiment/emotion (c. 事情)
 事,shi4,matter/affair (c. 事情)
 事情,shi4 qing2,matter/affair/task/thing to be told
@@ -973,7 +972,7 @@
 还没有,hai2 mei2 you3,not yet (long style)
 还没,hai2 mei2,not yet (short style)
 没什么,mei2 shen2 me,nothing
-着,zhe,actively doing (after verb is -ing)
+着,zhe :: zhao2,actively doing (after verb is -ing) :: touch/contact/feel (c. 着急)
 雨,yu3,rain (noun)
 下雨,xia4 yu3,rain (verb)
 雪,xue3,snow (noun)
@@ -1532,3 +1531,26 @@
 熊猫,xiong2 mao1,panda bear
 西安,xi1 an1,xian/xi'an (place)
 故宫,gu4 gong1,forbidden city/former palace
+或,huo4,maybe/perhaps/might (c. 或者)
+者,zhe3,one who is (after verb or adj)/person involvedin (after noun) (c. 或者)
+或者,huo4 zhe3,or/possibly/perhaps (not a question)
+他明天看电视或者读历史书,ta1 ming2 tian1 kan4 dian4 shi4 huo4 zhe3 du2 li4 shi3 shu1,he will watch tv or read a history book tomorrow
+爬,pa2,climb/crawl (c. 爬山)
+山,shan1,mountain/hill (c. 爬山)
+爬山,pa2 shan1,hiking/climb a mountain
+趣,qu4,interest/interesting (c. 兴趣)
+兴趣,xing4 qu4,interest/desire to know
+对，感兴趣,dui4 : gan3 xing4 qu4,be interested in ...
+对，有兴趣,dui4 : you3 xing4 qu4,have interest in ...
+我对中文感兴趣,wo3 dui4 zhong1 wen2 gan3 xing4 qu4,i am interested in chinese
+你对法语不感兴趣,ni3 dui4 fa3:2 yu3 bu4 gan3 xing4 qu4,you are not interested in french
+他对德语有兴趣,ta1 dui4 de2 yu3 you3 xing4 qu4,he has interest in german
+她对英文没有兴趣,ta1 dui4 ying1 wen2 mei2 you3 xing4 qu4,she does not have interest in english/she has no interest in english
+历,li4,history/experience/undergo (c. 历史)
+史,shi3,history/annals (c. 历史)
+历史,li4 shi3,history
+了解,liao3:2 jie3,understand/realize/find out
+# 五十多,wu3 shi2 duo1,more than 50/more than fifty (before mw)
+# 公斤,gong1 jin1,kilogram/kg
+# 急,ji2,urgent/pressing/hurried (c. 着急)
+# 着急,zhao2 ji2,worry/be anxious/feel sense of urgency
