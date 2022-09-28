@@ -488,7 +488,7 @@
 贵,gui4,expensive/precious
 金,jin1,gold
 现金,xian4 jin1,cash
-行,xing2,ok/will do/travel
+行,xing2 :: hang2,ok/will do/travel :: commercial firm/line of business (c. 银行)
 报,bao4,announce/inform/report (c. 报纸)
 纸,zhi3,paper
 报纸,bao4 zhi3,newspaper
@@ -525,7 +525,7 @@
 位,wei4,individual/seat/place (formal mw)
 等,deng3,await/wait for/equal to
 坐,zuo4,sit/take a seat/embark onto vehicle
-订,ding4,agree/conclude/order
+订,ding4,agree/conclude/order (c. 订位/订房)
 订位,ding4 wei4,make reservation/book a table
 进,jin4,enter/advance/go forward
 菜,cai4,cuisine/dish (type of food)
@@ -988,7 +988,7 @@
 有多,you3 duo1,how much (adj)?
 有多冷,you3 duo1 leng3,how cold?
 从来不,cong2 lai2 bu4,never (before verb)
-从来没有,cong2 lai2 mei3 you3,have never/never before (before verb)
+从来没有,cong2 lai2 mei2 you3,have never/never before (before verb)
 长,chang2 :: zhang3,long object :: chief or elder (noun)/enhance or increase (verb)
 穿,chuan1,wear main clothing article (shirts dresses pants shoes)
 刮,gua1,blow/scrape/shave (verb)
@@ -1036,7 +1036,7 @@
 我们多吃蔬菜吧,wo3 men duo1 chi1 shu1 cai4 ba,let's eat more vegetables (suggestion)
 你需要少喝啤酒,ni3 xu1 yao4 shao3 he1 pi2 jiu3,you need to drink less beer (command)
 让我们坐在火车的前面,rang4 wo3 men zuo4 zai4 huo3 che1 de qian2 mian4,allow us to sit at the front of the train
-王老师在学校的后面,wang2 lao3 shi1 zai4 xue2 xiao4 de hou2 mian4,teacher wang is behind the school
+王老师在学校的后面,wang2 lao3 shi1 zai4 xue2 xiao4 de hou4 mian4,teacher wang is behind the school
 我用左手写字,wo3 yong4 zuo3 shou3:2 xie3 zi4,i write with my left hand (no 边)
 请靠右边开车得很慢,qing3 kao4 you4 bian1 kai1 che1 de hen3 man4,please drive slowly on the right side
 李医生走在你的旁边,li3 yi1 sheng1 zou3 zai4 ni3 de pang2 bian1,doctor li walks beside you
@@ -1570,3 +1570,27 @@
 嗽,sou4,cough (verb) (c. 咳嗽)
 咳嗽,ke2 sou4:,cough (verb)
 照顾,zhao4 gu4,take care of/attend to/look after
+银,yin2,silver/relating to money (c. 银行)
+银行,yin2 hang2,money bank
+转,zhuan3,turn/change direction/transfer (c. 转机)
+际,ji4,border/edge/boundary (c. 国际)
+国际,guo2 ji4,international (adj)
+内,nei4,inside/inner/internal (c. 国内)
+国内,guo2 nei4,domestic (adj)
+柜,gui4,cupboard/cabinet (c. 柜台)
+柜台,gui4 tai2,front desk/sales counter
+转机,zhuan3 ji1,change airplanes/connect flights
+换钱,huan4 qian2,exchange money
+充,chong1,fill/supply/fulfill/satisfy (c. 充电/充值)
+充电,chong1 dian4,recharge a battery
+值,zhi2,value/to be worth (c. 充值)
+充值,chong1 zhi2,add money to a card/recharge card
+漫游,man4 you2,roam/cell phone roaming
+电话卡,dian4 hua4 ka3,telephone card/calling card
+导,dao3,transmit/guide/direct (c. 导游)
+导游,dao3 you2,travel guide/guidebook
+订房,ding4 fang2,reserve a room (hotel)
+退房,tui4 fang4,check out of a room (hotel)
+取,qu3,take/choose/fetch (c. 取消)
+消,xiao1,disappear/vanish/spend time (c. 取消)
+取消,qu3 xiao1,cancel/cancellation
