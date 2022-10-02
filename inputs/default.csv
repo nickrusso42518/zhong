@@ -511,6 +511,7 @@
 体,ti3,body/form/substance (c. 身体)
 育,yu4,educate (c. 体育)
 体育,ti3 yu4,sports/physical education
+房,fang2,house/room (c. 房间/订房/厨房)
 房间,fang2 jian1,room
 桌子,zhuo1 zi,table/desk
 椅子,yi3 zi,chair
@@ -1109,7 +1110,7 @@
 美术,mei3 shu4,fine arts
 笔,bi3,pen/pencil/writing brush
 考,kao3,examine/test/investigate (c. 考试)
-考试,kao4 shi4,take an exam/take a test
+考试,kao3 shi4,take an exam/take a test
 科,ke1,section/department/science (c. 科学)
 科学,ke1 xue2,science/scientific knowledge
 备,bei4,prepare (c. 准备)
@@ -1410,7 +1411,7 @@
 必,bi4,certainly/must/necessarily (c. 必须)
 须,xu1,must/have to (c. 必须)
 必须,bi4 xu1,have to/must/necessarily/compulsory
-作业,zuo4 ye4,homework assignment
+作业,zuo4 ye4,homework assignment/task/operation
 成,cheng2,succeed/finish/complete (c. 完成)
 完成,wan2 cheng2,complete/accomplish/finish successfully
 铅,qian1,lead (metal noun)
@@ -1612,3 +1613,27 @@
 翻,fan1,overturn/flip over/decode (c. 翻译)
 译,yi4,translate/interpret (c. 翻译)
 翻译,fan1 yi4,translation
+调,tiao2,transfer/move/change (c. 空调)
+空调,kong1 tiao2,air conditioner/ac
+把,ba3,focus on result/following noun is object (subj-把-obj-verb)
+我的狗把作业吃了,wo3 de gou3:2 ba3 zuo4 ye4 chi1 le,my dog ate the homework
+她把考试完成了,ta1 ba3:2 kao3 shi4 wan2 cheng2 le,she finished the exam
+灯,deng1,light/lamp/lantern
+画,hua4,painting or picture (noun)/draw picture (verb)
+厨,chu2,kitchen (c. 厨房)
+厨房,chu2 fang2,kitchen
+客厅,ke4 ting1,living room/drawing room
+客人,ke4 ren2,guest/visitor/customer/client
+扫,sao3,sweep (c. 打扫)
+打扫,da3:2 sao3,clean up (verb)
+净,jing4,clean (adj) (c. 干净)
+干净,gan1 jing4,clean/neat/tidy (adj)
+打扫干净,da3:2 sao3 gan1 jing4,clean until complete
+梯,ti1,stairs/ladder (c. 电梯)
+电梯,dian4 ti1,elevator/escalator
+厕,ce4,toilet/lavatory (c. 厕所)
+厕所,ce4 suo3,toilet/lavatory
+坏,huai4,spoiled or broken (adj)/to break down (verb)
+被,bei4,by/passive voice (obj-被-subj-verb)
+两间厨房被你奶奶打扫干净,liang3 jian1 chu2 fang2 bei4 ni3:2 nai3 nai da3:2 sao3 gan1 jing4,two kitchens were cleaned by your grandmother
+灯被一只猫关了,deng1 bei4 yi1 zhi1 mao1 guan1 le,the light was turned off by a cat
