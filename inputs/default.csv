@@ -463,7 +463,7 @@
 班,ban1,work shift/team/class
 睡觉,shui4 jiao4,sleep/go to bed
 回,hui2,return/go back/turn around
-放,fang4,put/release/free
+放,fang4,put/release/free/let go
 煮,zhu3,cook/boil
 上学,shang4 xue2,go to school
 放学,fang4 xue2,get out of school
@@ -571,7 +571,7 @@
 菜包子,cai4 bao1 zi,vegetable stuffed bun/vegetable steamed bun
 糖,tang2,sugar/candy
 米,mi3,rice
-为,wei4,for
+为,wei4,for (c. 为什么)/about (subj-为-obj-emotion)
 因,yin1,cause/reason
 为什么,wei4 shen2 me,why?/for what? (adjacent to person targeted)
 因为,yin1 wei4,because/since (before noun and before 所以)
@@ -587,7 +587,7 @@
 印度,yin1 du4,india country
 印度语,yin1 du4 yu3,indian language/hindi (alt 印度文)
 爱好,ai4 hao4,hobby/interest
-松,song1,loose (noun)/loosen (verb)
+松,song1,loose (noun)/loosen (verb) (c. 轻松)
 轻,qing1,light/easy/gentle/soft
 轻松,qing1 song1,relax/take things less seriously
 旅游,lv3 you2,trip/tour/travel (noun)
@@ -1329,7 +1329,7 @@
 乎,hu1,doubt/astonishment (final particle)
 几乎,ji1 hu1,almost/nearly
 忘,wang4,forget/neglect/overlook/omit
-记,ji4,remember/memorize/record
+记,ji4,remember/memorize/record (c. 忘记/记得)
 忘记,wang4 ji4,forget
 海关,hai3 guan1,customs (when crossing borders)
 早一点到。我们先喝一点茶,zao3 yi1:4 dian3 dao4 : wo3 men xian1 he1 yi1:4 dian3 cha2,arrive earlier. we will drink a bit of tea first
@@ -1637,3 +1637,29 @@
 被,bei4,by/passive voice (obj-被-subj-verb)
 两间厨房被你奶奶打扫干净,liang3 jian1 chu2 fang2 bei4 ni3:2 nai3 nai da3:2 sao3 gan1 jing4,two kitchens were cleaned by your grandmother
 灯被一只猫关了,deng1 bei4 yi1 zhi1 mao1 guan1 le,the light was turned off by a cat
+别为那个生气,bie2 wei4 na4 ge4 sheng1 qi4,do not be angry about that
+寒,han2,cold/poor (c. 寒假)
+寒假,han2 jia4,winter vacation (time ref)
+暑,shu3,heat/hot weather (c. 暑假)
+暑假,shu3 jia4,summer vacation (time ref)
+复,fu4,resume/restore/recover (c. 复习)
+复习,fu4 xi2,review/revise
+数,shu4,number/figure (c. 数学)
+数学,shu4 xue2,mathematics
+放假,fang4 jia4,take vacation/take time off
+记得,ji4 de,remember
+于,yu2,interrogative particle?
+终,zhong1,end/finish
+束,shu4,bunch/bundle (mw) (c. 结束)
+放松,fang1 song1,loosen/relax
+终于,zhong1 yu2,finally/at last
+结束,jie2 shu4,finish/conclude (standalone verb)
+担,dan1,undertake/take responsibility for
+担心,dan1 xin1,worried/uneasy/anxious
+专,zhuan1,for a particular reason/focused on one thing
+绩,ji4,merit/accomplishment (c. 成绩)
+成绩,cheng2 ji4,performance record/school grades
+专业,zhuan1 ye4,specialty/main area of study
+大学专业,da4 xue2 zhuan1 ye4,college major/university major
+我为你父母的健康担心,wo3 wei4 ni3 fu4 mu3 de jian4 kang1 dan1 xin1,i am worried about your parents' health
+她为他的新的汽车害怕,ta1 wei4 ta1 de xin1 de qi4 che1 hai4 pa4,she is scared of the new car
