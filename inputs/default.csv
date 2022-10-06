@@ -153,7 +153,7 @@
 他们,ta1 men,they/them (male or mixed)
 她们,ta1 men,they/them (female)
 它们,ta1 men,they/them (non-human)
-的,de,noun-的-noun possession/adj&time-的-noun description/phantom noun suffix
+的,de,noun-的-noun possession/adj-的-noun description/phantom noun suffix
 我的,wo3 de,my/mine
 你的,ni3 de,your (informal)
 您的,nin2 de,your (formal)
@@ -578,9 +578,9 @@
 所,suo3,actually/that which/mw for houses and small buildings (c. 所以)
 所以,suo3:2 yi3,so/therefore (before noun and after 因为)
 因为，所以,yin1 wei4 : suo3:2 yi3,because ... so
-因为我很胖所以她不高兴,yin1 wei4 wo3 hen3 pang4 suo3:2 yi3 ta1 bu4 gao1 xing4,because i am fat so she is unhappy (formal)
-我很胖所以她不高兴,wo3 hen3 pang4 suo3:2 yi3 ta1 bu4 gao1 xing4,i am fat so she is unhappy (informal)
-她不高兴因为我很胖,ta1 bu4 gao1 xing4 yin1 wei4 wo3 hen3 pang4,she is unhappy because i am fat (informal)
+因为我很胖，所以她不高兴,yin1 wei4 wo3 hen3 pang4 : suo3:2 yi3 ta1 bu4 gao1 xing4,because i am fat so she is unhappy (formal)
+我很胖，所以她不高兴,wo3 hen3 pang4 : suo3:2 yi3 ta1 bu4 gao1 xing4,i am fat so she is unhappy (informal)
+她不高兴，因为我很胖,ta1 bu4 gao1 xing4 : yin1 wei4 wo3 hen3 pang4,she is unhappy because i am fat (informal)
 牙,ya2,tooth/ivory (c. 刷牙)
 西班牙,xi1 ban1 ya2,spain country
 西班牙文,xi1 ban1 ya2 wen2,spanish language (alt 西班牙语)
@@ -1131,12 +1131,14 @@
 兄弟,xiong1 di4,brothers
 姐妹,jie3 mei4,sisters
 兄弟姐妹,xiong1 di4 jie3 mei4,siblings/brothers and sisters
-像,xiang4,same/similar/like (very similar to 是 & before 一样)
-一样,yi1:2 yang4,same (after 像/和/跟)
-像，一样,xiang4 : yi1:2 yang4,is the same as .../is similar to .../is like ... (swap 像/和/跟)
-像，一样高,xiang4 : yi1:2 yang4 gao1,is as tall as ... (swap 像/和/跟)
-你的头发像我的一样,ni3 de tou2 fa4: xiang4 wo3 de yi1:2 yang4,your hair is like mine
+像,xiang4,resembles/similar/like (before 一样)
+一样,yi1:2 yang4,same/equal to/just like (after 像/和/跟)
+像，一样,xiang4 : yi1:2 yang4,is similar to .../is like ... (n1-像-n2-一样)
+我的成绩像他们的一样,wo de cheng2 ji1 gen1 ta1 men de yi1:2 yang4,my grades are like theirs
+像，一样高,xiang4 : yi1:2 yang4 gao1,is as tall as ... (n1-像-n2-一样-adj)
 她像猫一样聪明,ta1 xiang4 mao1 yi1:2 yang4 cong1 ming2,she is as smart as a cat
+跟，一样,xiang4 : yi1:2 yang4,is the same as ... (n1-跟-n2-一样) (swap 跟/和)
+你的头发跟我的一样,ni3 de tou2 fa4: gen1 wo3 de yi1:2 yang4,your hair is the same as mine
 点心,dian3 xin1,refreshment/pasty/dim sum
 笼,long2,cage
 小笼包,xiao3 long2 bao1,steamed dumplings/soup dumplings
@@ -1352,7 +1354,7 @@
 水平,shui3 ping2,skills/skill level/proficiency/standards
 提高,ti2 gao1,increase/improve/raise
 后来,hou4 lai2,afterwards/later
-地,di4 :: de,earth/ground/land :: modify action (adj-地-verb)
+地,di4 :: de,earth/ground/land :: modify action (adv-地-verb)
 哭,ku1,cry/weep
 生气,sheng1 qi1,angry/take offense
 难过,nan2 guo4,sad/upset/unhappy
@@ -1470,7 +1472,7 @@
 环境,huan2 jing4,surroundings/environment
 方便,fang1 bian4,convenient/make things easy
 草,cao3,grass/straw/manuscript
-阳,yang2,sun/taoist yang element
+阳,yang2,sun/taoist yang element (c. 太阳)
 太阳,tai4 yang2,sun
 星星,xing1 xing1:,star
 不见了,bu4:2 jian4 le,missing/disappeared/gone (after noun)
@@ -1563,7 +1565,7 @@
 五十多,wu3 shi2 duo1,more than 50/more than fifty (before mw)
 公斤,gong1 jin1,kilogram/kg
 急,ji2,urgent/pressing/hurried (c. 着急)
-着急,zhao2 ji2,worry/be anxious/feel sense of urgency
+着急,zhao2 ji2,be anxious/feel sense of urgency
 闷,men4,bored/depressed/sealed/airtight
 腿,tui3,legs
 顾,gu4,attend to/look after (c. 照顾)
@@ -1615,7 +1617,7 @@
 翻译,fan1 yi4,translation
 调,tiao2,transfer/move/change (c. 空调)
 空调,kong1 tiao2,air conditioner/ac
-把,ba3,focus on result/following noun is object (subj-把-obj-verb)
+把,ba3,focus on result/object prefix particle (subj-把-obj-verb)
 我的狗把作业吃了,wo3 de gou3:2 ba3 zuo4 ye4 chi1 le,my dog ate the homework
 她把考试完成了,ta1 ba3:2 kao3 shi4 wan2 cheng2 le,she finished the exam
 灯,deng1,light/lamp/lantern
@@ -1624,7 +1626,7 @@
 厨房,chu2 fang2,kitchen
 客厅,ke4 ting1,living room/drawing room
 客人,ke4 ren2,guest/visitor/customer/client
-扫,sao3,sweep (c. 打扫)
+扫,sao3 :: sao4,sweep up (c. 打扫) :: broom
 打扫,da3:2 sao3,clean up (verb)
 净,jing4,clean (adj) (c. 干净)
 干净,gan1 jing4,clean/neat/tidy (adj)
@@ -1643,29 +1645,29 @@
 暑,shu3,heat/hot weather (c. 暑假)
 暑假,shu3 jia4,summer vacation (time ref)
 复,fu4,resume/restore/recover (c. 复习)
-复习,fu4 xi2,review/revise
+复习,fu4 xi2,review or revise (verb)/revision (noun)
 数,shu4,number/figure (c. 数学)
 数学,shu4 xue2,mathematics
-放假,fang4 jia4,take vacation/take time off
+放假,fang4 jia4,take vacation or take time off (verb)/vacation or time off (noun)
 记得,ji4 de,remember
-于,yu2,interrogative particle?
-终,zhong1,end/finish
+于,yu2,in/at/to/from/by/than (c. 终于)
+终,zhong1,end/finish (c. 终于)
 束,shu4,bunch/bundle (mw) (c. 结束)
 放松,fang1 song1,loosen/relax
 终于,zhong1 yu2,finally/at last
 结束,jie2 shu4,finish/conclude (standalone verb)
 担,dan1,undertake/take responsibility for
-担心,dan1 xin1,worried/uneasy/anxious
-专,zhuan1,for a particular reason/focused on one thing
+担心,dan1 xin1,worried/uneasy
 绩,ji4,merit/accomplishment (c. 成绩)
 成绩,cheng2 ji4,performance record/school grades
+专,zhuan1,for a particular reason/focused on one thing (c. 专业)
 专业,zhuan1 ye4,specialty/main area of study
 大学专业,da4 xue2 zhuan1 ye4,college major/university major
 我为你父母的健康担心,wo3 wei4 ni3 fu4 mu3 de jian4 kang1 dan1 xin1,i am worried about your parents' health
-她为他的新的汽车害怕,ta1 wei4 ta1 de xin1 de qi4 che1 hai4 pa4,she is scared of the new car
+她为他的新汽车害怕,ta1 wei4 ta1 de xin1 qi4 che1 hai4 pa4,she is scared about his new car
 我跟我女朋友不是在网上认识的,wo3 gen1 wo3 nv3 peng2 you3: bu4:2 shi4 zai4 wang3 shang4 ren4 shi2: de,i did not meet my girlfriend online/it was not online that i met my girlfriend
 虽然我很饿，但是我不能吃饭,sui1 ran2 wo3:2 hen3 e4 : dan4 shi4 wo3 bu4 neng2 chi1 fan4,although i am hungry i cannot eat/i am hungry but i cannot eat
-如果您累极了，就睡觉,ru2 guo3 nin2 lei4 ji2 le : jiu4 shui4 jiao4,if you are a bit tired then sleep/sleep if you are a bit tired
+如果您有点累，就去睡觉,ru2 guo3 nin2 you3:2 dian3 lei4 : jiu4 qu4 shui4 jiao4,if you are a bit tired then go to sleep/go to sleep if you are a bit tired
 一，就,yi1 : jiu4,as soon as ... (yi1 tone changes still apply)
 他一开始开车，就很放心,ta1 yi1:4 kai1 shi3 kai1 che1 : jiu4 hen3 fang4 xin1,as soon as he started driving he was relieved/he was relieved as soon as he started driving
 我跟你不一样,wo3 gen1 ni3 bu4 yi1:2 yang4,i am not like you/i am not the same as you
@@ -1674,18 +1676,30 @@
 银行离国内机场有多远,yin2 hang2 li2 guo2 nei4 ji1 chang3 you3 duo1 yuan3,how far is the bank from the domestic airport?
 不但最近的超市很热，而且很脏,bu4:2 dan4 zui4 jin4 de chao1 shi4 hen3 re4 : er2 qie3 hen3 zang4,not only is the nearest supermarket hot but also dirty
 连，都,lian2 : dou1,even (emphasizing action or lack of it)
+吃饭的时间,chi1 fan4 de shi2 jian1,meal time
+吃饭的时候,chi1 fan4 de shi2 hou4,while eating
 我太忙了，连吃饭的时间都没有,wo3 tai4 mang2 le : lian2 chi1 fan4 de shi2 jian1 dou1 mei2 you3,i am so busy that i do not even have time to eat
 不是，就是,bu4:2 shi4 : jiu4 shi4,if it is not ... then it is
 她不是在办公室，就是在食堂,ta1 bu4:2 shi4 zai4 ban4 gong1 shi4 : jiu4 shi4 zai4 shi2 tang2,if she is not in the office she is in the cafeteria/she is either in the office or in the cafeteria
 从，起,cong2 : qi3,starting from (a certain time) ...
 从现在起，我要努力练习,cong2 xian4 zai4 qi3 : wo3 yao4 nu3 li4 lian4 xi2,starting now i will practice hard/i will practice hard from now on
 只有，才,zhi3:2 you3 : cai2,only if ... then
-只有您下载应用，我才送钱给你,zhi3:2 you3 nin2 xia4 zai4 ying4 yong4 : wo3 cai2 song4 qian2 gei3:2 ni3,i will send you money only if you download the app
+只有您下载应用，我才送钱给你,zhi3:2 you3 nin2 xia4 zai3 ying4 yong4 : wo3 cai2 song4 qian2 gei3:2 ni3,i will give you money only if you download the app
 既,ji4,already/since/both (c. 既然)
 既然,ji4 ran2,since/as/this being the case
 既然，就,ji4 ran2 : jiu4,since ... then (swap 就/也/那)
 既然你不能来，就为什么不早说,ji4 ran2 ni3 bu4 neng2 lai2 : jiu4 wei4 shen2 me bu4 zao3 shuo1,since you cannot come why did you not tell me earlier?
 没电,mei2 dian4,discharged/out of battery/dead battery
 没有，那么,mei2 you3 : na4 me,n1 is not as +adj as n2 (n1-没有-n2-那么-adj) (swap 那么/这么)
-# 一边面，一边面,yi1:4 bian1 mian4 : yi1:4 bian1 mian4,on one hand ... on the other hand
 今天的天气没有昨天的天气那么好,jin1 tian1 de tian1 qi4 mei2 you3 zuo2 tian1 de tian1 qi4 na4 me hao3,the weather today is not as good as the weather yesterday 
+放下,fang4 xia4,put down/let go of/relinquish
+我先吃晚餐，再跟你喝红酒,wo3 xian1 chi1 wan3 can1 : zai4 gen1 ni3 he1 hong2 jiu3,first i eat dinner then drink red wine with you
+你们先问问题，然后我回答，最后我们都回家,ni3 men xian1 wen4 wen4 ti2 : ran2 hou4 wo3 hui2 da2 : zui4 hou4 wo3 men dou1 hui2 jia1,first you ask questions then i answer finally we all go home
+#一边面，一边面,yi1:4 bian1 mian4 : yi1:4 bian1 mian4,on one hand ... on the other hand
+#谁，谁就,shei2 : shei2 jiu4,whoever ... (谁-subj-谁就-rest)
+#谁输了，谁就买单,shei2 shu1 le : shei2 jiu4 dan1,whoever loses pays the bill
+#什么，就，什么,shen2 me : jiu4 : shen2 me,whatever ... (什么-subj-就-rest-什么)
+#什么方便，我就卖什么,shen2 me fang1 bian4, wo3 jiu4 mai4 shen2 me,i will sell whatever is convenient
+#哪儿，就，哪儿,na3 r : jiu4 : na3 r,wherever ... (哪儿-subj-就-rest-哪儿)
+#哪儿便宜，我们就住在哪儿,na3 r pian2 yi2 : wo3 men jiu4 zhu4 zai4 na3 r,we live wherever it is cheap
+#什么时候，就，什么时候,shen2 me shi2 hou4: jiu4 : shen2 me shi2 hou4,whenever ... (什么时候-subj-就-rest-什么时候)
