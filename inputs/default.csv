@@ -221,7 +221,7 @@
 姓,xing4,last name/to be surnamed
 最,zui4,best/most (superlative)
 要,yao4,wants or needs/will (with future time reference)
-想,xiang3,think/desire/miss someone
+想,xiang3,act of thinking/desire/miss someone
 想要,xiang3 yao4,would like/seriously consider
 帮,bang1,help/assist/support
 帮助,bang1 zhu4,help/assist
@@ -283,7 +283,7 @@
 打电话,da3 dian4 hua4,make phone call/call on the phone
 给他打电话,gei3 ta1 da3 dian4 hua4,call him on the phone/give him a call
 中,zhong1,central/middle
-拿,na2,hold/seize/catch/apprehend
+拿,na2,hold/take/get/seize/catch/apprehend
 美,mei3,beautiful (adj)/beautify (verb)
 英,ying1,hero/brave (rare)
 国,guo2,country/kingdom
@@ -571,7 +571,7 @@
 菜包子,cai4 bao1 zi,vegetable stuffed bun/vegetable steamed bun
 糖,tang2,sugar/candy
 米,mi3,rice
-为,wei4,for (c. 为什么)/about (subj-为-obj-emotion)
+为,wei2 :: wei4,take item as/act as/serve as :: for (c. 为什么)/about (subj-为-obj-emotion)
 因,yin1,cause/reason
 为什么,wei4 shen2 me,why?/for what? (adjacent to person targeted)
 因为,yin1 wei4,because/since (before noun and before 所以)
@@ -636,7 +636,7 @@
 工,gong1,work/job/profession (noun)
 作,zuo4,do/grow (c. 工作/作业)
 工作,gong1 zuo4,work or operate machine (verb)/job (noun)
-觉得,jue2 de,think/feel/have opinion about
+觉得,jue2 de,think/feel/have opinion about (weaker than 认为)
 累,lei4,tired/weary
 健,jian4,invigorate/strengthen
 康,kang1,peaceful/abundant
@@ -675,7 +675,7 @@
 尝一尝,chang2 yi1:4 chang2,taste a bit
 聊,liao2,chat
 聊一聊,liao2 yi1:4 liao2,chat a bit
-讨论,tao3 lun4,discuss/talk over
+讨论,tao3 lun4,discuss/talk over (no strong opinions)
 讨论讨论,tao3 lun4 tao3 lun4,discuss a bit
 打听,da3 ting1:,ask about/make inquiries
 打听打听,da3 ting1: da3 ting1:,ask a bit about
@@ -1676,7 +1676,7 @@
 银行离国内机场有多远,yin2 hang2 li2 guo2 nei4 ji1 chang3 you3 duo1 yuan3,how far is the bank from the domestic airport?
 不但最近的超市很热，而且很脏,bu4:2 dan4 zui4 jin4 de chao1 shi4 hen3 re4 : er2 qie3 hen3 zang4,not only is the nearest supermarket hot but also dirty
 连，都,lian2 : dou1,even (emphasizing action or lack of it)
-吃饭的时间,chi1 fan4 de shi2 jian1,meal time
+吃饭的时间,chi1 fan4 de shi2 jian1,meal time/time to eat
 吃饭的时候,chi1 fan4 de shi2 hou4,while eating
 我太忙了，连吃饭的时间都没有,wo3 tai4 mang2 le : lian2 chi1 fan4 de shi2 jian1 dou1 mei2 you3,i am so busy that i do not even have time to eat
 不是，就是,bu4:2 shi4 : jiu4 shi4,if it is not ... then it is
@@ -1703,3 +1703,71 @@
 #哪儿，就，哪儿,na3 r : jiu4 : na3 r,wherever ... (哪儿-subj-就-rest-哪儿)
 #哪儿便宜，我们就住在哪儿,na3 r pian2 yi2 : wo3 men jiu4 zhu4 zai4 na3 r,we live wherever it is cheap
 #什么时候，就，什么时候,shen2 me shi2 hou4: jiu4 : shen2 me shi2 hou4,whenever ... (什么时候-subj-就-rest-什么时候)
+地图,di3 tu2,map
+景,jing3,circumstance/situation (c. 风景)
+风景,feng jing3,view/scenery
+读出来,du2 chu1 lai2,read out loud
+拿出来,na2 chu1 lai2,take out/retrieve
+拿出，来,na2 chu1 : lai2,take out/retrieve (item)
+说出来,shuo1 chu1 lai2,say out loud
+红绿灯,hong2 lv4 deng1,traffic light
+街,jie1,street (c. 街道)
+街道,jie1 dao4,street/residential district
+马路,ma3 lu4,street/road
+免,mian3,excuse/exempt/escape (c. 免费)
+免费的,mian3 fei4 de,free of charge (noun)
+司机,si1 ji1,chauffer/driver
+时差,shi2 cha1,jet lag/time difference
+博,bo2,extensive/ample/rich (c. 博物/博物馆)
+博物,bo2 wu4,natural science
+博物馆,bo2 wu4 guan3,museum
+小心,xiao3 xin1,be careful
+观,guan1,watch/observe/behond (c. 参观/观光)
+参观,can1 guan1,visit/tour (verb)
+光,guang1,light/bright/ray (c. 观光)
+观光,guan1 guang1,tour (verb)/tourism or sightseeing (noun)
+活,huo2,to live/be alive (c. 活动)
+活动,huo2 dong4,move about (verb)/activities (noun)
+安排,an1 pai2,plan/arrange/set up
+海边,hai3 bian1,sea/seaside/shore/beach
+演,yan3,develop/evolve/perform (c. 表演)
+表演,biao3 yan3,show/performance/exhibition
+烦,fan2,bother/trouble/feel vexed
+邮,you2,mail/post (c. 电邮/电子邮件)
+短信,duan3 xin4,text message/sms
+电子邮件,dian4 zi3 you2 jian4,email (= 电邮)
+电邮,dian4 you2,email (= 电子邮件)
+回你的电话,hui2 ni3 de dian4 hua4,return your phone call
+回她的电子邮件,hui2 ta1 de dian4 zi3 you2 jian4,reply to her email
+回我的短信,hui2 wo3 de duan3 xin4,reply to my text message
+刚才,gang1 cai2,just now/a moment ago
+主,zhu3,owner/master/host (c. 主要)
+主要,zhu3 yao4,main/major/primary
+关于,guan1 yu2,about/pertaining to/concerning
+密,mi4,secret/confidential
+密码,mi4 ma3,password
+登,deng1,ascend/moun/publish (c. 登录)
+录,lu4,copy or hit (verb)/diary or record (noun) (c. 登录)
+登录,deng1 lu4,log in
+信号,xin4 hao4,signal (wifi cellular etc)
+段,duan4,paragraph/section/mw for stories and periods of time
+实,shi2,real/true/honest/solid (c. 其实)
+其实,qi2 shi2,actually/in fact
+过去,guo4 qu4,past/former/previous
+谈,tan2,converse/chat/talk about (informal)
+升,sheng1,ascend/promote (c. 升职)
+职,zhi2,office/duty (c. 升职)
+升职,sheng1 zhi2,get promoted (verb)/promotion (noun)
+同意,tong2 yi4,agree/approve/consent
+决定,jue2 ding4,decide (verb)/decision (noun)
+根,gen1,root/basis/mw for long thing items (eg cigarettes) (c. 根据)
+据,ju4,according to/act in accordance with (c. 根据)
+根据,gen1 ju4,according to/based on
+满,man3,fill (verb)/full or satisfied (adj) (c. 满意)
+满意,yi4 man3,satisfied/pleased/to one's satisfaction
+认为,ren4 wei2,believe/think/consider (stronger than 觉得)
+出差,chu1 chai1,business trip
+表现,biao3 xian4,display or show off (verb)/work performance or behavior (noun)
+麻烦,ma2 fan2,annoy or bother (verb)/annoying or bothersome (adj)
+开会,kai1 hui4,hold a meeting/attend a meeting
+面试,mian4 shi4,job interview (verb and noun)
