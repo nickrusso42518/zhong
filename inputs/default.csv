@@ -244,20 +244,16 @@
 一次,yi1:2 ci4,once/once time
 两次,liang3 ci4,twice/two times
 几次,ji3 ci4,how many times?/many times
-这次,zhe4 ci4,this time/this iteration
-这个时候,zhe4 ge4 shi2 hou4,at this time
-那次,na4 ci4,that time/that iteration
-那个时候,na4 ge4 shi2 hou4,at that time
 高,gao1,tall/high person
 矮,ai3,short/low person
 兴,xing4,excitement/interest in (c. 高兴/兴趣)
 高兴,gao1 xing4,happy (short lasting)
 错,cuo4,mistake/wrong/bad/incorrectly
 不错,bu4:2 cuo4,not bad/pretty good
-很,hen3,very/really (before verb)/noun-很-adj connector
+很,hen3,very/really (before verb)/noun-很-adj default connector
 呢,ne,and?/what about?/how about? (suffix)
 和,he2,and/together with (link nouns)
-钱,qian2,money
+钱,qian2,money/coin
 字,zi4,letter/symbol/character/word
 名字,ming2 zi4:,name/first name
 汉字,han4 zi4:,chinese character/chinese writing
@@ -266,8 +262,9 @@
 什么,shen2 me,what?
 候,hou4,time (noun)/wait (verb)
 什么时候,shen2 me shi2 hou4:,when?
-时,shi2,time (c. 时间)
-时间,shi2 jian1,time (standalone noun)
+时,shi2,time (c. 时间/时候)
+时间,shi2 jian1,time (standalone noun)/duration of time
+时候,shi2 hou4,period of time/moment in time (never a duration of time)
 空,kong4,vacant (adj)/to empty (verb)
 有空,you3 kong4,available/have time to do something
 多,duo1,many/more/much (adj)
@@ -1014,7 +1011,7 @@
 用手,yong4 shou3,by hand +verb (lit. use hand)
 用手洗,yong4 shou3:2 xi3,wash by hand/hand wash
 紫,zi3,purple color
-表,biao3,watch/timepiece
+表,biao3,watch or timepiece (noun)/show or express (verb) (c. 手表/表演/表现)
 手表,shou3:2 biao3,wristwatch/timepiece
 卖完,mai4 wan2,sold out (verb)
 聪,cong1,clever/intelligent/smart (c. 聪明)
@@ -1178,7 +1175,7 @@
 堵车,du3 che1,traffic jams
 概,gai4,generally/approximately (c. 大概)
 大概,da4 gai4,probably/roughly/approximately (before verb)
-刚,gang1,just/barely
+刚,gang1,just/barely (adv)
 准时,zhun3 shi2,punctual/on time/on schedule
 挺，的,ting3 : de,quite .../rather ...
 一边，一边,yi1:4 bian1 : yi1:4 bian1,concurrently/at the same time (一边-v1-一边-v2)
@@ -1650,13 +1647,13 @@
 数学,shu4 xue2,mathematics
 放假,fang4 jia4,take vacation or take time off (verb)/vacation or time off (noun)
 记得,ji4 de,remember
-于,yu2,in/at/to/from/by/than (c. 终于)
+于,yu2,to/with regard to (c. 终于/关于)
 终,zhong1,end/finish (c. 终于)
 束,shu4,bunch/bundle (mw) (c. 结束)
 放松,fang1 song1,loosen/relax
 终于,zhong1 yu2,finally/at last
 结束,jie2 shu4,finish/conclude (standalone verb)
-担,dan1,undertake/take responsibility for
+担,dan1,undertake/take responsibility for (c. 担心)
 担心,dan1 xin1,worried/uneasy
 绩,ji4,merit/accomplishment (c. 成绩)
 成绩,cheng2 ji4,performance record/school grades
@@ -1664,7 +1661,7 @@
 专业,zhuan1 ye4,specialty/main area of study
 大学专业,da4 xue2 zhuan1 ye4,college major/university major
 我为你父母的健康担心,wo3 wei4 ni3 fu4 mu3 de jian4 kang1 dan1 xin1,i am worried about your parents' health
-她为他的新汽车害怕,ta1 wei4 ta1 de xin1 qi4 che1 hai4 pa4,she is scared about his new car
+她为他的新汽车害怕,ta1 wei4 ta1 de xin1 qi4 che1 hai4 pa4,she is scared for his new car
 我跟我女朋友不是在网上认识的,wo3 gen1 wo3 nv3 peng2 you3: bu4:2 shi4 zai4 wang3 shang4 ren4 shi2: de,i did not meet my girlfriend online/it was not online that i met my girlfriend
 虽然我很饿，但是我不能吃饭,sui1 ran2 wo3:2 hen3 e4 : dan4 shi4 wo3 bu4 neng2 chi1 fan4,although i am hungry i cannot eat/i am hungry but i cannot eat
 如果您有点累，就去睡觉,ru2 guo3 nin2 you3:2 dian3 lei4 : jiu4 qu4 shui4 jiao4,if you are a bit tired then go to sleep/go to sleep if you are a bit tired
@@ -1732,7 +1729,6 @@
 海边,hai3 bian1,sea/seaside/shore/beach
 演,yan3,develop/evolve/perform (c. 表演)
 表演,biao3 yan3,show/performance/exhibition
-烦,fan2,bother/trouble/feel vexed
 邮,you2,mail/post (c. 电邮/电子邮件)
 短信,duan3 xin4,text message/sms
 电子邮件,dian4 zi3 you2 jian4,email (= 电邮)
@@ -1740,17 +1736,17 @@
 回你的电话,hui2 ni3 de dian4 hua4,return your phone call
 回她的电子邮件,hui2 ta1 de dian4 zi3 you2 jian4,reply to her email
 回我的短信,hui2 wo3 de duan3 xin4,reply to my text message
-刚才,gang1 cai2,just now/a moment ago
+刚才,gang1 cai2,just now/a moment ago (noun)
 主,zhu3,owner/master/host (c. 主要)
 主要,zhu3 yao4,main/major/primary
 关于,guan1 yu2,about/pertaining to/concerning
 密,mi4,secret/confidential
 密码,mi4 ma3,password
-登,deng1,ascend/moun/publish (c. 登录)
+登,deng1,ascend/mount/publish (c. 登录)
 录,lu4,copy or hit (verb)/diary or record (noun) (c. 登录)
-登录,deng1 lu4,log in
+登录,deng1 lu4,log in/register
 信号,xin4 hao4,signal (wifi cellular etc)
-段,duan4,paragraph/section/mw for stories and periods of time
+段,duan4,paragraph/section/mw for stories and durations of time
 实,shi2,real/true/honest/solid (c. 其实)
 其实,qi2 shi2,actually/in fact
 过去,guo4 qu4,past/former/previous
@@ -1768,6 +1764,15 @@
 认为,ren4 wei2,believe/think/consider (stronger than 觉得)
 出差,chu1 chai1,business trip
 表现,biao3 xian4,display or show off (verb)/work performance or behavior (noun)
+烦,fan2,annother/bother/trouble/vex (c. 麻烦)
 麻烦,ma2 fan2,annoy or bother (verb)/annoying or bothersome (adj)
 开会,kai1 hui4,hold a meeting/attend a meeting
 面试,mian4 shi4,job interview (verb and noun)
+根据大家的需要，我们做了这个决定,gen1 ju4 da4 jia1 de xu1 yao4 : wo3 men zuo4 le zhe4 ge4 jue2 ding4,we made this decision based on everyone's needs
+经理跟同事一起同意升职我,jing1 li3 gen1 tong2 shi4 yi1 qi3 tong2 yi4 sheng1 zhi2 wo3,the manager agreed with my colleagues to promote me
+这次,zhe4 ci4,this time/this iteration
+这个时候,zhe4 ge4 shi2 hou4,at this time (moment/point)
+这段时间,zhe4 duan4 shi2 jian1,during this time (duration)
+那次,na4 ci4,that time/that iteration
+那个时候,na4 ge4 shi2 hou4,at that time (moment/point)
+那段时间,na4 duan4 shi2 jian1,during that time (duration)
