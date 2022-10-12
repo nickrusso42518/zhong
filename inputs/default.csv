@@ -508,7 +508,7 @@
 体,ti3,body/form/substance (c. 身体)
 育,yu4,educate (c. 体育)
 体育,ti3 yu4,sports/physical education
-房,fang2,house/room (c. 房间/订房/厨房)
+房,fang2,house/room (c. 房间/订房/厨房/房子)
 房间,fang2 jian1,room
 桌子,zhuo1 zi,table/desk
 椅子,yi3 zi,chair
@@ -592,7 +592,7 @@
 照,zhao4,illuminate/shine/reflect
 相,xiang4,mutual/reciprocal
 照相机,zhao4 xiang4 ji1,camera
-拍,pai1,pat/clap/slap/swat
+拍,pai1,pat/clap/slap/swat (c. 拍照/自拍)
 拍照,pai1 zhao4,take a picture (verb)/photography (noun)
 我去中国,wo3 qu4 zhong1 guo2,i go to china
 我去了中国,wo3 qu4 le zhong1 guo2,i went to china
@@ -625,9 +625,9 @@
 王,wang2,king/monarch/common surname
 日本,ri4 ben3,japan country
 日文,ri4 wen2,japanese language (alt 日语)
-海,hai3,sea/ocean
+海,hai3,sea/ocean (c. 上海/海边)
 上海,shang4 hai3,shanghai city
-料,liao4,material/stuff/grain
+料,liao4,material/stuff/grain (c. 饮料)
 饮,yin3,beverage/drink (c. 饮料)
 饮料,yin3 liao4,beverage/drink (noun)
 工,gong1,work/job/profession (noun)
@@ -635,8 +635,8 @@
 工作,gong1 zuo4,work or operate machine (verb)/job (noun)
 觉得,jue2 de,think/feel/have opinion about (weaker than 认为)
 累,lei4,tired/weary
-健,jian4,invigorate/strengthen
-康,kang1,peaceful/abundant
+健,jian4,invigorate/strengthen (c. 健康)
+康,kang1,peaceful/abundant (c. 健康)
 健康,jian4 kang1,health/healthy
 胖,pang4,fat/chubby/plump
 瘦,shou4,thin/lean/tight
@@ -645,8 +645,8 @@
 吧,ba,softening suffix/suggestion particle (let's ...)
 大,da4,big/large/great
 小,xiao3,small/little/tiny
-注,zhu4,concentrate/inject/pour into
-意,yi4,idea/meaning/thought
+注,zhu4,concentrate/inject/pour into (c. 注意)
+意,yi4,idea/meaning/thought (c. 注意/意思/愿意/同意/满意)
 注意,zhu4 yi4,pay attention to/take note of
 身,shen1,body (c. 身体)
 身体,shen1 ti3,body
@@ -1187,9 +1187,9 @@
 附近,fu4 jin4,vicinity/near/close (after location)
 出租车附近有两只鸟,chu1 zu1 che1 fu4 jin4 you3:2 liang3 zhi1 niao3,there are two birds near the taxi
 中间,zhong1 jian1,between/among
-园,yuan2,park/garden/orchard
+园,yuan2,park/garden/orchard (c. 花园/公园)
 公园,gong1 yuan2,public park
-图,tu2,diagram/chart/map
+图,tu2,diagram/chart/map (c. 图书馆/地图)
 图书馆,tu2 shu1 guan3,library
 公园在图书馆和学校中间,gong1 yuan2 zai4 tu2 shu1 guan3 he2 xue2 xiao4 zhong1 jian1,the park is between the library and the school
 上面,shang4 mian4,top side/on/above
@@ -1210,9 +1210,9 @@
 袋子,dai4 zi,bag
 经过,jing1 guo4,pass by/walk by
 退,tui4,step back/retreat/withdraw
-货,huo4,goods/products
+货,huo4,goods/products (c. 吃货/退货)
 退货,tui4 huo4,return a purchase/withdraw a product
-款,kuan3,paragraph/section/money
+款,kuan3,paragraph/section/money (c. 退款)
 退款,tui4 kuan3,refund (noun or verb)/return money
 以前,yi3 qian2,before doing action or time (after verb)/previous or former (adj)
 以后,yi3 hou4,after doing action or time (after verb)/next or future (adj)
@@ -1221,7 +1221,7 @@
 有些人上班以前洗澡,you3 xie1 ren2 shang4 ban1 yi3 qian2 xi3:2 zao3,some people shower before going to work
 刷牙以后别吃牛肉,shua1 ya2 yi3 hou4 bie2 chi1 niu2 rou4,do not eat beef after brushing your teeth
 马上,ma3 shang4,immediately/right away/at once (before verb)
-刷,shua1,clean with a brush/scrub (c. 刷牙)
+刷,shua1,clean with a brush/scrub (c. 刷牙)/scroll through social media (slang)
 刷牙,shua1 ya2,brush teeth
 澡,zao3,wash/bathe (c. 洗澡)
 洗澡,xi3:2 zao3,shower/bathe
@@ -1692,14 +1692,6 @@
 放下,fang4 xia4,put down/let go of/relinquish
 我先吃晚餐，再跟你喝红酒,wo3 xian1 chi1 wan3 can1 : zai4 gen1 ni3 he1 hong2 jiu3,first i eat dinner then drink red wine with you
 你们先问问题，然后我回答，最后我们都回家,ni3 men xian1 wen4 wen4 ti2 : ran2 hou4 wo3 hui2 da2 : zui4 hou4 wo3 men dou1 hui2 jia1,first you ask questions then i answer finally we all go home
-#一边面，一边面,yi1:4 bian1 mian4 : yi1:4 bian1 mian4,on one hand ... on the other hand
-#谁，谁就,shei2 : shei2 jiu4,whoever ... (谁-subj-谁就-rest)
-#谁输了，谁就买单,shei2 shu1 le : shei2 jiu4 dan1,whoever loses pays the bill
-#什么，就，什么,shen2 me : jiu4 : shen2 me,whatever ... (什么-subj-就-rest-什么)
-#什么方便，我就卖什么,shen2 me fang1 bian4, wo3 jiu4 mai4 shen2 me,i will sell whatever is convenient
-#哪儿，就，哪儿,na3 r : jiu4 : na3 r,wherever ... (哪儿-subj-就-rest-哪儿)
-#哪儿便宜，我们就住在哪儿,na3 r pian2 yi2 : wo3 men jiu4 zhu4 zai4 na3 r,we live wherever it is cheap
-#什么时候，就，什么时候,shen2 me shi2 hou4: jiu4 : shen2 me shi2 hou4,whenever ... (什么时候-subj-就-rest-什么时候)
 地图,di3 tu2,map
 景,jing3,circumstance/situation (c. 风景)
 风景,feng jing3,view/scenery
@@ -1760,11 +1752,11 @@
 据,ju4,according to/act in accordance with (c. 根据)
 根据,gen1 ju4,according to/based on
 满,man3,fill (verb)/full or satisfied (adj) (c. 满意)
-满意,yi4 man3,satisfied/pleased/to one's satisfaction
+满意,man3 yi4,satisfied/pleased/to one's satisfaction
 认为,ren4 wei2,believe/think/consider (stronger than 觉得)
 出差,chu1 chai1,business trip
 表现,biao3 xian4,display or show off (verb)/work performance or behavior (noun)
-烦,fan2,annother/bother/trouble/vex (c. 麻烦)
+烦,fan2,annoy/bother/trouble/vex (c. 麻烦)
 麻烦,ma2 fan2,annoy or bother (verb)/annoying or bothersome (adj)
 开会,kai1 hui4,hold a meeting/attend a meeting
 面试,mian4 shi4,job interview (verb and noun)
@@ -1776,3 +1768,69 @@
 那次,na4 ci4,that time/that iteration
 那个时候,na4 ge4 shi2 hou4,at that time (moment/point)
 那段时间,na4 duan4 shi2 jian1,during that time (duration)
+花园,hua1 yuan2,garden
+房子,fang2 zi,house
+我每天学习中文两个小时,wo3 mei3 tian1 xue2 xi2 zhong1 wen2 liang3 ge4 xiao3 shi2,i study chinese for two hours every day
+中秋节,zhong1 qiu1 jie2,mid-autumn festival (15th day of 8th lunar month)
+端,duan1,end/extremity/item/port (c. 端午节)
+端午节,duan1 wu3 jie2,dragon boat festival (5th day of the 5th lunar month)
+饼,bing3,round flat cake/cookie (c. 月饼)
+月饼,yue4 bing3,mooncake
+粽子,zong4 zi,sticky rice dumpling
+舟,zhou1,boat (c. 龙舟)
+龙舟,long2 zhou1,dragon boat/imperial boat
+圆,yuan2,circle/round/circular
+月亮,yue4 liang4,moon
+财,cai2,money/wealth/riches (c. 发财)
+发财,fa1 cai2,become rich
+聚,ju4,assemble/congregate/gather/amass (c. 聚会)
+聚会,ju4 hui4,party/gathering/reunion
+恭,gong1,respectful (c. 恭喜)
+恭喜,gong1 xi3,congratulations/greetings
+红包,hong2 bao1,red envelope of money
+恭喜发财,gong1 xi3 fa1 cai2,may you have a prosperous new year
+划,hua2,row/paddle/cut/slash (verb)
+馒,man2,steamed bread (c. 馒头)
+馒头,man2 tou2:,steamed bun (often without filling)
+卤,lu3,stew in sauce and spices (c. 卤肉)
+卤肉,lu3 you4,stewed meat/braised pork
+卤肉饭,lu3 rou4 fan4,braised pork rice
+卷,juan3,roll up/roll of something/mw for small rolled things (c. 春卷)
+春卷,chun1 juan3,spring roll/egg roll
+豆花,dou4 hua1,tofu pudding/soft bean curd
+酸,suan1,sour/tart (c. 酸辣汤)
+汤,tang1,soup/hot water (c. 酸辣汤)
+酸辣汤,suan1 la4 tang1,hot and sour soup/sour and spicy soup
+烤,kao3,roast/bake/broil (c. 烤鸭)
+鸭,ya1,duck animal (c. 烤鸭)
+烤鸭,kao3 ya1,roast duck (c. 北京烤鸭)
+北京烤鸭,bei3 jing1 kao3 ya1,peking duck (lit. beijing roast duck)
+保,bao3,defend/protect （c. 宫保鸡丁)
+丁,ding1,small cube of meat (c. 宫保鸡丁)
+宫保鸡丁,gong1 bao3 ji1 ding1,kung pao chicken
+奶茶,nai3 cha2,milk tea (c. 珍珠奶茶)
+珍,zhen1,precious item/treasure (c. 珍珠)
+珠,zhu1,bead/pearl (c. 珍珠)
+珍珠,zhen1 zhu1,pearl (c. 珍珠奶茶)
+珍珠奶茶,zhen1 zhu1 nai3 cha2,bubble milk tea
+两千只大熊猫,liang3 wan4 zhi3 da4 xiong2 mao1,2.000 large pandas/2.000 big pandas
+六万台照相机,liu4 wan4 tai2 zhao4 xiang4 ji1,60.000 cameras
+四十万间房子,si4 shi2 wan4 jian1 fang2 zi,400.000 houses
+七百万杯热水,qi1 bai3 wan4 bei1 re4 shui3,7.000.000 cups of hot water
+九千万瓶冰茶,jiu3 qian1 wan4 ping2 bing1 cha2,90.000.000 bottles of iced tea
+囧,jiong,light or bright (lit)/embarrassment emoji (slang)
+萌,meng2,sprout (lit)/cute (slang)
+粉丝,fen3 si1,bean vermicelli (lit)/fan or groupie (slang)
+土,tu3,dust/clay (c. 土豪)
+豪,hao2,grand/heroic (c. 土豪)
+土豪,tu3 hao2,local tycoon/local tyrant (slang)
+吃货,chi1 huo4,foodie (slang)
+宅,zhai2,residence/stay at home (c. 宅男)
+宅男,zhai2 nan2,otaku/obsessive gamer boy (slang)
+自拍,zi4 pai1,taking selfies (verb or noun)
+菜鸟,cai4 niao3,beginner/newbie (slang)
+美图,mei3 tu2,meitu (chinese photo filter app)
+眉,mei2,eyebrow (c. 美眉)
+富,fu4,rich/abundant/wealthy (c. 高富帅)
+美眉,mei3 mei2,beautiful girl (slang)
+高富帅,gao1 fu4 shuai4,mr. perfect (lit. tall rich handsome)
