@@ -38,12 +38,12 @@
 明天,ming2 tian1,tomorrow
 年,nian2,year (after numbers)
 岁,sui4,is ... years old (after numbers)
-二〇三四年,er4 ling2 er4 si4 nian2,2034 year
+二〇三四年,er4 ling2 er4 si4 nian2,2034 year (= 二零三四年)
 一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
 月,yue4,moon/month (after numbers)
 号,hao4,number/day of month (conversational)
 日,ri4,sun/day of month (written)
-点,dian3,point/oclock/o'clock (after numbers)/order food or drink
+点,dian3,point/oclock/o'clock (after numbers)/order food/mouse click (slang)
 点钟,dian3 zhong1,oclock/o'clock (after numbers)
 半,ban4,half/half past the hour (30 minutes)
 四点,si4 dian3,4:00/4 oclock/4 o'clock
@@ -57,8 +57,8 @@
 一点儿都没,yi1:4 dia3 r dou1 mei2,not at all/not even a bit (before adj & past only & swap 都/也)
 一点点,yi1:4 dian3 dian3:,a tiny bit of quantity (before obj)/a tiny bit more (after adj)
 有点儿,you3:2 dia3 r,a bit of intensity (before adj)
-星,xing1,star/heavenly body
-期,qi1,phase/stage/term
+星,xing1,star/heavenly body (c. 星期/星星)
+期,qi1,phase/stage/term (c. 星期)
 星期,xing1 qi1,week day specifier (before numbers)
 星期一,xing1 qi1 yi1,monday day of week
 星期二,xing1 qi1 er4,tuesday day of week
@@ -123,6 +123,12 @@
 明天早上,ming2 tian1 zao3 shang4,tomorrow morning
 昨天早上,zuo2 tian1 zao3 shang4,yesterday morning
 今天早上,jin1 tian1 zao3 shang4,this morning
+明天上午,ming2 tian1 shang4 wu3,tomorrow morning
+昨天上午,zuo2 tian1 shang4 wu3,yesterday morning
+今天上午,jin1 tian1 shang4 wu3,this morning
+明天中午,ming2 tian1 zhong1 wu3,tomorrow at noon/noon tomorrow
+昨天中午,zuo2 tian1 zhong1 wu3,yesterday at noon/noon yesterday
+今天中午,jin1 tian1 zhong1 wu3,today at noon/noon today
 明天下午,ming2 tian1 xia4 wu3,tomorrow afternoon
 昨天下午,zuo2 tian1 xia4 wu3,yesterday afternoon
 今天下午,jin1 tian1 xia4 wu3,this afternoon
@@ -137,6 +143,8 @@
 下个星期一,xia4 ge4 xing1 qi1 yi1,next monday
 上个月,shang4 ge4 yue4,last month
 上个星期三,shang4 ge4 xing1 qi1 san1,last wednesday
+明年二月,ming2 nian2 er4 yue4,next february/february of next year
+去年九月,qu4 nian2 jiu3 yue4,last september/september of last year
 我,wo3,i/me
 你,ni3,you (informal)
 您,nin2,you (formal)
@@ -1671,7 +1679,7 @@
 有多远,you3 duo1 yuan3,how far away? (= 多远)
 多远,duo1 yuan3,how far away? (= 有多远)
 银行离国内机场有多远,yin2 hang2 li2 guo2 nei4 ji1 chang3 you3 duo1 yuan3,how far is the bank from the domestic airport?
-不但最近的超市很热，而且很脏,bu4:2 dan4 zui4 jin4 de chao1 shi4 hen3 re4 : er2 qie3 hen3 zang4,not only is the nearest supermarket hot but also dirty
+不但最近的超市很热，而且很脏,bu4:2 dan4 zui4 jin4 de chao1 shi4 hen3 re4 : er2 qie3 hen3 zang1,not only is the nearest supermarket hot but also dirty
 连，都,lian2 : dou1,even (emphasizing action or lack of it)
 吃饭的时间,chi1 fan4 de shi2 jian1,meal time/time to eat
 吃饭的时候,chi1 fan4 de shi2 hou4,while eating
@@ -1821,16 +1829,28 @@
 囧,jiong,light or bright (lit)/embarrassment emoji (slang)
 萌,meng2,sprout (lit)/cute (slang)
 粉丝,fen3 si1,bean vermicelli (lit)/fan or groupie (slang)
-土,tu3,dust/clay (c. 土豪)
+土,tu3,local/dust/clay (c. 土豪)
 豪,hao2,grand/heroic (c. 土豪)
-土豪,tu3 hao2,local tycoon/local tyrant (slang)
+土豪,tu3 hao2,local tycoon/provincial tyrant (slang)
 吃货,chi1 huo4,foodie (slang)
 宅,zhai2,residence/stay at home (c. 宅男)
 宅男,zhai2 nan2,otaku/obsessive gamer boy (slang)
 自拍,zi4 pai1,taking selfies (verb or noun)
 菜鸟,cai4 niao3,beginner/newbie (slang)
-美图,mei3 tu2,meitu (chinese photo filter app)
 眉,mei2,eyebrow (c. 美眉)
 富,fu4,rich/abundant/wealthy (c. 高富帅)
 美眉,mei3 mei2,beautiful girl (slang)
 高富帅,gao1 fu4 shuai4,mr. perfect (lit. tall rich handsome)
+圈,quan1,circle/loop (noun or verb)/mw for laps of race (c. 朋友圈)
+朋友圈,peng2 you3 quan1,wechat moments feature
+微,wei1,tiny/miniature/slightly (c. 微信)
+微信,wei1 xin4,weixin/wechat (chinese collab app)
+微博,wei1 bo2,weibo/microblogging (chinese twitter)
+美图,mei3 tu2,meitu (chinese photo filter app)
+赞,zan4,praise/support/like on social media (slang)
+关注,guan1 zhu4,pay attention to/follow on social media (slang)
+转发,zhuan3 fa1,transmit/republish/forward email or text message
+好友,hao3:2 you3,close friend/social media friend (slang)
+论,lun4,opinion/view/theory/ (c. 讨论/评论)
+评,ping2,comment/criticize/judge (c. 评论)
+评论,ping2 lun4,comment (verb and noun)
