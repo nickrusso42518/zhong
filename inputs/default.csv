@@ -1,4 +1,5 @@
 # chinese,pinyin,english and descriptions
+# 差不多,cha4 bu4 duo1,about the same/approximately
 零,ling2,0/zero
 〇,ling2,0/zero (year dates only)
 一,yi1,1/one
@@ -38,7 +39,7 @@
 明天,ming2 tian1,tomorrow
 年,nian2,year (after numbers)
 岁,sui4,is ... years old (after numbers)
-二〇三四年,er4 ling2 er4 si4 nian2,2034 year (= 二零三四年)
+二〇三四年,er4 ling2 er4 si4 nian2,2034 year (alt. 二零三四年)
 一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
 月,yue4,moon/month (after numbers)
 号,hao4,number/day of month (conversational)
@@ -281,9 +282,9 @@
 多少钱,duo1 shao3 qian2,how much money?
 叫,jiao4,am/be called/tell someone to do something
 电,dian4,electric/electricity
-话,hua4,spoken words/speech
-码,ma3,code or weight (noun)/stack or pile (verb)
+话,hua4,spoken words/speech (c. 电话)
 电话,dian4 hua4,phone/telephone
+码,ma3,code or weight (noun)/stack or pile (verb) (c. 电话号码/密码)
 电话号码,dian4 hua4 hao4 ma3,phone number
 打电话,da3 dian4 hua4,make phone call/call on the phone
 给他打电话,gei3 ta1 da3 dian4 hua4,call him on the phone/give him a call
@@ -303,25 +304,25 @@
 语,yu3,language/dialect
 文,wen2,language/arts/culture
 中文,zhong1 wen2,chinese language
-汉,han4,han ethnic group/han dynasty
+汉,han4,han ethnic group/han dynasty (c. 汉语)
 汉语,han4 yu3,chinese language
 韩文,han2 wen2,korean language (alt 韩语)
 英语,ying1 yu3,english language (alt 英文)
 认,ren4,recognize/know (c. 认识/认真)
 识,shi2,know/knowledge (c. 认识)
 认识,ren4 shi2:,know personally/recognize a noun/meet
-知,zhi1,know/aware
-道,dao4,road/principle/truth
+知,zhi1,know/aware (c. 知道)
+道,dao4,road/principle/truth (c. 知道)
 知道,zhi1 dao4,know about/aware of
 我知道了,wo3 zhi1 dao4 le,i know/i see (response to newly-learned info)
 忙,mang2,busy/rush
 对,dui4,right or correct (response)/fit or suit (verb)
 都,dou1,all/both/entirely (before verb)
 老,lao3,old/experienced/venerable (person)
-师,shi1,teacher/expert/master
+师,shi1,teacher/expert/master (c. 老师)
 老师,lao3 shi1,teacher (in a school)
-医,yi1,medical/medicine
-生,sheng1,raw or immature (adj)/life (noun)
+医,yi1,medical/medicine (c. 医生)
+生,sheng1,raw or immature (adj)/life (noun) (c. 医生/学生)
 医生,yi1 sheng1,doctor/dr.
 学生,xue2 sheng1,student
 怎,zen3,how
@@ -333,8 +334,8 @@
 早安,zao3 an1,good morning
 晚上好,wan3 shang4 hao3,good night/good evening
 晚安,wan3 an1,good night/good evening
-香,xiang1,fragrant/sweet smelling
-港,gang3,port/harbor
+香,xiang1,fragrant/sweet smelling (c. 香港)
+港,gang3,port/harbor (c. 香港)
 香港,xiang1 gang3,hong kong
 纽,niu3,turn/wrench (c. 纽约)
 约,yue1,make appointment/invite (c. 纽约/约会)
@@ -356,8 +357,8 @@
 哪,na3,which?
 哪儿,na3 r,where? (northern)
 哪里,na3:2 li3,where? (southern)
-那,na4,that
-那个,na4 ge4,that one/filler word
+那,na4,that/then (filler word)
+那个,na4 ge4,that one
 那两个,na4 liang3 ge4,those two
 那儿,na4 r,there/over there (northern)
 那里,na4 li3,there/over there (southern)
@@ -377,7 +378,7 @@
 妈妈,ma1 ma1:,mom/mother
 爸爸,ba4 ba4:,dad/father
 男,nan2,male
-女,nv3,female (v means ü)
+女,nv3,female
 女儿,nv3 er2,daughter
 子,zi,offspring/seed of/noun suffix
 儿子,er2 zi,son
@@ -975,8 +976,8 @@
 迟,chi2,late/delayed
 迟到了,chi2 dao4 le,arrived late
 怎么办,zen3 me ban4,what to do?
-还没有,hai2 mei2 you3,not yet/still have not (= 还没)
-还没,hai2 mei2,not yet/still have not (= 还没有)
+还没有,hai2 mei2 you3,not yet/still have not (alt. 还没)
+还没,hai2 mei2,not yet/still have not (alt. 还没有)
 没什么,mei2 shen2 me,nothing
 着,zhe :: zhao2,actively doing (after verb is -ing) :: touch/contact/feel (c. 着急)
 雨,yu3,rain (noun)
@@ -1008,7 +1009,7 @@
 然,ran2,yes/of course/pledge/promise (c. 虽然/当然/然后)
 虽然,sui1 ran2,although/though/despite (before 但是)
 但,dan4,but/however/yet (c. 但是)
-但是,dan4 shi4,but/however/yet (after 虽然 & similar to 可是)
+但是,dan4 shi4,but/however/yet (after 虽然 & more formal and definite than 可是)
 虽然，但是,sui1 ran2 : dan4 shi4,although ... but
 帽子,mao4 zi,hat/cap
 短,duan3,short object
@@ -1676,8 +1677,8 @@
 一，就,yi1 : jiu4,as soon as ... (yi1 tone changes still apply)
 他一开始开车，就很放心,ta1 yi1:4 kai1 shi3 kai1 che1 : jiu4 hen3 fang4 xin1,as soon as he started driving he was relieved/he was relieved as soon as he started driving
 我跟你不一样,wo3 gen1 ni3 bu4 yi1:2 yang4,i am not like you/i am not the same as you
-有多远,you3 duo1 yuan3,how far away? (= 多远)
-多远,duo1 yuan3,how far away? (= 有多远)
+有多远,you3 duo1 yuan3,how far away? (alt. 多远)
+多远,duo1 yuan3,how far away? (alt. 有多远)
 银行离国内机场有多远,yin2 hang2 li2 guo2 nei4 ji1 chang3 you3 duo1 yuan3,how far is the bank from the domestic airport?
 不但最近的超市很热，而且很脏,bu4:2 dan4 zui4 jin4 de chao1 shi4 hen3 re4 : er2 qie3 hen3 zang1,not only is the nearest supermarket hot but also dirty
 连，都,lian2 : dou1,even (emphasizing action or lack of it)
@@ -1697,6 +1698,7 @@
 没电,mei2 dian4,discharged/out of battery/dead battery
 没有，那么,mei2 you3 : na4 me,n1 is not as +adj as n2 (n1-没有-n2-那么-adj) (swap 那么/这么)
 今天的天气没有昨天的天气那么好,jin1 tian1 de tian1 qi4 mei2 you3 zuo2 tian1 de tian1 qi4 na4 me hao3,the weather today is not as good as the weather yesterday 
+你没有我胖,ni3 mei2 you3:2 wo3 shou4,you are not as thin as i am (alt. 没有，那么/这么)
 放下,fang4 xia4,put down/let go of/relinquish
 我先吃晚餐，再跟你喝红酒,wo3 xian1 chi1 wan3 can1 : zai4 gen1 ni3 he1 hong2 jiu3,first i eat dinner then drink red wine with you
 你们先问问题，然后我回答，最后我们都回家,ni3 men xian1 wen4 wen4 ti2 : ran2 hou4 wo3 hui2 da2 : zui4 hou4 wo3 men dou1 hui2 jia1,first you ask questions then i answer finally we all go home
@@ -1731,8 +1733,8 @@
 表演,biao3 yan3,show/performance/exhibition
 邮,you2,mail/post (c. 电邮/电子邮件)
 短信,duan3 xin4,text message/sms
-电子邮件,dian4 zi3 you2 jian4,email (= 电邮)
-电邮,dian4 you2,email (= 电子邮件)
+电子邮件,dian4 zi3 you2 jian4,email (alt. 电邮)
+电邮,dian4 you2,email (alt. 电子邮件)
 回你的电话,hui2 ni3 de dian4 hua4,return your phone call
 回她的电子邮件,hui2 ta1 de dian4 zi3 you2 jian4,reply to her email
 回我的短信,hui2 wo3 de duan3 xin4,reply to my text message
@@ -1740,7 +1742,7 @@
 主,zhu3,owner/master/host (c. 主要)
 主要,zhu3 yao4,main/major/primary
 关于,guan1 yu2,about/pertaining to/concerning
-密,mi4,secret/confidential
+密,mi4,secret/confidential (c. 密码)
 密码,mi4 ma3,password
 登,deng1,ascend/mount/publish (c. 登录)
 录,lu4,copy or hit (verb)/diary or record (noun) (c. 登录)
@@ -1843,7 +1845,7 @@
 美眉,mei3 mei2,beautiful girl (slang)
 高富帅,gao1 fu4 shuai4,mr. perfect (lit. tall rich handsome)
 圈,quan1,circle/loop (noun or verb)/mw for laps of race (c. 朋友圈)
-朋友圈,peng2 you3 quan1,wechat moments feature
+朋友圈,peng2 you3 quan1,circle of friends/wechat moments feature
 微,wei1,tiny/miniature/slightly (c. 微信/微博)
 微信,wei1 xin4,weixin/wechat (chinese collab app)
 微博,wei1 bo2,weibo/microblogging (chinese twitter)
@@ -1897,7 +1899,7 @@
 律师,lv4 shi1,lawyer
 咨,zi1,consult (c. 咨询)
 询,xun2,ask about/inquire (c. 咨询)
-咨询,xun2 zi1,consult or seek advice (verb)/consultation or sales inquiry (noun)
+咨询,zi1 xun2,consult or seek advice (verb)/consultation or sales inquiry (noun)
 持,chi2,hold/grasp/maintain (c. 保持)
 保持,bao3 chi2,keep/stay/maintain
 联,lian2,ally/unite/join (c. 联系)
@@ -1923,3 +1925,10 @@
 警察,jing3 cha2,police officer
 偷,tou1,steal or pilfer (verb)/thief (noun)/stealthily (adj)
 发生了什么事,fa1 sheng1 le shen2 me shi4,what happened?
+三四位警察,san1 si4 wei4 jing3 cha2,approximately 3 or 4 police officers
+没办法,mei2 ban4 fa3,nothing to be done/cannot do anything about it
+别，了,bie2 : le,stop doing ... (alt. 不要，了)
+别马上抽烟了,bie2 ma3 shang4 chou1 yan1 le,stop smoking at once
+不要，了,bu4:2 yao4 : le,stop doing ... (alt.  别，了)
+不要苦地哭了,bu4:2 yao4 ku3 de ku1 le,stop crying bitterly
+可是,ke3 shi4,but/however (signals unfortunate event and less definite than 但是)
