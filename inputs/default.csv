@@ -1757,7 +1757,7 @@
 同意,tong2 yi4,agree/approve/consent
 决定,jue2 ding4,decide (verb)/decision (noun)
 根,gen1,root/basis/mw for long thing items (eg cigarettes) (c. 根据)
-据,ju4,according to/act in accordance with (c. 根据)
+据,ju4,according to/act in accordance with (c. 根据/收据)
 根据,gen1 ju4,according to/based on
 满,man3,fill (verb)/full or satisfied (adj) (c. 满意)
 满意,man3 yi4,satisfied/pleased/to one's satisfaction
@@ -1787,7 +1787,6 @@
 粽子,zong4 zi,sticky rice dumpling
 舟,zhou1,boat (c. 龙舟)
 龙舟,long2 zhou1,dragon boat/imperial boat
-圆,yuan2,circle/round/circular
 月亮,yue4 liang4,moon
 财,cai2,money/wealth/riches (c. 发财)
 发财,fa1 cai2,become rich
@@ -1795,8 +1794,8 @@
 聚会,ju4 hui4,party/gathering/reunion
 恭,gong1,respectful (c. 恭喜)
 恭喜,gong1 xi3,congratulations/greetings
+恭喜发财,gong1 xi3 fa1 cai2,may you be prosperous/may you have a prosperous new year
 红包,hong2 bao1,red envelope of money
-恭喜发财,gong1 xi3 fa1 cai2,may you have a prosperous new year
 划,hua2,row/paddle/cut/slash (verb)
 馒,man2,steamed bread (c. 馒头)
 馒头,man2 tou2:,steamed bun (often without filling)
@@ -1807,13 +1806,15 @@
 春卷,chun1 juan3,spring roll/egg roll
 豆花,dou4 hua1,tofu pudding/soft bean curd
 酸,suan1,sour/tart (c. 酸辣汤)
-汤,tang1,soup/hot water (c. 酸辣汤)
+汤,tang1,soup/hot water (c. 酸辣汤/汤圆)
 酸辣汤,suan1 la4 tang1,hot and sour soup/sour and spicy soup
+圆,yuan2,circle/round/circular (c. 汤圆)
+汤圆,tang1 yuan2,glutinous rice balls
 烤,kao3,roast/bake/broil (c. 烤鸭)
 鸭,ya1,duck animal (c. 烤鸭)
 烤鸭,kao3 ya1,roast duck (c. 北京烤鸭)
 北京烤鸭,bei3 jing1 kao3 ya1,peking duck (lit. beijing roast duck)
-保,bao3,defend/protect （c. 宫保鸡丁)
+保,bao3,defend/protect （c. 宫保鸡丁/保持/保险)
 丁,ding1,small cube of meat (c. 宫保鸡丁)
 宫保鸡丁,gong1 bao3 ji1 ding1,kung pao chicken
 奶茶,nai3 cha2,milk tea (c. 珍珠奶茶)
@@ -1843,7 +1844,7 @@
 高富帅,gao1 fu4 shuai4,mr. perfect (lit. tall rich handsome)
 圈,quan1,circle/loop (noun or verb)/mw for laps of race (c. 朋友圈)
 朋友圈,peng2 you3 quan1,wechat moments feature
-微,wei1,tiny/miniature/slightly (c. 微信)
+微,wei1,tiny/miniature/slightly (c. 微信/微博)
 微信,wei1 xin4,weixin/wechat (chinese collab app)
 微博,wei1 bo2,weibo/microblogging (chinese twitter)
 美图,mei3 tu2,meitu (chinese photo filter app)
@@ -1851,20 +1852,20 @@
 关注,guan1 zhu4,pay attention to/follow on social media (slang)
 转发,zhuan3 fa1,transmit/republish/forward email or text message
 好友,hao3:2 you3,close friend/social media friend (slang)
-论,lun4,opinion/view/theory/ (c. 讨论/评论)
+论,lun4,opinion/view/theory (c. 讨论/评论)
 评,ping2,comment/criticize/judge (c. 评论)
 评论,ping2 lun4,comment (verb and noun)
 尽,jin3,to the greatest extent/furthest away (c. 尽快)
 尽快,jin3 kuai4,as soon as possible/asap
 销,xiao1,sell/spend/cancel/annul (c. 报销)
-收据,shou ju4,receipt
+收据,shou1 ju4,receipt
 费用,fei4 yong4,cost/expense
 报销,bao4 xiao1,write off/apply for reimbursement
 协,xie2,cooperate/harmonize (c. 协议)
 协议,xie2 yi4,agreement/protocol/pact
 报告,bao4 gao4,report (verb or noun)
 回复,hui2 fu4,reply/respond/recover (usually via text or phone)
-合,he2,close/join/fit (c. 合)
+合,he2,close/join/fit (c. 合同/合作)
 合同,he2 tong2,business contract
 项,xiang4,item/thing/sum of money/mw for principles or items (c. 项目)
 项目,xiang4 mu4,work project
@@ -1878,6 +1879,47 @@
 广告,guang3 gao4,advertisement/commercial
 预,yu4,in advance/beforehand/to prepare (c. 预算)
 预算,yu4 suan4,budget
-# 免贵,mian3 gui4,no need for saying honorable (polite)
-# 辛,xin1,pungent/hard/laborious/suffering (c. 辛苦)
-# 辛苦,xin1 ku3,exhausting/arduous/hardship/suffering
+享,xiang3,enjoy/benefit/have use of (c. 分享)
+分享,fen1 xiang3,share with others
+免贵,mian3 gui4,no need for saying honorable (polite)
+辛,xin1,pungent/hard/laborious/suffering (c. 辛苦)
+辛苦,xin1 ku3,exhausting/arduous/hardship/suffering
+辛苦您了,xin1 ku3 nin2 le,thanks for your hard work
+险,xian3,danger/dangerous/rugged (c. 保险/风险)
+保险,bao3:2 xian3,insure (verb)/insurance (noun)
+风险,feng1 xian3,risk/hazard
+投,tou2,throw oneself into/seek refuge (c. 投资)
+投资,tou2 zi1,to invest in/investment
+版,ban3,edition/version (c. 版权)
+权,quan2,authority/power (c. 版权)
+版权,ban3 quan2,copyright
+律,lv4,law (c. 律师)
+律师,lv4 shi1,lawyer
+咨,zi1,consult (c. 咨询)
+询,xun2,ask about/inquire (c. 咨询)
+咨询,xun2 zi1,consult or seek advice (verb)/consultation or sales inquiry (noun)
+持,chi2,hold/grasp/maintain (c. 保持)
+保持,bao3 chi2,keep/stay/maintain
+联,lian2,ally/unite/join (c. 联系)
+联系,lian2 xi4,connection/contact/get in touch
+愉,yu2,pleased (c. 愉快)
+愉快,yu2 kuai4,cheerful/delightful/pleasant
+合作,he2 zuo4,cooperate/collaborate/work together
+感谢,gan3 xie4,give thanks/gratitude/grateful
+警,jing3,alert or warn (verb)/police (noun) (c. 报警/警察)
+报警,bao4 jing3,call police/sound alarm
+受,shou4,receive/accept/suffer/bear (c. 受伤)
+伤,shang1,injure (verb)/injury or wound (noun) (c. 受伤)
+受伤,shou4 shang1,injured/wounded/harmed
+救,jiu4,save/assist/rescue (c. 救护车/救命)
+救护车,jiu4 hu4 che1,ambulance vehicle
+命,ming4,life/fate (c. 救命)
+救命,jiu4 ming4,help!/save me!/save someone's life (c. 救命)
+发生,fa1 sheng1,happen/occur/take place
+严,yan2,strict/stern/rigorous/critical (c. 严重)
+严重,yan2 zhong4,serious/grave/severe/critical
+意外,yi4 wai4,accident/mishap
+察,cha2,examine/observe/inspect (c. 警察)
+警察,jing3 cha2,police officer
+偷,tou1,steal or pilfer (verb)/thief (noun)/stealthily (adj)
+发生了什么事,fa1 sheng1 le shen2 me shi4,what happened?
