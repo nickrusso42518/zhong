@@ -1,5 +1,4 @@
 # chinese,pinyin,english and descriptions
-# 差不多,cha4 bu4 duo1,about the same/approximately
 零,ling2,0/zero
 〇,ling2,0/zero (year dates only)
 一,yi1,1/one
@@ -108,8 +107,8 @@
 钟,zhong1,bell/oclock/o'clock
 分,fen1,slice/fraction/minute on clock (specify time)/hundreth of yuan
 分钟,fen1 zhong1,duration of minutes
-末,mo4,end/final stage/latter part
-周,zhou1,lap/cycle/week
+末,mo4,end/final stage/latter part (c. 周末)
+周,zhou1,lap/cycle/week (c. 周末)
 做,zuo4,do/make/produce
 明年,ming2 nian2,next year
 来,lai2,come (verb)/coming (adj)
@@ -186,12 +185,12 @@
 好久不见,hao3:2 jiu3 bu4:2 jian4,long time no see
 请,qing3,please/request/invite
 问,wen4,ask someone about something
-题,ti2,topic/subject
+题,ti2,topic/subject (c. 问题)
 问题,wen4 ti2,question/problem/issue
 请问,qing3 wen4,excuse me/pardon me (lit. please ask)
 谢谢,xie4 xie,thanks
 谢谢你,xie4 xie ni3,thank you
-客,ke4,guest/customer
+客,ke4,guest/customer (c. 客气/游客/客人)
 气,qi4,gas/air/vital energy
 客气,ke4 qi4,polite/modest
 不客气,bu4:2 ke4 qi4,you're welcome/you are welcome
@@ -367,7 +366,7 @@
 这两个,na4 liang3 ge4,these two
 这儿,zhe4 r,here/over here (northern)
 这里,zhe4 li3,here/over here (southern)
-谁,shei2,who/whom?
+谁,shei2,who?/whom?
 谁的,shei2 de,whose?
 有,you3,has/have/possess
 没有,mei2 you3,not have (negate past actions)/not as much as (n1-没有-n2-adj)
@@ -496,7 +495,7 @@
 现金,xian4 jin1,cash
 行,xing2 :: hang2,ok/will do/travel :: commercial firm/line of business (c. 银行)
 报,bao4,announce/inform/report (c. 报纸)
-纸,zhi3,paper
+纸,zhi3,paper (c. 报纸)
 报纸,bao4 zhi3,newspaper
 电视,dian4 shi4,tv/television
 干,gan4,do/doing
@@ -508,10 +507,10 @@
 手机,shou3 ji1,cell phone
 手机游戏,shou3 ji1 you2 xi4,cell phone games
 明星,ming2 xing1,celebrity
-新,xin1,new/newly
-闻,wen2,hear/smell
+新,xin1,new/newly (c. 新闻)
+闻,wen2,hear/smell (c. 新闻)
 新闻,xin1 wen2,news
-节,jie2,festival/holiday
+节,jie2,festival/holiday (c. 节目)
 目,mu4,item/list/catalogue (c. 节目)
 节目,jie2 mu4,show/program
 体,ti3,body/form/substance (c. 身体)
@@ -521,7 +520,8 @@
 房间,fang2 jian1,room
 桌子,zhuo1 zi,table/desk
 椅子,yi3 zi,chair
-冰箱,bing1 xiang1,icebox/refrigerator
+箱,xiang1,box/trunk/chest (c. 冰箱)
+冰箱,bing1 xiang1,icebox/refrigerator)
 在桌子上,zai4 zhuo1 zi shang4,on the table
 在椅子下,zai4 yi3 zi xia4,under the chair
 在冰箱里,zai4 bing1 xiang1 li3,inside the icebox/inside the refrigerator
@@ -539,9 +539,9 @@
 单,dan1,bill/list/form
 买单,mai3 dan1,pay bill/take check (restaurant)
 菜单,cai4 dan1,food menu
-服,fu2,clothes/dress/garment
-务,wu4,service/affair/matter
-员,yuan2,employee/member
+服,fu2,clothes/dress/garment (c. 服务员/衣服)
+务,wu4,service/affair/matter (c. 服务员)
+员,yuan2,employee/member (c. 服务员)
 服务员,fu2 wu4 yuan2,server/waiter/waitress
 有人,you3 ren2,someone
 有一天,you3 yi1:4 tian1,someday/one day
@@ -687,7 +687,7 @@
 打听打听,da3 ting1: da3 ting1:,ask a bit about
 读,du2,read with focus (verb)/reading (noun)
 商,shang1,trader/business
-业,ye4,industry/occupation
+业,ye4,industry/occupation (c. 商业/作业)
 商业,shang1 ye4,business
 迎,ying2,meet/welcome/greet (c. 迎接/欢迎)
 接,jie1,connect/receive/meet (c. 迎接)
@@ -915,8 +915,8 @@
 这双比那双小,zhe4 shuang1 bi3 na4 shuang1 xiao3,this pair is smaller than that pair
 意大利,yi4 da4 li4,italy country
 裤子,ku4 zi,pants/trousers
-质,zhi4,material/substance
-量,liang4,amount/quantity/capacity
+质,zhi4,material/substance (c. 质量)
+量,liang4,amount/quantity/capacity (c. 质量)
 质量,zhi4 liang4,quality (noun)
 又,you4,connect like-to-like adjs (又-adj1-又-adj2)
 那条鱼又大又好吃,na4 tiao2 yu2 you4 da4 you4 hao3 chi1,that fish is both big and tasty
@@ -949,7 +949,7 @@
 我是在那家酒店喝的,wo3 shi4 zai4 na4 jia1 jiu3 dian4 he1 de,i drank at that hotel/it was at that hotel that i drank (where)
 你是怎么喝的,ni3 shi4 zen3 me he1 de,how did you drink?
 我是喝得很开心的,wo3 shi4 he1 de hen3 kai1 xin1 de,i drank happily/it was happily that i drank (how)
-你是跟谁出去的,ni3 shi4 gen1 shei2 chu1 qu4 de,who did you go out with/with whom did you go out
+你是跟谁出去的,ni3 shi4 gen1 shei2 chu1 qu4 de,who did you go out with?/with whom did you go out?
 我是跟她出去的,wo3 shi4 gen1 ta1 chu1 qu4 de,i went out with her/it was with her that i went out (with whom)
 离,li2,away from/apart/distance between locations (loc1-离-loc2)
 远,yuan3,distant/far (loc1-离-loc2-很远)
@@ -1124,7 +1124,7 @@
 准备好了,zhun3 bei4 hao3 le,ready/well-prepared
 还有,hai2 you3,furthermore/in addition/still
 阿,a1,prefix to indicate kinship (c. 阿姨)
-亲,qin1,close/dear
+亲,qin1,close/dear (c. 亲戚)
 亲戚,qin1 qi1:,relatives (family relation)
 父亲,fu4 qin1,father
 母亲,mu3 qin1,mother
@@ -1149,8 +1149,8 @@
 笼,long2,cage
 小笼包,xiao3 long2 bao1,steamed dumplings/soup dumplings
 油条,you2 tiao2,fritter/deep-fried dough stick
-豆,dou4,beans/bean-shaped/peas
-浆,jiang1,starch/broth/thick fluid
+豆,dou4,beans/bean-shaped/peas (c. 豆浆)
+浆,jiang1,starch/broth/thick fluid (c. 豆浆)
 豆浆,dou4 jiang1,soy milk
 炒,chao3,fried
 粥,zhou1,congee/porridge/gruel (eat or drink)
@@ -1331,8 +1331,8 @@
 行李,xing2 li3,luggage/baggage
 全,quan2,all/whole/entire (c. 安全)
 安全,an1 quan2,safe/secure
-安全检查,an1 quan2 jian3 cha2,undergo a security check (unabbreviated)
-安检,an1 jian3,undergo a security check (abbreviated)
+安全检查,an1 quan2 jian3 cha2,undergo a security check (alt. 安检)
+安检,an1 jian3,undergo a security check (alt. 安全检查)
 再，一次,zai4 : yi1:2 ci4,... one more time/... once more
 乎,hu1,doubt/astonishment (final particle)
 几乎,ji1 hu1,almost/nearly
@@ -1704,7 +1704,7 @@
 你们先问问题，然后我回答，最后我们都回家,ni3 men xian1 wen4 wen4 ti2 : ran2 hou4 wo3 hui2 da2 : zui4 hou4 wo3 men dou1 hui2 jia1,first you ask questions then i answer finally we all go home
 地图,di3 tu2,map
 景,jing3,circumstance/situation (c. 风景)
-风景,feng jing3,view/scenery
+风景,feng1 jing3,view/scenery
 读出来,du2 chu1 lai2,read out loud
 拿出来,na2 chu1 lai2,take out/retrieve
 拿出，来,na2 chu1 : lai2,take out/retrieve (item)
@@ -1782,7 +1782,7 @@
 房子,fang2 zi,house
 我每天学习中文两个小时,wo3 mei3 tian1 xue2 xi2 zhong1 wen2 liang3 ge4 xiao3 shi2,i study chinese for two hours every day
 中秋节,zhong1 qiu1 jie2,mid-autumn festival (15th day of 8th lunar month)
-端,duan1,end/extremity/item/port (c. 端午节)
+端,duan1,end/extremity/item/port (c. 端午节/开端)
 端午节,duan1 wu3 jie2,dragon boat festival (5th day of the 5th lunar month)
 饼,bing3,round flat cake/cookie (c. 月饼)
 月饼,yue4 bing3,mooncake
@@ -1802,7 +1802,7 @@
 馒,man2,steamed bread (c. 馒头)
 馒头,man2 tou2:,steamed bun (often without filling)
 卤,lu3,stew in sauce and spices (c. 卤肉)
-卤肉,lu3 you4,stewed meat/braised pork
+卤肉,lu3 rou4,stewed meat/braised pork
 卤肉饭,lu3 rou4 fan4,braised pork rice
 卷,juan3,roll up/roll of something/mw for small rolled things (c. 春卷)
 春卷,chun1 juan3,spring roll/egg roll
@@ -1876,7 +1876,7 @@
 签名,qian1 ming2,sign name (verb)/signature (noun)
 低,di1,low/beneath/let droop
 资,zi1,capital/resources (c. 资本)
-资本,zi ben3,capital
+资本,zi1 ben3,capital
 广,guang3,wide/numerous (c. 广告)
 广告,guang3 gao4,advertisement/commercial
 预,yu4,in advance/beforehand/to prepare (c. 预算)
@@ -1949,5 +1949,35 @@
 任,ren4,assign/appoint/responsibility (c. 责任)
 责任,ze2 ren4,duty/responsibility
 商量,shang1 liang4:,consult/discuss
-误,wu4,delay or neglect (verb)/mistake or error (noun)
+误,wu4,delay or neglect (verb)/mistake or error (noun) (c. 误会)
 误会,wu4 hui4,misunderstand/mistake (verb and noun)
+开端,kai1 duan1,start/beginning
+大约,da4 yue1,approximate number (before verb or number)
+温,wen1,warm/temperature (c. 温度)
+度,du4,measure/angle or temperature degree (c. 温度)
+温度,wen1 du4,temperature
+几度,ji3 du4,what temperature?
+暖,nuan3,warm (verb and adj) (c. 暖和)
+暖和,nuan3 huo,nice and warm/pleasantly warm
+燥,zao4,dry/parched (c. 干燥)
+干燥,gan4 zao4,dry (noun or verb)/dull/arid
+凉,liang2,cool (verb and adj)/let something cool down (c. 凉快)
+凉快,liang2 kuai4,nice and cool/pleasantly cool
+懒,lan3,lazy
+鼓,gu3,drum/strike/rouse (c. 鼓励)
+励,li4,encourage/urge (c. 鼓励)
+鼓励,gu3 li4,encourage
+弃,qi4,reject/abandon/discard (c. 放弃)
+放弃,fang4 qi4,give up/abandon/renounce
+鹰,ying1,eagle/falcon/hawk (c. 猫头鹰)
+猫头鹰,mao1 tou2 ying1,owl
+羽,yu3,feather (c. 羽毛)
+羽毛,yu3 mao2,feather/plumage/plume
+橙,cheng2,orange color
+醒,xing3,wake up/become aware/sober up (c. 提醒)
+提醒,ti2 xing3,remind/warn/call attention to
+口,kou3,mouth/mw for mouthed things (c. 门口/进口/出口)
+门口,men2 kou3,doorway/gate
+出口,chu1 kou3,export/exit
+进口,jin4 kou3,import/entrance
+差不多,cha4 bu4 duo1,about the same/more or less/good enough
