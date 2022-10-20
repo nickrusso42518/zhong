@@ -559,13 +559,13 @@
 市,shi4,market/city
 超市,chao1 shi4,supermarket
 给,gei3,give/allow (verb)/to (prep)
-果,guo3,fruit/result
+果,guo3,fruit/result (c. 水果/如果)
 水果,shui3:2 guo3,fruit
 苹果,ping2 guo3,apple
-瓜,gua1,melon/squash
+瓜,gua1,melon/squash (c. 西瓜)
 西瓜,xi1 gua1,watermelon
-蛋,dan4,egg/oval-shaped thing
-鸡,ji1,chicken/fowl
+蛋,dan4,egg/oval-shaped thing (c. 鸡蛋)
+鸡,ji1,chicken/fowl (c. 鸡蛋)
 鸡蛋,ji1 dan4,chicken egg
 蔬菜,shu1 cai4,vegetables/produce
 新鲜,xin1 xian1,fresh/novel/uncommon (experience or food)
@@ -616,6 +616,8 @@
 她没有唱歌,ta1 mei2 you3 chang4 ge1,she did not sing a song
 我们没听过音乐,wo3 men mei2 ting1 guo4 yin1 yue4,we have not listened to music
 脏,zang1,dirty/filthy
+抽,chou1,draw out/remove part of the whole (c. 抽烟)
+烟,yan1,cigarette/tobacco/smoke/mist (c. 抽烟)
 抽烟,chou1 yan1,smoke a cigarette (verb)
 还,hai2,still in progress/still more/yet/moderate positive adj (before adj)
 还是,hai2 shi4,or?/still/nevertheless
@@ -1570,6 +1572,7 @@
 她对英文没有兴趣,ta1 dui4 ying1 wen2 mei2 you3 xing4 qu4,she does not have interest in english/she has no interest in english
 五十多,wu3 shi2 duo1,more than 50/more than fifty (before mw)
 公斤,gong1 jin1,kilogram/kg
+公里,gong1 li3,kilometer/km
 急,ji2,urgent/pressing/hurried (c. 着急)
 着急,zhao2 ji2,be anxious/feel sense of urgency
 闷,men4,bored/depressed/sealed/airtight
@@ -1698,7 +1701,7 @@
 没电,mei2 dian4,discharged/out of battery/dead battery
 没有，那么,mei2 you3 : na4 me,n1 is not as +adj as n2 (n1-没有-n2-那么-adj) (swap 那么/这么)
 今天的天气没有昨天的天气那么好,jin1 tian1 de tian1 qi4 mei2 you3 zuo2 tian1 de tian1 qi4 na4 me hao3,the weather today is not as good as the weather yesterday 
-你没有我胖,ni3 mei2 you3:2 wo3 shou4,you are not as thin as i am (alt. 没有，那么/这么)
+你没有我瘦,ni3 mei2 you3:2 wo3 shou4,you are not as thin as i am (alt. 没有，那么/这么)
 放下,fang4 xia4,put down/let go of/relinquish
 我先吃晚餐，再跟你喝红酒,wo3 xian1 chi1 wan3 can1 : zai4 gen1 ni3 he1 hong2 jiu3,first i eat dinner then drink red wine with you
 你们先问问题，然后我回答，最后我们都回家,ni3 men xian1 wen4 wen4 ti2 : ran2 hou4 wo3 hui2 da2 : zui4 hou4 wo3 men dou1 hui2 jia1,first you ask questions then i answer finally we all go home
@@ -1844,6 +1847,7 @@
 富,fu4,rich/abundant/wealthy (c. 高富帅)
 美眉,mei3 mei2,beautiful girl (slang)
 高富帅,gao1 fu4 shuai4,mr. perfect (lit. tall rich handsome)
+白富美,bai2 fu4 mei3,ms. perfect (lit. white rich beautiful)
 圈,quan1,circle/loop (noun or verb)/mw for laps of race (c. 朋友圈)
 朋友圈,peng2 you3 quan1,circle of friends/wechat moments feature
 微,wei1,tiny/miniature/slightly (c. 微信/微博)
@@ -1981,3 +1985,15 @@
 出口,chu1 kou3,export/exit
 进口,jin4 kou3,import/entrance
 差不多,cha4 bu4 duo1,about the same/more or less/good enough
+什么都,shen2 me dou1,everything/all (swap 都/也 for negatives only)
+龙什么蛋糕都爱吃,long2 shen2 me dan4 gao1 dou1 ai4 chi1,dragons love to eat all kinds of cake
+猪什么羽毛都没有,zhu1 shen2 me yu3 mao2 dou1 mei2 you3,pigs lack any kind of feathers (alt. 也)
+我什么酒也不想喝,wo3 shen2 me jiu3:2 ye3 bu4 xiang3 he1,i do not want to drink any kind of alcohol (alt. 都)
+等，再,deng3 : zai4,wait until ... then
+等今天晚上，再偷贵的画,deng3 jin1 tian1 wan3 shang4 : zai4 tou1 gui4 de hua4,wait until tonight then steal expensive paintings
+要么，要么,yao4 me : yao4 me,either ... or
+你们要么上船，要么离开,ni3 men yao4 me shang4 chuan2 : yao4 me li2 kai1,you either get on the boat or leave
+不是，而是,bu4:2 shi4 : er2 shi4,it is not ... it is just
+我不是很生气，而是我有点难过,wo3 bu4:2 shi4 hen3 sheng1 qi4 : er2 shi4 wo3:2 you3 dian3 nan2 guo4,it is not that i am angry it is just that i am a bit sad/i am not angry i am just a bit sad
+一方面，一方面,yi1:4 fang1 mian4 : yi1:4 fang1 mian4,on one hand ... on the other hand
+一方面他是高富帅，一方面他太喝酒了,yi1:4 fang1 mian4 ta1 shi4 gao1 fu4 shuai4 : yi1:4 fang1 mian4 ta1 tai4 he1 jiu3 le,on one hand he is tall rich and handsome on the other hand he drinks too much
