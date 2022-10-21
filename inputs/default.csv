@@ -30,6 +30,7 @@
 一百一十四,yi1 bai3 yi1 shi2 si4,114/one hundred fourteen
 千,qian1,thousand
 万,wan4,ten thousand
+亿,yi4,hundred million
 现,xian4,appear/present/now
 现在,xian4 zai4,now/right now (cannot reference past)
 今,jin1,present/current/this time period
@@ -205,7 +206,7 @@
 不,bu4,no/not (negates present/future actions)
 是不是,shi4 bu4:2 shi4,whether/is it not? (pattern for yn?)
 好不好,hao3 bu4 hao3,ok?/good?
-也,ye3,also/too (adverb; after subject and before verb)
+也,ye3,also/too (adv)
 吃,chi1,eat
 饭,fan4,rice/meal/serving
 餐,can1,meal (component only/not standalone noun)
@@ -316,7 +317,7 @@
 我知道了,wo3 zhi1 dao4 le,i know/i see (response to newly-learned info)
 忙,mang2,busy/rush
 对,dui4,right or correct (response)/fit or suit (verb)
-都,dou1,all/both/entirely (before verb)
+都,dou1,all/both/entirely (adv)
 老,lao3,old/experienced/venerable (person)
 师,shi1,teacher/expert/master (c. 老师)
 老师,lao3 shi1,teacher (in a school)
@@ -720,6 +721,8 @@
 出,chu1,go out/come out/occur (c. 出去)
 出去,chu1 qu4,go out
 出来,chu1 lai2,come out/emerge
+进去,jin4 qu4,go in
+进来,jin4 lai2,come in
 租,zu1,rent/hire
 汽,qi4,steam/vapor (c. 汽车)
 汽车,qi4 che1,car/automobile
@@ -1275,7 +1278,7 @@
 往前开车,wang3 qian2 kai1 che1,drive straight/drive forward
 往后看,wang3 hou4 kan4,look backwards/look behind
 直,zhi2,straight/reasonable/frank (c. 一直)
-一直,yi1:4 zhi2,constantly/continuously/always doing something
+一直,yi1:4 zhi2,constantly/continuously/all along/always doing something
 围,wei2,encircle/all around (c. 周围)
 周围,zhou1 wei2,around/surroundings/environment
 商店周围有很少树,shang1 dian4 zhou1 wei2 you3 hen3:2 shao3 shu4,there are few trees around the shop
@@ -1827,11 +1830,14 @@
 珠,zhu1,bead/pearl (c. 珍珠)
 珍珠,zhen1 zhu1,pearl (c. 珍珠奶茶)
 珍珠奶茶,zhen1 zhu1 nai3 cha2,bubble milk tea
-两千只大熊猫,liang3 wan4 zhi3 da4 xiong2 mao1,2.000 large pandas/2.000 big pandas
+三千只大熊猫,san1 wan4 zhi3 da4 xiong2 mao1,3.000 large pandas/2.000 big pandas
 六万台照相机,liu4 wan4 tai2 zhao4 xiang4 ji1,60.000 cameras
 四十万间房子,si4 shi2 wan4 jian1 fang2 zi,400.000 houses
 七百万杯热水,qi1 bai3 wan4 bei1 re4 shui3,7.000.000 cups of hot water
 九千万瓶冰茶,jiu3 qian1 wan4 ping2 bing1 cha2,90.000.000 bottles of iced tea
+两亿辆救护车,liang2 yi4 liang4 jiu4 hu4 che1,200.000.000 ambulances
+十亿个中国人,shi2 yi4 ge4 zhong1 guo2 ren2,1.000.000.000 chinese people
+八百亿双鞋子,ba1 bai3 yi4 shuang1 xie2 zi,80.000.000.000 pairs of shoes
 囧,jiong,light or bright (lit)/embarrassment emoji (slang)
 萌,meng2,sprout (lit)/cute (slang)
 粉丝,fen3 si1,bean vermicelli (lit)/fan or groupie (slang)
