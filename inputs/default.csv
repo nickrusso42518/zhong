@@ -268,6 +268,7 @@
 和,he2,and/together with (link nouns)
 钱,qian2,money/coin
 字,zi4,letter/symbol/character/word
+名,ming2,name/famous (c. 名字/有名/签名)
 名字,ming2 zi4:,name/first name
 汉字,han4 zi4:,chinese character/chinese writing
 什,shen2,what (c. 什么)
@@ -315,8 +316,8 @@
 认,ren4,recognize/know (c. 认识/认真)
 识,shi2,know/knowledge (c. 认识)
 认识,ren4 shi2:,know personally/recognize a noun/meet
-知,zhi1,know/aware (c. 知道)
-道,dao4,road/principle/truth (c. 知道)
+知,zhi1,know/aware (c. 知道/通知)
+道,dao4,road/principle/truth (c. 知道/难道)
 知道,zhi1 dao4,know about/aware of
 我知道了,wo3 zhi1 dao4 le,i know/i see (response to newly-learned info)
 忙,mang2,busy/rush
@@ -506,17 +507,17 @@
 干,gan4,do/doing
 影,ying3,film
 电影,dian4 ying3,movie
-网,wang3,net/network
+网,wang3,net/network (c. 上网/网球)
 上网,shang4 wang3,go online
-机,ji1,machine/opportunity/intention
+机,ji1,machine/opportunity/intention (c. 手机/飞机/机会)
 手机,shou3 ji1,cell phone
 手机游戏,shou3 ji1 you2 xi4,cell phone games
 明星,ming2 xing1,celebrity
 新,xin1,new/newly (c. 新闻)
 闻,wen2,hear/smell (c. 新闻)
 新闻,xin1 wen2,news
-节,jie2,festival/holiday (c. 节目)
-目,mu4,item/list/catalogue (c. 节目)
+节,jie2,economize or save (verb)/festival or holiday (noun) (c. 节目/节日/节约)
+目,mu4,item/list/catalogue (c. 节目/项目)
 节目,jie2 mu4,show/program
 体,ti3,body/form/substance (c. 身体)
 育,yu4,educate (c. 体育)
@@ -843,7 +844,7 @@
 她有头疼,ta1 you3 tou2 teng2,she has a headache
 他的头很疼,ta1 de tou2 hen3 teng2,his head hurts
 休,xiu1,rest/cease/stop for a period of time (c. 休息)
-息,xi1,breath/interest on investment (c. 休息)
+息,xi1,breath/news/interest on investment (c. 休息)
 休息,xiu1 xi1,rest/take a break
 疼,teng2,hurts/painful
 好吃,hao3 chi1,tasty/delicious/good to eat (adj)
@@ -885,7 +886,7 @@
 回来,hui2 lai2,come back (omit 来 when destination exists)
 饭店,fan4 dian4,hotel/restaurant/diner
 酒吧,jiu3 ba1,bar/pub/saloon
-同,tong2,same (pronoun)/with (preposition)
+同,tong2,same (pronoun)/with (preposition) (c. 同时/同学/同情)
 同学,tong2 xue2,schoolmate/classmate
 色,se4,color
 完,wan2,finish (after verb)/complete (adj)
@@ -1293,7 +1294,9 @@
 迷路,mi2 lu4,lost/lose the way
 去国,qu4 guo2,leave home country/go abroad
 回国,hui2 guo2,return to home country
-普通,pu3 tong1,ordinary/common/general
+普,pu3,general/popular/everywhere/universal (c. 普通)
+通,tong1,go through/know well/connect/communicate (c. 普通/通知)
+普通,pu3 tong1,ordinary/common/general (c. 普通话)
 普通话,pu3 tong1 hua4,mandarin chinese language
 个子,ge4 zi,height/stature
 长大,zhang3 da4,grow up
@@ -2009,7 +2012,7 @@
 一方面他是高富帅，一方面他太喝酒了,yi1:4 fang1 mian4 ta1 shi4 gao1 fu4 shuai4 : yi1:4 fang1 mian4 ta1 tai4 he1 jiu3 le,on one hand he is tall rich and handsome on the other hand he drinks too much
 此,ci3,this/these (common in writing)
 示,shi4,show/reveal (c. 表示)
-表示,biao3 shi4,express/show/state
+表示,biao3 shi4,express/show/state/indicate
 宾,bin1,visitor/guest/object (grammar) (c. 宾馆)
 宾馆,bin1 guan3,hotel/lodge/guesthouse
 出现,chu1 xian4,appear/show up
@@ -2040,7 +2043,7 @@
 信息,xin4 xi1,information/message
 相同,xiang1 tong2,identical/same
 条件,tiao2 jian4,condition/circumstances
-解答,jie3 da2,solve or resolve (verb)/solution or answer (noun
+解答,jie3 da2,solve or resolve (verb)/solution or answer (noun)
 你的内容不原来，但是很有趣,ni3 de nei4 rong2 bu4 yuan2 lai2 : dan4 shi4 hen3:2 you3 qu4,your content is not original but is interesting
 我们没有心情听笑话,wo3 men mei2 you3 xin1 qing2 ting1 xiao4 hua4,we are not in the mood to listen to jokes
 我的力气让他们很难受,wo3 de li4 qi4 rang4 ta1 men hen3 nan2 shou4,my strength makes them feel unwell
@@ -2073,5 +2076,22 @@
 整理,zheng3:2 li3,arrange/tidy up/straighten out
 总结,zong3 jie2,summarize or conclude (verb)/summary or cv-resume (noun)
 左右,zuo3 you4,nearby/approximately
-作者,zuo4 zhe3,author/writer
-作家,zuo4 jia1,author
+作者,zuo4 zhe3,author of a specific work
+作家,zuo4 jia1,author as a general occupation
+报名,bao4 ming2,sign up/register/enroll/enlist
+本来,ben3 lai2,original/originally/at first
+比如,bi3 ru2,for example/for instance/such as
+出发,chu1 fa1,set off/start on a journey
+道歉,dao4 qian4,apologize
+房东,fang2 dong1,landlord
+来自,lai2 zi4,come from a place/from: (email header)
+难道,nan2 dao4,is it ... ?/could it be that ... ?
+实际,shi2 ji4,actual/reality/realistic/practical
+数字,shu4 zi4,number/numeral/digit/figure
+通知,tong1 zhi4,notify or inform (verb)/notice or notification (noun)
+同时,tong2 shi2,simultaneously/at the same time
+同情,tong2 qing2,sympathy (noun and verb)
+小吃,xiao3 chi1,snack/refreshments
+消息,xiao1 xi1:,news/information
+许,xu3,perhaps/allow/permit/promise/praise (c. 也许)
+也许,ye3:2 xu3,perhaps/maybe
