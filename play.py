@@ -20,12 +20,9 @@ def main(args):
     Main game code.
     """
 
-    # Load symbols and initialize counters to track progress
+    # Load symbols and initialize empty list to track failures
     rows = load_csv_data(args.infile)
     fail_list = []
-    succ_c = 0
-    i = 1
-    total = len(rows)
 
     # Print gameplay instructions before asking translation questions
     print("HOW TO PLAY:")
@@ -35,41 +32,35 @@ def main(args):
     print("  Enter a question mark (?) character to consult the dictionary.")
     print("  Enter a period (.) character to quit gracefully.")
 
-    # Keep looping while more rows exist
-    while rows:
+    # Randomize (shuffle) the list of row entries, then iterate over them
+    random.shuffle(rows)
+    for i, row in enumerate(rows, start=1):
 
-        # Select a random symbol by index
-        index = random.randint(0, len(rows) - 1)
-        row = rows[index]
-
-        # Extract chinese, pinyin, and english from the symbol entry
+        # Extract chinese, pinyin, and english from the row entry
         chinese, pinyin, english = [r.lower().strip() for r in row]
 
         # Attempt to collect input from user interactively
-        attempt = run_attempt(args, chinese, pinyin, i, total)
+        attempt = run_attempt(args, chinese, pinyin, i, len(rows))
 
         # If attempt is None, user wants to quit. Break out of the loop
         if attempt is None:
             break
 
-        # Test for proper english input, colorize it, and track successes
+        # Test for proper english input, colorize it, and track failures
         if attempt in english:
             e_color = Fore.GREEN
-            succ_c += 1
         else:
             e_color = Fore.RED
             fail_list.append(",".join(row))
 
-        # Print colorized output, then current success count and percent
+        # Print colorized solutions, then current success count and percent
+        succ_c = i - len(fail_list)
+        succ_p = round(succ_c / i * 100, 2)
         print(f"correct english: {e_color}{english}{Style.RESET_ALL}")
-        print(f"[success# = {succ_c}, success% = {round(succ_c / i * 100, 2)}]")
-
-        # Delete row from list (won't see twice) and increment counter
-        del rows[index]
-        i += 1
+        print(f"[success# = {succ_c}, success% = {succ_p}]")
 
     # If attempt is None, user wants to quit. Print failed items
-    # and exit with rc=0 to signal success (no error)
+    # and exit with rc=0 to signal success (occurs by default)
     fail_list_str = "\n".join(fail_list)
     print(f"\nINCORRECTLY ANSWERED:\n{fail_list_str}\n")
 
@@ -88,8 +79,8 @@ def run_attempt(args, chinese, pinyin, i, total):
     while not attempt:
 
         # Print chinese and pinyin together using the proper color
-        print(f"\n{i}/{total}:    {c_color}{chinese}{Style.RESET_ALL}", end="")
-        print(f"    ({p_color}{pinyin}{Style.RESET_ALL})")
+        print(f"\n{i}/{total}:  {c_color}{chinese}{Style.RESET_ALL}", end="")
+        print(f"  ({p_color}{pinyin}{Style.RESET_ALL})")
 
         # Spawn new process to run the "say" command if -s is not set (default)
         # Example: say --voice=Ting-Ting --rate=150 电话号码
@@ -105,10 +96,12 @@ def run_attempt(args, chinese, pinyin, i, total):
             say_sp.communicate()
 
         # If user entered a question mark (?) then lookup symbols in dictionary
+        # Overwrite attempt to a comma, which is guaranteed not to be correct
         if attempt == "?":
             lookup(chinese)
+            attempt = ","
 
-        # If user entered a period (.) then return None
+        # If user entered a period (.) then return None (breaks loop)
         elif attempt == ".":
             return None
 
