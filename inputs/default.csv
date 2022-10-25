@@ -1004,8 +1004,8 @@
 带,dai4,bring with (verb)/band to hold item together (noun)
 伞,san3,umbrella/parasol
 冷,leng3,cold
-有多,you3 duo1,how much (adj)?
-有多冷,you3 duo1 leng3,how cold?
+有多,you3 duo1,how much +adj? (omit 有 if other verb exists)
+有多冷,you3 duo1 leng3,how cold? (use 多冷 if other verb exists)
 从来不,cong2 lai2 bu4,never (before verb)
 从来没有,cong2 lai2 mei2 you3,have never/never before (before verb)
 长,chang2 :: zhang3,long object :: chief or elder (noun)/enhance or increase (verb)
@@ -1366,7 +1366,8 @@
 易,yi4,easy/amiable/prefix for -able or -ible (c. 容易)
 容易,rong2 yi1,easy/likely
 很多种语言,hen3 duo1 zhong3:2 yu3 yan2,many languages
-更,geng4,more/even more (before adj)
+更,geng4,more/even more (before adj or verb) (alt. 更加)
+更加,geng4 jia1,more/even more (before adj or verb) (alt. 更)
 努,nu3,exert/strive/make an effort (c. 努力)
 努力,nu3 li4,try hard/great effort/strive (adv)
 平,ping2,flat/level/equal (c. 水平)
@@ -1741,6 +1742,7 @@
 观光,guan1 guang1,tour (verb)/tourism or sightseeing (noun)
 活,huo2,to live/be alive (c. 活动)
 活动,huo2 dong4,move about (verb)/activities (noun)
+生活,sheng1 huo2,to live/livelihood/life/activity
 安排,an1 pai2,plan/arrange/set up
 海边,hai3 bian1,sea/seaside/shore/beach
 演,yan3,develop/evolve/perform (c. 表演)
@@ -2064,7 +2066,7 @@
 对话,dui4 hua4,dialogue
 对面,dui4 mian4,opposite side/face to face
 法律,fa3 lv4,law
-感情,gan3 qing2,feeling/emotion/affection
+感情,gan3 qing2,feeling/emotion/affection/sentiment
 共同,gong4 tong2,common/joint
 节约,jie2 yue1,economize/conserve/frugal
 小说,xiao3 shuo1,novel/fiction
@@ -2095,3 +2097,42 @@
 消息,xiao1 xi1:,news/information
 许,xu3,perhaps/allow/permit/promise/praise (c. 也许)
 也许,ye3:2 xu3,perhaps/maybe
+你在纽约住了多久,ni3 zai4 niu3 yue1 zhu4 le duo1 jiu3,how long have you lived in new york?
+事业,shi4 ye4,career/occupation/significant undertaking
+设,she4,set up/arrange/establish (c. 设计)
+计,ji4,plan/calculate/compute (c. 设计)
+设计,she4 ji4,design/plan (verb and noun)
+介意,jie4 yi4,care about/take offense/to mind
+如果你不介意，我就会通知房东,ru2 guo3 ni3 bu4 jie4 yi4 : wo3 jiu4 hui4 tong1 zhi1 fang2 dong1,if you do not mind i will notify the landlord
+我应该设计我的小说还是开始新的事业,wo3 ying1 gai1 she4 ji4 wo3 de xiao3 shuo1 hai2 shi4 kai1 shi3 xin1 de shi4 ye4,should i design my novel or start a new career?
+上空,shang4 kong1,overhead/in the sky
+感动,gan3 dong4,emotionally move/emotionally touch
+感觉,gan3 jue2,feel/sense/become aware of
+好像,hao3 xiang4,as if/to seem like
+计划,ji4 hua4,plan (verb or noun)/project or program (noun)
+交,jiao1,hand over/deliver/pay money (c. 交通/交流)
+交通,jiao1 tong1,traffic/transportation/communications
+交流,jiao1 liu2,exchange/interaction/communication
+教育,jiao4 yu4,educate/teach
+接受,jie1 shou4,receive/accept
+接着,jie1 zhe,catch and hold on/continue
+结果,jie2 guo3,outcome/result/conclusion
+进行,jin4 xing2,advance/conduct/in progress
+经历,jing1 li4,experience (verb and noun)
+景色,jing3 se4,view/scenery/landscape
+镜子,jing4 zi,mirror
+开玩笑,kai1 wan2 xiao4,make fun of/play a joke on
+看法,kan4 fa3,view/opinion/perspective
+空气,kong1 qi4,air/atmosphere
+零钱,ling2 qian2,small change/pocket money
+其次,qi2 ci4,next/secondly
+其中,qi2 zhong1,included among these
+说明,shuo1 ming2,explain/illustrate/indicate
+所有,suo3 you3,have/possess/own
+提前,ti2 qian2,shift to earlier date/do something ahead of time
+呀,ya,surprise/emotion suffix (like 啊 except is used after a vowel)
+样子,yang4 zi,appearance/manner/pattern
+永远,yong3:2 yuan3,forever/eternal
+知识,zhi1 shi,knowledge/intellectual
+值得,zhi2 de,deserve/be worth
+只好,zhi3:2 hao3,be forced to/no better option
