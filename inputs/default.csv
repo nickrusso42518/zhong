@@ -71,8 +71,8 @@
 星期天,xing1 qi1 tian1,sunday day of week
 星期日,xing1 qi1 ri4,sunday day of week
 几,ji1 :: ji3,almost :: how many? (countable less than 10 with mw after)
-几点,ji3:2 dian3,what time? (o'clock)
-星期几,xing qi1 ji3,what day of the week?
+几点钟,ji3:2 dian3 zhong1,at what time? (alt. 几点)
+星期几,xing1 qi1 ji3,what day of the week?
 几号,ji3 hao4,what day of month?
 几月,ji3 yue4,what month?
 几月几号,ji3 yue4 ji3 hao4,what date? (month and day)
@@ -243,8 +243,8 @@
 帮忙,bang1 mang2,help/lend a hand/do a favor
 说,shuo1,say/speak/tell
 白,bai2,white color/pure
-明白,ming2 bai2,understand/clear/obvious
-得,de :: dei3,describe/modify action (after verb) :: need to (before verb)
+明白,ming2 bai2:,understand/clear/obvious
+得,de :: de2 :: dei3,describe/modify action (after verb) :: get/obtain/gain :: need to (before verb)
 快,kuai4,fast/quickly/soon
 慢,man4,slowly
 他吃得很快,ta1 chi1 de hen3 kuai4,he eats quickly
@@ -442,8 +442,8 @@
 旁,pang2,beside/one side
 前面,qian2 mian4,ahead/front side
 后面,hou4 mian4,behind/back side
-左边,zuo3 bian1,left side
-右边,you4 bian1,right side
+左边,zuo3 bian1:,left side
+右边,you4 bian1:,right side
 旁边,pang2 bian1,lateral/generic side
 里面,li3 mian4,inside/interior
 外面,wai4 mian4,outside/exterior
@@ -488,7 +488,6 @@
 二千七百零五块四毛九分,er4 qian1 qi1 bai3 ling2 wu3 kuai4 si4 mao2 jiu3 fen1,2705.49 yuan
 共,gong4,common/general
 一共,yi1:2 gong4,altogether/in total
-一起,yi1:4 qi3,together
 收,shou1,receive/accept/collect (c. 收据)
 信,xin4,letter or mail (noun)/trust or believe in (verb)
 用,yong4,use/employ
@@ -748,7 +747,7 @@
 件,jian4,mw for a clothing top or an event
 商店,shang1 dian4,shop/store (noun)
 面包店,mian4 bao1 dian4,bakery/bread shop
-咖啡店,ka1 fei1 dian4,cafe/coffee shop
+咖啡店,ka1 fei1 dian4,cafe/coffee shop (alt. 咖啡厅)
 开门,kai1 men2,open the door/open up a shop
 关门,guan1 men2,close the door/close down a shop
 开关,kai1 guan1,on-off switch
@@ -866,6 +865,7 @@
 渴,ke3,thirsty
 生日,sheng1 ri4,birthday
 跟,gen1,with/go with/follow closely (very similar to 和)
+一起,yi1:4 qi3,together/along
 跟，一起,gen1 : yi1:4 qi3,together with ...
 跟你一起,gen1 ni3 yi1:4 qi3,together with you
 跟我的狗一起,gen1 wo3 de gou3 yi1:4 qi3,together with my dog
@@ -1018,7 +1018,8 @@
 风,feng1,wind (fast moving air & noun)
 刮风,gua1 feng1,be windy/blow wind
 可能,ke3 neng2,might happen/maybe/possible
-不可能,bu4 ke3 neng2,impossible
+不可能,bu4 ke3 neng2,impossible (alt. 不行)
+不行,bu4 xing2,impossible (alt. 不可能)
 雨雪,yu3:2 xue3,sleet/rain and snow mix
 在雨雪中,zai4 yu3:2 xue3 zhong1,surrounded by sleet/in the sleet
 虽,sui1,although (c. 虽然)
@@ -1232,6 +1233,7 @@
 地方,di4 fang1,area/place/site
 咖啡馆,ka1 fei1 guan3,cafe/coffee shop
 过一会儿,guo4 yi1:2 hui4 r,later/after a while
+过一会儿呢,guo4 yi1:2 hui4 r ne,how about later?
 袋子,dai4 zi,bag
 经过,jing1 guo4,pass by/walk by
 退,tui4,step back/retreat/withdraw
@@ -2150,3 +2152,13 @@
 这辆坏的汽车是免费的,zhe4 liang4 huai4 de qi4 che1 shi1 mian3 fei4 de,this broken car is free
 学院路,xue2 yuan4 lu4,college road
 长安街,cheng2 an1 jie1,long peace street
+你想去哪儿吃,ni3:2 xiang3 qu4 na3 r chi1,where would you like to go to eat?
+我那儿,wo3 na4 r,my place
+我不想去你那儿吃,wo3 bu4 xiang3 qu4 ni3 na4 r chi1,i do not want to go to your place to eat
+我也想喝一点儿东西,wo3:2 ye3 xiang3 he1 yi1:4 dian3 r dong1 xi1:,i also want drink something
+怎么了,zen3 me le,what's wrong?/what happened?
+长得像,zhang3 de xiang4,looks like (people only)
+然后吗,ran2 hou4 ma,what next?/what then?/what happens after?
+周年,zhou1 nian2,anniversary
+我想去酒店,wo3:2 xiang3 qu4 jiu3 dian4,i would like to go to the hotel (xqj)
+跟谁一起,gen1 shei2 yi1:4 qi3,together with whom?/along with whom?
