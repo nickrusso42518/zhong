@@ -198,8 +198,8 @@
 谢谢,xie4 xie,thanks
 谢谢你,xie4 xie ni3,thank you
 客,ke4,guest/customer (c. 客气/游客/客人)
-气,qi4,gas/air/vital energy
-客气,ke4 qi4,polite/modest
+气,qi4,gas/air/vital energy (c. 客气)
+客气,ke4 qi4,polite/modest/air of a guest
 不客气,bu4:2 ke4 qi4,you're welcome/you are welcome
 起,qi3,arise/get up/stand up
 对不起,dui4 bu4 qi3,sorry
@@ -266,7 +266,7 @@
 错,cuo4,mistake/wrong/bad/incorrectly
 不错,bu4:2 cuo4,not bad/pretty good
 很,hen3,very/really (before verb)/noun-很-adj default connector
-呢,ne,and?/what about?/how about? (suffix)
+呢,ne,and?/what about?/how about? (in-context suffix)
 和,he2,and/together with (link nouns)
 钱,qian2,money/coin
 字,zi4,letter/symbol/character/word
@@ -590,9 +590,9 @@
 所,suo3,actually/that which/mw for houses and small buildings (c. 所以)
 所以,suo3:2 yi3,so/therefore (before noun and after 因为)
 因为，所以,yin1 wei4 : suo3:2 yi3,because ... so
-因为我很胖，所以她不高兴,yin1 wei4 wo3 hen3 pang4 : suo3:2 yi3 ta1 bu4 gao1 xing4,because i am fat so she is unhappy (formal)
-我很胖，所以她不高兴,wo3 hen3 pang4 : suo3:2 yi3 ta1 bu4 gao1 xing4,i am fat so she is unhappy (informal)
-她不高兴，因为我很胖,ta1 bu4 gao1 xing4 : yin1 wei4 wo3 hen3 pang4,she is unhappy because i am fat (informal)
+因为我很胖，所以她不高兴,yin1 wei4 wo3:2 hen3 pang4 : suo3:2 yi3 ta1 bu4 gao1 xing4,because i am fat so she is unhappy (formal)
+我很胖，所以她不高兴,wo3:2 hen3 pang4 : suo3:2 yi3 ta1 bu4 gao1 xing4,i am fat so she is unhappy (informal)
+她不高兴，因为我很胖,ta1 bu4 gao1 xing4 : yin1 wei4 wo3:2 hen3 pang4,she is unhappy because i am fat (informal)
 牙,ya2,tooth/ivory (c. 刷牙)
 西班牙,xi1 ban1 ya2,spain country
 西班牙文,xi1 ban1 ya2 wen2,spanish language (alt 西班牙语)
@@ -607,7 +607,7 @@
 旅游,lv3 you2,trip/tour/travel (noun)
 旅行,lv3 xing2,trip/tour/travel (noun)
 照,zhao4,illuminate/shine/reflect
-相,xiang4,mutual/reciprocal (c. 照相机/相同/相信)
+相,xiang1 :: xiang4,appearance/portait/picture (c. 照相机) :: mutual/reciprocal (c. 相同/相信)
 照相机,zhao4 xiang4 ji1,camera
 拍,pai1,pat/clap/slap/swat (c. 拍照/自拍)
 拍照,pai1 zhao4,take a picture (verb)/photography (noun)
@@ -1113,7 +1113,7 @@
 参加,can1 jia1,participate/take part in/join/attend
 排,pai2,row/rank/line (c. 排球)
 排球,pai2 qiu2,volleyball (lit. row/rank/line ball)
-加,jia1,add/increase/augment
+加,jia1,add/increase/augment/plus
 油,you2,oil/fat/grease (c. 加油)
 加油,jia1 you2,come on!/accelerate/refuel
 网球,wang3 qiu2,tennis (lit. net ball)
@@ -1221,6 +1221,8 @@
 上面,shang4 mian4,top side/on/above
 下面,xia4 mian4,bottom side/under
 元,yuan2,yuan/rmb (formal)
+人民币,ren2 min2 bi4,yuan/rmb/people's currency
+不是十一块，是十块,bu4:2 shi4 shi2 yi1 kuai4 : shi4 shi2 kuai4,it is not eleven yuan  it is ten yuan
 角,jiao3,angle/corner/tenth of yuan (formal)
 块,kuai4,yuan or rmb (informal)/mw for piece or slice
 毛,mao2,hair/tenth of yuan (informal)
@@ -1847,6 +1849,7 @@
 珠,zhu1,bead/pearl (c. 珍珠)
 珍珠,zhen1 zhu1,pearl (c. 珍珠奶茶)
 珍珠奶茶,zhen1 zhu1 nai3 cha2,bubble milk tea
+十二块人民币,shi2 er4 kuai4 ren2 min2 bi4,12 yuan/12 rmb
 三千只大熊猫,san1 qian1 zhi3 da4 xiong2 mao1,3.000 large pandas/2.000 big pandas
 六万台照相机,liu4 wan4 tai2 zhao4 xiang4 ji1,60.000 cameras
 四十万间房子,si4 shi2 wan4 jian1 fang2 zi,400.000 houses
@@ -2162,3 +2165,16 @@
 周年,zhou1 nian2,anniversary
 我想去酒店,wo3:2 xiang3 qu4 jiu3 dian4,i would like to go to the hotel (xqj)
 跟谁一起,gen1 shei2 yi1:4 qi3,together with whom?/along with whom?
+现在几点钟,xian4 zai4 ji3:2 dian3 zhong1,what time is it now?
+我啊,wo3 a,as for me
+那么,na4 me,in that case/like that/then
+请跟着说,qing3 gen1 zhe shou1,please repeat
+现在请听,xian4 zai4 qing3 ting1,please listen now
+美金,mei3 jin1,us dollars/usd
+喏,nuo4,here you are
+一会儿见,yi1:2 hui4 r jian4,see you later/see you soon
+给你的,gei3:2 ni3 de,for you
+一杯啤酒多少钱,yi1:4 bei1 pi2 jiu3 duo1 shao3 qian2,how much money is one glass of beer?
+我有一点儿，不是很多,wo3:2 you3 yi1:4 dian3 r : bu4:2 shi4 hen3 duo1,i have some it is not very much
+是给我的吗,shi4 gei3:2 wo3 de ma,is it for me?
+够了,gou4 le,enough/sufficient
