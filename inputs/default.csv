@@ -500,7 +500,7 @@
 金,jin1,gold
 现金,xian4 jin1,cash
 行,xing2 :: hang2,ok/will do/travel :: commercial firm/line of business (c. 银行)
-报,bao4,announce/inform/report (c. 报纸)
+报,bao4,announce/inform/report (c. 报纸/报销/报告/汇报)
 纸,zhi3,paper (c. 报纸)
 报纸,bao4 zhi3,newspaper
 电视,dian4 shi4,tv/television
@@ -606,7 +606,7 @@
 轻松,qing1 song1,relax/take things less seriously
 旅游,lv3 you2,trip/tour/travel (noun)
 旅行,lv3 xing2,trip/tour/travel (noun)
-照,zhao4,illuminate/shine/reflect
+照,zhao4,illuminate/shine/reflect (c. 照相机/拍照/照片/照顾)
 相,xiang1 :: xiang4,appearance/portait/picture (c. 照相机) :: mutual/reciprocal (c. 相同/相信)
 照相机,zhao4 xiang4 ji1,camera
 拍,pai1,pat/clap/slap/swat (c. 拍照/自拍)
@@ -688,7 +688,7 @@
 走走,zou3 zou3:,walk a bit
 笑,xiao4,laugh/smile
 笑一笑,xiao4 yi1:2 xiao4,laugh a bit/smile a bit
-用一用,yong3 yi1:4 yong3,use a bit/use for a bit
+用一用,yong4 yi1:4 yong4,use a bit/use for a bit
 尝,chang2,taste/try/experience
 尝一尝,chang2 yi1:4 chang2,taste a bit
 聊,liao2,chat
@@ -1160,7 +1160,7 @@
 我的成绩像他们的一样,wo3 de cheng2 ji1 gen1 ta1 men de yi1:2 yang4,my grades are like theirs
 像，一样高,xiang4 : yi1:2 yang4 gao1,is as tall as ... (n1-像-n2-一样-adj)
 她像猫一样聪明,ta1 xiang4 mao1 yi1:2 yang4 cong1 ming2,she is as smart as a cat
-跟，一样,xiang4 : yi1:2 yang4,is the same as ... (n1-跟-n2-一样) (swap 跟/和)
+跟，一样,gen1 : yi1:2 yang4,is the same as ... (n1-跟-n2-一样) (swap 跟/和)
 你的头发跟我的一样,ni3 de tou2 fa4: gen1 wo3 de yi1:2 yang4,your hair is the same as mine
 点心,dian3 xin1,refreshment/pasty/dim sum
 笼,long2,cage
@@ -2075,7 +2075,7 @@
 得意,de2 yi4,proud of oneself/complacent
 地球,di4 qiu2,earth planet
 动作,dong4 zuo4,motion/action
-对话,dui4 hua4,dialogue
+对话,dui4 hua4,dialogue/conversation
 对面,dui4 mian4,opposite side/face to face
 法律,fa3 lv4,law
 感情,gan3 qing2,emotion/affection/sentiment/feelings between two people
@@ -2154,7 +2154,7 @@
 你有一些知识，看法是什么,ni3:2 you3 yi1:4 xie1 zhi1 shi4 : kan4 fa3 shi4 shen2 me,you have some knowledge what is your opinion?
 我当然愿意吃汤圆和粽子,wo3 dang1 ran2 yuan4 yi4 chi1 tang1 yuan2 he2 zong4 zi,of course i am willing to eat sticky rice balls and sticky rice dumplings
 我阿姨只有零钱，我叔叔可不可以推迟约会,wo3 a1 yi2 zhi3:2 you3 ling2 qian2 : wo3 shu1 shu1: ke3 bu4 ke3:2 yi3 tui1 chi2 yue1 hui4,my aunt only has change can my uncle postpone the date?
-这辆坏的汽车是免费的,zhe4 liang4 huai4 de qi4 che1 shi1 mian3 fei4 de,this broken car is free
+这辆坏的汽车是免费的,zhe4 liang4 huai4 de qi4 che1 shi4 mian3 fei4 de,this broken car is free
 学院路,xue2 yuan4 lu4,college road
 长安街,cheng2 an1 jie1,long peace street
 你想去哪儿吃,ni3:2 xiang3 qu4 na3 r chi1,where would you like to go to eat?
@@ -2181,3 +2181,6 @@
 是给我的吗,shi4 gei3:2 wo3 de ma,is it for me?
 够了,gou4 le,enough/sufficient
 杀,sha1,kill/murder/attack
+别动,bie2 dong4,don't move/do not move/freeze
+华盛顿,hua2 sheng4 dun4,washington city
+你跟你的太太在一起吗,ni3 gen1 ni3 de tai4 tai4: zai4 yi1:4 qi3 ma,are you and your wife located together?
