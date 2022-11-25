@@ -41,7 +41,7 @@
 年,nian2,year (after numbers)
 岁,sui4,is ... years old (after numbers)
 四五十岁,si4 wu3 shi2 sui4,40 or 50 years old
-二〇三四年,er4 ling2 er4 si4 nian2,2034 year (alt. 二零三四年)
+二〇三四年,er4 ling2 san1 si4 nian2,2034 year (alt. 二零三四年)
 一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
 月,yue4,moon/month (after numbers)
 号,hao4,number/day of month (conversational)
@@ -514,7 +514,7 @@
 报纸,bao4 zhi3,newspaper
 电视,dian4 shi4,tv/television
 干,gan4,do/doing
-影,ying3,film
+影,ying3,film (c. 电影)
 电影,dian4 ying3,movie
 网,wang3,net/network (c. 上网/网球)
 上网,shang4 wang3,go online
@@ -826,7 +826,7 @@
 浪,lang4,ocean wave/unrestrained (c. 浪漫)
 浪漫,lang4 man4,romantic
 约会,yue1 hui4,appointment/date/engagement
-不好意思,bu4 hao3 yi14 si1:,feel embarrassed/sorry for inconveniencing
+不好意思,bu4 hao3 yi4 si1:,feel embarrassed/sorry for inconveniencing
 诉,su4,complain/appeal/tell (c. 告诉)
 告,gao4,tell/inform/accuse (c. 告诉)
 告诉,gao4 su4,inform/tell someone about something
@@ -1064,7 +1064,7 @@
 礼,li3,gift/rite/ceremony (c. 礼物)
 物,wu4,thing/object (c. 礼物/动物)
 礼物,li3 wu4,gift/present (noun)
-怎么过,zen3 me guo4,how to celebrate?/how will one celebrate?
+怎么过,zen3 me guo4,how to celebrate?/how to experience?
 中国白酒,zhong1 guo2 bai2 jiu3,chinese white wine/baijiu
 干杯,gan1 bei1,cheers/drink a toast
 法,fa3,law/regulation (c. 法国/办法)
@@ -1238,7 +1238,8 @@
 人民,ren2 min2,the people/inhabitants of a country (c. 人民币)
 币,bi4,currency (c. 人民币/港币)
 人民币,ren2 min2 bi4,yuan/rmb/people's currency
-港币,gang3 bi4,hong kong dollars
+港币,gang3 bi4,hong kong dollars (alt. 港元)
+港元,gang3 yuan2,hong kong dollars (alt. 港币)
 不是十一块美金，是十块,bu4:2 shi4 shi2 yi1:2 kuai4 mei3 jin1 : shi4 shi2 kuai4,it is not eleven dollars it is ten dollars
 角,jiao3,angle/corner/tenth of yuan (formal)
 块,kuai4,yuan or rmb (informal)/mw for piece or chunk or money
@@ -1766,7 +1767,7 @@
 博物,bo2 wu4,natural science
 博物馆,bo2 wu4 guan3,museum
 小心,xiao3 xin1,be careful
-观,guan1,watch/observe/behond (c. 参观/观光)
+观,guan1,watch/observe/behold (c. 参观/观光)
 参观,can1 guan1,visit/tour (verb)
 光,guang1,light/bright/ray (c. 观光/阳光)
 观光,guan1 guang1,tour (verb)/tourism or sightseeing (noun)
@@ -1845,7 +1846,7 @@
 恭喜,gong1 xi3,congratulations/greetings
 恭喜发财,gong1 xi3 fa1 cai2,may you be prosperous/may you have a prosperous new year
 红包,hong2 bao1,red envelope of money
-划,hua2,row/paddle/cut/slash (verb)
+划,hua2,row/paddle/cut/slash (verb) (c. 计划)
 馒,man2,steamed bread (c. 馒头)
 馒头,man2 tou2:,steamed bun (often without filling)
 卤,lu3,stew in sauce and spices (c. 卤肉)
@@ -1877,7 +1878,7 @@
 四十万间房子,si4 shi2 wan4 jian1 fang2 zi,400.000 houses
 七百万杯热水,qi1 bai3 wan4 bei1 re4 shui3,7.000.000 cups of hot water
 九千万瓶冰茶,jiu3 qian1 wan4 ping2 bing1 cha2,90.000.000 bottles of iced tea
-两亿辆救护车,liang2 yi4 liang4 jiu4 hu4 che1,200.000.000 ambulances
+两亿辆救护车,liang3 yi4 liang4 jiu4 hu4 che1,200.000.000 ambulances
 十亿个中国人,shi2 yi4 ge4 zhong1 guo2 ren2,1.000.000.000 chinese people
 八百亿双鞋子,ba1 bai3 yi4 shuang1 xie2 zi,80.000.000.000 pairs of shoes
 囧,jiong3,light or bright (lit)/embarrassment emoji (slang)
@@ -2283,7 +2284,7 @@
 当面,dang1 mian4,to someone's face/in someone's presence
 当初,dang1 chu1,at that time/originally
 当场,dang1 chang3,at the scene/on the spot
-动机,dong4 ji1,motive/motivation
+动机,dong4 ji1,motor/motive/motivation
 动手,dong4 shou3,set about a task/hit with hands/punch
 动员,dong4 yuan2,mobilize or arouse (verb)/mobilization (noun)
 端正,duan1 zheng4,upright/proper/regular
@@ -2293,3 +2294,5 @@
 更新,geng1 xin1,renew/renovate/upgrade
 公民,gong1 min2,citizen
 公告,gong1 gao4,public announcement
+呆,dai1,stay somewhere (verb)/foolish or stupid (adj)
+呆十四天,dai1 shi2 si4 tian1,stay for 14 days
