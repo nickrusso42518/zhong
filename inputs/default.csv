@@ -196,7 +196,7 @@
 题,ti2,topic/subject (c. 问题)
 问题,wen4 ti2,question/problem/issue
 请问,qing3 wen4,excuse me/pardon me (lit. please ask)
-谢谢,xie4 xie,thanks
+谢谢,xie4 xie4:,thanks
 客,ke4,guest/customer (c. 客气/游客/客人)
 气,qi4,gas/air/vital energy (c. 客气)
 客气,ke4 qi4,polite/modest/air of a guest
@@ -289,7 +289,7 @@
 少,shao3,few/less/little (adj)
 多少,duo1 shao3,how many?/how much? (large or uncountable quantity)
 多少钱,duo1 shao3 qian2,how much money?
-叫,jiao4,am/be called/tell someone to do something
+叫,jiao4,am/be called/tell someone to do something (titled names use 是 but not 叫)
 电,dian4,electric/electricity
 话,hua4,spoken words/speech (c. 电话)
 电话,dian4 hua4,phone/telephone
@@ -320,7 +320,7 @@
 英语,ying1 yu3,english language (alt 英文)
 认,ren4,recognize/know (c. 认识/认真)
 识,shi2,know/knowledge (c. 认识)
-认识,ren4 shi2:,know personally/recognize a noun/meet
+认识,ren4 shi2:,know personally/recognize a noun/meet/acquainted with
 知,zhi1,know/aware (c. 知道/通知)
 道,dao4,road/principle/truth (c. 知道/难道)
 知道,zhi1 dao4,know about/aware of
@@ -378,7 +378,7 @@
 这两个,zhe4 liang3 ge4,these two
 这儿,zhe4 r,here/over here (northern)
 这里,zhe4 li3,here/over here (southern)
-谁,shei2,who?/whom?
+谁,shui2,who?/whom? (informal shei2)
 谁的,shei2 de,whose?
 有,you3,has/have/possess
 没有,mei2 you3,not have (negate past actions)/not as much as (n1-没有-n2-adj)
@@ -512,6 +512,7 @@
 报,bao4,announce/inform/report (c. 报纸/报销/报告/汇报)
 纸,zhi3,paper (c. 报纸)
 报纸,bao4 zhi3,newspaper
+视,shi4,look at/regard/inspect (c. 电视) vision
 电视,dian4 shi4,tv/television
 干,gan4,do/doing
 影,ying3,film (c. 电影)
@@ -746,6 +747,7 @@
 租,zu1,rent/hire
 汽,qi4,steam/vapor (c. 汽车)
 汽车,qi4 che1,car/automobile
+卡车,ka3 che1,truck vehicle
 出租车,chu1 zu1 che1,taxi
 打车,da3 che1,take a taxi
 公,gong1,public/fair/equitable (c. 公共/公司/公斤)
@@ -858,7 +860,7 @@
 他的头很疼,ta1 de tou2 hen3 teng2,his head hurts
 休,xiu1,rest/cease/stop for a period of time (c. 休息)
 息,xi1,breath/news/interest on investment (c. 休息)
-休息,xiu1 xi1,rest/take a break
+休息,xiu1 xi1:,rest/take a break
 疼,teng2,hurts/painful
 好吃,hao3 chi1,tasty/delicious/good to eat (adj)
 好喝,hao3 he1,tasty/delicious/good to drink (adj)
@@ -1438,7 +1440,7 @@
 一点儿都不苦,yi1:4 dia3 r dou1 bu4 ku3,not bitter at all/not even a little bitter
 不太大,bu4:2 tai4 da4,not too big/not so big/not very big
 有点辣,you3:2 dian3 la4,a bit spicy/a little spicy
-很舒服,hen3 shu1 fu2,comfortable (no intensity change)
+很舒服,hen3 shu1 fu2:,comfortable (no intensity change)
 短一点点,duan3 yi1:4 dian3 dian3:,a tiny bit shorter (non-person)
 长一点儿,chang2 yi1:4 dia3 r,a bit longer (non-person)
 比较矮,bi3 jiao4 ai3,shorter than/relatively short (person)
@@ -2136,7 +2138,7 @@
 计,ji4,plan/calculate/compute (c. 设计)
 设计,she4 ji4,design/plan (verb and noun)
 介意,jie4 yi4,care about/take offense/to mind
-如果你不介意，我就会通知房东,ru2 guo3 ni3 bu4 jie4 yi4 : wo3 jiu4 hui4 tong1 zhi1 fang2 dong1,if you do not mind i will notify the landlord
+如果你不介意，我就会通知房东,ru2 guo3 ni3 bu4:2 jie4 yi4 : wo3 jiu4 hui4 tong1 zhi1 fang2 dong1,if you do not mind i will notify the landlord
 我应该设计我的小说还是开始新的事业,wo3 ying1 gai1 she4 ji4 wo3 de xiao3 shuo1 hai2 shi4 kai1 shi3 xin1 de shi4 ye4,should i design my novel or start a new career?
 上空,shang4 kong1,overhead/in the sky
 感动,gan3 dong4,emotionally move/emotionally touch
@@ -2295,12 +2297,21 @@
 更新,geng1 xin1,renew/renovate/upgrade
 公民,gong1 min2,citizen
 公告,gong1 gao4,public announcement
+待,dai1,stay somewhere (verb)
 呆,dai1,stay somewhere (verb)/foolish or stupid (adj)
 呆十四天,dai1 shi2 si4 tian1,stay for 14 days
 我们要一起走,wo3 men yao4 yi1:4 qi3:2 zou3,we are going to leave together
 就我一个人走,jiu4 wo3 yi1:2 ge4 ren2 zou3,i am leaving alone
 几个星期,ji3 ge4 xing1 qi1,a few weeks (jxq)
-普通话，怎么说,pu3 tong1 hua4 : zen3 me shuo1,how do you say (phrase) in mandarin?
+普通话，怎么说,pu3 tong1 hua4 : zen3 me shuo1,how to say (phrase) in mandarin?
 收到,shou1 dao4,receive/roger that
 那是一家很好的饭店,na4 shi4 yi1:4 jia1 hen3:2 hao3 de fan4 dian4,that is a very good restaurant
-我看了几个朋友，我买了一点茶，然后我吃午饭了,wo kan4 le ji3 ge4 peng2 you3 : wo3 mai3 le yi1:4 dian3 cha2 : ran2 hou4 wo3 chi1 wu3 fan4 le,i saw a few friends i bought a little tea and then i ate lunch (list)
+我看了几个朋友，买了一点茶，然后吃午饭了,wo kan4 le ji3 ge4 peng2 you3 : mai3 le yi1:4 dian3 cha2 : ran2 hou4 chi1 wu3 fan4 le,i saw a few friends i bought a little tea and then i ate lunch (list)
+我在电视上看节目,wo3 zai4 dian4 shi4 shang4 kan4 jie2 mu4,i watch shows on tv
+请问，你有感冒药吗,qing3 wen4 : ni3:2 you3 gan3 mao4 yao4 ma,excuse me do you have cold medicine?
+炒面,chao3 mian4,fried noodles
+付,fu4,pay
+陪,pei2,accompany/keep someone company (c. 失陪)
+失陪,shi1 pei2,excuse me i must leave (lit. lose company)
+我还没有，什么,wo3 hai2 mei2 you3 : shen me2,i have not yet (verb) anything
+那个人叫什么名字,na4 ge4 ren2 jiao4 shen2 me ming2 zi,what is that person's name?
