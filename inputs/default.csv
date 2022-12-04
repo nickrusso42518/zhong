@@ -268,7 +268,7 @@
 错,cuo4,mistake/wrong/bad/incorrectly
 不错,bu4:2 cuo4,not bad/pretty good
 很,hen3,very/really (before verb)/noun-很-adj default connector
-呢,ne,and?/what about?/how about? (in-context suffix)
+呢,ne,and?/what about? (in-context suffix to contrast with others)
 和,he2,and/together with (link nouns)
 钱,qian2,money/coin
 字,zi4,letter/symbol/character/word
@@ -338,7 +338,7 @@
 怎,zen3,how
 怎么,zen3 me,how to?
 样,yang4,manner/way/appearance
-怎么样,zen3 me yang4,how?/how was it?/how are things?/how about?
+怎么样,zen3 me yang4,how?/how was it?/how are things?/how about? (follow up with suggestion)
 早上好,zao3 shang4 hao3,good morning
 安,an1,content/calm/secure/safe
 早安,zao3 an1,good morning
@@ -351,8 +351,8 @@
 纽,niu3,turn/wrench (c. 纽约)
 约,yue1,make appointment/invite (c. 纽约/约会)
 纽约,niu3 yue1,new york
-台,tai2,mw for machines used on a flat surface (eg computers phones)
-湾,wan1,bay or gulf (noun)/cast anchor or moor a boat (verb)
+台,tai2,mw for machines used on a flat surface (eg computers phones) (c. 台湾)
+湾,wan1,bay or gulf (noun)/cast anchor or moor a boat (verb) (c. 台湾)
 台湾,tai2 wan1,taiwan
 伦敦,lun2 dun1,london
 京,jing1,capital city/beijing (in context)
@@ -988,6 +988,7 @@
 火车站离机场远不远,huo3 che1 zhan4 li2 ji1 chang3:2 yuan3 bu4 yuan3,is the train station far from the airport?
 最近,zui4 jin4,recently/nearest
 走路,zou3 lu4,walk/go by foot
+我们得走路去那里,wo3 men dei3:2 zou3 lu4 qu4 na4 li3,we have to walk there/we have to go there on foot
 飞,fei1,fly (verb)
 飞机,fei1 ji1,airplane/flight
 场,chang3,large place/stage
@@ -1421,7 +1422,9 @@
 遇,yu4,encounter/receive/opportunity (c. 遇到)
 遇到,yu4 dao4,encounter/come across/run into
 好笑,hao3 xiao4,funny/laughable/ridiculous
-经常,jing1 chang2,often/frequently
+经常,jing1 chang2,frequently/often/constantly/regularly (sim. 常常)
+常常,chang2 chang2,frequently/often (sim. 经常)
+我常常坐公共汽车去,wo3 chang2 chang2 zuo4 gong1 gong4 qi4 che1 qu4,i often go by bus/i often take the bus to go
 热情,re4 qing2,passionate/warm-hearted/affectionate
 关心,guan1 xin1,care about/be concerned about
 我的妻子有点可怕,wo3 de qi1 zi you3:2 dian3 ke3 pa4,my wife is a little scary
@@ -2089,7 +2092,7 @@
 每周理发是浪费钱,mei3 zhou1 li3 fa4 shi4 lang4 fei4 qian2,weekly haircuts are a waste of money
 如果条件变化，就任务期间保持冷静,ru2 guo3 tiao2 jian4 bian4 hua4 : jiu4 ren4 wu4 qi2 jian1 bao3 chi2 leng3 jing4,if conditions change then remain calm during the mission
 你相信他们能介绍一些解答吗,ni3 xiang1 xin4 ta1 men neng2 jie4 shao4 yi1:4 xie1 jie3 da2 ma,do you believe they can present some solutions?
-请提醒她认真地表示我们的能力,qing3 ti2 xing3 ta1 ren4 zhen1 de biao3 da2 wo3 men de neng2 li4,please remind her to earnestly express our capabilities
+请提醒她认真地表示我们的能力,qing3 ti2 xing3 ta1 ren4 zhen1 de biao3 shi4 wo3 men de neng2 li4,please remind her to earnestly express our capabilities
 我打算选择一个奇怪的表演,wo3 da3 suan4 xuan3 ze2 yi1:2 ge4 qi2 guai4 de biao3:2 yan3,i intend to select a strange performance
 为了发财，你必须卖便宜的进口的,wei4 le fa1 cai2 : ni3 bi4 xu1 mai4 pian2 yi2 de jin4 kou3 de,in order to get rich you must sell cheap imported ones
 饼干,bing3 gan1,biscuit/cracker
@@ -2215,7 +2218,7 @@
 饶,rao2,rich/abundant/add for free (c. 饶舌)
 舌,she2,tongue (c. 饶舌)
 饶舌,rao2 she2,talkative (adj)/blather (verb)
-还好,hai2 hao3,not bad/tolerable
+还好,hai2 hao3,not bad/tolerable/fine
 听说,ting1 shuo1,hear something that was said
 表哥,biao3 ge1,maternal older male cousin
 表弟,biao3 di4,maternal younger male cousin
@@ -2315,3 +2318,5 @@
 别客气,bie2 ke4 qi4,don't stand on ceremony/don't be so formal
 葡萄,pu2 tao2:,grapes
 葡萄酒,pu2 tao2: jiu3,grape wine
+另,ling4,other/another/separate (c. 另外)
+另外,ling4 wai4,another/additional/moreover
