@@ -19,6 +19,12 @@ def process_args():
 
     parser = argparse.ArgumentParser()
     parser.add_argument(
+        "-a",
+        "--auto",
+        help="enable auto-play (hands-free) mode, Ctrl+C to quit",
+        action="store_true",
+    )
+    parser.add_argument(
         "-c",
         "--nochin",
         help="disable (mask) presentation of chinese symbols",

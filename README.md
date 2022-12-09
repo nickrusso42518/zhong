@@ -36,6 +36,7 @@ usage: play.py [-h] [-c] [-p] [-s] [-r RATE] [-i INFILE]
 
 options:
   -h, --help            show this help message and exit
+  -a, --auto            enable auto-play (hands-free) mode, Ctrl+C to quit
   -c, --nochin          disable (mask) presentation of chinese symbols
   -p, --nopin           disable (mask) presentation of pinyin symbols
   -s, --nosound         disable sound; no audio narration of phrases
@@ -54,6 +55,11 @@ Detailed explanation:
           example of proper formatting. The file may include comments beginning
           with the `#` symbolas in Python or YAML. Defaults to `default.csv`
           which is my current (and constantly growing) general-purpose list.
+
+  * `-a`: Enable auto-scroll (hands-free) mode. This disables per-question
+          input and automatically scrolls to the next question after a 5
+          second pause. It's good for practing pronunciating and listening
+          rather then translating into English.
 
   * `-s`: Enable nosound mode. This disables audio narration of the Chinese
           symbols. Learners must rely entirely on sight. The game will

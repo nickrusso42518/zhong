@@ -7,12 +7,16 @@ Description: Chinese language trainer. See README.md for details.
 
 import random
 import subprocess
+import time
 
 from colorama import Fore, Back, Style
 
 from utils.cliargs import process_args
 from utils.dictdb import lookup
 from utils.fileio import load_csv_data
+
+# Seconds to sleep after each item when auto is enabled
+AUTO_SLEEP = 5
 
 
 def main(args):
@@ -89,11 +93,18 @@ def run_attempt(args, chinese, pinyin, i, total):
             say_sp = subprocess.Popen(say_cmd.split(" "))
 
         # Prompt for input and string extra whitespace
-        attempt = input("english meaning: ").lower().strip()
+        if not args.auto:
+            attempt = input("english meaning: ").lower().strip()
 
         # If "say" command ran, ensure the process terminates
         if say_sp:
             say_sp.communicate()
+
+        # If in auto (hands-free) mode, wait a period of time, and
+        # hardcode a comma response
+        if args.auto:
+            time.sleep(AUTO_SLEEP)
+            attempt = ","
 
         # If user entered a question mark (?) then lookup symbols in dictionary
         # Overwrite attempt to a comma, which is guaranteed not to be correct
