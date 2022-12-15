@@ -87,9 +87,9 @@ def run_attempt(args, chinese, pinyin, i, total):
         print(f"  ({p_color}{pinyin}{Style.RESET_ALL})")
 
         # Spawn new process to run the "say" command if -s is not set (default)
-        # Example: say --voice=Ting-Ting --rate=150 电话号码
+        # Example: say --voice=tingting --rate=150 电话号码
         if not args.nosound:
-            say_cmd = f"say --voice=Ting-Ting --rate={args.rate} {chinese}"
+            say_cmd = f"say --voice=tingting --rate={args.rate} {chinese}"
             say_sp = subprocess.Popen(say_cmd.split(" "))
 
         # Prompt for input and string extra whitespace
