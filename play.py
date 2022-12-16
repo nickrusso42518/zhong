@@ -92,7 +92,7 @@ def run_attempt(args, chinese, pinyin, i, total):
             say_cmd = f"say --voice=tingting --rate={args.rate} {chinese}"
             say_sp = subprocess.Popen(say_cmd.split(" "))
 
-        # Prompt for input and string extra whitespace
+        # Prompt for input and strip extra whitespace
         if not args.auto:
             attempt = input("english meaning: ").lower().strip()
 
