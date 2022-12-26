@@ -49,7 +49,7 @@
 点,dian3,point/oclock/o'clock (after numbers)/order food/mouse click (slang)
 点钟,dian3 zhong1,oclock/o'clock (after numbers)
 半,ban4,half/half past the hour (30 minutes)
-四点,si4 dian3,4:00/4 oclock/4 o'clock
+四点钟,si4 dian3 zhong1,4:00/4 oclock/4 o'clock (alt. 四点)
 四点半,si4 dian3 ban4,4:30/half past 4
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
 四点零六,si4 dian3 ling2 liu4,4:06
@@ -975,8 +975,8 @@
 他是会开车的,ta1 shi4 hui4 kai1 che1 de,he would have driven (knows how to)
 你是能游泳的,ni3 shi4 neng2 you2 yong3 de,you could have swam (able to)
 她是可以睡觉的,ta1 shi4 ke3:2 yi3 shui4 jiao4 de,she was permitted to sleep/she could have slept
-你是什么时候来的,ni3 shi4 shen2 me shi2 hou4 lai2 de,when did you come?
-我是昨天早上来的,wo3 shi4 zuo2 tian1 zao3 shang4 lai2 de,i came yesterday morning/it was yesterday morning that i came (when)
+你是什么时候到的,ni3 shi4 shen2 me shi2 hou4 dao4 de,when did you arrive?
+我是昨天早上到的,wo3 shi4 zuo2 tian1 zao3 shang4 dao4 de,i arrived yesterday morning/it was yesterday morning that i arrived (when)
 你是在哪里喝的,ni3 shi4 zai4 na3:2 li3 he1 de,where did you drink? (southern)
 你是在哪儿喝的,ni3 shi4 zai4 na3 r he1 de,where did you drink? (northern)
 我是在那家酒店喝的,wo3 shi4 zai4 na4 jia1 jiu3 dian4 he1 de,i drank at that hotel/it was at that hotel that i drank (where)
@@ -987,7 +987,7 @@
 离,li2,away from/apart/distance between locations (loc1-离-loc2)
 远,yuan3,distant/far (loc1-离-loc2-很远)
 近,jin4,near/close/approximately (loc1-离-loc2-很近)
-餐厅离学校不近,can1 ting1 li2 xue2 xiao4 bu4:2 jin4,the restaurant is not near the school
+餐厅离学校不近,can1 ting1 li2 xue2 xiao4 bu4:2 jin4,the restaurant is not close to the school
 我们离酒店很近,wo3 men li2 jiu3 dian4 hen3 jin4,we are close to the hotel/we are near the hotel
 医院离这儿远吗,yi1 yuan4 li2 zhe4 r yuan3 ma,is the hospital far from here?
 火车站离机场远不远,huo3 che1 zhan4 li2 ji1 chang3:2 yuan3 bu4 yuan3,is the train station far from the airport?
@@ -1232,7 +1232,7 @@
 折,zhe2,bend/break/fracture (c. 打折)
 打折,da3 zhe2,offer a discounted price
 附,fu4,adhere to/be close to/attach (c. 附近)
-附近,fu4 jin4,vicinity/near/close (after location)
+附近,fu4 jin4,vicinity/nearby (location noun)
 出租车附近有两只鸟,chu1 zu1 che1 fu4 jin4 you3:2 liang3 zhi1 niao3,there are two birds near the taxi
 中间,zhong1 jian1,between/among
 园,yuan2,park/garden/orchard (c. 花园/公园)
@@ -1485,7 +1485,7 @@
 借,jie4,lend/borrow
 向，借，,xiang4 : jie4 :,from (someone) borrow (something)
 可以借我，吗,ke3:2 yi3 jie4 wo3 : ma,could you lend me ... ?/may i borrow ... ?
-让我向你借铅笔和纸,rang2 wo3 xiang4 ni3 jie4 qian1 bi3 he2 zhi3,let me borrow your pencil and paper
+让我向你借铅笔和纸,rang4 wo3 xiang4 ni3 jie4 qian1 bi3 he2 zhi3,let me borrow your pencil and paper
 天天,tian1 tian1,every day/daily/day by day
 向上,xiang4 shang4,upwards/advance/make progress
 向下,xiang4 xia4,downwards/regress
@@ -2135,7 +2135,7 @@
 难道,nan2 dao4,is it ... ?/could it be that ... ?
 实际,shi2 ji4,actual/reality/realistic/practical
 数字,shu4 zi4,number/numeral/digit/figure
-通知,tong1 zhi4,notify or inform (verb)/notice or notification (noun)
+通知,tong1 zhi1,notify or inform (verb)/notice or notification (noun)
 同时,tong2 shi2,simultaneously/at the same time
 同情,tong2 qing2,sympathy (noun and verb)
 小吃,xiao3 chi1,snack/refreshments
@@ -2195,7 +2195,7 @@
 你想去哪儿吃,ni3:2 xiang3 qu4 na3 r chi1,where would you like to go to eat?
 我那儿,wo3 na4 r,my place
 我不想去你那儿吃,wo3 bu4 xiang3 qu4 ni3 na4 r chi1,i do not want to go to your place to eat
-我也想喝一点儿东西,wo3:2 ye3 xiang3 he1 yi1:4 dian3 r dong1 xi1:,i also want drink something
+我也想喝一点东西,wo3:2 ye3 xiang3 he1 yi1:4 dian3 dong1 xi1:,i also want drink something
 怎么了,zen3 me le,what's wrong?/what happened?
 长得像,zhang3 de xiang4,looks like (people only)
 然后吗,ran2 hou4 ma,what next?/what then?/what happens after?
@@ -2390,7 +2390,8 @@
 比我好,bi3:2 wo3:2 hao3,better than i
 你慢慢来,ni3 man4 man4 lai2,take your time (lit. you slowly come)
 保龄球,bao3 ling2 qiu2,bowling
-哪儿可以换钱,na3 er ke3:2 yi3 huan4 qian2,where may i exchange money?/where can i exchange money? (alt. 我可以在哪儿换钱)
+哪儿可以,na3 er ke3:2 yi3,where may one ...?/where can one ...? (informal)
+哪儿可以换钱,na3 er ke3:2 yi3 huan4 qian2,where may one exchange money?/where can one exchange money? (alt. 我可以在哪儿换钱)
 商场,shang1 chang3,shopping mall/department store
 你网球打了多少年了,ni3:2 wang3 qiu2 da3 le duo1 shao3 nian2 le,how many years have you been playing tennis?
 十五年左右了,shi2 wu3 nian2 zuo3 you4 le,it has been 15 years more or less/about 15 years/15 years or so
