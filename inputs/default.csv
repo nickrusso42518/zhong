@@ -26,9 +26,9 @@
 八十七,ba1 shi2 qi1,87/eighty seven
 九十四,jiu3 shi2 si4,94/ninety four
 百,bai3,hundred
-一百,yi1 bai3,100/one hundred
+一百,yi1:4 bai3,100/one hundred
 一百零七,yi1:4 bai3 ling2 qi1,107/one hundred seven
-一百一十四,yi1 bai3 yi1 shi2 si4,114/one hundred fourteen
+一百一十四,yi1:4 bai3 yi1 shi2 si4,114/one hundred fourteen
 千,qian1,thousand
 万,wan4,ten thousand
 亿,yi4,hundred million
@@ -54,7 +54,7 @@
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
 四点零六,si4 dian3 ling2 liu4,4:06
 一下,yi1:2 xia4,a bit of effort/perform quickly (after action verb)
-一会儿,yi1:2 hui3 r,in a bit of time/in a moment (after subj)
+一会儿,yi1:2 hui4 r,in a bit of time/in a moment (after subj)
 一点儿,yi1:4 dia3 r,a bit of quantity (before obj)/a bit more (after adj)
 一点儿也不,yi1:4 dia3:2 r ye3 bu4,not at all/not even a bit (before adj & present or future & swap 也/都)
 一点儿都没,yi1:4 dia3 r dou1 mei2,not at all/not even a bit (before adj & past only & swap 都/也)
@@ -302,7 +302,7 @@
 中,zhong1,central/middle
 拿,na2,hold/take/get/seize/catch/apprehend (c. 拿出来/加拿大)
 美,mei3,beautiful (adj)/beautify (verb)
-英,ying1,hero/brave (rare)
+英,ying1,hero/brave (c. 英明)
 国,guo2,country/kingdom
 中国,zhong1 guo2,china country
 韩国,han2 guo2,korea country
@@ -697,7 +697,7 @@
 等等,deng3 deng3:,wait a bit/hold on/et cetera/etc.
 安静一下,an1 jing4 yi1:2 xia4,quiet down
 等一下,deng3 yi1:2 xia4,wait a bit/hold on
-等一会儿,deng3 yi1:2 hui3 r,wait a moment
+等一会儿,deng3 yi1:2 hui4 r,wait a moment
 看看,kan4 kan4:,look a bit/have a look
 说说,shuo1 shuo1:,speak a bit/say a few words
 走走,zou3 zou3:,walk a bit
@@ -1263,8 +1263,8 @@
 方,fang1,square/direction (cardinal)
 地方,di4 fang1:,area/place/site
 咖啡馆,ka1 fei1 guan3,cafe/coffee shop
-过一会儿,guo4 yi1:2 hui3 r,later/after a while
-过一会儿呢,guo4 yi1:2 hui3 r ne,how about later?
+过一会儿,guo4 yi1:2 hui4 r,later/after a while
+过一会儿呢,guo4 yi1:2 hui4 r ne,how about later?
 袋子,dai4 zi,bag
 经过,jing1 guo4,pass by/walk by
 退,tui4,step back/retreat/withdraw
@@ -1467,7 +1467,7 @@
 美极了,mei3 ji2 le,extremely pretty/extremely beautiful (formal)
 高兴死了,gao1 xing4 si3 le,happy to death/extremely happy (slang)
 太贵了,tai4 gui4 le,too expensive
-最好,zui4 hao3,best/superlatively good
+最好,zui4 hao3,best/superlatively good/someone had better do something
 食,shi2,eat or feed (verb)/food (noun)
 堂,tang2,hall/large room (c. 食堂)
 食堂,shi2 tang2,cafeteria/dining hall
@@ -1600,7 +1600,7 @@
 熊猫,xiong2 mao1,panda bear
 西安,xi1 an1,xian/xi'an (place)
 故宫,gu4 gong1,forbidden city/former palace
-功,gong1,achievement/accomplishment (c. 功夫)
+功,gong1,achievement/accomplishment (c. 功夫/成功)
 功夫,gong1 fu1:,kung fu
 自行车,zi4 xing2 che1,bicycle/bike
 文化,wen2 hua4,culture/civilization
@@ -1731,7 +1731,7 @@
 我为你父母的健康担心,wo3 wei4 ni3 fu4 mu3 de jian4 kang1 dan1 xin1,i am worried about your parents' health
 她为他的新汽车害怕,ta1 wei4 ta1 de xin1 qi4 che1 hai4 pa4,she is scared for his new car
 我跟我女朋友不是在网上认识的,wo3 gen1 wo3 nv3 peng2 you3: bu4:2 shi4 zai4 wang3 shang4 ren4 shi2: de,i did not meet my girlfriend online/it was not online that i met my girlfriend
-虽然我很饿，但是我不能吃饭,sui1 ran2 wo3:2 hen3 e4 : dan4 shi4 wo3 bu4 neng2 chi1 fan4,although i am hungry i cannot eat/i am hungry but i cannot eat
+虽然我饿了，但是我不能吃饭,sui1 ran2 wo3 e4 le : dan4 shi4 wo3 bu4 neng2 chi1 fan4,although i am hungry i cannot eat/i am hungry but i cannot eat
 如果您有点累，就去睡觉,ru2 guo3 nin2 you3:2 dian3 lei4 : jiu4 qu4 shui4 jiao4,if you are a bit tired then go to sleep/go to sleep if you are a bit tired
 一，就,yi1 : jiu4,as soon as ... (yi1 tone changes still apply)
 他一开始开车，就很放心,ta1 yi1:4 kai1 shi3 kai1 che1 : jiu4 hen3 fang4 xin1,as soon as he started driving he was relieved/he was relieved as soon as he started driving
@@ -2046,7 +2046,9 @@
 口,kou3,mouth/mw for mouthed things (c. 门口/进口/出口)
 门口,men2 kou3,doorway/gate
 出口,chu1 kou3,export/exit
-进口,jin4 kou3,import/entrance
+进口,jin4 kou3,import/entrance (alt. 入口)
+入,ru4,enter/go into/join (c. 入口)
+入口,ru4 kou3,import/entrance (alt. 进口) 
 差不多,cha4 bu4 duo1,about the same/more or less/good enough
 什么都,shen2 me dou1,everything/all (swap 都/也 for negatives only)
 龙什么蛋糕都爱吃,long2 shen2 me dan4 gao1 dou1 ai4 chi1,dragons love to eat all kinds of cake
@@ -2214,7 +2216,7 @@
 现在请听,xian4 zai4 qing3 ting1,please listen now
 美金,mei3 jin1,us dollars/usd
 喏,nuo4,here you are
-一会儿见,yi1:2 hui3 r jian4,see you later/see you soon
+一会儿见,yi1:2 hui4 r jian4,see you later/see you soon
 给你的,gei3:2 ni3 de,for you
 一杯啤酒多少钱,yi1:4 bei1 pi2 jiu3 duo1 shao3 qian2,how much money is one glass of beer?
 我有一点儿，不是很多,wo3:2 you3 yi1:4 dian3 r : bu4:2 shi4 hen3 duo1,i have some it is not very much
@@ -2476,7 +2478,7 @@
 那里有一位警察,na4 li3:2 you3 yi1:2 wei4 jing3 cha2,there is a police officer over there
 接待,jie1 dai4,receive a visitor/admit someone to enter (c. 接待员)
 接待员,jie1 dai4 yuan2,receptionist
-我肚子饿,wo du4 zi e4,i am hungry (alt. 我饿了)
+我肚子饿,wo3 du4 zi e4,i am hungry (alt. 我饿了)
 我口渴,wo3 kou3:2 ke3,i am thirsty (alt. 我渴了)
 你得问接待员,ni3:2 dei3 wen4 jie1 dai4 yuan2,you have to ask the receptionist
 搬到,ban1 dao4,moved to a specific place
@@ -2489,3 +2491,7 @@
 厕纸,ce4 zhi3,toilet paper
 停车,ting2 che1,stop the car/park the car
 骑车,qi2 che1,ride a bicycle/ride a motorcycle
+下次，什么时候开,xia4 ci4 : shen2 me shi2 hou4 kai1,when is the next (event)?
+五个站以后下车,wu3 ge4 zhan4 yi3 hou4 xia4 che1,after 5 stops get off/get off after 5 stops
+让我们在火车站的入口见,rang4 wo3 men zai4 huo3 che1 zhan4 de ru4 kou3 jian4,let's meet at the entrance to the train station
+成功,cheng2 gong1,succeed/success
