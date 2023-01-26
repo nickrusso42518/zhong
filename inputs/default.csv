@@ -69,8 +69,8 @@
 星期四,xing1 qi1 si4,thursday day of week
 星期五,xing1 qi1 wu3,friday day of week
 星期六,xing1 qi1 liu4,saturday day of week
-星期天,xing1 qi1 tian1,sunday day of week
-星期日,xing1 qi1 ri4,sunday day of week
+星期天,xing1 qi1 tian1,sunday day of week (c. 星期日)
+星期日,xing1 qi1 ri4,sunday day of week (c. 星期天)
 几,ji1 :: ji3,almost :: how many? (countable less than 10 with mw after)
 几点钟,ji3:2 dian3 zhong1,at what time? (alt. 几点)
 星期几,xing1 qi1 ji3,what day of the week?
@@ -447,7 +447,7 @@
 往,wang3,towards a place (before noun)
 走,zou3,walk/go (describes ongoing motion)
 怎么走,zen3 me zou3,how to get?/how to go? (to a place)
-路,lu4,road/the way
+路,lu4,road/the way (c. 走路)
 左,zuo3,left direction
 右,you4,right direction
 边,bian1,boundary/side/edge (cardinal or relative)
@@ -485,6 +485,8 @@
 床,chuang2,bed (c. 起床)
 起床,qi3 chuang2,arise from bed/wake up/get up/get out of bed
 班,ban1,work shift/team/class
+睡,shui4,sleep/lie down (c. 睡觉)
+觉,jue2 :: jiao4,feel/think (verb) :: sleep/nap (noun) (c. 睡觉/觉得)
 睡觉,shui4 jiao4,sleep/go to bed
 回,hui2,return/go back/turn around
 放,fang4,put/release/free/let go
@@ -1320,7 +1322,6 @@
 先，然后，最后,xian1 : ran2 hou4 : zui4 hou4,first ... then ... last
 往左去,wang3:2 zuo3 qu4,go left
 往右走,wang3 you4 zou3,walk right
-往前开车,wang3 qian2 kai1 che1,drive straight/drive forward
 往后看,wang3 hou4 kan4,look backwards/look behind
 直,zhi2,straight/reasonable/frank (c. 一直)
 一直,yi1:4 zhi2,constantly/continuously/all along/always doing something
@@ -1942,7 +1943,8 @@
 项目,xiang4 mu4,work project
 汇,hui4,remit/exchange (c. 汇报)
 汇报,hui4 bao4,report on/give an account of
-签名,qian1 ming2,sign name (verb)/signature (noun)
+签名,qian1 ming2,sign name (verb)/signature (noun) (alt. 签字)
+签字,qian1 zi4,sign name (verb)/signature (noun) (alt. 签名)
 低,di1,low/beneath/let droop
 资,zi1,capital/resources (c. 资本)
 资本,zi1 ben3,capital
@@ -2041,7 +2043,7 @@
 猫头鹰,mao1 tou2 ying1,owl
 羽,yu3,feather (c. 羽毛)
 羽毛,yu3 mao2,feather/plumage/plume
-橙,cheng2,orange color
+橙,cheng2,orange color (c. 香橙)
 醒,xing3,wake up/become aware/sober up (c. 提醒)
 提醒,ti2 xing3,remind/warn/call attention to
 口,kou3,mouth/mw for mouthed things (c. 门口/进口/出口)
@@ -2286,7 +2288,8 @@
 于是,yu2 shi4,consequently/as a result
 羽毛球,yu3 mao2 qiu2,badminton
 原因,yuan2 yin1,reason/root cause
-真正,zhen1 zheng4,genuine/genuinely/real
+真正,zhen1 zheng4,genuine/authentic/real (c. 真实)
+真实,zhen1 shi2,genuine/authentic/real (c. 真正)
 直接,zhi2 jie1,direct/immediate (opp. 间接)
 间接,jian4 jie1,indirect (opp. 直接)
 只要,zhi3 yao4,only if/so long as
@@ -2392,7 +2395,7 @@
 月台,yue4 tai2,railway platform
 几号月台,ji3 hao4 yue4 tai2,which railway platform?
 快车,kuai4 che1,express train/express bus
-真糟糕,zhen1 zao1 gao1,too bad/how terrible
+糟糕,zao1 gao1,too bad/terrible
 假日,jia4 ri4,holiday/non-working day
 东京,dong1 jing1,tokyo (lit. east capital)
 我可以在哪儿买邮票,wo3 ke3:2 yi3 zai4 na3:2 r mai3 you2 piao4,where can i buy stamps?
@@ -2498,3 +2501,33 @@
 成功,cheng2 gong1,succeed/success
 上司,shang4 si1:,supervisor/superior
 演唱会,yan3 chang4 hui4,concert/voice recital
+一点小意思,yi1:4 dian3:2 xiao3 yi4 si1:,here's a small token (say when giving a gift)
+这种花普通话叫什么,zhe4 zhong3 hua1 pu3 tong1 hua4 jiao4 shen2 me,what is this flower called in mandarin?/what is this kind of flower called in mandarin?
+赏,shang3,appreciate beauty/bestow a reward
+有空的时候,you3 kong4 de shi2 hou4,when there is free time
+挤,ji3,crowd in/cram in/squeeze
+藏,cang2,conceal/store/collect (c. 藏品)
+品,pin3,commodity/product/goods (c. 藏品)
+藏品,cang2 pin3,museum piece/precious object
+钥匙,yao4 shi,key (to open a door)
+打字,da3 zi4,type on a keyboard
+房间还没有准备好,fang2 jian4 hai2 mei2 you3 zhen3 bei4 hao3,room is still not ready/room is not ready yet
+替,ti4,to substite for/take the place of/replace/on behalf of
+食物,shi2 wu4,food
+应该早点，的,ying1 gai1 zao3:2 dian3 : de,should have ... earlier
+本来可以晚点，的,ben3 lai2 ke3:2 yi3 wan3:2 dian3 : de,could have ... later (alt. 原本 or 能)
+原本能快点，的,yuan2 ben3 neng2 kuai4 dian3 : de,could have ... faster (alt. 本来 or 可以)
+旅行支票,lv3 xing2 zhi1 piao4,traveler's checks
+表格,biao3 ge2,paperwork form
+填,tian2,fill in/fill out a form
+请填这张表格,qing3 tian2 zhe4 zhang1 biao3 ge2,please fill out this form
+好多了,hao3 duo1 le,much better
+好一点了,hao3 yi1:4 dian3 le,a little better
+古,gu3,ancient/old (c. 古典)
+古典,gu3:2 dian3,classical (music architecture etc)
+厉,li4,strict/severe (c. 厉害)
+厉害,li4 hai4:,awesome/makes a strong impression
+美食,mei3 shi2,fine food/gourmet food/delicacy
+肠,chang2,intestines (c. 香肠)
+香肠,xiang1 chang2,sausage
+香橙,xiang1 cheng2,orange tree/orange fruit
