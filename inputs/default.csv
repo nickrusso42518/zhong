@@ -35,6 +35,7 @@
 现,xian4,appear/present/now (c. 现在)
 现在,xian4 zai4,now/right now (cannot reference past)
 今,jin1,present/current/this time period
+天,tian1,day/sky/heaven component
 今天,jin1 tian1,today
 明,ming2,bright/next (day or year)
 明天,ming2 tian1,tomorrow
@@ -123,6 +124,7 @@
 每周,mei3 zhou1,weekly/every week
 每月,mei3 yue4,monthly/every month
 每年,mei3 nian2,yearly/every year
+午,wu3,noon component
 下午,xia4 wu3,afternoon
 中午,zhong1 wu3,noon/midday
 晚上,wan3 shang4,night/evening/pm time
@@ -620,7 +622,8 @@
 爱好,ai4 hao4,hobby/interest
 松,song1,loose (noun)/loosen (verb) (c. 轻松)
 轻,qing1,light/easy/gentle/soft (c. 轻松/轻声)
-轻松,qing1 song1,relax/take things less seriously
+轻松,qing1 song1,take things less seriously/not demanding (adj)
+放松,fang1 song1,loosen/relax (verb)
 旅游,lv3 you2,trip/personal travel (noun) (alt. 旅行)
 旅行,lv3 xing2,trip/personal travel (noun) (alt. 旅游)
 照,zhao4,illuminate/shine/reflect (c. 照相机/拍照/照片/照顾)
@@ -1338,6 +1341,7 @@
 回国,hui2 guo2,return to home country
 普,pu3,general/popular/everywhere/universal (c. 普通)
 通,tong1,go through/know well/connect/communicate (c. 普通/通知)
+通常,tong1 chang2,normally/generally
 普通,pu3 tong1,ordinary/common/general (c. 普通话)
 普通话,pu3 tong1 hua4,mandarin chinese language/common language (alt. 国语)
 国语,guo2 yu3,mandarin chinese language/national language (alt. 普通话)
@@ -1682,7 +1686,8 @@
 翻,fan1,overturn/flip over/decode (c. 翻译)
 译,yi4,translate/interpret (c. 翻译)
 翻译,fan1 yi4,translate (verb)/translation or translator (noun)
-调,tiao2,transfer/move/change (c. 空调)
+调,diao4 :: tiao2,musical key/mode/tone/tune/melody (c. 音调) :: blend/adjust/regulate (c. 空调)
+音调,yin1 diao4,tone/pitch
 空调,kong1 tiao2,air conditioner/ac
 把,ba3,disposal of object to focus on result/object prefix particle (subj-把-obj-verb)
 我的狗把作业吃了,wo3 de gou3:2 ba3 zuo4 ye4 chi1 le,my dog ate the homework
@@ -1720,7 +1725,6 @@
 于,yu2,to/with regard to (c. 终于/关于)
 终,zhong1,end/finish (c. 终于)
 束,shu4,bunch/bundle (mw) (c. 结束)
-放松,fang1 song1,loosen/relax
 终于,zhong1 yu2,finally/at last
 结束,jie2 shu4,finish/conclude (standalone verb)
 担,dan1,undertake/take responsibility for (c. 担心)
@@ -2181,7 +2185,7 @@
 其次,qi2 ci4,next/secondly
 其中,qi2 zhong1,included among these
 说明,shuo1 ming2,explain/illustrate/indicate
-所有,suo3:2 you3,have/possess/own
+所有,suo3:2 you3,have/possess/own/all (before noun)
 提前,ti2 qian2,move to earlier date/do something ahead of time
 推,tui1,push/cut/refuse/reject/decline (c. 推迟)
 推迟,tui1 chi2,postpone/delay
@@ -2269,12 +2273,13 @@
 方向,fang1 xiang4,direction/orientation
 记者,ji4 zhe3,reporter/journalist
 理解,li3:2 jie3,comprehend/understand (verb or noun)
-平时,ping2 shi2,peacetime/normal times
+平时,ping2 shi2,ordinarily/peacetime/normal times
 生命,sheng1 ming4,life (of a living thing)
 十分,shi2 fen1,completely/utterly
 实在,shi2 zai4,really/actually/true
 受到,shou4 dao4,receive/suffer
 受不了,shou4 bu4 liao3,unbearable/cannot endure
+了不起,liao3 bu4 qi3,amazing/terrific/extraordinary
 特点,te4 dian3,trait/characteristic/feature
 通过,tong1 guo4,by means of/via
 完全,wan2 quan2,complete/whole/totally
@@ -2531,3 +2536,25 @@
 肠,chang2,intestines (c. 香肠)
 香肠,xiang1 chang2,sausage
 香橙,xiang1 cheng2,orange tree/orange fruit
+发音,fa1 yin1,pronunciation
+拼,pin1,piece together/spell (c. 拼音)
+拼音,pin1 yin1,pinyin/spelled sounds
+上床,shang4 chuang2,go to bed/get on the bed
+拳,quan2,fist/boxing (c. 太极拳)
+太极拳,tai4 ji2 quan2,taiji/taichi (martial art)
+之,zhi1,literary posessive particle (alt. 的)
+健身房,jian4 shen1 feng2,gymnasium (alt. 体育馆) (alt. 健身房)
+运动员,yun4 dong4 yuan2,athlete
+疯,feng1,insane/mad/wild
+病人,bing4 ren4,sick person/medical patient
+权力,quan2 li4,power/authority
+金钱,jin1 qian2,money (standalone noun)
+安全感,an1 quan2 gan3,sense of security
+日程,ri4 cheng2,schedule/itinerary
+代,dai4,substitute or replace (verb)/generation or dynasty (noun) (c. 现代化)
+现代化,xian4 dai4 hua4,modern/modernization
+我开车送你去机场,wo3 kai1 che1 song4 ni3 qu4 ji1 chang3,i will drive you to the airport
+航,hang2,navigate (verb)/boat or craft (noun) (c. 航班)
+航班,hang2 ban1,flight/sailing trip
+晚点了,wan3:2 dian3 le,late/delayed/behind scheduled
+谢谢你来机场接我,xie4 xie4: ni3 lai2 ji1 chang3 jie1 wo3,thank you for picking me up at the airport/thank you for coming to the airport to pick me up
