@@ -168,7 +168,6 @@
 们,men,plural modifier for pronouns and some people
 我们,wo3 men,we/us
 你们,ni3 men,you (plural & informal)
-您们,nin2 men,you (plural & formal)
 他们,ta1 men,they/them (male or mixed)
 她们,ta1 men,they/them (female)
 它们,ta1 men,they/them (non-human)
@@ -181,7 +180,6 @@
 它的,ta1 de,its
 我们的,wo3 men de,our/ours
 你们的,ni3 men de,your/yours (plural & informal)
-您们的,nin2 men de,your/yours (plural & formal)
 他们的,ta1 men de,their/theirs (male or mixed)
 她们的,ta1 men de,their/theirs (female)
 它们的,ta1 men de,their/theirs (non-human)
@@ -531,7 +529,7 @@
 手机,shou3 ji1,cell phone
 手机游戏,shou3 ji1 you2 xi4,cell phone games
 明星,ming2 xing1,celebrity
-新,xin1,new/newly (c. 新闻)
+新,xin1,new/newly (c. 新闻) (opp. 旧)
 闻,wen2,hear/smell (c. 新闻)
 新闻,xin1 wen2,news
 节,jie2,economize or save (verb)/festival or holiday (noun) (c. 节目/节日/节约)
@@ -593,7 +591,7 @@
 鸡蛋,ji1 dan4,chicken egg
 蔬菜,shu1 cai4,vegetables/produce
 鲜,xian1,fresh/delicious (c. 新鲜/海鲜)
-新鲜,xin1 xian1,fresh/novel/uncommon (experience or food)
+新鲜,xin1 xian1,fresh/novel/uncommon (adj)
 包,bao1,mw for small sealed bags like snacks
 袋,dai4,mw for large open bags like shopping
 面包,mian4 bao1,bread
@@ -1628,7 +1626,7 @@
 故宫,gu4 gong1,forbidden city/former palace
 功,gong1,achievement/accomplishment (c. 功夫/成功)
 功夫,gong1 fu1:,kung fu
-自行车,zi4 xing2 che1,bicycle/bike
+自行车,zi4 xing2 che1,bicycle/bike (lit. self moving vehicle)
 文化,wen2 hua4,culture/civilization
 历,li4,history/experience/undergo (c. 历史/经历)
 史,shi3,history/annals (c. 历史/大使馆)
@@ -2612,13 +2610,15 @@
 今天已经过去了,jin1 tian1 yi3 jing1 guo4 qu4 le,today is over/today has passed
 或许,huo4 xu3,perhaps/maybe
 文案,wen2 an4,written article/copy of something/paperwork
+宣,xuan1,publicly declare/announce (c. 宣传)
+传,chuan2,pass on/spread/transmit/infect (c. 传统/宣传)
 宣传,xuan1 chuan2,disseminate/spread information
 名词,ming2 ci2,noun
 动词,dong4 ci2,verb
 我家有三口人,wo3 jia1 you3 san1 kou3 ren2,there are 3 people in my family/my family has 3 people
 睡过头,shui4 guo4 tou2,oversleep
 线,xian4,thread/string/wire/line
-地铁十七号线,di4 tie3 shi4 qi1 hao4 xian4,metro line 17/subway line 17
+地铁十七号线,di4 tie3 shi2 qi1 hao4 xian4,metro line 17/subway line 17
 薄,bao2,thin/indifferent/weak (opp. 厚)
 厚,hou4,thick/deep/kind (opp. 薄)
 请慢一点说,qing3 man4 yi1:4 dian3 shuo1,please speak slowly/please slow down
@@ -2628,8 +2628,7 @@
 迹,ji4,footprint/mark/trace (c. 古迹)
 古迹,gu3 ji4,historic sites
 摩天大楼,mo2 tian1 da4 lou2,skyscraper building
-每天都过得很开心,mei3 tian1 dou1 guo4 de hen3 kai1 xin1,have a great time every day
-他住得离公司很远,ta1 zhu4 de li2 gong1 si1 hen3 yuan3,he lives far from the company
+他住得离公司很远,ta1 zhu4 de li2 gong1 si1 hen3:2 yuan3,he lives far from the company
 上下班,shang4 xia4 ban1,start and finish work
 数码,shu4 ma3,number/numerals/figures/digital
 数码相机,shu4 ma3 xiang4 ji1,digital camera
@@ -2643,14 +2642,14 @@
 企,qi3,plan a project/stand on tiptoe (c. 企业)
 企业,qi3 ye4,firm/enterprise/corporation
 艳,yan4,colorful/splendid/gaudy (c. 鲜艳)
-鲜艳,xian4 yan4,bright-colored
+鲜艳,xian1 yan4,bright-colored
 电影院,dian4 ying3 yuan4,cinema/movie theater
 出门,chu1 men2,go out through a door
 进门,jin4 men2,go in through a door
 你说得对,ni3 shou1 de dui4,you are correct/you said it correctly
 酷,ku4,cool (adv & loanword)
 自学,zi4 xue2,to teach one's self
-你去过汽车博物馆吗,ni3 qu4 gua4 qi4 che1 bo2 wu4 guan3 ma,have you ever been to the car museum?
+你去过汽车博物馆吗,ni3 qu4 guo4 qi4 che1 bo2 wu4 guan3 ma,have you ever been to the car museum?
 你最喜欢的果汁是苹果汁还是橙汁,ni3 zui4 xi3 huan1 de guo3 zhi1 shi4 ping2 guo3 zhi1 hai2 shi4 cheng2 zhi1,is your favorite fruit juice apple juice or orange juice?
 单位,dan1 wei4,work unit
 乖,guai1,well-behaved (child)/obediently (alt. 乖乖)
@@ -2660,3 +2659,22 @@
 健身,jian4 shen1,exercise/work out
 棵,ke1,mw for plants (trees and bamboo)
 那棵树下有四棵竹子,na4 ke1 shu4 xia4 you3 si4 ke1 zhu2 zi,there are four bamboos under that tree
+人权,ren2 quan2,human rights
+自由,zi4 you2,freedom/liberty
+难怪,nan2 guai4,no wonder/not surprising
+统,tong3,gather/unite/unify (c. 传统)
+传统,chuan2 tong3,traditional/conventional
+有害,you3 hai4,harmful/destructive/damaging
+旧,jiu4,old/worn with age (opp. 新)
+旧汽车对环境有害,jiu4 qi4 che1 dui4 huan2 jing4 you3 hai4,old cars are bad for the environment
+难怪你不是车迷,nan2 guai4 ni3 bu4:2 shi4 che1 mi2,no wonder you are not a car fan
+骑自行车对身体健康好,qi2 zi4 xing2 che1 dui4 shen1 ti3 jian4 kang1 hao3,cycling is good for health/riding a bicycle is good for health
+灰,hui1,gray color/ash/dust
+电动,dian4 dong4,electric-powered (c. 电动汽车)
+电动汽车,dian4 dong4 qi4 che1,electric car
+员工,yuan2 gong1,employee/personnel/staff
+你们的车是什么颜色,ni3 men de che1 shi4 shen2 me yan2 se4,what color is your car?
+我的车是黑色的，我妻子的电动汽车是灰色的,wo3 de che1 shi4 hei1 se4 de :: wo3 qi1 zi de dian4 dong4 qi4 che1 shi4 hui1 se4 de,my car is black and my wife's electric car is gray
+街头,jie1 tou2,street corner
+早操,zao3 cao1,morning exercises
+退休,tui4 xiu1,retire/go into retirement
