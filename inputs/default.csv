@@ -790,10 +790,11 @@
 晚,wan3,night/evening/late (adj)
 明天早上很早,ming2 tian1 zao3 shang4 hen3:2 zao3,early tomorrow morning
 昨天晚上很晚,zuo2 tian1 wan3 shang4 hen3:2 wan3,late last night
-筷子,kuai4 zi,chopsticks
-勺子,shao2 zi,spoon/ladle
-叉,cha1,fork
-刀,dao1,knife/blade
+筷,kuai4,chopsticks (alt. 筷子)
+勺,shao2,spoon/ladle (alt. 勺子)
+叉,cha1,fork (alt. 叉子)
+刀,dao1,knife/blade (alt. 刀子)
+汤勺,tang1 shao2,ladle/soup spoon
 碗,wan3,bowl (mw and noun)
 杯,bei1,cup/glass (mw)
 杯子,bei1 zi,cup/glass (noun)
@@ -1942,6 +1943,7 @@
 微,wei1,tiny/miniature/slightly (c. 微信/微博)
 微信,wei1 xin4,weixin/wechat (chinese collab app)
 微博,wei1 bo2,weibo/microblogging (chinese twitter)
+微辣,wei1 la4,mildly spicy
 美图,mei3 tu2,meitu (chinese photo filter app)
 赞,zan4,praise/support/like on social media (slang)
 关注,guan1 zhu4,pay attention to/follow on social media (slang)
@@ -2069,7 +2071,9 @@
 猫头鹰,mao1 tou2 ying1,owl
 羽,yu3,feather (c. 羽毛)
 羽毛,yu3 mao2,feather/plumage/plume
-橙,cheng2,orange color (c. 香橙)
+橙,cheng2,orange color (c. 橙子/香橙)
+橙子,cheng2 zi,orange fruit
+香橙,xiang1 cheng2,orange tree/orange fruit
 醒,xing3,wake up/become aware/sober up (c. 提醒)
 提醒,ti2 xing3,remind/warn/call attention to
 口,kou3,mouth/mw for mouthed things (c. 门口/进口/出口)
@@ -2561,7 +2565,6 @@
 美食,mei3 shi2,fine food/gourmet food/delicacy
 肠,chang2,intestines (c. 香肠)
 香肠,xiang1 chang2,sausage
-香橙,xiang1 cheng2,orange tree/orange fruit
 发音,fa1 yin1,pronunciation
 拼,pin1,piece together/spell (c. 拼音)
 拼音,pin1 yin1,pinyin/spelled sounds
@@ -2765,3 +2768,12 @@
 农,nong2,to farm (verb)/agriculture (noun) (c. 农场)
 农场,nong2 chang3,farm (noun)
 遛,liu4,to walk an animal (eg. 遛鸟/遛狗)
+牌,pai2,playing card/mahjong tile/game piece
+腐,fu3,decay/rotten (c. 豆腐)
+豆腐,dou4 fu3:,tofu
+请豆腐里别放肉,qing3 dou4 fu3: li3 bie2 fang4 rou4,please do not put meat in the tofu
+壶,hu2,pot/kettle/mw for bottled liquid
+一壶茶，两双筷子，和三碗豆腐,yi1:4 hu2 cha2 : liang3 shuang1 kuai4 zi : he2 san1 wan3 dou4 fu3:,one pot of tea two pairs of chopsticks and three bowls of tofu
+动物园,dong4 wu4 yuan2,zoo
+素,su4,vegetarian food
+我的妻子吃素,wo3 de qi1 zi chi1 su4,my wife is a vegetarian/my wife eats vegetarian food
