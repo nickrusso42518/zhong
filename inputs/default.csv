@@ -103,8 +103,8 @@
 可,ke3,can/may (c. 可以/可爱/可能/可是)
 以,yi3,by means of/according to (c. 可以/所以/以后/以前)
 可以,ke3:2 yi3,may/allowed to/permitted to
-会,hui4,can apply or know (a learned skill)/will (with future time reference)
-能,neng2,able to/physically capable of doing
+会,hui4,can apply or know how to (learned skill)/will (with future time reference)
+能,neng2,be able to/physically capable of doing
 上,shang4,previous (hour & week & month)/to go to (work/class)/above/on/embark onto vehicle
 下,xia4,next (hour & week & month)/to get off (work/class)/below/under/disembark from vehicle
 每,mei3,every (all time periods)
@@ -1293,7 +1293,7 @@
 马上,ma3 shang4,immediately/right away/at once (before verb)
 刷,shua1,clean with a brush/scrub (c. 刷牙)/scroll through social media (slang)
 刷牙,shua1 ya2,brush teeth
-澡,zao3,wash/bathe (c. 洗澡)
+澡,zao3,bath (noun) (c. 洗澡)
 洗澡,xi3:2 zao3,shower/bathe
 惯,guan4,habit/custom (c. 习惯)
 习惯,xi2 guan4,habit (noun)/habitually or accustomed to (verb)
@@ -1664,7 +1664,7 @@
 咳,ke2,cough (noun) (c. 咳嗽)
 嗽,sou4,cough (verb) (c. 咳嗽)
 咳嗽,ke2 sou4:,cough (verb)
-照顾,zhao4 gu4,take care of/attend to/look after
+照顾,zhao4 gu4:,take care of/attend to/look after
 银,yin2,silver/relating to money (c. 银行)
 银行,yin2 hang2,money bank
 转,zhuan3,turn/change direction/transfer (c. 转机)
@@ -1725,11 +1725,12 @@
 打扫干净,da3:2 sao3 gan1 jing4,clean until complete
 梯,ti1,stairs/ladder (c. 电梯)
 电梯,dian4 ti1,elevator/escalator
+楼梯,lou2 ti1,stairs/staircase
 厕,ce4,toilet/lavatory (c. 厕所/厕纸)
 厕所,ce4 suo3,toilet/lavatory
 坏,huai4,spoiled or broken (adj)/to break down (verb)
 被,bei4,by/passive voice (obj-被-subj-verb)
-两间厨房被你奶奶打扫干净,liang3 jian1 chu2 fang2 bei4 ni3:2 nai3 nai da3:2 sao3 gan1 jing4,two kitchens were cleaned by your grandmother
+两间厨房被你奶奶打扫干净,liang3 jian1 chu2 fang2 bei4 ni3:2 nai3 nai3: da3:2 sao3 gan1 jing4,two kitchens were cleaned by your grandmother
 灯被一只猫关了,deng1 bei4 yi1:4 zhi1 mao1 guan1 le,the light was turned off by a cat
 别为那个生气,bie2 wei4 na4 ge4 sheng1 qi4,do not be angry about that
 寒,han2,cold/poor (c. 寒假)
@@ -2176,7 +2177,8 @@
 通知,tong1 zhi1,notify or inform (verb)/notice or notification (noun)
 同时,tong2 shi2,simultaneously/at the same time
 同情,tong2 qing2,sympathy (noun and verb)
-小吃,xiao3 chi1,snack/refreshments
+小吃,xiao3 chi1,snacks/refreshments (alt. 零食)
+零食,ling2 shi2,snacks (alt. 小吃)
 消息,xiao1 xi1:,news/information
 许,xu3,perhaps/allow/permit/promise/praise (c. 也许)
 也许,ye3:2 xu3,perhaps/maybe
@@ -2221,7 +2223,7 @@
 知识,zhi1 shi2,knowledge/intellectual
 值得,zhi2 de,deserve/be worth
 只好,zhi3:2 hao3,be forced to/no better option
-我不值得她，可是她只好接受我,wo3 bu4 zhi2 de2 ta1 : ke3 sh4 ta1 zhi3:2 hao3 jie1 shou4 wo3,i do not deserve her but she is forced to accept me
+我不值得她，可是她只好接受我,wo3 bu4 zhi2 de ta1 : ke3 sh4 ta1 zhi3:2 hao3 jie1 shou4 wo3,i do not deserve her but she is forced to accept me
 你有一些知识，看法是什么,ni3:2 you3 yi1:4 xie1 zhi1 shi4 : kan4 fa3 shi4 shen2 me,you have some knowledge what is your opinion?
 我当然愿意吃汤圆和粽子,wo3 dang1 ran2 yuan4 yi4 chi1 tang1 yuan2 he2 zong4 zi,of course i am willing to eat sticky rice balls and sticky rice dumplings
 我阿姨只有零钱，我叔叔可不可以推迟约会,wo3 a1 yi2 zhi3:2 you3 ling2 qian2 : wo3 shu1 shu1: ke3 bu4 ke3:2 yi3 tui1 chi2 yue1 hui4,my aunt only has change can my uncle postpone the date?
@@ -2367,7 +2369,6 @@
 竟,jing4,unexpectedly (c. 竟然)
 竟然,jing4 ran2,unexpectedly/to one's surprise
 拿铁,na2 tie3,latte (loanword)
-零食,ling2 shi2,snack
 自动柜员机,zi4 dong4 gui4 yuan2 ji1,atm machine
 陪,pei2,accompany/keep someone company (c. 失陪)
 失陪,shi1 pei2,excuse me i must leave (lit. lose company)
@@ -2777,3 +2778,11 @@
 动物园,dong4 wu4 yuan2,zoo
 素,su4,vegetarian food
 我的妻子吃素,wo3 de qi1 zi chi1 su4,my wife is a vegetarian/my wife eats vegetarian food
+体操,ti3 cao1,gymnastics
+海报,hai3 bao4,poster
+治,zhi4,rule/govern/control (c. 三明治)
+三明治,san1 ming2 zhi4,sandwich food (loanword)
+继,ji4,continue/follow (c. 继续)
+续,xu4,continue/replenish (c. 继续)
+继续,ji4 xu4,continue/proceed/go on with
+单身,dan1 shen1,single/unmarried
