@@ -11,7 +11,7 @@ import sys
 
 
 # Rare cases of chinese symbols not in the correct unicode range
-C_SYM_EXCEPTIONS = ["〇", "，", "。"]
+C_SYM_EXCEPTIONS = ["〇", "，", "。", "、"]
 
 # Identify valid pinyin characters. Numbers 1-4 map to the chinese tones.
 # The : symbol represents a non-written tone transition via special rule.
