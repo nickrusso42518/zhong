@@ -108,7 +108,7 @@
 下,xia4,next (hour & week & month)/to get off (work/class)/below/under/disembark from vehicle
 每,mei3,every (all time periods)
 钟,zhong1,bell/oclock/o'clock
-分,fen1,slice/fraction/minute on clock (specify time)/hundreth of yuan
+分,fen1,slice/fraction/minute on clock (specify time)/hundreth of yuan/to distinguish/to divide
 分钟,fen1 zhong1,duration of minutes
 末,mo4,end/final stage/latter part (c. 周末)
 周,zhou1,lap/cycle/week (c. 周末)
@@ -338,6 +338,8 @@
 医,yi1,medical/medicine (c. 医生)
 生,sheng1,raw or immature (adj)/life (noun) (c. 医生/学生)
 医生,yi1 sheng1,doctor/dr.
+中医,zhong1 yi1,chinese medicine (or a doctor trained in it)
+西医,xi1 yi1,western medicine (or a doctor trained in it)
 学生,xue2 sheng1,student
 怎,zen3,how
 怎么,zen3 me,how to?
@@ -648,7 +650,7 @@
 抽,chou1,draw out/remove part of the whole (c. 抽烟)
 烟,yan1,cigarette/tobacco/smoke/mist (c. 抽烟)
 抽烟,chou1 yan1,smoke a cigarette (verb)
-还,hai2,still in progress/still more/yet/moderate positive adj (before adj)
+还,hai2 :: huan2,still/yet/moderate positive adj intensifier :: to give back an item/to return an item
 还是,hai2 shi4,or?/still is/nevertheless
 肉,rou4,meat/flesh/pulp of a fruit
 牛肉,niu2 rou4,beef/cow meat
@@ -725,7 +727,7 @@
 业,ye4,industry/occupation (c. 商业/作业)
 商业,shang1 ye4,business
 迎,ying2,meet/welcome/greet (c. 迎接/欢迎)
-接,jie1,connect/receive/meet (c. 迎接)
+接,jie1,pick up someone/receive/meet (c. 迎接)
 迎接,ying2 jie1,meet/greet/welcome (verb)/greeting (noun)
 欢迎,huan1 ying2,welcome (verb or noun) (c.  欢迎光临)
 临,lin2,face/overlook (verb) (c. 光临)
@@ -1304,7 +1306,7 @@
 做梦,zuo4 meng4,dream (verb or noun)
 故,gu4,ancient/old/former (c. 故事/故宫/故意)
 故事,gu4 shi4:,story/tale
-讲,jiang3,speak/explain/talk (rare)
+讲,jiang3,explain/emphasize/negotiate
 除,chu2,remove/exclude/eliminate
 除了，都,chu2 le : dou1,except for .../excluding ...
 除了你，他们都在这里,chu2 le ni3 : ta1 men dou1 zai4 zhe4 li3,they are all here except for you
@@ -1403,7 +1405,7 @@
 查,cha2,research/investigate/check (c. 检查)
 检查,jian3 cha2,inspect or examine or check (verb)/inspection or examination (noun)
 李,li3,plum/common surname
-行李,xing2 li3,luggage/baggage
+行李,xing2 li3,luggage/baggage (alt. 行李箱)
 全,quan2,all/whole/entire (c. 安全)
 安全,an1 quan2,safe/secure
 安全检查,an1 quan2 jian3 cha2,undergo a security check (alt. 安检)
@@ -1472,6 +1474,7 @@
 死了,si3 le,died/to death (extreme intensifier & after adj)
 啊,a,suprise/emotion/emphasis suffix
 多么，啊,duo1 me : a,how ... it is!
+最坏,zui4 haui4,worst/superlatively bad
 一点儿都不苦,yi1:4 dia3 r dou1 bu4 ku3,not bitter at all/not even a little bitter
 不太大,bu4:2 tai4 da4,not too big/not so big/not very big
 有点辣,you3:2 dian3 la4,a bit spicy/a little spicy
@@ -1488,6 +1491,7 @@
 好忙,hao3 mang2,so busy (好 to intensify adj with subjective opinion)
 真老,zhen1 lao3,really old (possibly sarcastic) (alt. 真的老)
 非常小,fei1 chang2 xiao3,very small
+十分酸,shi2 fen1 suan1,very sour (lit. ten parts sour)
 美极了,mei3 ji2 le,extremely pretty/extremely beautiful (formal)
 高兴死了,gao1 xing4 si3 le,happy to death/extremely happy (slang)
 太贵了,tai4 gui4 le,too expensive
@@ -1496,7 +1500,7 @@
 堂,tang2,hall/large room (c. 食堂)
 食堂,shi2 tang2,cafeteria/dining hall
 求,qiu2,seek/look for/request/demand (c. 要求)
-要求,yao4 qiu2,request or require (verb)/requirements or standards (noun)
+要求,yao1 qiu2,request or require (verb)/requirements or standards (noun)
 校长,xiao4 zhang3,school principal/headmaster
 必,bi4,certainly/must/necessarily (c. 必须)
 须,xu1,must/have to (c. 必须)
@@ -1526,8 +1530,8 @@
 变,bian4,transform/change/become different (c. 变化)
 化,hua4,transform/make into/change into (c. 变化)
 变化,bian4 hua4,change/vary
-搬,ban1,relocate/move residence (c. 搬家)
-搬家,ban1 jia1,relocate/move residence (can replace 家 with 去/来)
+搬,ban1,relocate oneself/move something bulky (c. 搬家)
+搬家,ban1 jia1,relocate residence/move one's house (can replace 家 with 去/来)
 算,suan4,regard as/figure/calculate (c. 打算/预算)
 打算,da3 suan4,plan/intend/calculate
 机会,ji1 hui4,chance/opportunity/occasion
@@ -1647,7 +1651,7 @@
 山,shan1,mountain/hill (c. 爬山)
 爬山,pa2 shan1,hiking/mountain climbing
 趣,qu4,interest/interesting (c. 兴趣/有趣)
-兴趣,xing4 qu4,interest/desire to know
+兴趣,xing4 qu4,interest in/desire to know about
 对，感兴趣,dui4 : gan3 xing4 qu4,be interested in ... (neg. 不感兴趣)
 对，有兴趣,dui4 : you3 xing4 qu4,have interest in ... (neg. 没有兴趣)
 我们都对中文感兴趣,wo3 men dou1 dui4 zhong1 wen2 gan3 xing4 qu4,we are all interested in chinese
@@ -1729,7 +1733,7 @@
 楼梯,lou2 ti1,stairs/staircase
 厕,ce4,toilet/lavatory (c. 厕所/厕纸)
 厕所,ce4 suo3,toilet/lavatory
-坏,huai4,spoiled or broken (adj)/to break down (verb)
+坏,huai4,bad or spoiled or broken (adj & opp of 好)/to break down (verb)
 被,bei4,by/passive voice (obj-被-subj-verb)
 两间厨房被你奶奶打扫干净,liang3 jian1 chu2 fang2 bei4 ni3:2 nai3 nai3: da3:2 sao3 gan1 jing4,two kitchens were cleaned by your grandmother
 灯被一只猫关了,deng1 bei4 yi1:4 zhi1 mao1 guan1 le,the light was turned off by a cat
@@ -1741,7 +1745,7 @@
 复,fu4,resume/restore/recover (c. 复习/复印)
 复习,fu4 xi2,review or revise (verb)/revision (noun)
 复印,fu4 yin4,photocopy/duplicate a document
-数,shu4,number/figure (c. 数学)
+数,shu3 :: shu4,count or enumerate (verb)/number or figure (c. 数学)
 数学,shu4 xue2,mathematics
 放假,fang4 jia4,take vacation or take time off (verb)/vacation or time off (noun)
 记得,ji4 de,remember
@@ -2036,6 +2040,7 @@
 压,ya1,press/push down (c. 压力)
 压力,ya1 li4,pressure/stress
 意见,yi4 jian4,opinion/idea/suggestion/objection
+想法,xiang3:2 fa3,idea/way of thinking/opinion/notion
 原,yuan2,former/original/cause/source (c. 原谅)
 谅,liang4,excuse/show understanding (c. 原谅)
 原谅,yuan2 liang4,forgive/excuse/pardon
@@ -2461,6 +2466,7 @@
 沿着,yan2 zhe,go along/follow
 药房,yao4 fang2,pharmacy/drugstore (alt. 药店)
 药店,yao4 dian4,pharmacy/drugstore (alt. 药房)
+书店,shu1 dian4,bookstore
 离这儿近吗,li2 zhe4 r jin4 ma,is it close to here?/is it nearby here?
 一张去南京的票,yi1:4 zhang1 qu4 nan2 jing1 de piao4,one ticket to nanjing
 找你，块,zhao3:2 ni3 : kuai4,in change you get ...
@@ -2721,6 +2727,7 @@
 电动,dian4 dong4,electric-powered (c. 电动汽车)
 电动汽车,dian4 dong4 qi4 che1,electric car
 员工,yuan2 gong1,employee/personnel/staff
+店员,dian4 yuan2,shop assistant/salesperson
 你们的车是什么颜色,ni3 men de che1 shi4 shen2 me yan2 se4,what color is your car?
 我的车是黑色的，我妻子的电动汽车是灰色的,wo3 de che1 shi4 hei1 se4 de : wo3 qi1 zi de dian4 dong4 qi4 che1 shi4 hui1 se4 de,my car is black and my wife's electric car is gray
 街头,jie1 tou2,street corner
@@ -2816,7 +2823,7 @@
 我的妻子吃素,wo3 de qi1 zi chi1 su4,my wife is a vegetarian/my wife eats vegetarian food
 体操,ti3 cao1,gymnastics
 海报,hai3 bao4,poster
-治,zhi4,rule/govern/control (c. 三明治)
+治,zhi4,rule/govern/control/treat (c. 三明治/治疗)
 三明治,san1 ming2 zhi4,sandwich food (loanword)
 继,ji4,continue/follow (c. 继续)
 续,xu4,continue/replenish (c. 继续)
@@ -2889,3 +2896,10 @@
 一部分,yi1:2 bu4 fen1,portion/one part/a small part (more than 一点)
 少量,shao3 liang4,a little bit/a few (sim. 一点)
 取名,qu3 ming2,to name
+爱护,ai4 hu4,cherish/love and protect/treasure
+眠,mian2,sleep/hibernate (c. 失眠)
+失眠,shi1 mian2,have insomnia/suffer from insomnia
+你睡得好吗，我失眠,ni3 shui4 de hao3 ma : wo3 shi1 mian2,do you sleep well? i have insomnia
+疗,liao2,treat/cure (verb)/therapy (noun)
+治疗,zhi4 liao2,treat an illness (verb)/treatment (noun)
+中医经常能治疗失眠,zhong1 yi1 jing1 chang2 neng2 zhi4 liao2 shi1 mian2,chinese medicine can often treat insomnia
