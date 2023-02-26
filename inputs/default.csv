@@ -73,6 +73,8 @@
 星期天,xing1 qi1 tian1,sunday day of week (c. 星期日)
 星期日,xing1 qi1 ri4,sunday day of week (c. 星期天)
 几,ji1 :: ji3,almost :: how many? (countable less than 10 with mw after)
+十几,shi2 ji3,number between 10 and 20/more than 10 (alt. 十多)
+几十,ji3 shi2,number greater than 20/more than 20/tens of (alt. 二十多)
 几点钟,ji3:2 dian3 zhong1,at what time? (alt. 几点)
 星期几,xing1 qi1 ji3,what day of the week?
 几号,ji3 hao4,what day of month?
@@ -108,7 +110,7 @@
 下,xia4,next (hour & week & month)/to get off (work/class)/below/under/disembark from vehicle
 每,mei3,every (all time periods)
 钟,zhong1,bell/oclock/o'clock
-分,fen1,slice/fraction/minute on clock (specify time)/hundreth of yuan/to distinguish/to divide
+分,fen1 :: fen4,minute on clock (specify time)/hundreth of yuan/to distinguish/to divide :: part/share
 分钟,fen1 zhong1,duration of minutes
 末,mo4,end/final stage/latter part (c. 周末)
 周,zhou1,lap/cycle/week (c. 周末)
@@ -209,18 +211,19 @@
 关,guan1,close/shut
 系,xi4,connect/bind/tie up (c. 关系/联系)
 再,zai4,again (used before verb)
-见,jian4,see/observe/meet (often a person)
+见,jian4,see/meet (a person) (alt. 和，见面)
+和，见面,he2 : jian4 mian4,meet someone specific (alt. 见+person)
 再见,zai4 jian4,goodbye/see soon
 吗,ma,yn?/yes or no question suffix
 不,bu4,no/not (negates present/future actions)
 是不是,shi4 bu4:2 shi4,whether/is it not? (pattern for yn?)
-好不好,hao3 bu4 hao3,ok?/good?
 也,ye3,also/too/neither when negated (adv)
 吃,chi1,eat
-饭,fan4,rice/meal/serving
+饭,fan4,meal/serving/rice (when bound)
 餐,can1,meal (component only/not standalone noun)
 鱼,yu2,fish
-面,mian4,face/surface/noodles
+鱼肉,yu2 rou4,fish meat
+面,mian4,face/surface/noodles (when bound)
 早饭,zao3 fan4,breakfast
 早餐,zao3 can1,breakfast
 午饭,wu3 fan4,lunch
@@ -388,6 +391,7 @@
 谁,shui2,who?/whom? (informal shei2)
 谁的,shei2 de,whose?
 有,you3,has/have/possess
+没,mei2,negation for 有/negation for verb+着|了|过
 没有,mei2 you3,not have (negate past actions)/not as much as (n1-没有-n2-adj)
 她有没有,ta1 you3 mei2 you3,does she have? (pattern for yn?)
 关系,guan1 xi4:,relationship (noun)/affect or concern (verb)
@@ -448,7 +452,7 @@
 从，到,cong2 : dao4,from ... to a place/from ... until a time
 张同学从公园到大学走路,zhang1 tong2 xue2 cong2 gong1 yuan2 dao4 da4 xue2 zou3 lu4,classmate zhang walks from the park to the college
 他从两点到四点半喝啤酒,ta1 cong2 liang3:2 dian3 dao4 si4 dian3 ban4 he1 pi2 jiu3,he drinks beer from 2:00 to 4:30
-往,wang3,towards a place (before noun)
+往,wang3,towards a place (往+direction+verb)
 走,zou3,walk/go (describes ongoing motion)
 怎么走,zen3 me zou3,how to get?/how to go? (to a place)
 路,lu4,road/the way (c. 走路)
@@ -650,7 +654,7 @@
 抽,chou1,draw out/remove part of the whole (c. 抽烟)
 烟,yan1,cigarette/tobacco/smoke/mist (c. 抽烟)
 抽烟,chou1 yan1,smoke a cigarette (verb)
-还,hai2 :: huan2,still/yet/moderate positive adj intensifier :: to give back an item/to return an item
+还,hai2 :: huan2,still/yet/acceptable (+adj) :: to give back an item/to return an item
 还是,hai2 shi4,or?/still is/nevertheless
 肉,rou4,meat/flesh/pulp of a fruit
 牛肉,niu2 rou4,beef/cow meat
@@ -675,7 +679,7 @@
 工,gong1,work/job/profession (noun)
 作,zuo4,do/grow (c. 工作/作业)
 工作,gong1 zuo4,work or operate machine (verb)/job (noun)
-觉得,jue2 de,think/feel/have opinion about (weaker than 认为)
+觉得,jue2 de,think/feel based on 5 senses/have subjective opinion about (weaker and less formal than 认为)
 累,lei4,tired/weary
 健,jian4,build/set up/construct (c. 健康)
 康,kang1,peaceful/abundant (c. 健康)
@@ -947,7 +951,7 @@
 游客,you2 ke4,traveler/tourist
 如,ru2,if/like/as (c. 如果/比如)
 如果,ru2 guo3,if/in case of/in the event that (before 就 in formal setting)
-就,jiu4,then (after 如果)/in that case/only/adv for prompt action (opposite 才)
+就,jiu4,then (after 如果)/conclusion based on previous statement/adv for prompt action (opposite 才)
 如果，就,ru2 guo3 : jiu4,if ... then
 蓝,lan2,blue color
 试,shi4,try or experiment (verb)/exam or test (noun)
@@ -959,7 +963,7 @@
 双,shuang1,pair (noun)/mw for pair objects (eg shoes but not pants)
 鞋子,xie2 zi,shoes
 蓝色的鞋子,lan2 se4 de xie2 zi,blue shoes
-比,bi3,compare to/adj-er than (noun-比-noun-adj) (c. 比如)
+比,bi3,compare to/adj-er than (noun-比-noun-adj) (c. 比如) (opp. 没有)
 这双比那双小,zhe4 shuang1 bi3 na4 shuang1 xiao3,this pair is smaller than that pair
 意大利,yi4 da4 li4,italy country
 裤子,ku4 zi,pants/trousers
@@ -1246,7 +1250,7 @@
 挺，的,ting3 : de,quite .../rather ...
 一边，一边,yi1:4 bian1 : yi1:4 bian1,concurrently/at the same time (一边-v1-一边-v2) (can omit both 一)
 她爱一边唱歌一边跳舞,ta1 ai4 yi1:4 bian1 chang4 ge1 yi1:4 bian1 tiao4 wu3,she loves to sing and dance at the same time
-皮,pi2,skin/fur/leather
+皮,pi2,skin/fur/leather (c. 调皮)
 折,zhe2,bend/break/fracture (c. 打折)
 打折,da3 zhe2,offer a discounted price
 附,fu4,adhere to/be close to/attach (c. 附近)
@@ -1287,8 +1291,8 @@
 退货,tui4 huo4,return a purchase/withdraw a product
 款,kuan3,paragraph/section/money (c. 退款)
 退款,tui4 kuan3,refund (noun or verb)/return money
-以前,yi3 qian2,before doing action or time (after verb)/previous or former (adj)
-以后,yi3 hou4,after doing action or time (after verb)/next or future (adj)
+以前,yi3 qian2,before event or time (emphasizing now)/previous or former (adj)
+以后,yi3 hou4,after event or time (emphasizing now)/next or future (adj)
 这是我以前的公司,zhe4 shi4 wo3:2 yi3 qian2 de gong1 si1:,this is my former company
 那是她以后的丈夫,na4 shi4 ta1 yi3 hou4 de zhang4 fu1:,that is her future husband
 有些人上班以前洗澡,you3 xie1 ren2 shang4 ban1 yi3 qian2 xi3:2 zao3,some people shower before going to work
@@ -1437,7 +1441,7 @@
 平,ping2,flat/level/equal (c. 水平)
 水平,shui3 ping2,skills/skill level/proficiency/standards
 提高,ti2 gao1,increase/improve/raise
-后来,hou4 lai2,afterwards/later
+后来,hou4 lai2,afterwards/later (emphasize time after a certain past time or event)
 地,di4 :: de,earth/ground/land :: modify action (adv-地-verb)
 哭,ku1,cry/weep
 生气,sheng1 qi4,angry/take offense
@@ -1446,9 +1450,9 @@
 听起来,ting1 qi3 lai2:,sounds like (after verb)
 闻起来,wen2 qi3 lai2:,smells like (after verb)
 吃起来,chi1 qi3 lai2:,tastes like (after verb)
-奇,qi3,strange/odd (c. 奇怪)
+奇,qi2,strange/odd (c. 奇怪)
 怪,guai4,strange/odd (c. 奇怪)
-奇怪,qi3 guai4,strange/odd
+奇怪,qi2 guai4,strange/odd
 紧,jin3,tight/strict/short of money (c. 紧张)
 紧张,jin3 zhang1,nervous/strained
 怕,pa4,fear/dread/be afraid (c. 可怕/害怕)
@@ -1858,7 +1862,7 @@
 根据,gen1 ju4,according to/based on
 满,man3,fill (verb)/full or satisfied (adj) (c. 满意)
 满意,man3 yi4,satisfied/pleased/to one's satisfaction
-认为,ren4 wei2,believe/think/consider (stronger than 觉得)
+认为,ren4 wei2,believe based on rational analysis (stronger and more formal than 觉得)
 出差,chu1 chai1,business trip/business travel
 表现,biao3 xian4,display or show off (verb)/work performance or behavior (noun)
 烦,fan2,annoy/bother/trouble/vex (c. 麻烦)
@@ -1941,7 +1945,7 @@
 自拍,zi4 pai1,taking selfies (verb or noun)
 菜鸟,cai4 niao3,beginner/newbie (slang)
 眉,mei2,eyebrow (c. 美眉)
-富,fu4,rich/abundant/wealthy (c. 高富帅)
+富,fu4,rich/abundant/wealthy (c. 高富帅/白富美/丰富)
 美眉,mei3 mei2,beautiful girl (slang)
 高富帅,gao1 fu4 shuai4,mr. perfect (lit. tall rich handsome)
 白富美,bai2 fu4 mei3,ms. perfect (lit. white rich beautiful)
@@ -2015,7 +2019,7 @@
 警,jing3,alert or warn (verb)/police (noun) (c. 报警/警察)
 报警,bao4 jing3,call police/sound alarm
 受,shou4,receive/accept/suffer/bear (c. 受伤)
-伤,shang1,injure (verb)/injury or wound (noun) (c. 受伤)
+伤,shang1,injure (verb)/injury or wound (noun) (c. 受伤/伤心)
 受伤,shou4 shang1,injured/wounded/harmed
 救,jiu4,save/assist/rescue (c. 救护车/救命)
 救护车,jiu4 hu4 che1,ambulance vehicle
@@ -2101,7 +2105,7 @@
 要么，要么,yao4 me : yao4 me,either ... or
 你们要么上船，要么离开,ni3 men yao4 me shang4 chuan2 : yao4 me li2 kai1,you either get on the boat or leave
 不是，而是,bu4:2 shi4 : er2 shi4,it is not ... it is just/not this ... but that
-我不是很生气，而是我有点难过,wo3 bu4:2 shi4 hen3 sheng1 qi4 : er2 shi4 wo3:2 you3 dian3 nan2 guo4,it is not that i am angry it is just that i am a bit sad/i am not angry i am just a bit sad
+我不是很生气，而是我有点难过,wo3 bu4:2 shi4 hen3 sheng1 qi4 : er2 shi4 wo3 you3:2 dian3 nan2 guo4,it is not that i am angry it is just that i am a bit sad/i am not angry i am just a bit sad
 一方面，一方面,yi1:4 fang1 mian4 : yi1:4 fang1 mian4,on one hand ... on the other hand
 一方面他是高富帅，一方面他太喝酒了,yi1:4 fang1 mian4 ta1 shi4 gao1 fu4 shuai4 : yi1:4 fang1 mian4 ta1 tai4 he1 jiu3 le,on one hand he is tall rich and handsome on the other hand he drinks too much
 此,ci3,this/these (common in writing)
@@ -2231,7 +2235,7 @@
 知识,zhi1 shi2,knowledge/intellectual
 值得,zhi2 de,deserve/be worth
 只好,zhi3:2 hao3,be forced to/no better option
-我不值得她，可是她只好接受我,wo3 bu4 zhi2 de ta1 : ke3 sh4 ta1 zhi3:2 hao3 jie1 shou4 wo3,i do not deserve her but she is forced to accept me
+我不值得她，可是她只好接受我,wo3 bu4 zhi2 de ta1 : ke3 shi4 ta1 zhi3:2 hao3 jie1 shou4 wo3,i do not deserve her but she is forced to accept me
 你有一些知识，看法是什么,ni3:2 you3 yi1:4 xie1 zhi1 shi4 : kan4 fa3 shi4 shen2 me,you have some knowledge what is your opinion?
 我当然愿意吃汤圆和粽子,wo3 dang1 ran2 yuan4 yi4 chi1 tang1 yuan2 he2 zong4 zi,of course i am willing to eat sticky rice balls and sticky rice dumplings
 我阿姨只有零钱，我叔叔可不可以推迟约会,wo3 a1 yi2 zhi3:2 you3 ling2 qian2 : wo3 shu1 shu1: ke3 bu4 ke3:2 yi3 tui1 chi2 yue1 hui4,my aunt only has change can my uncle postpone the date?
@@ -2326,11 +2330,11 @@
 通过,tong1 guo4,by means of/via
 完全,wan2 quan2,complete/whole/totally
 往往,wang3:2 wang3,usually/in many cases
+无,wu2,not to have/none (c. 无聊/无论)
 无聊,wu2 liao2,bored/boring/senseless
 无论,wu2 lun4,regardless of whether ...
-无,wu2,not to have/none
 许多,xu3 duo1,many/much
-以为,yi3 wei2,think/to take it to be true that
+以为,yi3 wei2,to believe something that was later incorrect/thought wrongly
 友好,you3:2 hao3,friendly/amicable
 于是,yu2 shi4,consequently/as a result
 羽毛球,yu3 mao2 qiu2,badminton
@@ -2615,7 +2619,6 @@
 上床,shang4 chuang2,go to bed/get on the bed
 拳,quan2,fist/boxing (c. 太极拳)
 太极拳,tai4 ji2 quan2,taiji/taichi (martial art)
-之,zhi1,literary posessive particle (alt. 的)
 健身房,jian4 shen1 fang2,gymnasium (alt. 体育馆)
 运动员,yun4 dong4 yuan2,athlete
 疯,feng1,insane/mad/wild
@@ -2783,9 +2786,9 @@
 家务,jia1 wu4,housework/chores
 出版商,chu1 ban3 shang1,publishter
 主任,zhu3 ren4,director
-部分,bu4 fen1:,part/share/section (c. 大部分/一小部分)
-大部分,da4 bu4 fen1:,greater part/uncountable majority
-一小部分,yi1:4 xiao3 bu4 fen1:,smaller part/uncountable minority
+部分,bu4 fen4:,part/share/section (c. 大部分/一小部分)
+大部分,da4 bu4 fen4:,greater part/uncountable majority
+一小部分,yi1:4 xiao3 bu4 fen4:,smaller part/uncountable minority
 多数,duo1 shu4,many in number/countable majority
 少数,shao3 shu4,few in number/countable minority
 大多数,da4 duo1 shu4,very many in number/countable large majority
@@ -2911,3 +2914,27 @@
 棕色,zong1 se4,brown color
 小时候,xiao3 shi2 hou4:,when one was young/in one's childhood
 收入,shou1 ru4,to take in (verb)/income or revenue (noun)
+姐姐比他跑得快,jie3 jie3: bi3 ta1 pao3 de kuai4,my older sister runs faster than he does (alt. 姐姐跑得比我快)
+姐姐跑得比他快,jie3 jie3: pao3 de bi3 ta1 kuai4,my older sister runs faster than he does (alt. 姐姐比我跑得快)
+时间过得很慢,shi2 jian1 guo4 de hen3 man4,time passes slowly
+植,zhi2,to plant in the ground (c. 植物)
+植物,zhi2 wu4,plants/vegetation
+物种,wu4 zhong3,species of living thing
+丰,feng1,plentiful/abundant (c. 丰富)
+丰富,feng1 fu4,plentiful/abundant (adj)
+云,yun2,cloud (c. 云南省)
+云南省,yun2 nan2 sheng3,yunnan province
+云南省有一万五千种植物,yun2 nan2 sheng3:2 you3 yi1:2 wan4 wu3 qian1 zhong3 zhi2 wu4,yunnan province has 15000 kinds of plants
+孤,gu1,lone/lonely (c. 孤独)
+独,du2,alone/independent/sole (c. 孤独)
+孤独,gu1 du2,lonely/solitary (adj)
+变成,bian4 cheng2,change into/turn into/become
+恼,nao3,to get angry (c. 烦恼)
+烦恼,fan2 nao3,be worried/be distressed
+伤心,shang1 xin1,grieve/be deeply hurt (lit. wound heart)
+从前,cong2 qian2,previously/formerly/as before
+调皮,tiao2 pi2,naughty/mischievous/unruly 
+结束以后,jie2 shu4 yi3 hou4,after it ends/after it finishes/after it is over
+之,zhi1,possessive particle like 的 (c. 之后/之后)
+之前,zhi1 qian2,before event or time (emphasizing now) (alt. 以前)
+之后,zhi1 hou4,after event or time (emphasizing now) (alt. 以后)
