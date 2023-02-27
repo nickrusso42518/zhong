@@ -105,7 +105,7 @@
 以,yi3,by means of/according to (c. 可以/所以/以后/以前)
 可以,ke3:2 yi3,may/allowed to/permitted to
 会,hui4,can apply or know how to (learned skill)/will (with future time reference)
-能,neng2,be able to/physically capable of doing
+能,neng2,be able to/physically capable of doing/energy (physics)
 上,shang4,previous (hour & week & month)/to go to (work/class)/above/on/embark onto vehicle
 下,xia4,next (hour & week & month)/to get off (work/class)/below/under/disembark from vehicle
 每,mei3,every (all time periods)
@@ -295,7 +295,6 @@
 多,duo1,many/more/much (adj)
 少,shao3,few/less/little (adj)
 多少,duo1 shao3,how many?/how much? (large or uncountable quantity)
-多少钱,duo1 shao3 qian2,how much money?
 叫,jiao4,am/be called/tell someone to do something (titled names use 是 but not 叫)
 电,dian4,electric/electricity
 话,hua4,spoken words/speech (c. 电话)
@@ -509,7 +508,8 @@
 只,zhi1 :: zhi3,mw for cats/dogs/birds :: only/merely/just
 二千七百零五块四毛九分,er4 qian1 qi1 bai3 ling2 wu3 kuai4 si4 mao2 jiu3 fen1,2705.49 yuan
 共,gong4,common/general
-一共,yi1:2 gong4,altogether/in total
+一共,yi1:2 gong4,altogether/in total (alt. 总共)
+总共,zong3 gong4,altogether/in total (alt. 一共)
 收,shou1,receive/accept/collect (c. 收据)
 信,xin4,letter or mail (noun)/trust or believe in (verb)
 用,yong4,use/employ
@@ -561,7 +561,7 @@
 位,wei4,individual/seat/place (formal mw)
 等,deng3,await/wait for/equal to
 坐,zuo4,sit/take a seat/embark onto vehicle
-订,ding4,agree/conclude/order (c. 订位/订房)
+订,ding4,agree/subscribe/order (c. 订位/订房)
 订位,ding4 wei4,make reservation/book a table
 进,jin4,enter/advance/go forward
 菜,cai4,vegetable/cuisine/dish (type of food)
@@ -826,7 +826,8 @@
 片,pian4,thin piece/slice/mw for slices (c. 照片)
 瓶,ping2,bottle/pitcher/mw for liquids
 瓶子,ping2 zi,bottle (noun)
-照片,zhao4 pian4,photograph/picture
+照片,zhao4 pian4,photograph/picture (alt. 图片)
+图片,tu2 pian4,image/photograph/picture (alt. 照片)
 打,da3,beat/strike/hit/play arm-ball sport
 踢,ti1,kick/play leg-ball sport
 球,qiu2,ball/sphere/globe
@@ -840,7 +841,7 @@
 泳,yong3,swimming (noun)
 游泳,you2 yong3,swims (verb)/swimming (noun)
 骑,qi2,riding/rides (animal or bicycle)
-运,yun4,transport (verb)/transportation or luck (noun) (c. 运动)
+运,yun4,transport (verb)/transportation or luck (noun) (c. 运动/运费)
 动,dong4,move/displace (c. 运动/动物)
 运动,yun4 dong4,move or exercise (verb)/movement or motion (noun)
 清,qing1,clear/distinct (c. 清楚)
@@ -927,7 +928,7 @@
 酒吧,jiu3 ba1,bar/pub/saloon
 同,tong2,same (pronoun)/with (preposition) (c. 同时/同学/同情)
 同学,tong2 xue2,schoolmate/classmate
-色,se4,color
+色,se4,color (c. 颜色)
 完,wan2,finish (after verb)/complete (adj)
 读完了,du2 wan2 le,finished reading
 已,yi3,already/finished (c. 已经)
@@ -935,7 +936,7 @@
 已经,yi3 jing1,already (before verb)
 已经喝,yi3 jing1 he1,already drinking
 已经吃完了,yi3 jing1 chi1 wan2 le,already finished eating
-费,fei4,expenses/expenditures/fee
+费,fei4,expenses/expenditures/fee (c. 运费/小费)
 小费,xiao3 fei4,tip/charge/gratuitity (lit. small fee)
 克,ke4,gram (unit of weight)
 巧,qiao3,opportunely/coincidentally/skillful
@@ -986,7 +987,7 @@
 鼻,bi2,nose (c. 鼻子)
 鼻子,bi2 zi,nose (body part)
 脚,jiao3,foot/feet (body part)
-嘴,zui3,mouth/lips (c. 嘴巴)
+嘴,zui3,mouth/lips (c. 嘴巴/闭嘴)
 巴,ba1,greatly desire/anxiously hope (c. 嘴巴)
 嘴巴,zui3 ba1,mouth (body part)
 有钱人,you3 qian2 ren2,rich person
@@ -1278,6 +1279,7 @@
 城市,cheng2 shi4,city/town
 长城,chang2 cheng2,great wall of china
 花,hua1,flower or blossom (noun)/spend time or spend money (verb)
+鲜花,xian1 hua1,fresh flowers
 换,huan4,exchange/substitute
 方,fang1,square/direction (cardinal)
 地方,di4 fang1:,area/place/site
@@ -1405,6 +1407,7 @@
 起飞,qi3 fei1,airplane take off
 离开,li2 kai1,leave/depart
 发现,fa1 xian4,realize/discover
+实现,shi2 xian4,achieve/implement/bring about
 检,jian3,check/examine/inspect (c. 检查)
 查,cha2,research/investigate/check (c. 检查)
 检查,jian3 cha2,inspect or examine or check (verb)/inspection or examination (noun)
@@ -1611,6 +1614,7 @@
 重,zhong4 :: chong2,heavy/serious (c. 重要) :: repeat/again/repetition (c. 重来/重建)
 重要,zhong4 yao4,important/significant
 重来,chong2 lai2,start over/do something over again
+重复,chong2 fu4,repeat/duplicate
 重建,chong2 jian4,rebuild/reconstruction
 突,tu1,dash/rush out/protrude (c. 突然)
 突然,tu1 ran2,suddenly/unexpectedly/abruptly
@@ -1755,7 +1759,7 @@
 记得,ji4 de,remember
 于,yu2,to/with regard to (c. 终于/关于)
 终,zhong1,end/finish (c. 终于)
-束,shu4,bunch/bundle (mw) (c. 结束)
+束,shu4,bunches/bundles/bouquets (mw) (c. 结束)
 终于,zhong1 yu2,finally/at last
 结束,jie2 shu4,finish/conclude (standalone verb)
 担,dan1,undertake/take responsibility for (c. 担心)
@@ -1872,6 +1876,7 @@
 面试,mian4 shi4,job interview (verb and noun)
 根据大家的需要，我们做了这个决定,gen1 ju4 da4 jia1 de xu1 yao4 : wo3 men zuo4 le zhe4 ge4 jue2 ding4,we made this decision based on everyone's needs
 经理跟同事一起同意升职我,jing1 li3 gen1 tong2 shi4 yi1:4 qi3 tong2 yi4 sheng1 zhi2 wo3,the manager agreed with my colleagues to promote me
+每次,mei3 ci4,every time/every iteration
 这次,zhe4 ci4,this time/this iteration
 这个时候,zhe4 ge4 shi2 hou4,at this time (moment/point)
 这段时间,zhe4 duan4 shi2 jian1,during this time (duration)
@@ -2384,7 +2389,7 @@
 耳环,er3 huan2,earrings
 你长大想当什么,ni3:2 zhang3 da4 xiang3 dang1 shen2 me,what do you want to be when you grow up?
 处,chu4,place/location/spot (c. 到处)
-到处,dao4 chu4,everywhere
+到处,dao4 chu4,everywhere/in all places
 丢脸,diu1 lian3,embarrassed/humiliated (lit. lose face)
 钱包,qian2 bao1,purse/wallet (lit. money bag)
 登机牌,deng1 ji1 pai2,boarding pass for vehicle
@@ -2590,8 +2595,9 @@
 有空的时候,you3 kong4 de shi2 hou4,when there is free time
 挤,ji3,crowd in/cram in/squeeze
 藏,cang2,conceal/store/collect (c. 藏品)
-品,pin3,commodity/product/goods (c. 藏品)
+品,pin3,commodity/product/goods (c. 藏品/商品)
 藏品,cang2 pin3,museum piece/precious object
+商品,shang1 pin3,commodity/goods/merchandise
 钥匙,yao4 shi,key (to open a door)
 打字,da3 zi4,type on a keyboard
 房间还没有准备好,fang2 jian4 hai2 mei2 you3 zhen3 bei4 hao3,room is still not ready/room is not ready yet
@@ -2933,8 +2939,32 @@
 烦恼,fan2 nao3,be worried/be distressed
 伤心,shang1 xin1,grieve/be deeply hurt (lit. wound heart)
 从前,cong2 qian2,previously/formerly/as before
-调皮,tiao2 pi2,naughty/mischievous/unruly 
+调皮,tiao2 pi2,naughty/mischievous/unruly
 结束以后,jie2 shu4 yi3 hou4,after it ends/after it finishes/after it is over
 之,zhi1,possessive particle like 的 (c. 之后/之后)
 之前,zhi1 qian2,before event or time (emphasizing now) (alt. 以前)
 之后,zhi1 hou4,after event or time (emphasizing now) (alt. 以后)
+订单,ding4 dan1,purchase order
+我想下订单,wo3:2 xiang3 xia4 ding4 dan1,i would like to place an order
+运费,yun4 fei4,shipping fee/freight fee
+运费多少钱,yun4 fei4 duo1 shao3 qian2,how much is the shipping fee?
+税,shui4,taxes/duties
+有进口税吗,you3 jin4 kou3 shui4 ma,is there an import tax?/is there a tariff?
+我想订一百五十束鲜花,wo3:2 xiang3 ding4 yi1:4 bai3:2 wu3 shi2 shu4 xian1 hua1,i would like to order one 150 bouquets of fresh flowers
+交货,jiao1 huo4,to deliver goods
+回报,hui2 bao4,reciprocate/retaliate/in return
+建议,jian4 yi4,propose/suggest/recommend (plus nouns for each)
+闭,bi4,shut/close/obstruct (c. 闭嘴)
+闭嘴,bi4 zui3,shut up/shut your mouth
+括,kuo4,enclose/include (c. 包括)
+包括,bao1 kuo4,comprise/include/consist of
+在内,zai4 nei4,included in it/among them
+出口税包括在内,chu1 kou3 shui4 bao1 kuo4 zai4 nei4,the export tax is included (inside)
+污,wu1,smear or defile (verb)/foul or corrupt (adj) (c. 污染)
+污染,wu1 ran3,pollution/contamination
+太阳能板,tai4 yang2 neng2 ban3,solar panels/solar energy panels (mw 块)
+太阳能不污染环境,tai4 yang2 neng2 bu4 wu1 ran3 huan2 jing4,solar energy does not pollute the environment
+海运,hai3 yun4,shipping by sea/sea transport/sea freight (noun)
+空运,kong1 yun4,shipping by air/air transport/air freight (noun)
+海运比空运便宜,hai3 yun4 bi3 kong1 yun4 pian2 yi2:,shipping by sea is cheaper than shipping by air
+广州,guang3 zhou1,guangzhou (canton city)
