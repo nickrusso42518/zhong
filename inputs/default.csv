@@ -163,7 +163,7 @@
 他,ta1,he/him
 她,ta1,she/her
 它,ta1,it (non-human)
-是,shi4,is/am/are/to be (equates two nouns)
+是,shi4,is/am/are/to be (equates two nouns) (neg. only 不)
 是的,shi4 de,that is so/yes
 是吗,shi4 ma,is that true?/is that so?
 们,men,plural modifier for pronouns and some people
@@ -370,7 +370,7 @@
 家,jia1,house/home/mw for family-run businesses
 家人,jia1 ren2,family
 住,zhu4,lives/dwells/resides
-在,zai4,located at/to be in/actively doing (before verb is -ing)
+在,zai4,located at/to be in/actively doing (before verb is -ing) (neg. 不 or 没)
 住在,zhu4 zai4,lives in/dwells in
 里,li3,inside/internal (modifier)
 外,wai4,outside/external (modifier)
@@ -474,7 +474,7 @@
 书,shu1,book/letter/document
 听,ting1,listen/hear
 音,yin1,sound/noise (c. 音乐)
-乐,le4 :: yue4,cheerful/laugh (c. 快乐) :: music (c. 音乐)
+乐,le4 :: yue4,cheerful/laugh (c. 快乐/乐趣) :: music (c. 音乐)
 音乐,yin1 yue4,music/musical sound
 脑,nao3,brain/mind (c. 电脑)
 电脑,dian4 nao3,computer
@@ -611,7 +611,7 @@
 因,yin1,cause/reason (c. 因为)
 为什么,wei4 shen2 me,why?/for what? (adjacent to person targeted)
 因为,yin1 wei4,because/since (before noun and before 所以)
-所,suo3,actually/that which/mw for houses and colleges (c. 所以)
+所,suo3,actually/that which/mw for houses and colleges (c. 所以/交易所)
 所以,suo3:2 yi3,so/therefore/that's why (before noun and after 因为)
 因为，所以,yin1 wei4 : suo3:2 yi3,because ... so
 因为我很胖，所以她不高兴,yin1 wei4 wo3:2 hen3 pang4 : suo3:2 yi3 ta1 bu4 gao1 xing4,because i am fat so she is unhappy (formal)
@@ -638,12 +638,12 @@
 照相机,zhao4 xiang4 ji1,camera (alt. 相机)
 拍,pai1,pat/clap/slap/swat (c. 拍照/自拍)
 拍照,pai1 zhao4,take a picture (verb)/photography (noun)
-我去中国,wo3 qu4 zhong1 guo2,i go to china
+我去中国,wo3 qu4 zhong1 guo2,i go to china (as a matter of habit)
 我去了中国,wo3 qu4 le zhong1 guo2,i went to china
 我去过中国,wo3 qu4 guo4 zhong1 guo2,i have been to china
-我不去中国,wo3 bu4:2 qu4 zhong1 guo2,i do not go to china
-我没有去中国,wo3 mei2 you3 qu4 zhong1 guo2,i did not go to china
-我没去过中国,wo3 mei2 qu4 guo4 zhong1 guo2,i have not been to china
+我不去中国,wo3 bu4:2 qu4 zhong1 guo2,i do not go to china (as a matter of habit)
+我没有去中国,wo3 mei2 you3 qu4 zhong1 guo2,i did not go to china (optional 有)
+我没有去过中国,wo3 mei2 you3 qu4 guo4 zhong1 guo2,i have not been to china (optional 有)
 我吃米饭,wo3 chi1 mi3 fan4,i eat rice
 你喝了热茶,ni3 he1 le re4 cha2,you drank hot tea
 他们看过报纸,ta1 men kan4 guo4 bao4 zhi3,they have read a newspaper
@@ -731,7 +731,7 @@
 业,ye4,industry/occupation (c. 商业/作业)
 商业,shang1 ye4,business
 迎,ying2,meet/welcome/greet (c. 迎接/欢迎)
-接,jie1,pick up someone/receive/meet (c. 迎接)
+接,jie1,pick up someone/answer phone/meet (c. 迎接)
 迎接,ying2 jie1,meet/greet/welcome (verb)/greeting (noun)
 欢迎,huan1 ying2,welcome (verb or noun) (c.  欢迎光临)
 临,lin2,face/overlook (verb) (c. 光临)
@@ -956,6 +956,7 @@
 如果，就,ru2 guo3 : jiu4,if ... then
 蓝,lan2,blue color
 试,shi4,try or experiment (verb)/exam or test (noun)
+尝试,chang2 shi4,try/attempt (verb)
 利,li4,gains/advantage/profit
 裙子,qun2 zi,skirt/dress
 衬,chen4,underwear/lining/liner (c. 衬衫)
@@ -1049,6 +1050,7 @@
 晴天,qing2 tian1,clear day/sunny day (noun)
 天气,tian1 qi4,weather
 带,dai4,bring with (verb)/band to hold item together (noun)
+带来,dai4 lai2,bring/bring about/produce
 伞,san3,umbrella/parasol
 冷,leng3,cold
 有多,you3 duo1,how much +adj? (omit 有 if other verb exists)
@@ -1434,7 +1436,7 @@
 言,yan2,words/speech (c. 语言)
 语言,yu3 yan2,language
 容,rong2,hold/contain/tolerate (c. 容易/内容)
-易,yi4,easy/amiable/prefix for -able or -ible (c. 容易)
+易,yi4,easy/amiable/prefix for -able or -ible (c. 容易/交易所)
 容易,rong2 yi4,easy/likely
 很多种语言,hen3 duo1 zhong3:2 yu3 yan2,many languages
 更,geng4,more/even more (before adj or verb) (alt. 更加)
@@ -1658,8 +1660,9 @@
 爬,pa2,climb/crawl (c. 爬山)
 山,shan1,mountain/hill (c. 爬山)
 爬山,pa2 shan1,hiking/mountain climbing
-趣,qu4,interest/interesting (c. 兴趣/有趣)
+趣,qu4,interest/interesting (c. 兴趣/有趣/乐趣)
 兴趣,xing4 qu4,interest in/desire to know about
+乐趣,le4 qu4,delight/pleasure/joy
 对，感兴趣,dui4 : gan3 xing4 qu4,be interested in ... (neg. 不感兴趣)
 对，有兴趣,dui4 : you3 xing4 qu4,have interest in ... (neg. 没有兴趣)
 我们都对中文感兴趣,wo3 men dou1 dui4 zhong1 wen2 gan3 xing4 qu4,we are all interested in chinese
@@ -1993,8 +1996,9 @@
 广告,guang3 gao4,advertisement/commercial
 预,yu4,in advance/beforehand/to prepare (c. 预算)
 预算,yu4 suan4,budget
-享,xiang3,enjoy/benefit/have use of (c. 分享)
+享,xiang3,enjoy/benefit/have use of (c. 分享/享受)
 分享,fen1 xiang3,share with others
+享受,xiang3 shou4,to enjoy/live it up
 免贵,mian3 gui4,no need for saying honorable (polite)
 辛,xin1,pungent/hard/laborious/suffering (c. 辛苦)
 辛苦,xin1 ku3,exhausting/arduous/hardship/suffering
@@ -2212,7 +2216,7 @@
 感觉,gan3 jue2,feel/sense/become aware of
 好像,hao3 xiang4,as if/to seem like
 计划,ji4 hua4,plan (verb or noun)/project or program (noun)
-交,jiao1,hand over/deliver/pay money (c. 交通/交流)
+交,jiao1,hand over/deliver/pay money (c. 交通/交流/交易所)
 交通,jiao1 tong1,traffic/transportation/communications
 交流,jiao1 liu2,exchange/interaction/communication
 教育,jiao4 yu4,educate/teach
@@ -2995,3 +2999,10 @@
 去世,qu4 shi4,pass away/die
 及,ji2,to reach/up to/in time for (c. 及时)
 及时,ji2 shi2,timely/at the right time/promptly/without delay
+花一个小时去跑步,hua1 yi1:2 ge4 xiao3 shi2 qu4 pao3 bu4,take an hour to go run/spend 1 hour to go run
+实习,shi2 xi2,intern/intership
+你怎么跟他联系,ni3 zen3 me gen1 ta1 lian2 xi4,how do you contact him?/how do you get in touch with him?
+他经常给我发短信,ta1 jing1 chang2 gei3:2 wo3 fa1 duan3 xin4,he often sends me text messages/he often texts me
+澳门,ao4 men2,macao/macau/aomen
+葡萄牙,pu2 tao2 ya2,portugal country
+交易所,jiao1 yi4 suo3,stock exchange
