@@ -172,7 +172,7 @@
 他们,ta1 men,they/them (male or mixed)
 她们,ta1 men,they/them (female)
 它们,ta1 men,they/them (non-human)
-的,de,noun-的-noun possession/adj-的-noun description/phantom noun suffix
+的,de,n-的-n possession/adj-的-n description/v-的-n verb that noun did
 我的,wo3 de,my/mine
 你的,ni3 de,your (informal)
 您的,nin2 de,your (formal)
@@ -196,7 +196,7 @@
 好久不见,hao3:2 jiu3 bu4:2 jian4,long time no see
 请,qing3,please/request/invite
 问,wen4,ask someone about something
-题,ti2,topic/subject (c. 问题)
+题,ti2,topic/subject (c. 问题/主题/话题)
 问题,wen4 ti2,question/problem/issue
 话题,hua4 ti2,topic/subject (of a conversation)
 请问,qing3 wen4,excuse me/pardon me (lit. please ask)
@@ -252,7 +252,7 @@
 说,shuo1,say/speak/tell
 白,bai2,white color/pure
 明白,ming2 bai2:,understand/clear/obvious
-得,de :: de2 :: dei3,describe/modify action (after verb) :: get/obtain/gain :: need to (before verb)
+得,de :: de2 :: dei3,describe/modify action (verb+得+adj) :: get/obtain/gain :: need to (before verb)
 快,kuai4,fast/quickly/soon
 慢,man4,slowly
 他吃得很快,ta1 chi1 de hen3 kuai4,he eats quickly
@@ -621,10 +621,11 @@
 西班牙,xi1 ban1 ya2,spain country
 西班牙文,xi1 ban1 ya2 wen2,spanish language (alt 西班牙语)
 印,yin4,print/mark/engrave (c. 打印/印度)
-度,du4,measure/angle or temperature degree/consider (c. 温度/印度/度假)
+度,du4,measure/angle or temperature degree/consider (c. 温度/印度/度假/度假区)
 印度,yin4 du4,india country
 印度语,yin4 du4 yu3,indian language/hindi (alt 印度文)
 度假,du4 jia4,take a vacation
+度假区,du4 jia4 qu1,vacation resort
 爱好,ai4 hao4,hobby/interest
 松,song1,loose (noun)/loosen (verb) (c. 轻松)
 轻,qing1,light/easy/gentle/soft (c. 轻松/轻声)
@@ -687,7 +688,7 @@
 胖,pang4,fat/chubby/plump
 瘦,shou4,thin/lean/tight
 不要,bu4:2 yao4,do not/don't (often negates a command & formal)
-别,bie2,do not/don't (often negates a command & colloquial)
+别,bie2,separate/distinguish/other/do not/don't (often negates a command & colloquial)
 吧,ba,softening suffix/suggestion particle (let's ...)
 大,da4,big/large/great
 小,xiao3,small/little/tiny
@@ -1316,7 +1317,7 @@
 做梦,zuo4 meng4,dream (verb or noun)
 故,gu4,ancient/old/former (c. 故事/故宫/故意)
 故事,gu4 shi4:,story/tale
-讲,jiang3,explain/emphasize/negotiate
+讲,jiang3,explain/emphasize/negotiate (c. 演讲)
 除,chu2,remove/exclude/eliminate
 除了，都,chu2 le : dou1,except for .../excluding ...
 除了你，他们都在这里,chu2 le ni3 : ta1 men dou1 zai4 zhe4 li3,they are all here except for you
@@ -1847,7 +1848,7 @@
 回她的电子邮件,hui2 ta1 de dian4 zi3 you2 jian4,reply to her email
 回我的短信,hui2 wo3 de duan3 xin4,reply to my text message
 刚才,gang1 cai2,just now/a moment ago (noun)
-主,zhu3,owner/master/host (c. 主要/主任)
+主,zhu3,owner/master/host (c. 主要/主任/主题)
 主要,zhu3 yao4,main/major/primary
 关于,guan1 yu2,about/pertaining to/concerning
 密,mi4,secret/confidential (c. 密码)
@@ -2385,8 +2386,10 @@
 毕业,bi4 ye4,graduate
 标准,biao3:2 zhun3,standard/norm/criteria
 吵,chao3,make a noise (verb)/noisy (adj)
-楼上,lou2 shang4,upstairs
-楼下,lou2 xia4,downstairs
+楼上,lou2 shang4,upstairs (noun)
+楼下,lou2 xia4,downstairs (noun)
+上楼,shang4 lou2,go upstairs (verb)
+下楼,xia4 lou2,go downstairs (verb)
 诚实,cheng2 shi2,honest
 惊,jing1,startle/frighten/be scared (c. 吃惊)
 吃惊,chi1 jing1,startled/stocked/astonished
@@ -2546,7 +2549,8 @@
 过期,guo4 qi1,be overdue/expire/exceed time limit
 广东话,guang3 dong1 hua4,cantonese language
 大使馆,da4 shi3:2 guan3,embassy
-区,qu1,area/zone/region (c. 地区号/特区)
+区,qu1,area/zone/region (c. 地区号/特区/区别)
+区别,qu1 bie2,distinguish/differentiate (verb)/difference (noun)
 地区号,di4 qu1 hao4,area code
 睡得晚，起得也早,shui4 de wan3 : qi3 de ye3:2 zao3,go to sleep late and wake up early
 散,san4,scatter/break up/disperse (c. 散步)
@@ -2714,6 +2718,7 @@
 合资,he2 zi1,joint venture/joint capital
 企,qi3,plan a project/stand on tiptoe (c. 企业)
 企业,qi3 ye4,firm/enterprise/corporation
+企业家,qi3 ye4 jia1,entrepreneur
 艳,yan4,colorful/splendid/gaudy (c. 鲜艳)
 鲜艳,xian1 yan4,bright-colored
 电影院,dian4 ying3 yuan4,cinema/movie theater
@@ -3042,3 +3047,12 @@
 危险,wei1 xian3,danger/dangerous
 如果你有兴趣，我教你游泳,ru2 guo3 ni3:2 you3 xing4 qu4 : wo3 jiao1 ni3 you2 yong3,if you are interested i will teach you to swim
 如果你很小心，游泳不危险,ru2 guo3 ni3:2 hen3:2 xiao3 xin1 : you2 yong3 bu4 wei1 xian3,if you are careful swimming is not dangerous
+裁,cai2,cut/trim/reduce/diminish (c. 总裁)
+总裁,zong3 cai2,president/ceo/chairman (of a company)
+电商,dian4 shang1,e-commerce store/online store
+主题,zhu3 ti2,main theme/topic/subject
+演讲,yan3:2 jiang3,lecture/make a speech
+主题演讲,zhu3 ti2 yan3:2 jiang3,keynote speech
+谁做主题演讲,shei2 zuo4 zhu3 ti2 yan3:2 jiang3,who is making the keynote speech?
+我演讲的主题是太阳能,wo3 yan3:2 jiang3 de zhu3 ti2 shi4 tai4 yang2 neng2,the topic of my speech is solar energy
+她是一家电商公司的总裁,ta1 shi4 yi1:4 jia1 dian4 shang1 gong1 si1 de zong3 cai2,she is the president of an e-commerce company
