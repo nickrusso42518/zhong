@@ -97,9 +97,9 @@ Invalid usages:
   * `python play.py -c -p -s`: Combination is never valid. Users have
     no visual or audible cues for learning, so this is useless. Program
     exits with return code 2 and an informative error message.
-  * `$ python play.py -i inputs/nonexist.csv`: If a nonexistent file
+  * `$ python play.py -i inputs/nonexist.csv`: If a nonexistent or corrupt file
     is supplied, the program exits with return code 3 and the corresponding
-    `FileNotFoundError` message.
+    `FileNotFoundError` or `OSError` message.
   * `$ python play.py -s`: Technically accepted on any platform,
     but `-s` has no effect on non-MacOS systems (Windows, Linux, etc.)
   * `$ python play.py -c -p`: Technically accepted on any platform,

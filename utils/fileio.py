@@ -32,9 +32,9 @@ def load_csv_data(csv_filename):
             csv_reader = csv.reader(handle)
             rows = [row for row in csv_reader if not row[0].startswith("#")]
 
-    # File does not exist; print Python-generated error and quit with rc=3
-    except FileNotFoundError as fnf_error:
-        print(f"ERROR: {fnf_error}")
+    # Non-existent or corrupt file; print error text and quit with rc=3
+    except (FileNotFoundError, OSError) as exc:
+        print(f"ERROR: {exc}")
         sys.exit(3)
 
     # Iterate over list of rows from CSV
