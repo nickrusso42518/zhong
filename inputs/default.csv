@@ -337,7 +337,7 @@
 忙,mang2,busy/rush
 对,dui4,right or correct (response)/fit or suit (verb)
 都,dou1,all/both/entirely (adv)
-老,lao3,old/experienced/venerable (person)
+老,lao3,old/experienced/venerable (person) [耂]
 师,shi1,teacher/expert/master (c. 老师)
 老师,lao3 shi1,teacher (in a school)
 医,yi1,medical/medicine (c. 医生)
@@ -367,7 +367,7 @@
 湾,wan1,bay or gulf (noun)/cast anchor or moor a boat (verb) (c. 台湾)
 台湾,tai2 wan1,taiwan
 伦敦,lun2 dun1,london
-京,jing1,capital city/beijing (in context)
+京,jing1,capital city/beijing (in context) [亠]
 北京,bei3 jing1,beijing/north capital
 南京,nan2 jing1,nanjing/south capital
 家,jia1,house/home/mw for family-run businesses
@@ -398,9 +398,10 @@
 她有没有,ta1 you3 mei2 you3,does she have? (pattern for yn?)
 关系,guan1 xi4:,relationship (noun)/affect or concern (verb)
 没关系,mei2 guan1 xi4:,it doesn't matter/no problem/no worries
-爱,ai4,love
-妈妈,ma1 ma1:,mom/mother
-爸爸,ba4 ba4:,dad/father
+爱,ai4,love/be fond of
+爱上,ai4 shang4,fall in love with
+妈妈,ma1 ma1:,mom (informal)
+爸爸,ba4 ba4:,dad (informal)
 男,nan2,male
 女,nv3,female
 女儿,nv3 er2,daughter
@@ -561,7 +562,8 @@
 在房间外,zai4 fang2 jian1 wai4,outside the room
 你看见，了吗,ni3 kan4 jian4 : le ma,did you see ...?/have you seen ...?
 你看见他的眼镜了吗,ni3 kan4 jian4 ta1 de yan3 jing4 le ma,did you see his glasses?/have you seen his glasses?
-找,zhao3,seek/search for/look for/find
+找,zhao3,seek/search for/look for/try to find
+找到,zhao3 dao4,find
 位,wei4,individual/seat/place (formal mw)
 等,deng3,await/wait for/equal to
 坐,zuo4,sit/take a seat/embark onto vehicle
@@ -930,7 +932,7 @@
 事,shi4,matter/affair (c. 事情/故事/同事/事业)
 事情,shi4 qing2,matter/affair/task/thing to be told
 一件事情,yi1:2 jian4 shi4 qing2,something/one thing/one matter
-爸妈,ba4 ma1,parents/dad and mom/father and mother
+爸妈,ba4 ma1,parents/dad and mom (informal)
 回去,hui2 qu4,go back (omit 去 when destination exists)
 回来,hui2 lai2,come back (omit 来 when destination exists)
 饭店,fan4 dian4,hotel/restaurant/diner (southern)
@@ -1196,9 +1198,9 @@
 亲,qin1,close/dear (c. 亲戚)
 戚,qi1,relative/parent/grief/sorrow (c. 亲戚)
 亲戚,qin1 qi1:,relatives (family relation)
-父亲,fu4 qin1,father
-母亲,mu3 qin1,mother
-父母,fu4 mu3,parents
+父亲,fu4 qin1,father (formal)
+母亲,mu3 qin1,mother (formal)
+父母,fu4 mu3,parents/father and mother (formal)
 爷爷,ye2 ye2:,grandfather/grandpa
 奶奶,nai3 nai3:,grandmother/grandma
 阿姨,a1 yi2,aunt
@@ -1372,7 +1374,6 @@
 普通,pu3 tong1,ordinary/common/general (c. 普通话)
 普通话,pu3 tong1 hua4,mandarin chinese language/common language (alt. 国语)
 国语,guo2 yu3,mandarin chinese language/national language (alt. 普通话)
-个子,ge4 zi,height/stature
 长大,zhang3 da4,grow up
 长得,zhang3 de,how something looks (pretty or the same etc)
 级,ji2,level/grade/rank/mw for levels or steps
@@ -1474,7 +1475,7 @@
 经常,jing1 chang2,frequently/often/constantly/regularly (sim. 常常)
 常常,chang2 chang2,frequently/often (sim. 经常)
 我常常坐公共汽车去,wo3 chang2 chang2 zuo4 gong1 gong4 qi4 che1 qu4,i often go by bus/i often take the bus to go
-热情,re4 qing2,passionate/warm-hearted/affectionate/enthusiastic
+热情,re4 qing2,passionate/warm-hearted/affectionate/enthusiastic (living thing only)
 关心,guan1 xin1,care about/be concerned about
 我的妻子有点可怕,wo3 de qi1 zi you3:2 dian3 ke3 pa4,my wife is a little scary
 你们看起来紧张极了,ni3 men kan4 qi3 lai2 jin3 zhang1 ji2 le,you look extremely nervous
@@ -2385,6 +2386,7 @@
 合法,he2 fa3,legal/legitimate (opp. 非法)
 非法,fei1 fa3,illegal (opp. 合法)
 服从,fu2 cong2,obey/comply/defer
+听话,ting1 hua4,do what one is told/obedient
 更新,geng1 xin1,renew/renovate/upgrade
 公民,gong1 min2,citizen
 公告,gong1 gao4,public announcement
@@ -2715,7 +2717,7 @@
 上下班,shang4 xia4 ban1,start and finish work
 数码,shu4 ma3,number/numerals/figures/digital
 数码相机,shu4 ma3 xiang4 ji1,digital camera
-竹子,zhu2 zi,bamboo
+竹子,zhu2 zi,bamboo [⺮]
 洗碗,xi3:2 wan3,wash the dishes
 想起,xiang3:2 qi3,recall/call to mind
 特色,te4 se4,special characteristic/distinguishing feature
@@ -2826,7 +2828,7 @@
 我们都生活在共同的世界里,wo3 men dou1 sheng1 huo2 zai4 gong4 tong2 de shi4 jie4 li3,we all live in a common world
 住院,zhu4 yuan4,to be in the hospital/be hospitalized
 宠物,chong3 wu4,house pet (lit. spoiled thing)
-养,yang3,to raise animals or children
+养,yang3,to raise animals or children (c. 营养)
 象,xiang4,elepgant/shape/form/appearance (c. 象征)
 征,zheng1,attack/go on combat campaign (c. 象征)
 象征,xiang4 zheng1,emblem/symbol/token
@@ -2917,7 +2919,7 @@
 墙,qiang2,wall
 长城有八千八百公里长,chang2 cheng2 you3 ba1 qian1 ba1 bai3 gong1 li3 chang2,great wall is 8800 kilometers long
 墙有八米高,qiang2 you3 ba1 mi3 gao1,wall is 8 meters tall
-营,ying2,operate or manage (verb)/military camp or barracks (noun) (c. 民营/国营/军营)
+营,ying2,operate or manage (verb)/military camp or barracks (noun) (c. 民营/国营/军营/营养)
 军营,jun1 ying2,barracks/military camp
 袜子,wa4 zi,socks/stockings
 放开,fang4 kai1,set free/release
@@ -3084,7 +3086,8 @@
 快速,kuai4 su4,high-speed/rapid (adj before 地+verb)
 通话,tong1 hua4,talk on the phone
 前后,qian2 hou4,from beginning to end/front and rear
-高度,gao1 du4,height/altitude/elevation/high degree
+高度,gao1 du4,height/altitude/elevation/high degree (sim. 个子)
+个子,ge4 zi,height/stature (sim. 高度)
 技术,ji4 shu4,technology/technique/skill
 性,xing4,nature/character/attribute/gender (c. 多样性)
 多样性,duo1 yang4 xing4,diversity/variegation
@@ -3112,3 +3115,32 @@
 究,jiu1,investigate/study (c. 研究)
 研究,yan2 jiu1,research/study academically (noun and verb)
 酸酸的，凉凉的,suan1 suan1 de : liang2 liang2 de,a bit sour and a bit cool (sim. 有点/有一点 + adj)
+传统上,chuan2 tong3 shang4,traditionally
+制品,zhi4 pin3,goods/products
+酪,lao4,curded milk (c. 奶酪)
+奶酪,nai3 lao4,cheese
+营养,ying2 yang3,nutrition/nourishment (noun)
+有营养,you3 ying2 yang3,nutritious (adj)
+消化,xiao1 hua4,digest food/absorb/assimilate
+良,liang2,good for you (food drink etc)
+不良,bu4 liang2,bad/harmful/unhealthy
+我研究美国少数民族文化,wo3 yan2 jiu1 mei3 guo2 shao4 shu4 min2 zu2 wen2 hua4,i study american minority cultures
+大部分汉人没吃过奶酪,da4 bu4 fen1 han4 ren2 mei2 chi1 guo4 nai3 lao4,most han people have not eaten cheese
+传统上中国人不吃奶制品,chuan2 tong3 shang4 zhong1 guo2 ren2 bu4 chi1 nai3 zhi4 pin3,traditionally chinese people did not eat dairy products
+大人对牛奶消化不良,da4 ren2 dui4 niu2 nai3 xiao1 hua4 bu4 liang2,adults digest cow milk poorly
+绿茶很有营养,lv4 cha2 hen3:2 you3 ying2 yang3,green tea is very nutritious
+式,shi4,type/form/pattern/style
+套,tao4,cover/encase/overlap/mw for sets (c. 手套)
+手套,shou3 tao4,gloves/mittens
+羊毛,yang2 mao2,wool/fleece
+毛衣,mao2 yi1,sweater
+大衣,da4 yi1,overcoat/cloak
+外套,wai4 tao4,coat/jacket
+一件暖和的外套,yi1:2 jian4 nuan3 huo de wai4 tao4,one warm coat/a warm coat
+一套羊毛西服,yi1:2 tao4 yang2 mao2 xi1 fu2,one wool suit/a wool suit
+西服,xi1 fu2,suit/western-style clothes
+面料,mian4 liao4,fabric/material for making clothes
+订做,ding4 zuo4,make to order/have custom made (alt. 定做)
+定做,ding4 zuo4,have custom made (alt. 订做)
+可是比在美国便宜,ke3 shi4 bi3 zai4 mei3 guo2 pian2 yi2:,but cheaper than in america
+穿大衣戴手套,chuan1 da4 yi1 dai4 shou3 tao4,wear an overcoat and gloves
