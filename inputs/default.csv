@@ -702,7 +702,7 @@
 注,zhu4,concentrate/inject/pour into (c. 注意)
 意,yi4,idea/meaning/thought (c. 注意/意思/愿意/同意/满意)
 注意,zhu4 yi4,pay attention to/take note of
-身,shen1,body (c. 身体/身上)
+身,shen1,body (c. 身体/身上/合身)
 身体,shen1 ti3,body
 身体健康,shen1 ti3 jian4 kang1,healthy body/one's health
 开,kai1,start/open/drive car
@@ -1344,13 +1344,13 @@
 西方人,xi1 fang1 ren2,westerner/western person
 东边,dong1 bian1,east side/east edge
 北面,bei3 mian4,north side/north face
-先,xian1,first/prior to/in advance (c. 首先)
+先,xian1,do something first (adj) (c. 首先)
 首,shou3,head/chief/first/mw for songs (c. 首先)
-首先,shou3 xian1,first/in the first place (before 然后 and 最后)
-然后,ran2 hou4,then/afterwards (after 先)
-最后,zui4 hou4,last/lastly/eventually (after 先 and 然后)
-先，然后,xian1 : ran2 hou4,first ... then/afterwards (swap 然后/再)
-先，然后，最后,xian1 : ran2 hou4 : zui4 hou4,first ... then ... last
+首先,shou3 xian1,first item in a series (before 然后 and 最后)
+然后,ran2 hou4,then/afterwards (after 首先 but before 最后)
+最后,zui4 hou4,last/lastly/eventually (after 首先 and 然后)
+首先，然后,shou3 xian1 : ran2 hou4,first ... then/afterwards (swap 然后/再)
+首先，然后，最后,shou3 xian1 : ran2 hou4 : zui4 hou4,first ... then ... last
 往左去,wang3:2 zuo3 qu4,go left
 往右走,wang3 you4 zou3,walk right
 往后看,wang3 hou4 kan4,look backwards/look behind
@@ -1995,7 +1995,7 @@
 协议,xie2 yi4,agreement/protocol/pact
 报告,bao4 gao4,report (verb or noun)
 回复,hui2 fu4,reply/respond/recover (usually via text or phone)
-合,he2,close/join/fit (c. 合同/合作)
+合,he2,close/join/fit (c. 合同/合作/合身)
 合同,he2 tong2,business contract
 项,xiang4,item/thing/sum of money/mw for tasks or items (c. 项目)
 项目,xiang4 mu4,work project
@@ -3160,3 +3160,8 @@
 衣服可以试穿了吗,yi1 fu2: ke3:2 yi3 shi4 chuan1 le ma,can the clothes be tried on?
 长短,chang2 duan3,length/duration/long and short
 衬衫和裤子的长短正好,chen4 shan1 he2 ku4 zi de chang2 duan3 zheng4 hao3,the shirt and pants are just the right length
+你想先试穿哪件衣服,ni3:2 xiang3 xian1 shi4 chuan1 na3 jian4 yi1 fu2:,which garment do you want to try on first?
+合身,he2 shen1,well-fitting clothes (adj)
+改,gai3,change/alter (usually with clothing)
+裙子的长短需要改,qun2 zi de chang2 duan3 xu1 yao4 gai3,length of the dress needs to be altered
+如果衣服不合身，您可以退货退款,ru2 guo3 yi1 fu2: bu4 he2 shen1 : nin2 ke3:2 yi3 tui4 huo4 tui4 kuan3,if the clothes do not fit you can return them for a refund
