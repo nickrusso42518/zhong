@@ -343,8 +343,8 @@
 医,yi1,medical/medicine (c. 医生)
 生,sheng1,raw or immature (adj)/life (noun) (c. 医生/学生)
 医生,yi1 sheng1,doctor/dr.
-中医,zhong1 yi1,chinese medicine (or a doctor trained in it)
-西医,xi1 yi1,western medicine (or a doctor trained in it)
+中医,zhong1 yi1,chinese medicine (specialty/discipline)
+西医,xi1 yi1,western medicine (specialty/discipline)
 学生,xue2 sheng1,student
 怎,zen3,how
 怎么,zen3 me,how to?
@@ -484,6 +484,7 @@
 脑,nao3,brain/mind (c. 电脑)
 电脑,dian4 nao3,computer
 玩,wan2,play/have fun (c. 游玩)
+好玩,hao3 wan2,amusing/fun/interesting (adj)
 游玩,you2 wan2,amuse oneself/have fun
 游,you2,tour/travel/swim (c. 游戏)
 戏,xi4,drama/performance (c. 游戏)
@@ -503,7 +504,7 @@
 睡觉,shui4 jiao4,sleep/go to bed
 回,hui2,return/go back/turn around
 放,fang4,put/release/free/let go
-煮,zhu3,boil in water
+煮,zhu3,cook over a fire/boil in water
 上学,shang4 xue2,go to school
 放学,fang4 xue2,get out of school
 上班,shang4 ban1,go to work/be on duty
@@ -855,6 +856,7 @@
 运,yun4,transport (verb)/transportation or luck (noun) (c. 运动/运费)
 动,dong4,move/displace (c. 运动/动物)
 运动,yun4 dong4,move or exercise (verb)/movement or motion (noun)
+运气,yun4 qi4,luck
 清,qing1,clear/distinct (c. 清楚)
 楚,chu3,clear/distinct (c. 清楚)
 清楚,qing1 chu3,clear (adj)/understand (verb)
@@ -949,7 +951,7 @@
 已经,yi3 jing1,already (before verb)
 已经喝,yi3 jing1 he1,already drinking
 已经吃完了,yi3 jing1 chi1 wan2 le,already finished eating
-费,fei4,expenses/expenditures/fee (c. 运费/小费)
+费,fei4,expenses/cost/consume/fee (c. 运费/小费)
 小费,xiao3 fei4,tip/charge/gratuitity (lit. small fee)
 克,ke4,gram (unit of weight)
 巧,qiao3,opportunely/coincidentally/skillful
@@ -2114,7 +2116,8 @@
 橙,cheng2,orange color (c. 橙子/香橙)
 橙子,cheng2 zi,orange fruit
 香橙,xiang1 cheng2,orange tree/orange fruit
-醒,xing3,wake up/become aware/sober up (c. 提醒)
+醒,xing3,wake up/become aware/sober up (c. 提醒/醒来)
+醒来,xing3 lai2,awaken/wake up
 提醒,ti2 xing3,remind to do something in the future
 想起,xiang3:2 qi3,recall something from the past/recall from memory
 口,kou3,mouth/mw for mouthed things (c. 门口/进口/出口)
@@ -2239,7 +2242,7 @@
 交通,jiao1 tong1,traffic/transportation/communications
 交流,jiao1 liu2,exchange/interaction/communication
 教育,jiao4 yu4,educate/teach
-接受,jie1 shou4,receive/accept
+接受,jie1 shou4,receive/accept (payments etc)
 接着,jie1 zhe,then/continue (adverb)/catch and hold on
 结果,jie2 guo3,outcome/result/conclusion
 进行,jin4 xing2,advance/conduct
@@ -2337,7 +2340,7 @@
 我不能保证,wo3 bu4 neng2 bao3 zheng4,i cannot guarantee it
 成为,cheng2 wei2,become/turn into (sim. 变得)
 变得,bian4 de,become (sim. 成为)
-不过,bu4 guo4,but/only/merely (softer and nicer than 但是 for complaining)
+不过,bu4:2 guo4,but/only/merely (softer and nicer than 但是 for complaining)
 起来,qi3 lai2:,stand up/get up/expressing preliminary judgment (c. 看起来)
 当时,dang1 shi2,then/at that time/while
 方法,fang1 fa3,way/means/method
@@ -2369,6 +2372,7 @@
 于是,yu2 shi4,consequently/as a result
 羽毛球,yu3 mao2 qiu2,badminton
 原因,yuan2 yin1,root cause/origin of an action/reason
+什么原因,shen2 me yuan2 yin1,for what reason?/why?
 由,you2,to follow/because of/due to (c. 理由)
 理由,li3 you2,reason/grounds/justification
 真正,zhen1 zheng4,genuine/authentic/real (c. 真实)
@@ -2749,7 +2753,7 @@
 乖,guai1,well-behaved (child)/obediently (alt. 乖乖)
 电气,dian4 qi4,electricity/electrical
 收音机,shou1 yin1 ji1,radio
-很少,hen3:2 shao3,rarely (common time word)
+很少,hen3:2 shao3,rarely (time word)
 健身,jian4 shen1,exercise/work out
 棵,ke1,mw for plants (trees and bamboo)
 那棵树下有四棵竹子,na4 ke1 shu4 xia4 you3 si4 ke1 zhu2 zi,there are four bamboos under that tree
@@ -2934,6 +2938,7 @@
 捏背能去火,nie1 bei4 neng2 qu4 huo3,massaging the back can release heat
 烫,tang4,scalding hot
 草药,cao3 yao4,herbal medicines
+中草药,zhong1 cao3 yao4,chinese medicine (to be consumed)
 前线,qian2 xian4,front lines/battlefront
 一部分,yi1:2 bu4 fen1,portion/one part/a small part (more than 一点)
 少量,shao3 liang4,a little bit/a few (sim. 一点)
@@ -3052,7 +3057,7 @@
 收银,shou1 yin2,receive payment
 收银员,shou1 yin2 yuan2,cashier
 收银台,shou1 yin2 tai2,checkout counter
-清醒,qing1 xing3,clear-headed/wake/sober
+清醒,qing1 xing3,clear-headed/awake/sober (adj)
 有用,you3 yong4,useful
 沙滩,sha1 tan1,sandy beaches （alt. 海滩)
 适,shi4,suitable/proper (c. 适合)
@@ -3174,7 +3179,8 @@
 我从来没吃坏过肚子,wo3 cong2 lai2 mei2 chi1 huai4 guo4 du4 zi,i have never had an upset stomach
 嫩,nen4,tender food/inexperienced person/light color
 消化不良,xiao1 hua4 bu4 liang2,indigestion/digests poorly
-毒,du2,poison (noun and verb)/poisonous/narcotics (c. 中毒)
+毒,du2,poison (noun and verb)/poisonous (c. 中毒/毒品)
+毒品,du2 pin3,drugs/narcotics/poison
 中毒,zhong1 du2,to be poisoned/poisoning (c. 食物中毒)
 食物中毒,shi2 wu4 zhong4 du2,food poisoning (noun)
 是不是因为羊肉串不新鲜,shi4 bu4:2 shi4 yin1 wei4 yang2 rou4 chuan4 bu4 xin1 xian1,is it because the lamb skewer is not fresh?
@@ -3183,3 +3189,17 @@
 以下,yi3 xia4,that level or lower/that amount or less/the following
 买得起,mai3 de qi3,afford to buy
 买不起,mai3 bu4 qi3,cannot afford to buy
+台球,tai2 qiu2,pool ball/billiards
+对手,dui4 shou3,opponent/competitor/rival/adversary
+半天,ban4 tian1,half of the day/a long time
+我们很少生病,wo3 men hen3:2 shao3 sheng1 bing4,we rarely get sick
+我会煮一点水,wo3 hu4 zhu3 yi1:4 dian3:2 shui3,i will boil some water
+过程,guo4 cheng2,course of events/process
+扎,za1,tie/find (c. 包扎)
+包扎,bao1 za1,wrap up/bind a wound
+清洗,qing1 xian3,clean by washing
+带路,dai4 lu4,show the way/be the guide/
+交警,jiao1 jing3,traffic police (alt. 交通警察)
+交通警察,jiao1 tong1 jing3 cha2,traffic police (alt. 交警)
+路口,lu4 kou3,road intersection/crossing
+连接,lian2 jie1,link/connect (verb)
