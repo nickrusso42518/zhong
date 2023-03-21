@@ -31,6 +31,9 @@
 一百一十四,yi1:4 bai3 yi1 shi2 si4,114/one hundred fourteen
 千,qian1,thousand
 万,wan4,ten thousand
+十万,shi2 wan4,hundred thousand
+百万,bai3 wan4,million
+千万,qian1 wan4,ten million
 亿,yi4,hundred million
 现,xian4,appear/present/now (c. 现在)
 现在,xian4 zai4,now/right now (cannot reference past)
@@ -1210,7 +1213,8 @@
 阿姨,a1 yi2,aunt
 叔叔,shu1 shu1:,uncle
 兄,xiong1,older brother (c. 兄弟/兄弟姐妹)
-兄弟,xiong1 di4,brothers
+兄弟,xiong1 di4,brothers/younger male buddy (slang)
+大哥,da4 ge1,older male buddy (slang)
 姐妹,jie3 mei4,sisters
 兄弟姐妹,xiong1 di4 jie3 mei4,siblings/brothers and sisters
 像,xiang4,resembles/similar/like (before 一样)
@@ -1659,7 +1663,7 @@
 历,li4,history/experience/undergo (c. 历史/经历)
 史,shi3,history/annals (c. 历史/大使馆)
 历史,li4 shi3,history
-了解,liao3:2 jie3,understand/realize/find out
+了解,liao3:2 jie3,understand/realize/find out about
 麻,ma2,feel numb/hemp/flax (c. 麻将)
 将,jiang4,command or lead (verb)/commander (noun) (c. 麻将)
 麻将,ma2 jiang4,mahjong (chinese game with tiles)
@@ -1980,6 +1984,7 @@
 微信,wei1 xin4,weixin/wechat (chinese collab app)
 微博,wei1 bo2,weibo/microblogging (chinese twitter)
 微辣,wei1 la4,mildly spicy
+微小,wei1 xiao3,tiny/minute/infinitesimal
 美图,mei3 tu2,meitu (chinese photo filter app)
 赞,zan4,praise/support/like on social media (slang)
 关注,guan1 zhu4,pay attention to/follow on social media (slang)
@@ -2968,9 +2973,10 @@
 云,yun2,cloud (c. 云南省)
 云南省,yun2 nan2 sheng3,yunnan province
 云南省有一万五千种植物,yun2 nan2 sheng3:2 you3 yi1:2 wan4 wu3 qian1 zhong3 zhi2 wu4,yunnan province has 15000 kinds of plants
-孤,gu1,lone/lonely (c. 孤独)
+孤,gu1,lone/lonely (c. 孤独/独特)
 独,du2,alone/independent/sole (c. 孤独)
 孤独,gu1 du2,lonely/solitary (adj)
+独特,du2 te4,unique/distinct (adj)
 变成,bian4 cheng2,change into/turn into/become
 恼,nao3,to get angry (c. 烦恼)
 烦恼,fan2 nao3,be worried/be distressed
@@ -3181,6 +3187,9 @@
 消化不良,xiao1 hua4 bu4 liang2,indigestion/digests poorly
 毒,du2,poison (noun and verb)/poisonous (c. 中毒/毒品)
 毒品,du2 pin3,drugs/narcotics/poison
+吸,xi1,inhale/breath (c. 吸烟/吸毒)
+吸烟,xi1 yan1,smoke (verb)
+吸毒,xi1 du2,use drugs
 中毒,zhong1 du2,to be poisoned/poisoning (c. 食物中毒)
 食物中毒,shi2 wu4 zhong4 du2,food poisoning (noun)
 是不是因为羊肉串不新鲜,shi4 bu4:2 shi4 yin1 wei4 yang2 rou4 chuan4 bu4 xin1 xian1,is it because the lamb skewer is not fresh?
@@ -3197,9 +3206,14 @@
 过程,guo4 cheng2,course of events/process
 扎,za1,tie/find (c. 包扎)
 包扎,bao1 za1,wrap up/bind a wound
-清洗,qing1 xian3,clean by washing
-带路,dai4 lu4,show the way/be the guide/
+清洗,qing1 xi3,clean by washing
+带路,dai4 lu4,show the way/be the guide
 交警,jiao1 jing3,traffic police (alt. 交通警察)
 交通警察,jiao1 tong1 jing3 cha2,traffic police (alt. 交警)
-路口,lu4 kou3,road intersection/crossing
+路口,lu4 kou3,road intersection/crossing/junction
 连接,lian2 jie1,link/connect (verb)
+白米,bai2 mi3,white rice (alt. 白米)
+寓,yu4,reside/residence (c. 公寓)
+公寓,gong1 yu4,apartments/flats
+公寓有一个小问题,gong1 yu4 you3 yi1:2 ge4 xiao3 wen4 ti2,the apartment has a small problem
+空调声音很大,kong1 tiao2 sheng1 yin1 hen3 da4,the air conditioner is loud
