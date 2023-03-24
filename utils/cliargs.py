@@ -46,14 +46,14 @@ def process_args():
     parser.add_argument(
         "-n",
         "--minlen",
-        help="minimum length of chinese chars",
+        help="minimum length of chinese chars (default 1)",
         type=int,
         default=1,
     )
     parser.add_argument(
         "-x",
         "--maxlen",
-        help="maximum length of chinese chars",
+        help="maximum length of chinese chars (default 50)",
         type=int,
         default=50,
     )

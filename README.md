@@ -41,9 +41,9 @@ options:
   -s, --nosound         disable sound; no audio narration of phrases
   -r RATE, --rate RATE  adjust rate of speech in words per minute (90 to 300)
   -n MINLEN, --minlen MINLEN
-                        minimum length of chinese chars
+                        minimum length of chinese chars (default 1)
   -x MAXLEN, --maxlen MAXLEN
-                        maximum length of chinese chars
+                        maximum length of chinese chars (default 50)
   -a AUTOTIME, --autotime AUTOTIME
                         auto-play (hands-free) timer in seconds, Ctrl+C to quit
   -i INFILE, --infile INFILE
@@ -196,6 +196,8 @@ There are currently three steps:
   * `run`: Runs the program using various input options and files.
     The default input files should have no failures. Some true negative
     cases are evaluated as well.
+  * `neg`: Runs the program using invalid input options and files.
+    These are deliberate true negative cases.
   * `clean`: Finds and removes all `*.pyc` files.
 
 You can run `make` or `make all` to run all the testing in series when doing
