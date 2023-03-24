@@ -19,12 +19,6 @@ def process_args():
 
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "-a",
-        "--auto",
-        help="enable auto-play (hands-free) mode, Ctrl+C to quit",
-        action="store_true",
-    )
-    parser.add_argument(
         "-c",
         "--nochin",
         help="disable (mask) presentation of chinese symbols",
@@ -50,6 +44,27 @@ def process_args():
         default=180,
     )
     parser.add_argument(
+        "-n",
+        "--minlen",
+        help="minimum length of chinese chars",
+        type=int,
+        default=1,
+    )
+    parser.add_argument(
+        "-x",
+        "--maxlen",
+        help="maximum length of chinese chars",
+        type=int,
+        default=50,
+    )
+    parser.add_argument(
+        "-a",
+        "--autotime",
+        help="auto-play (hands-free) timer in seconds, Ctrl+C to quit",
+        type=int,
+        default=0,
+    )
+    parser.add_argument(
         "-i",
         "--infile",
         help="input file in CSV format (chinese,pinyin,english)",
@@ -57,6 +72,11 @@ def process_args():
         default="inputs/default.csv",
     )
     args = parser.parse_args()
+
+    # Ensure min/max ranges are valid
+    if args.minlen < 1 or args.maxlen < args.minlen:
+        print(f"ERROR: invalid min/max range {args.minlen}-{args.maxlen}")
+        sys.exit(2)
 
     # If -c and -p are set, system must be MacOS and -s must be unset
     if args.nochin and args.nopin:

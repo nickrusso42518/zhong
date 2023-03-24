@@ -15,9 +15,6 @@ from utils.cliargs import process_args
 from utils.dictdb import lookup
 from utils.fileio import load_csv_data
 
-# Seconds to sleep after each item when auto is enabled
-AUTO_SLEEP = 5
-
 
 def main(args):
     """
@@ -25,7 +22,7 @@ def main(args):
     """
 
     # Load symbols and initialize empty list to track failures
-    rows = load_csv_data(args.infile)
+    rows = load_csv_data(args.infile, args.minlen, args.maxlen)
     fail_list = []
 
     # Print gameplay instructions before asking translation questions
@@ -93,17 +90,17 @@ def run_attempt(args, chinese, pinyin, i, total):
             say_sp = subprocess.Popen(say_cmd.split(" "))
 
         # Prompt for input and strip extra whitespace
-        if not args.auto:
+        if not args.autotime:
             attempt = input("english meaning: ").lower().strip()
 
         # If "say" command ran, ensure the process terminates
         if say_sp:
             say_sp.communicate()
 
-        # If in auto (hands-free) mode, wait a period of time, and
-        # hardcode a comma response
-        if args.auto:
-            time.sleep(AUTO_SLEEP)
+        # If autotime (hands-freemode) is non-zero, wait that duration, and
+        # hardcode a comma response to indicate a "wrong" answer
+        if args.autotime > 0:
+            time.sleep(args.autotime)
             attempt = ","
 
         # If user entered a question mark (?) then lookup symbols in dictionary

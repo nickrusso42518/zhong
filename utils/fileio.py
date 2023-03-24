@@ -19,7 +19,7 @@ C_SYM_EXCEPTIONS = ["〇", "，", "。", "、"]
 VALID_PINYIN = string.ascii_lowercase + " :1234"
 
 
-def load_csv_data(csv_filename):
+def load_csv_data(infile, minlen=1, maxlen=50):
     """
     Load and validate row data from CSV file using three column format:
     chinese,pinyin,english
@@ -27,10 +27,16 @@ def load_csv_data(csv_filename):
 
     # Try to open the file
     try:
-        # If the file exists, include rows that don't begin with # (comment)
-        with open(csv_filename, encoding="utf-8") as handle:
-            csv_reader = csv.reader(handle)
-            rows = [row for row in csv_reader if not row[0].startswith("#")]
+        # If the file exists, open it for reading
+        rows = []
+        with open(infile, encoding="utf-8") as handle:
+            for row in csv.reader(handle):
+                # Include if don't begin with # (comment) and of valid length
+                if (
+                    not row[0].startswith("#")
+                    and minlen <= len(row[0]) <= maxlen
+                ):
+                    rows.append(row)
 
     # Non-existent or corrupt file; print error text and quit with rc=3
     except (FileNotFoundError, OSError) as exc:

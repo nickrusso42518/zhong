@@ -32,15 +32,20 @@ pip install -r requirements.txt
 Basic usage:
 ```
 $ python play.py -h
-usage: play.py [-h] [-c] [-p] [-s] [-r RATE] [-i INFILE]
+usage: play.py [-h] [-c] [-p] [-s] [-r RATE] [-n MINLEN] [-x MAXLEN] [-a AUTOTIME] [-i INFILE]
 
 options:
   -h, --help            show this help message and exit
-  -a, --auto            enable auto-play (hands-free) mode, Ctrl+C to quit
   -c, --nochin          disable (mask) presentation of chinese symbols
   -p, --nopin           disable (mask) presentation of pinyin symbols
   -s, --nosound         disable sound; no audio narration of phrases
   -r RATE, --rate RATE  adjust rate of speech in words per minute (90 to 300)
+  -n MINLEN, --minlen MINLEN
+                        minimum length of chinese chars
+  -x MAXLEN, --maxlen MAXLEN
+                        maximum length of chinese chars
+  -a AUTOTIME, --autotime AUTOTIME
+                        auto-play (hands-free) timer in seconds, Ctrl+C to quit
   -i INFILE, --infile INFILE
                         input file in CSV format (chinese,pinyin,english)
 ```
@@ -57,9 +62,16 @@ Detailed explanation:
           which is my current (and constantly growing) general-purpose list.
 
   * `-a`: Enable auto-scroll (hands-free) mode. This disables per-question
-          input and automatically scrolls to the next question after a 5
-          second pause. It's good for practing pronunciating and listening
+          input and automatically scrolls to the next question after the
+          specified time in seconds. The default of 0 which disables
+          auto-scroll mode. It's good for practing pronunciating and listening
           rather then translating into English.
+
+  * `-n`: Specify minimum length of Chinese text. The default and minimum
+          value is 1. Must be less or equal to maximum length.
+
+  * `-x`: Specify maximum length of Chinese text. The default is 50 but
+          there is no maximum. Must be greater or equal to minimum length.
 
   * `-s`: Enable nosound mode. This disables audio narration of the Chinese
           symbols. Learners must rely entirely on sight. The game will
@@ -94,9 +106,11 @@ $ python play.py -s -i inputs/tp.csv
 ```
 
 Invalid usages:
-  * `python play.py -c -p -s`: Combination is never valid. Users have
+  * `$ python play.py -c -p -s`: Combination is never valid. Users have
     no visual or audible cues for learning, so this is useless. Program
     exits with return code 2 and an informative error message.
+  * `$ python play.py -n 3 -x 2`: Minimum length is greater than maximum
+    length, which doesn't make sense. Returns code 2 with error message.
   * `$ python play.py -i inputs/nonexist.csv`: If a nonexistent or corrupt file
     is supplied, the program exits with return code 3 and the corresponding
     `FileNotFoundError` or `OSError` message.

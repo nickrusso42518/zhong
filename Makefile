@@ -6,7 +6,7 @@
 .DEFAULT_GOAL := all
 
 .PHONY: all
-all: clean lint db run
+all: clean lint db neg run
 
 .PHONY: lint
 lint:
@@ -27,6 +27,9 @@ db:
 run:
 	@echo "Starting  run"
 	python play.py < test_stdin/enter_period.txt
+	python play.py -n 2 < test_stdin/enter_period.txt
+	python play.py -x 2 < test_stdin/enter_period.txt
+	python play.py -n 2 -x 2 < test_stdin/enter_period.txt
 	python play.py -i inputs/tp.csv < test_stdin/comma_period.txt
 	python play.py -s < test_stdin/period.txt
 	python play.py -c < test_stdin/period.txt
@@ -34,9 +37,17 @@ run:
 	python play.py -s -c < test_stdin/period.txt
 	python play.py -s -p < test_stdin/qmark_period.txt
 	python play.py -c -r 200 < test_stdin/bad_period.txt
-	python play.py -s -c -p || test $$? -eq 2
-	python play.py -i inputs/nonexist.csv || test $$? -eq 3
 	@echo "Completed run"
+
+.PHONY: neg
+neg:
+	@echo "Starting  neg"
+	python play.py -s -c -p || test $$? -eq 2
+	python play.py -n 0 || test $$? -eq 2
+	python play.py -x 0 || test $$? -eq 2
+	python play.py -n 3 -x 2 || test $$? -eq 2
+	python play.py -i inputs/nonexist.csv || test $$? -eq 3
+	@echo "Completed neg"
 
 .PHONY: clean
 clean:
