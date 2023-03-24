@@ -250,11 +250,10 @@
 要,yao4,wants or needs/going to/will (usually with future time & weaker than 得)
 想,xiang3,act of thinking/desire/miss someone/wants (when preceding an action verb)
 想要,xiang3 yao4,would like/seriously consider
-要去,yao4 qu4,going to go
 你要去哪儿,ni3 yao4 qu4 na3 r,where are you going to go?
 帮,bang1,help/assist/support (c. 帮忙/帮助)
-帮助,bang1 zhu4,help/assist (two-part verb)
-帮忙,bang1 mang2,help/lend a hand (verb+obj & separable)
+帮助,bang1 zhu4,help/assist (should include object) (sim. 帮忙)
+帮忙,bang1 mang2,help/assist (do not include object) (sim. 帮助)
 说,shuo1,say/speak/tell
 白,bai2,white color/pure
 明白,ming2 bai2:,understand/clear/obvious
@@ -312,7 +311,8 @@
 中,zhong1 :: zhong4,central/middle :: be hit by/suffer from
 拿,na2,hold/take/get/seize/catch/apprehend (c. 拿出来/加拿大)
 美,mei3,beautiful (adj)/beautify (verb)
-英,ying1,hero/brave (c. 英明)
+英,ying1,hero/brave (c. 英明/英国)
+英明,ying1 ming2,wise/brilliant
 国,guo2,country/kingdom
 中国,zhong1 guo2,china country
 韩国,han2 guo2,korea country
@@ -374,7 +374,9 @@
 北京,bei3 jing1,beijing/north capital
 南京,nan2 jing1,nanjing/south capital
 家,jia1,house/home/mw for family-run businesses
-家人,jia1 ren2,family
+家人,jia1 ren2,family/family member (alt. 家庭)
+庭,ting2,main hall/front courtyard/law court (c. 家庭)
+家庭,jia1 ting2,family/household (alt. 家人)
 住,zhu4,lives/dwells/resides
 在,zai4,located at/to be in/actively doing (before verb is -ing) (neg. 不 or 没)
 住在,zhu4 zai4,lives in/dwells in
@@ -394,7 +396,7 @@
 这儿,zhe4 r,here/over here (northern)
 这里,zhe4 li3,here/over here (southern)
 谁,shui2,who?/whom? (pr. shei2)
-谁的,shei2 de,whose?
+谁的,shui2 de,whose?
 有,you3,has/have/possess
 没,mei2,negation for 有/negation for verb+着|了|过
 没有,mei2 you3,not have (negate past actions)/not as much as (n1-没有-n2-adj)
@@ -547,6 +549,8 @@
 机,ji1,machine/opportunity/intention (c. 手机/飞机/机会)
 手机,shou3 ji1,cell phone
 手机游戏,shou3 ji1 you2 xi4,cell phone games
+开机,kai1 ji1,turn on a machine
+关机,guan1 ji1,turn off a machine
 明星,ming2 xing1,celebrity
 新,xin1,new/newly (c. 新闻) (opp. 旧)
 闻,wen2,hear/smell (c. 新闻)
@@ -624,9 +628,9 @@
 为,wei2 :: wei4,take item as/act as/serve as :: for (c. 为什么)/about (subj-为-obj-emotion)
 因,yin1,cause/reason (c. 因为)
 为什么,wei4 shen2 me,why?/for what? (adjacent to person targeted)
-因为,yin1 wei4,because/since (before noun and before 所以)
+因为,yin1 wei4,because/since (before 所以)
 所,suo3,actually/that which/mw for houses and colleges (c. 所以/交易所)
-所以,suo3:2 yi3,so/therefore/that's why (before noun and after 因为)
+所以,suo3:2 yi3,so/therefore/that's why (after 因为)
 因为，所以,yin1 wei4 : suo3:2 yi3,because ... so
 因为我很胖，所以她不高兴,yin1 wei4 wo3:2 hen3 pang4 : suo3:2 yi3 ta1 bu4 gao1 xing4,because i am fat so she is unhappy (formal)
 我很胖，所以她不高兴,wo3:2 hen3 pang4 : suo3:2 yi3 ta1 bu4 gao1 xing4,i am fat so she is unhappy (informal)
@@ -635,7 +639,8 @@
 西班牙,xi1 ban1 ya2,spain country
 西班牙文,xi1 ban1 ya2 wen2,spanish language (alt 西班牙语)
 印,yin4,print/mark/engrave (c. 打印/印度)
-度,du4,measure/angle or temperature degree/consider (c. 温度/印度/度假/度假区)
+度,du4,measure/angle or temperature degree/consider (c. 温度/印度/度假/度假区/速度)
+速度,su4 du4,speed/rate/velocity/music tempo
 印度,yin4 du4,india country
 印度语,yin4 du4 yu3,indian language/hindi (alt 印度文)
 度假,du4 jia4,take a vacation
@@ -668,7 +673,7 @@
 脏,zang1,dirty/filthy
 抽,chou1,draw out/remove part of the whole (c. 抽烟)
 烟,yan1,cigarette/tobacco/smoke/mist (c. 抽烟)
-抽烟,chou1 yan1,smoke a cigarette (verb)
+抽烟,chou1 yan1,smoke a cigarette (verb) (alt. 吸烟)
 还,hai2 :: huan2,still/yet/acceptable (+adj) :: to give back an item/to return an item
 还是,hai2 shi4,or?/still is/nevertheless
 肉,rou4,meat/flesh/pulp of a fruit
@@ -716,7 +721,7 @@
 始,shi3,start/beginning (noun)
 开始,kai1 shi3,start/begin/beginning (verb or adj)
 锻,duan4,forge/discipline (verb)/wrought (adj) (c. 锻炼)
-炼,lian4,refine/smelt/temper with fire (c. 锻炼)
+炼,lian4,refine/smelt/temper with fire (c. 锻炼/炼钢)
 锻炼,duan4 lian4,train/work out
 提,ti2,lift/carry/put forward (c. 提供)
 手提,shou3 ti2,portable
@@ -765,7 +770,7 @@
 上车,shang4 che1,get on/get in/embark onto generic vehicle
 下车,xia4 che1,get off/get out/disembark from generic vehicle
 船,chuan2,boat/vessel/ship
-铁,tie3,iron (metal noun)
+铁,tie3,iron (metal noun) (c. 钢铁/地铁)
 地铁,di4 tie3,subway/metro
 酒,jiu3,alcohol/wine/liquor
 店,dian4,inn/shop/store (c. 商店/饭店/酒店)
@@ -818,16 +823,17 @@
 筷,kuai4,chopsticks (alt. 筷子)
 勺,shao2,spoon/ladle (alt. 勺子)
 叉,cha1,fork (alt. 叉子)
-刀,dao1,knife/blade (alt. 刀子) [刂]
+刀,dao1,knife/blade (alt. 刀子) (c. 钢刀) [刂]
 汤勺,tang1 shao2,ladle/soup spoon
 碗,wan3,bowl (mw and noun)
 杯,bei1,cup/glass (mw)
 杯子,bei1 zi,cup/glass (noun)
 盘,pan2,plate/dish/tray (mw)
 盘子,pan2 zi,plate/dish (noun)
-德,de2,virtue/goodness/morality
+德,de2,virtue/goodness/morality (c. 德国/道德)
 德国,de2 guo2,germany country
 德语,de2 yu3,german language (alt. 德文)
+道德,dao4 de2,virtue/morality/ethics
 啤酒,pi2 jiu3,beer (loanword)
 汁,zhi1,juice (c. 果汁)
 果汁,guo3 zhi1,fruit juice
@@ -866,7 +872,7 @@
 清,qing1,clear/distinct (c. 清楚)
 楚,chu3,clear/distinct (c. 清楚)
 清楚,qing1 chu3,clear (adj)/understand (verb)
-漫,man4,overflow/flood (noun or verb) (c. 浪漫)
+漫,man4,overflow/flood (noun or verb) (c. 浪漫/漫游)
 浪,lang4,ocean waves/unrestrained (c. 浪漫)
 浪漫,lang4 man4,romantic
 约会,yue1 hui4,appointment/date/engagement
@@ -1021,7 +1027,7 @@
 我是在那家酒店喝的,wo3 shi4 zai4 na4 jia1 jiu3 dian4 he1 de,i drank at that hotel/it was at that hotel that i drank (where)
 你是怎么来的,ni3 shi4 zen3 me lai2 de,how did you come?
 我是坐快车来的,wo3 shi4 zuo4 kuai4 che1 lai2 de,i came by express train/it was by express train that i came (how)
-你是跟谁出去的,ni3 shi4 gen1 shei2 chu1 qu4 de,who did you go out with?/with whom did you go out?
+你是跟谁出去的,ni3 shi4 gen1 shui2 chu1 qu4 de,who did you go out with?/with whom did you go out?
 我是跟她出去的,wo3 shi4 gen1 ta1 chu1 qu4 de,i went out with her/it was with her that i went out (with whom)
 离,li2,away from/apart/distance between locations (loc1-离-loc2)
 远,yuan3,distant/far (loc1-离-loc2-很远)
@@ -1115,7 +1121,7 @@
 礼物,li3 wu4,gift/present (noun)
 怎么过,zen3 me guo4,how to celebrate?/how to experience?
 中国白酒,zhong1 guo2 bai2 jiu3,chinese white wine/baijiu
-干杯,gan1 bei1,cheers/drink a toast
+干杯,gan1 bei1,cheers/drink a toast (lit. dry cup)
 法,fa3,law/regulation (c. 法国/办法)
 法国,fa3 guo2,france country
 法文,fa3 wen2,french language (alt. 法语)
@@ -1288,7 +1294,7 @@
 下面,xia4 mian4,bottom side/under
 元,yuan2,yuan/rmb (formal)
 人民,ren2 min2,the people/inhabitants of a country (c. 人民币)
-币,bi4,currency (c. 人民币/港币)
+币,bi4,currency (c. 人民币/港币/农民)
 人民币,ren2 min2 bi4,yuan/rmb/people's currency
 港币,gang3 bi4,hong kong dollars (alt. 港元)
 港元,gang3 yuan2,hong kong dollars (alt. 港币)
@@ -1441,7 +1447,7 @@
 乎,hu1,doubt/astonishment (final particle)
 几乎,ji1 hu1,almost/nearly
 忘,wang4,forget/neglect/overlook/omit
-记,ji4,remember/memorize/record (c. 忘记/记得)
+记,ji4,remember/memorize/record (c. 忘记/记得/记住)
 忘记,wang4 ji4,forget
 海关,hai3 guan1,customs (when crossing borders)
 早一点到。我们首先喝一点茶,zao3 yi1:4 dian3 dao4 : wo3 men shou3 xian1 he1 yi1:4 dian3 cha2,arrive earlier. we will drink a bit of tea first
@@ -1571,8 +1577,11 @@
 婚,hun1,marry (verb)/marriage or wedding (noun) (c. 结婚)
 结婚,jie2 hun1,marry
 认真,ren4 zhen1,serious or earnest (adj)/take seriously (verb)
-愿,yuan4,ready or willing (adj)/wish or desire (verb) (c. 愿意/愿望)
+愿,yuan4,ready or willing (adj)/wish or desire (verb) (c. 愿意/愿望/志愿)
 愿意,yuan4 yi4,ready or willing (adj)/wish or want (verb)
+志,zhi4,aspiration/ambition/mental will (c. 志愿)
+志愿,zhi4 yuan4,volunteer (verb) (c. 志愿者)/aspiration or ambition (noun)
+志愿者,zhi4 yuan4 zhe3,volunteer (noun)
 害,hai4,harm/evil/cause trouble (c. 害怕)
 害怕,hai4 pa4,afraid/scared
 分手,fen1 shou3,part company/split up/break up
@@ -1622,7 +1631,8 @@
 抱歉,bao4 qian4,feel sorry/feel apologetic
 桶,tong3,bucket/bin (c. 水桶)
 水桶,shui3:2 tong3,bucket
-丢,diu1,lose/throw/discard
+丢,diu1,lose/throw/discard (c. 丢弃/丢脸)
+丢弃,diu1 qi4,discard/abandon
 垃圾,la1 ji1,trash/garbage/low quality
 垃圾桶,la1 ji1 tong3,trash can/garbage can
 天上,tian1 shang4,sky/celestial/heavenly
@@ -1650,9 +1660,10 @@
 江,jiang1,river (c. 长江)
 长江,chang2 jiang1,yangtze river/long river
 宫,gong1,palace/temple
-世,shi4,generation/era/world (c. 世界)
-界,jie4,boundary/scope/extent (c. 世界)
+世,shi4,generation/era/world (c. 世界/世纪)
+界,jie4,boundary/scope/extent (c. 世界/边界)
 世界,shi4 jie4,world
+边界,bian1 jie4,border/boundary
 动物,dong4 wu4,animal
 有名,you3 ming2,famous/well-known
 熊,xiong2,bear (animal)
@@ -1677,7 +1688,8 @@
 他明天看电视或者读历史书,ta1 ming2 tian1 kan4 dian4 shi4 huo4 zhe3 du2 li4 shi3 shu1,he will watch tv or read a history book tomorrow
 爬,pa2,climb/crawl (c. 爬山)
 山,shan1,mountain/hill (c. 爬山)
-爬山,pa2 shan1,hiking/mountain climbing
+爬山,pa2 shan1,hiking/mountain climbing (sim. 登山)
+登山,deng1 shan1,mountain climbing/mountaineering (sim. 爬山)
 趣,qu4,interest/interesting (c. 兴趣/有趣/乐趣)
 兴趣,xing4 qu4,interest in/desire to know about
 乐趣,le4 qu4,delight/pleasure/joy
@@ -1780,10 +1792,11 @@
 数学,shu4 xue2,mathematics
 放假,fang4 jia4,take vacation or take time off (verb)/vacation or time off (noun)
 记得,ji4 de,remember
-于,yu2,to/with regard to (c. 终于/关于)
+于,yu2,to/with regard to (c. 终于/关于/对于)
 终,zhong1,end/finish (c. 终于)
 束,shu4,bunches/bundles/bouquets (mw) (c. 结束)
 终于,zhong1 yu2,finally/at last
+对于,dui4 yu2,regarding/with regard to
 结束,jie2 shu4,finish/conclude (standalone verb)
 担,dan1,undertake/take responsibility for (c. 担心)
 担心,dan1 xin1,worried/uneasy
@@ -1943,8 +1956,11 @@
 酸,suan1,sour/tart/sore/aching (c. 酸辣汤)
 汤,tang1,soup/hot water (c. 酸辣汤/汤圆)
 酸辣汤,suan1 la4 tang1,hot and sour soup/sour and spicy soup
-圆,yuan2,circle/round/circular (c. 汤圆)
+圆,yuan2,circle/round/circular (c. 汤圆/圆形)
 汤圆,tang1 yuan2,glutinous rice balls
+形,xing2,form/shape (c. 圆形)
+圆形,yuan2 xing2,round/circular shaped
+方形,fang1 xing2,square shaped
 烤,kao3,roast/bake/broil (c. 烤鸭)
 鸭,ya1,duck animal (c. 烤鸭)
 烤鸭,kao3 ya1,roast duck (c. 北京烤鸭)
@@ -1969,12 +1985,14 @@
 八百亿双鞋子,ba1 bai3 yi4 shuang1 xie2 zi,80.000.000.000 pairs of shoes
 囧,jiong3,light or bright (lit)/embarrassment emoji (slang)
 萌,meng2,sprout (lit)/cute (slang)
+粉,fen3,powder/turn into powder (c. 粉丝)
+丝,si1,silk/thread (c. 粉丝)
 粉丝,fen3 si1,bean vermicelli (lit)/fan or groupie (slang)
 土,tu3,local/dust/clay (c. 土豪)
 豪,hao2,grand/heroic (c. 土豪/豪华)
 土豪,tu3 hao2,local tycoon/provincial tyrant (slang)
 吃货,chi1 huo4,foodie (slang)
-宅,zhai2,residence/stay at home (c. 宅男)
+宅,zhai2,residence/stay at home (c. 宅男/住宅)
 宅男,zhai2 nan2,otaku/obsessive gamer boy (slang)
 自拍,zi4 pai1,taking selfies (verb or noun)
 菜鸟,cai4 niao3,beginner/newbie (slang)
@@ -2028,7 +2046,7 @@
 享受,xiang3 shou4,to enjoy/live it up
 免贵,mian3 gui4,no need for saying honorable (polite)
 辛,xin1,pungent/hard/laborious/suffering (c. 辛苦)
-辛苦,xin1 ku3,exhausting/arduous/hardship/suffering
+辛苦,xin1 ku3,exhausting or arduous (adj)/hardship or suffering (noun)
 辛苦您了,xin1 ku3 nin2 le,thanks for your hard work
 险,xian3,danger/dangerous/rugged (c. 保险/风险)
 保险,bao3:2 xian3,insure (verb)/insurance (noun)
@@ -2194,7 +2212,7 @@
 请提醒她认真地表示我们的能力,qing3 ti2 xing3 ta1 ren4 zhen1 de biao3 shi4 wo3 men de neng2 li4,please remind her to earnestly express our capabilities
 我打算选择一个奇怪的表演,wo3:2 da3 suan4 xuan3 ze2 yi1:2 ge4 qi2 guai4 de biao3:2 yan3,i intend to select a strange performance
 为了发财，你必须卖便宜的进口的,wei4 le fa1 cai2 : ni3 bi4 xu1 mai4 pian2 yi2 de jin4 kou3 de,in order to get rich you must sell cheap imported ones
-饼干,bing3 gan1,biscuit/cracker
+饼干,bing3 gan1,biscuit/cracker/cookie
 出生,chu1 sheng1,be born/birth
 打印,da3 yin4,print/seal/stamp
 得意,de2 yi4,proud of oneself/complacent
@@ -2294,7 +2312,7 @@
 然后吗,ran2 hou4 ma,what next?/what then?/what happens after?
 周年,zhou1 nian2,anniversary
 我想去酒店,wo3:2 xiang3 qu4 jiu3 dian4,i would like to go to the hotel (xqj)
-跟谁一起,gen1 shei2 yi1:4 qi3,together with whom?/along with whom?
+跟谁一起,gen1 shui2 yi1:4 qi3,together with whom?/along with whom?
 现在几点钟,xian4 zai4 ji3:2 dian3 zhong1,what time is it now?
 我啊,wo3 a,as for me
 这么,zhe4 me,like this/in this way/this much (sim. 这样)
@@ -2373,7 +2391,8 @@
 通过,tong1 guo4,by means of/via/get through/pass a test/pass legislation
 完全,wan2 quan2,complete/whole/totally
 往往,wang3:2 wang3,usually/in many cases
-无,wu2,not to have/none (c. 无聊/无论)
+无,wu2,not to have/none (c. 无聊/无论/无形)
+无形,wu2 xing2,invisible/unseen/formless (lit. no shape)
 无聊,wu2 liao2,bored/boring/senseless
 无论,wu2 lun4,regardless of whether ...
 许多,xu3 duo1,many/much
@@ -2481,7 +2500,7 @@
 到几点钟,dao4 ji3:2 dian3 zhong1,until what time?
 开到,kai1 dao4,open until
 恨,hen4,hate/regret
-有你的信，是谁写来的,you3:2 ni3 de xin4 : shi4 shei2 xie3 lai2 de,there is a letter for you. who wrote it?
+有你的信，是谁写来的,you3:2 ni3 de xin4 : shi4 shui2 xie3 lai2 de,there is a letter for you. who wrote it?
 打的,da3 di1,take a taxi/go by taxi
 如果你不介意,ru2 guo3 ni3 bu4:2 jie4 yi4,if you do not mind
 六点钟左右,liu4 dian3 zhong1 zuo3 you4,6 oclock more or less/around 6 oclock
@@ -2531,7 +2550,6 @@
 我可以在哪儿买邮票,wo3 ke3:2 yi3 zai4 na3:2 r mai3 you2 piao4,where can i buy stamps?
 我马上就来,wo3:2 ma3 shang4 jiu4 lai2,i am coming immediately/i will be right there
 公共汽车比地铁慢,gong1 gong4 qi4 che1 bi3 di4 tie3 man4,the bus is slower than the subway
-英明,ying1 ming2,wise/brilliant
 茶馆,cha2 guan3,tea house/tea shop
 比我好,bi3:2 wo3:2 hao3,better than i
 你慢慢来,ni3 man4 man4 lai2,take your time (lit. you slowly come)
@@ -2708,9 +2726,10 @@
 闹,nao4,noisy/to make noise (c. 热闹)
 热闹,re4 nao4:,lively/bustling (lit. hot and noisy)
 桥,qiao2,bridge
-纪,ji4,age/era (c. 世纪)
+纪,ji4,age/era (c. 世纪/年纪)
+年纪,nian2 ji4,age of something in years
 世纪,shi4 ji4,century (lit. world era)
-时期,shi2 qi1,point in time/phase (c. 期间
+时期,shi2 qi1,point in time/phase (c. 期间)
 期间,qi1 jian1,period/phase/wider time interval (c. 时期)
 长城是十七世纪建完的,chang2 cheng2 shi4 shi2 qi1 shi4 ji4 jian4 wan2 de,the great wall was built in the 17th century/it was in the 17th century that the great wall was built
 今天已经过去了,jin1 tian1 yi3 jing1 guo4 qu4 le,today is over/today has passed
@@ -2723,7 +2742,8 @@
 动词,dong4 ci2,verb
 我家有三口人,wo3 jia1 you3 san1 kou3 ren2,there are 3 people in my family/my family has 3 people
 睡过头,shui4 guo4 tou2,oversleep
-线,xian4,thread/string/wire/line
+线,xian4,thread/string/wire/line (c. 时间线)
+时间线,shi2 jian1 xian4,timeline
 地铁十七号线,di4 tie3 shi2 qi1 hao4 xian4,metro line 17/subway line 17
 薄,bao2,thin/indifferent/weak (opp. 厚)
 厚,hou4,thick/deep/kind (opp. 薄)
@@ -2751,7 +2771,8 @@
 鲜艳,xian1 yan4,bright-colored
 电影院,dian4 ying3 yuan4,cinema/movie theater
 走出,zou3 chu1,to exit
-走进,zou3 jin4,to enter
+走进,zou3 jin4,to enter (alt. 进入)
+进入,jin4 ru4,to enter (alt. 走进)
 出门,chu1 men2,to exit through a door/to leave home
 进门,jin4 men2,to enter through a door
 你说得对,ni3 shou1 de dui4,you are correct/you said it correctly
@@ -2826,7 +2847,7 @@
 帝,di4,emperor (c. 皇帝)
 皇帝,huang2 di4,emperor
 小皇帝,xiao3 huang2 di4,spoiled child/pampered only child
-谁照顾你孙子和孙女,shei2 zhao4 gu4: ni3 sun1 zi he2 sun1 nv3,who takes care of your grandson and granddaughter?/who takes care of your grandchildren?
+谁照顾你孙子和孙女,shui2 zhao4 gu4: ni3 sun1 zi he2 sun1 nv3,who takes care of your grandson and granddaughter?/who takes care of your grandchildren?
 比方,bi3 fang1,analogy/for instance  (sim. 比方说)
 比方说,bi3 fang1 shuo1,for example/for instance (sim. 比方)
 有的方面一样,you3 de fang1 mian4 yi1:2 yang4,in some respects they are the same/they are the same in some respects
@@ -2866,8 +2887,9 @@
 花生,hua1 sheng1,peanut/groundnut
 我对花生和海鲜过敏,wo3 dui4 hua1 sheng1 he2 hai3 xian1 guo4 min3,i am allergic to peanuts and seaford
 有机,you3 ji1,organic
-农,nong2,to farm (verb)/agriculture (noun) (c. 农场)
+农,nong2,to farm (verb)/agriculture (noun) (c. 农场/农民)
 农场,nong2 chang3,farm (noun)
+农民,nong2 min2,farmer
 遛,liu4,to walk an animal (eg. 遛鸟/遛狗)
 牌,pai2,playing card/mahjong tile/game piece/signboard (c. 登机牌)
 腐,fu3,decay/rotten (c. 豆腐)
@@ -3084,7 +3106,7 @@
 主题,zhu3 ti2,main theme/topic/subject
 演讲,yan3:2 jiang3,lecture/make a speech
 主题演讲,zhu3 ti2 yan3:2 jiang3,keynote speech
-谁做主题演讲,shei2 zuo4 zhu3 ti2 yan3:2 jiang3,who is making the keynote speech?
+谁做主题演讲,shui2 zuo4 zhu3 ti2 yan3:2 jiang3,who is making the keynote speech?
 我演讲的主题是太阳能,wo3 yan3:2 jiang3 de zhu3 ti2 shi4 tai4 yang2 neng2,the topic of my speech is solar energy
 她是一家电商公司的总裁,ta1 shi4 yi1:4 jia1 dian4 shang1 gong1 si1 de zong3 cai2,she is the president of an e-commerce company
 物流,wu4 liu2,logistics/distribution business
@@ -3105,8 +3127,10 @@
 湖北有很多河和湖,hu2 bei3 you3:2 hen3 duo1 he2 he2 hu2,hubei has many rivers and lakes
 我父亲是福建人，母亲是湖南人,wo3 fu4 qin1 shi4 fu2 jian4 ren2 : mu3 qin1 shi4 hu2 nan2 ren2,my father is from fujian and my mother is from hunan
 备课,bei4 ke4,prepare a lesson
-有关,you3 guan1,to relate to/related to
-快速,kuai4 su4,high-speed/rapid (adj before 地+verb)
+有关,you3 guan1,to relate to/related to/have something to do with
+速,su4,fast/rapid/quick (c. 高速/快速/速度)
+高速,gao1 su4,high-speed/rapid (alt. 快速) (c. 高速公路)
+快速,kuai4 su4,high-speed/rapid (alt. 高速) (adj before 地+verb)
 通话,tong1 hua4,talk on the phone
 前后,qian2 hou4,from beginning to end/front and rear
 高度,gao1 du4,height/altitude/elevation/high degree (sim. 个子)
@@ -3116,7 +3140,8 @@
 多样性,duo1 yang4 xing4,diversity/variegation
 远足,yuan3 zu2,excursion/hike/march (noun and verb)
 林,lin2,woods/forest/common surname
-林区,lin2 qu1,region of forest
+林区,lin2 qu1,forested area/region of forests
+山区,shan1 qu1,mountainous area/region of mountains
 采,cai3,pick/pluck/gather
 莓,mei2,berry (c. 草莓/蓝莓)
 草莓,cao3 mei2,strawberry/strawberries/love bite (slang)
@@ -3194,8 +3219,8 @@
 毒,du2,poison (noun and verb)/poisonous (c. 中毒/毒品)
 毒品,du2 pin3,drugs/narcotics/poison
 吸,xi1,inhale/breath (c. 吸烟/吸毒)
-吸烟,xi1 yan1,smoke (verb)
-吸毒,xi1 du2,use drugs
+吸烟,xi1 yan1,smoke (verb) (alt. 抽烟)
+吸毒,xi1 du2,use drugs/do drugs
 中毒,zhong1 du2,to be poisoned/poisoning (c. 食物中毒)
 食物中毒,shi2 wu4 zhong4 du2,food poisoning (noun)
 是不是因为羊肉串不新鲜,shi4 bu4:2 shi4 yin1 wei4 yang2 rou4 chuan4 bu4 xin1 xian1,is it because the lamb skewer is not fresh?
@@ -3241,3 +3266,19 @@
 完整,wan2 zheng3,complete/intact
 分流,fen1 liu2,bypass (noun)
 起到，作用,qi3 dao4 : zuo4 yong4,to act as something/to have a given effect
+记住,ji4 zhu4:,keep in mind/bear in mind
+住宅,zhu4 zhai2,residence/dwelling
+公路,gong1 lu4,highway/non-residential road (c. 高速公路)
+高速公路,gao1 su4 gong1 lu4,highway/expressway/freeway
+钢,gang1,steel (metal noun) (c. 钢铁/炼钢/钢刀)
+钢铁,gang1 tie3,steel (metal noun)
+炼钢,lian4 gang1,make steel/steelmaking
+钢刀,gang1 dao4,steel knife
+剑,jian4,double-edged sword
+他们不住在一起,ta1 men bu4:2 zhu4 zai4 yi1:4 qi3,they do not live together
+当军人很辛苦,dang1 jun1 ren2 hen3 xin1 ku3,being a soldier is exhausting
+穷,qiong2,poor/destitute (adj)
+有的农民很穷,you3 de nong2 min2 hen3 qiong2,some farmers are poor
+东南亚,dong1 nan2 ya4,southest asia
+具,ju4,tool/device/utensil (c. 具体)
+具体,ju4 ti3,concrete/definite/specific
