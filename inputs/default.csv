@@ -780,7 +780,7 @@
 便,bian4,plain/convenient (c. 随便/便宜/方便)
 随便,sui2 bian4,as one pleases/as one wishes/casual
 随你,sui2 ni3,as you wish/it's up to you
-准,zhun3,allow/approve/grant
+准,zhun3,allow/approve/grant (c. 准备)
 出,chu1,go out/come out/occur (c. 出去)
 出去,chu1 qu4,go out
 出来,chu1 lai2,come out/emerge
@@ -1073,7 +1073,7 @@
 晴,qing2,clear weather/sunny weather (adj)
 晴天,qing2 tian1,clear day/sunny day (noun)
 天气,tian1 qi4,weather
-带,dai4,bring with (verb)/band to hold item together (noun)
+带,dai4,bring with (verb)/band to hold item together (noun) (c. 带来)
 带来,dai4 lai2,bring/bring about/produce
 伞,san3,umbrella/parasol
 冷,leng3,cold
@@ -1476,10 +1476,10 @@
 哭,ku1,cry/weep
 生气,sheng1 qi4,angry/take offense
 难过,nan2 guo4,sad/upset/unhappy
-看起来,kan4 qi3 lai2:,looks like/seems like/appears to be (after verb)
-听起来,ting1 qi3 lai2:,sounds like (after verb)
-闻起来,wen2 qi3 lai2:,smells like (after verb)
-吃起来,chi1 qi3 lai2:,tastes like (after verb)
+看起来,kan4 qi3 lai2:,looks like/seems like/appears to be (adv)
+听起来,ting1 qi3 lai2:,sounds like (adv)
+闻起来,wen2 qi3 lai2:,smells like (adv)
+吃起来,chi1 qi3 lai2:,tastes like (adv)
 奇,qi2,strange/odd (c. 奇怪)
 怪,guai4,strange/odd (c. 奇怪)
 奇怪,qi2 guai4,strange/odd
@@ -1554,7 +1554,9 @@
 天天,tian1 tian1,every day/daily/day by day
 向上,xiang4 shang4,upwards/advance/make progress
 向下,xiang4 xia4,downwards/regress
-板,ban3,board/plank (c. 老板/黑板)
+板,ban3,board/plank (c. 老板/黑板/地板/天花板)
+地板,di4 ban3,floor
+天花板,tian1 hua1 ban3,ceiling
 老板,lao3:2 ban3,boss
 黑板,hei1 ban3,blackboard
 体育馆,ti3 yu4 guan3,indoor stadium for sporting events
@@ -2151,10 +2153,10 @@
 想起,xiang3:2 qi3,recall something from the past/recall from memory
 口,kou3,mouth/mw for mouthed things (c. 门口/进口/出口)
 门口,men2 kou3,doorway/gate
-出口,chu1 kou3,export/exit
-进口,jin4 kou3,import/entrance (alt. 入口)
+出口,chu1 kou3,to export (verb)/exit (noun)
+进口,jin4 kou3,to import (verb)/entrance (noun) (alt. 入口)
 入,ru4,enter/go into/join (c. 入口)
-入口,ru4 kou3,import/entrance (alt. 进口)
+入口,ru4 kou3,to import (verb)/entrance (noun) (alt. 进口)
 差不多,cha4 bu4 duo1,about the same/more or less/good enough
 什么都,shen2 me dou1,everything/all (swap 都/也 for negatives only)
 龙什么蛋糕都爱吃,long2 shen2 me dan4 gao1 dou1 ai4 chi1,dragons love to eat all kinds of cake
@@ -2794,7 +2796,8 @@
 统,tong3,gather/unite/unify (c. 传统/系统)
 传统,chuan2 tong3,traditional/conventional
 系统,xi4 tong3,system
-有害,you3 hai4,harmful/destructive/damaging
+有害,you3 hai4,harmful/destructive/damaging (opp. 无害)
+无害,wu2 hai4,harmless (opp. 有害)
 旧,jiu4,old/worn with age (opp. 新)
 旧汽车对环境有害,jiu4 qi4 che1 dui4 huan2 jing4 you3 hai4,old cars are bad for the environment
 传统汽车对空气质量不好,chuan2 tong3 qi4 che1 dui4 kong1 qi4 zhi4 liang4 bu4 hao3,traditional cars are bad for air quality
@@ -3044,7 +3047,7 @@
 技,ji4,skill (c. 高科技)
 高科技,gao1 ke1 ji4,high technology
 电子,dian4 zi3,electronic/electron (physics)
-产,chan3,produce (verb)/product (noun) (c. 产品)
+产,chan3,produce (verb)/product (noun) (c. 产品/生产)
 产品,chan3:2 pin3,goods/merchanise/product
 融,rong2,melt/thaw/blend/merge (c. 金融)
 金融,jin1 rong2,financial (adj)/finance (noun)
@@ -3285,3 +3288,10 @@
 琴,qin2,musical instrument (c. 钢琴/小提琴)
 钢琴,gang1 qin2,piano
 小提琴,xiao3 ti2 qin2,violin/fiddle
+我没有跟我家人一起去过中国,wo3 mei2 you3 gen1 wo3 jia1 ren2 yi1:4 qi3 qu4 guo4 zhong1 guo2,i have not been to china together with my family
+木,mu4,wood/wooden (bound form)
+环境保护,huan2 jing4 bao3 hu4,environmental protection/environmentally friendly (alt. 环保)
+环保,huan2 bao3,environmental protection/environmentally friendly (alt. 环境保护)
+生产,sheng1 chan3,produce/manufacture
+你们的生产过程环保吗,ni3 men de sheng1 chan3 guo4 cheng2 huan2 bao3 ma,is your production process environmentally friendly?
+竹地板对身体无害,zhu2 di4 ban3 dui4 shen1 ti3 wu2 hai4,bamboo floor is harmless to the body
