@@ -288,7 +288,7 @@
 本名,ben3 ming2,original name/real name
 汉字,han4 zi4:,chinese character/chinese writing
 什,shen2,what (c. 什么)
-么,me,interrogative suffix/non-yn?
+么,me,interrogative suffix/open-ended question (c. 什么/怎么)
 什么,shen2 me,what?
 候,hou4,time (noun)/wait (verb)
 什么时候,shen2 me shi2 hou4:,when?
@@ -1030,7 +1030,7 @@
 我是坐快车来的,wo3 shi4 zuo4 kuai4 che1 lai2 de,i came by express train/it was by express train that i came (how)
 你是跟谁出去的,ni3 shi4 gen1 shui2 chu1 qu4 de,who did you go out with?/with whom did you go out?
 我是跟她出去的,wo3 shi4 gen1 ta1 chu1 qu4 de,i went out with her/it was with her that i went out (with whom)
-离,li2,away from/apart/distance between locations (loc1-离-loc2)
+离,li2,away from/apart/distance between locations (loc1-离-loc2) (c. 离婚/离开)
 远,yuan3,distant/far (loc1-离-loc2-很远)
 近,jin4,near/close/approximately (loc1-离-loc2-很近)
 餐厅离学校不近,can1 ting1 li2 xue2 xiao4 bu4:2 jin4,the restaurant is not close to the school
@@ -1433,6 +1433,7 @@
 签证,qian1 zheng4,visa/certificate
 起飞,qi3 fei1,airplane take off
 离开,li2 kai1,leave/depart
+离婚,li2 hun1,divorce (noun and verb)
 发现,fa1 xian4,realize/discover
 实现,shi2 xian4,achieve/implement/bring about
 检,jian3,check/examine/inspect (c. 检查)
@@ -1708,7 +1709,7 @@
 公里,gong1 li3,kilometer/km
 急,ji2,urgent/pressing/hurried (c. 着急)
 着急,zhao2 ji2,be anxious/feel sense of urgency
-闷,men4,bored/depressed/sealed/airtight
+闷,men1 :: men4,smother/cover tightly (verb) :: bored/depressed/sealed/airtight (adj)
 腿,tui3,legs
 顾,gu4,attend to/look after (c. 照顾/顾客)
 咳,ke2,cough (noun) (c. 咳嗽)
@@ -1727,7 +1728,7 @@
 转机,zhuan3 ji1,change airplanes/connect flights
 充,chong1,fill/supply/fulfill/satisfy (c. 充电/充值)
 充电,chong1 dian4,recharge a battery
-值,zhi2,value/to be worth (c. 充值)
+值,zhi2,value/to be worth (c. 充值/值得)
 充值,chong1 zhi2,add money to a card/recharge card
 漫游,man4 you2,roam/cell phone roaming
 电话卡,dian4 hua4 ka3,telephone card/calling card
@@ -2248,7 +2249,6 @@
 来自,lai2 zi4,come from a place/from: (email header)
 难道,nan2 dao4,is it ... ?/could it be that ... ?
 实际,shi2 ji4,actual/reality/realistic/practical
-数字,shu4 zi4,number/numeral/digit/figure
 通知,tong1 zhi1,notify or inform (verb)/notice or notification (noun)
 同时,tong2 shi2,simultaneously/at the same time
 同情,tong2 qing2,sympathy (noun and verb)
@@ -2759,7 +2759,8 @@
 摩天大楼,mo2 tian1 da4 lou2,skyscraper building
 他住得离公司很远,ta1 zhu4 de li2 gong1 si1 hen3:2 yuan3,he lives far from the company
 上下班,shang4 xia4 ban1,start and finish work
-数码,shu4 ma3,number/numerals/figures/digital
+数码,shu4 ma3,number/numerals/figures/digital (alt. 数字)
+数字,shu4 zi4,number/numeral/digit/figure (alt. 数码)
 数码相机,shu4 ma3 xiang4 ji1,digital camera
 竹子,zhu2 zi,bamboo [⺮]
 洗碗,xi3:2 wan3,wash the dishes
@@ -3197,7 +3198,7 @@
 可是比在美国便宜,ke3 shi4 bi3 zai4 mei3 guo2 pian2 yi2:,but cheaper than in america
 穿大衣戴手套,chuan1 da4 yi1 dai4 shou3 tao4,wear an overcoat and gloves
 大一,da4 yi1,first year university student/freshman year student
-大二,da4 er2,second year university student/sophomore year student
+大二,da4 er4,second year university student/sophomore year student
 大三,da4 san1,third year university student/junior year student
 大四,da4 si4,fourth year university student/senior year student
 书柜,shu1 gui4,bookcase
