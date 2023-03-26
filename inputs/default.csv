@@ -1057,7 +1057,7 @@
 机票,ji1 piao4,airplane tickets
 飞机票,fei1 ji1 piao4,airplane tickets
 火车票,huo3 che1 piao4,train tickets
-让,rang4,let someone do something/make someone feel/allow
+让,rang4,let someone do something/make someone feel/allow (sim. 使)
 迟,chi2,late/delayed (c. 推迟)
 迟到了,chi2 dao4 le,arrived late
 怎么办,zen3 me ban4,what to do?
@@ -1148,7 +1148,7 @@
 不但,bu4:2 dan4,not only (before 而且)
 而,er2,and/as well as (c. 而且 & after 不但)
 而且,er2 qie3,but also (after 不但)/besides/moreover
-不但，而且,bu4:2 dan4 : er2 qie3,not only ... but also
+不但，而且,bu4:2 dan4 : er2 qie3,not only ... but also (cannot change subject)
 不但我从来不抽烟而且从来没喝过酒,bu4:2 dan4 wo3 cong2 lai2 bu4 chou1 yan1 er2 qie3 cong2 lai2 mei2 he1 guo4 jiu3,not only do i never smoke but i have also never drank alcohol
 介,jie4,introduce/lie between (c. 介绍)
 绍,shao4,continue/carry on (c. 介绍)
@@ -1419,6 +1419,7 @@
 你们自己,ni3 men zi4 ji3,yourselves
 她自己,ta1 zi4 ji3,herself
 他们自己,ta1 men zi4 ji3,themselves
+个人,ge4 ren2,individual (noun and adj)
 一个人,yi1:2 ge4 ren2,alone (adv)/one person (noun)
 自己一个人,zi4 ji3 yi1:2 ge4 ren2,alone by one's self (before verb & added emphasis)
 般,ban1,sort/kind/class (c. 一般)
@@ -1462,7 +1463,7 @@
 种,zhong3 :: zhong4,kind/type/mw for kinds or types :: plant/grow/cultivate
 言,yan2,words/speech (c. 语言) [讠]
 语言,yu3 yan2,language
-容,rong2,hold/contain/tolerate (c. 容易/内容)
+容,rong2,hold/contain/tolerate (c. 容易/内容/形容词)
 易,yi4,easy/amiable/prefix for -able or -ible (c. 容易/交易所)
 容易,rong2 yi4,easy/likely
 很多种语言,hen3 duo1 zhong3:2 yu3 yan2,many languages
@@ -1566,7 +1567,7 @@
 没错,mei2 cuo4,not wrong/cannot go wrong/sure
 没了,mei2 le,not to be/cease to exist
 变,bian4,transform/change/become different (c. 变化)
-化,hua4,transform/make into/change into (c. 变化)
+化,hua4,transform or change into (c. 变化)/-ize or -ization (suffix)
 变化,bian4 hua4,change/vary
 搬,ban1,relocate oneself/move something bulky (c. 搬家)
 搬家,ban1 jia1,relocate residence/move one's house (can replace 家 with 去/来)
@@ -1584,7 +1585,7 @@
 认真,ren4 zhen1,serious or earnest (adj)/take seriously (verb)
 愿,yuan4,ready or willing (adj)/wish or desire (verb) (c. 愿意/愿望/志愿)
 愿意,yuan4 yi4,ready or willing (adj)/wish or want (verb)
-志,zhi4,aspiration/ambition/mental will (c. 志愿)
+志,zhi4,aspiration/ambition/mental will (c. 志愿/同志)
 志愿,zhi4 yuan4,volunteer (verb) (c. 志愿者)/aspiration or ambition (noun)
 志愿者,zhi4 yuan4 zhe3,volunteer (noun)
 害,hai4,harm/evil/cause trouble (c. 害怕)
@@ -1747,6 +1748,13 @@
 流,liu2,flow/disseminate/circulate (c. 流利/流行)
 流利,liu2 li4,fluent
 语法,yu3:2 fa3,grammar
+名词,ming2 ci2,grammar noun
+动词,dong4 ci2,grammar verb
+主语,zhu3:2 yu3,grammar subject
+宾语,bin1 yu3,grammar object
+形容词,xing2 rong2 ci2,grammar adjective
+副,fu4,secondary/auxiliary/deputy (c. 副词/副业)
+副词,fu4 ci2,grammar adverb
 应用,ying4 yong4,put to use or apply (verb)/computer app (noun)
 词,ci2,word/statement/lyric (c. 词典/词语)
 词语,ci2 yu3,word/term/expression
@@ -1809,6 +1817,7 @@
 成绩,cheng2 ji4,performance record/school grades
 专,zhuan1,for a particular reason/focused on one thing (c. 专业)
 专业,zhuan1 ye4,specialty/main area of study
+副业,fu4 ye4,second job/side gig
 大学专业,da4 xue2 zhuan1 ye4,college major/university major
 我为你父母的健康担心,wo3 wei4 ni3 fu4 mu3 de jian4 kang1 dan1 xin1,i am worried about your parents' health
 她为他的新汽车害怕,ta1 wei4 ta1 de xin1 qi4 che1 hai4 pa4,she is scared for his new car
@@ -2175,7 +2184,7 @@
 此,ci3,this/these (common in writing)
 示,shi4,show/reveal (c. 表示) [礻]
 表示,biao3 shi4,express/show/state/indicate
-宾,bin1,visitor/guest/object (grammar) (c. 宾馆)
+宾,bin1,visitor/guest (c. 宾馆/宾词)
 宾馆,bin1 guan3,hotel/lodge/guesthouse
 出现,chu1 xian4,appear/show up
 敢,gan3,dare (verb)/daring (adj)/may I venture? (polite)
@@ -2209,7 +2218,7 @@
 你的内容不原来，但是很有趣,ni3 de nei4 rong2 bu4 yuan2 lai2 : dan4 shi4 hen3:2 you3 qu4,your content is not original but is interesting
 我们没有心情听笑话,wo3 men mei2 you3 xin1 qing2 ting1 xiao4 hua4,we are not in the mood to listen to jokes
 我的力气让他们很难受,wo3 de li4 qi4 rang4 ta1 men hen3 nan2 shou4,my strength makes them feel unwell
-流行的广播提供理想的信息,liu2 xing2 de guang3 bo4 ti2 gong1 li3:2 xiang3 de xin4 xi1,popular broadcasts provide ideal information
+流行的广播提供理想的信息,liu2 xing2 de guang3 bo1 ti2 gong1 li3:2 xiang3 de xin4 xi1,popular broadcasts provide ideal information
 相同的日记句子出现在他的网站上,xiang1 tong2 de ri4 ji4 ju4 zi3 chu1 xian4 zai4 ta1 de wang3 zhan4 shang4,an identical diary sentence appears on his website
 每周理发是浪费钱,mei3 zhou1 li3 fa4 shi4 lang4 fei4 qian2,weekly haircuts are a waste of money
 如果条件变化，就任务期间保持冷静,ru2 guo3 tiao2 jian4 bian4 hua4 : jiu4 ren4 wu4 qi2 jian1 bao3 chi2 leng3 jing4,if conditions change then remain calm during the mission
@@ -2395,7 +2404,7 @@
 通过,tong1 guo4,by means of/via/get through/pass a test/pass legislation
 完全,wan2 quan2,complete/whole/totally
 往往,wang3:2 wang3,usually/in many cases
-无,wu2,not to have/none (c. 无聊/无论/无形)
+无,wu2,not to have/none (c. 无聊/无论/无形/形容词)
 无形,wu2 xing2,invisible/unseen/formless (lit. no shape)
 无聊,wu2 liao2,bored/boring/senseless
 无论,wu2 lun4,regardless of whether ...
@@ -2626,6 +2635,8 @@
 会议准备得怎么样了,hui4 yi4 zhun3 bei4 de zen3 me yang4 le,how is the preparation for the meeting going?
 招,zhao1,recruit/provoke/beckon (c. 招待会)
 招待会,zhao1 dai4 hui4,reception
+使,shi3,make/cause/enable (c. 大使馆/使用) (sim. 让)
+大使馆,da4 shi3:2 guan3,embassy
 银行柜员,yin2 hang2 gui4 yuan2,bank teller
 每个人都参加招待会,mei3 ge4 ren2 dou1 can1 jia1 zhao1 dai4 hui4,everyone participates in the reception/everyone joins the reception
 他也需要打地区号吗,ta1 ye3 xu1 yao4 da3 di4 qu1 hao4 ma,does he also need to dial the area code?
@@ -2680,7 +2691,7 @@
 古,gu3,ancient/old (c. 古典)
 古典,gu3:2 dian3,classical (music architecture etc)
 厉,li4,strict/severe (c. 厉害)
-厉害,li4 hai4:,awesome/makes a strong impression
+厉害,li4 hai4,awesome/fierce/makes a strong impression
 美食,mei3 shi2,fine food/gourmet food/delicacy
 肠,chang2,intestines (c. 香肠)
 香肠,xiang1 chang2,sausage
@@ -2741,8 +2752,6 @@
 宣,xuan1,publicly declare/announce (c. 宣传)
 传,chuan2,pass on/spread/transmit/infect (c. 传统/宣传/系统)
 宣传,xuan1 chuan2,disseminate/spread information
-名词,ming2 ci2,noun
-动词,dong4 ci2,verb
 我家有三口人,wo3 jia1 you3 san1 kou3 ren2,there are 3 people in my family/my family has 3 people
 睡过头,shui4 guo4 tou2,oversleep
 线,xian4,thread/string/wire/line (c. 时间线)
@@ -2808,7 +2817,9 @@
 灰,hui1,gray color/ash/dust
 电动,dian4 dong4,electric-powered (c. 电动汽车)
 电动汽车,dian4 dong4 qi4 che1,electric car
-员工,yuan2 gong1,employee/personnel/staff
+员工,yuan2 gong1,employee/personnel/staff (of a private company)
+官员,guan1 yuan2,government official/administrator
+使用,shi3 yong4,use/employ/make use of
 店员,dian4 yuan2,shop assistant/salesperson
 你们的车是什么颜色,ni3 men de che1 shi4 shen2 me yan2 se4,what color is your car?
 我的车是黑色的，我妻子的电动汽车是灰色的,wo3 de che1 shi4 hei1 se4 de : wo3 qi1 zi de dian4 dong4 qi4 che1 shi4 hui1 se4 de,my car is black and my wife's electric car is gray
@@ -3141,7 +3152,7 @@
 高度,gao1 du4,height/altitude/elevation/high degree (sim. 个子)
 个子,ge4 zi,height/stature (sim. 高度)
 技术,ji4 shu4,technology/technique/skill
-性,xing4,nature/character/attribute/gender (c. 多样性)
+性,xing4,attribute or gender (c. 多样性/性格)/suffix forming noun from adj
 多样性,duo1 yang4 xing4,diversity/variegation
 远足,yuan3 zu2,excursion/hike/march (noun and verb)
 林,lin2,woods/forest/common surname
@@ -3297,3 +3308,8 @@
 生产,sheng1 chan3,produce/manufacture
 你们的生产过程环保吗,ni3 men de sheng1 chan3 guo4 cheng2 huan2 bao3 ma,is your production process environmentally friendly?
 竹地板对身体无害,zhu2 di4 ban3 dui4 shen1 ti3 wu2 hai4,bamboo floor is harmless to the body
+同志,tong2 zhi4,comrade
+播客,bo1 ke4,podcast (loanword)
+博客,bo2 ke4,blog/blogger (loanword)
+性格,xing4 ge2,disposition/temperament/character
+影视,ying3 shi4,movies and television/film and tv
