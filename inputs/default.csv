@@ -410,7 +410,7 @@
 男,nan2,male
 女,nv3,female
 女儿,nv3 er2,daughter
-子,zi,offspring/seed of/noun suffix
+子,zi3,offspring/seed of/noun suffix
 儿子,er2 zi,son
 大儿子,da4 er2 zi,older son
 大女儿,da4 nv3 er2,older daughter
@@ -969,7 +969,8 @@
 克,ke4,gram (unit of weight)
 巧,qiao3,opportunely/coincidentally/skillful
 力,li4,power/force (c. 有力/巧克力)
-有力,you3 li4,powerful/forceful
+有力,you3 li4,powerful/forceful (describes men)
+健美,jian4 mei3,healthy and beautiful (describes women)
 巧克力,qiao3 ke4 li4,chocolate (loanword)
 饱,bao3,full of food/no longer hungry
 真,zhen1,really/truly/real/true
@@ -3025,8 +3026,8 @@
 云,yun2,cloud (c. 云南省)
 云南省,yun2 nan2 sheng3,yunnan province
 云南省有一万五千种植物,yun2 nan2 sheng3:2 you3 yi1:2 wan4 wu3 qian1 zhong3 zhi2 wu4,yunnan province has 15000 kinds of plants
-孤,gu1,lone/lonely (c. 孤独/独特)
-独,du2,alone/independent/sole (c. 孤独)
+孤,gu1,lone/lonely (c. 孤独)
+独,du2,alone/independent/sole (c. 孤独/独特)
 孤独,gu1 du2,lonely/solitary (adj)
 独特,du2 te4,unique/distinct (adj)
 变成,bian4 cheng2,change into/turn into/become
@@ -3035,9 +3036,10 @@
 从前,cong2 qian2,previously/formerly/as before
 调皮,tiao2 pi2,naughty/mischievous/unruly
 结束以后,jie2 shu4 yi3 hou4,after it ends/after it finishes/after it is over
-之,zhi1,possessive particle like 的 (c. 之后/之后)
+之,zhi1,possessive particle like 的 (c. 之后/之后/百分之)
 之前,zhi1 qian2,before event or time (emphasizing now) (alt. 以前)
 之后,zhi1 hou4,after event or time (emphasizing now) (alt. 以后)
+百分之,bai3 fen1 zhi1,percent
 订单,ding4 dan1,purchase order
 我想下订单,wo3:2 xiang3 xia4 ding4 dan1,i would like to place an order
 运费,yun4 fei4,shipping fee/freight fee
@@ -3325,3 +3327,6 @@
 影视,ying3 shi4,movies and television/film and tv
 研究生,yan2 jiu1 sheng1,graduate student/research student
 师父,shi1 fu4:,master
+确,que4,authenticated/solid/firm (c. 正确/准确)
+正确,zheng4 que4,correct/proper
+准确,zhun3 que4,accurate/precise
