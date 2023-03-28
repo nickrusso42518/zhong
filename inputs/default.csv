@@ -374,9 +374,9 @@
 北京,bei3 jing1,beijing/north capital
 南京,nan2 jing1,nanjing/south capital
 家,jia1,house/home/mw for family-run businesses
-家人,jia1 ren2,family/family member (alt. 家庭)
+家人,jia1 ren2,family/family member (can use with 和/跟)
 庭,ting2,main hall/front courtyard/law court (c. 家庭)
-家庭,jia1 ting2,family/household (alt. 家人)
+家庭,jia1 ting2,family/household (whole entity & cannot use 和/跟)
 住,zhu4,lives/dwells/resides
 在,zai4,located at/to be in/actively doing (before verb is -ing) (neg. 不 or 没)
 住在,zhu4 zai4,lives in/dwells in
@@ -509,7 +509,7 @@
 觉,jue2 :: jiao4,feel/think (verb) :: sleep/nap (noun) (c. 睡觉/觉得)
 睡觉,shui4 jiao4,sleep/go to bed
 回,hui2,return/go back/turn around
-放,fang4,put/release/free/let go
+放,fang4,put/release/free/let go/set off fireworks
 煮,zhu3,cook over a fire/boil in water
 上学,shang4 xue2,go to school
 放学,fang4 xue2,get out of school
@@ -1117,7 +1117,6 @@
 快乐,kuai4 le4,happy/cheerful (wish someone a happy event)
 节日,jie2 ri4,festival/holiday
 送,song4,see off/send off/give a gift
-送给,song4 gei3,give a gift to
 礼,li3,gift/rite/ceremony (c. 礼物)
 物,wu4,thing/object (c. 礼物/动物)
 礼物,li3 wu4,gift/present (noun)
@@ -1127,7 +1126,7 @@
 法,fa3,law/regulation (c. 法国/办法)
 法国,fa3 guo2,france country
 法文,fa3 wen2,french language (alt. 法语)
-祝,zhu4,wish/express good wishes
+祝,zhu4,wish/express good wishes (c. 庆祝)
 我们多吃蔬菜吧,wo3 men duo1 chi1 shu1 cai4 ba,let's eat more vegetables (suggestion)
 你需要少喝啤酒,ni3 xu1 yao4 shao3 he1 pi2 jiu3,you need to drink less beer (command)
 让我们坐在火车的前面,rang4 wo3 men zuo4 zai4 huo3 che1 de qian2 mian4,allow us to sit at the front of the train
@@ -1658,7 +1657,7 @@
 重复,chong2 fu4,repeat/duplicate
 重建,chong2 jian4,rebuild/reconstruction
 突,tu1,dash/rush out/protrude (c. 突然)
-突然,tu1 ran2,suddenly/unexpectedly/abruptly
+突然,tu1 ran2,suddenly/unexpectedly/abruptly (unusual event)
 议,yi4,suggest/comment on (c. 会议)
 会议,hui4 yi4,meeting/conference
 解,jie3,divide/solve (c. 解决/解答)
@@ -1711,6 +1710,7 @@
 他对德语和法语有兴趣,ta1 dui4 de2 yu3 he2 fa3:2 yu3 you3 xing4 qu4,he has interest in german and french
 她对英文没有兴趣,ta1 dui4 ying1 wen2 mei2 you3 xing4 qu4,she does not have interest in english/she has no interest in english
 五十多,wu3 shi2 duo1,more than 50/more than fifty (before mw & cannot split less than 10)
+斤,jin1,chinese weight of about 500 grams (c. 公斤)
 公斤,gong1 jin1,kilogram/kg
 公里,gong1 li3,kilometer/km
 急,ji2,urgent/pressing/hurried (c. 着急)
@@ -2010,7 +2010,7 @@
 粉,fen3,powder/turn into powder (c. 粉丝)
 丝,si1,silk/thread (c. 粉丝)
 粉丝,fen3 si1,bean vermicelli (lit)/fan or groupie (slang)
-土,tu3,local/dust/clay (c. 土豪)
+土,tu3,local/dust/clay (c. 土豪/土地)
 豪,hao2,grand/heroic (c. 土豪/豪华)
 土豪,tu3 hao2,local tycoon/provincial tyrant (slang)
 吃货,chi1 huo4,foodie (slang)
@@ -2120,7 +2120,7 @@
 不要，了,bu4:2 yao4 : le,stop doing ... (alt.  别，了)
 不要苦地哭了,bu4:2 yao4 ku3 de ku1 le,stop crying bitterly
 可是,ke3 shi4,but/however (signals unfortunate event and less definite than 但是)
-俩,lia3,both (following 我们/你们/他们 etc)
+俩,lia3,both (following plural pronouns only 我们/你们/他们)
 我们俩,wo3 men lia3,both of us/we both
 压,ya1,press/push down (c. 压力)
 压力,ya1 li4,pressure/stress
@@ -2314,7 +2314,8 @@
 样子,yang4 zi,appearance/manner/pattern
 永远,yong3:2 yuan3,forever/eternal
 知识,zhi1 shi2:,knowledge/intellectual
-值得,zhi2 de,deserve/be worth
+值得,zhi2 de,deserve/be worth (related to a meaningful matter)
+这件事值得庆祝一下,zhe4 jian4 shi4 zhi2 de qing4 zhu4 yi1:2 xia4,this is something worth celebrating
 只好,zhi3:2 hao3,be forced to/no better option
 我不值得她，可是她只好接受我,wo3 bu4 zhi2 de ta1 : ke3 shi4 ta1 zhi3:2 hao3 jie1 shou4 wo3,i do not deserve her but she is forced to accept me
 你有一些知识，看法是什么,ni3:2 you3 yi1:4 xie1 zhi1 shi4 : kan4 fa3 shi4 shen2 me,you have some knowledge what is your opinion?
@@ -3330,3 +3331,12 @@
 确,que4,authenticated/solid/firm (c. 正确/准确)
 正确,zheng4 que4,correct/proper
 准确,zhun3 que4,accurate/precise
+土地,tu3 di4,land/soil/territory
+庆,qing4,celebrate (component only) (c. 庆祝/国庆节)
+庆祝,qing4 zhu4,celebrate
+国庆节,guo2 qing4 jie2,national day (usa: 4 july | prc: 1 oct)
+烟花,yan1 hua1,fireworks (alt. 烟火)
+烟火,yan1 huo3,fireworks (alt. 烟花)
+谎,huang3,lie (noun) (c. 说谎)
+说谎,shuo1 huang3,tell a lie
+只能,zhi3 neng2,obliged to do/have no other choice
