@@ -43,7 +43,7 @@
 明,ming2,bright/next (day or year)
 明天,ming2 tian1,tomorrow
 年,nian2,year (after numbers)
-岁,sui4,is ... years old (after numbers)
+岁,sui4,is ... years old (after numbers)/mw for years
 四五十岁,si4 wu3 shi2 sui4,40 or 50 years old
 二〇三四年,er4 ling2 san1 si4 nian2,2034 year (alt. 二零三四年)
 一九八五年,yi1 jiu3 ba1 wu3 nian2,1985 year
@@ -558,7 +558,7 @@
 节,jie2,economize or save (verb)/festival or holiday (noun) (c. 节目/节日/节约)/mw for lessons
 目,mu4,item/list/catalogue (c. 节目/项目)
 节目,jie2 mu4,show/program
-体,ti3,body/form/substance (c. 身体)
+体,ti3,body/form/substance (c. 身体/简体)
 育,yu4,educate (c. 体育)
 体育,ti3 yu4,sports/physical education
 房,fang2,house/room (c. 房间/订房/厨房/房子)
@@ -1098,7 +1098,7 @@
 虽然,sui1 ran2,although/though/despite (before 但是)
 但,dan4,but/however/yet (c. 但是)
 但是,dan4 shi4,but/however/yet (after 虽然 & more formal and definite than 可是)
-虽然，但是,sui1 ran2 : dan4 shi4,although ... but (express opposite opinions)
+虽然，但是,sui1 ran2 : dan4 shi4,although ... but (express opposite opinions) (alt. 虽然，可是)
 帽子,mao4 zi,hat/cap
 短,duan3,short object
 红,hong2,red color
@@ -1547,7 +1547,7 @@
 须,xu1,must/have to (c. 必须)
 必须,bi4 xu1,have to/must/necessarily/compulsory
 作业,zuo4 ye4,homework assignment/task/operation
-成,cheng2,succeed/finish/complete (c. 完成)
+成,cheng2,succeed/finish/complete (c. 完成/成熟)
 完成,wan2 cheng2,complete/accomplish/finish successfully
 铅,qian1,lead (metal noun) (c. 铅笔)
 铅笔,qian1 bi3,pencil
@@ -1664,7 +1664,7 @@
 决,jue2,decide/determine (c. 解决)
 解决,jie3 jue2,resolve/settle dispute
 相信,xiang1 xin4,believe/trust/be convinced
-办法,ban4 fa3,way/means/method
+办法,ban4 fa3,actionable method or way for solving a problem (alt. 办事情的方法)
 河,he2,river (c. 黄河)
 黄河,huang2 he2,yellow river
 江,jiang1,river (c. 长江)
@@ -1746,7 +1746,7 @@
 消,xiao1,disappear/vanish/spend time (c. 取消)
 取消,qu3 xiao1,cancel/cancellation
 句子,ju4 zi,sentence
-简,jian3,simple/uncomplicated (c. 简单)
+简,jian3,simple/uncomplicated (c. 简单/简体)
 简单,jian3 dan1,simple/uncomplicated
 答,da2,answer/reply/respond (c. 回答/解答)
 回答,hui2 da2,answer/reply/respond (usually face to face)
@@ -2020,7 +2020,7 @@
 自拍,zi4 pai1,taking selfies (verb or noun)
 菜鸟,cai4 niao3,beginner/newbie (slang)
 眉,mei2,eyebrow (c. 美眉)
-富,fu4,rich/abundant/wealthy (c. 高富帅/白富美/丰富)
+富,fu4,rich/abundant/wealthy (c. 高富帅/白富美/丰富/富有)
 美眉,mei3 mei2,beautiful girl (slang)
 高富帅,gao1 fu4 shuai4,mr. perfect (lit. tall rich handsome)
 白富美,bai2 fu4 mei3,ms. perfect (lit. white rich beautiful)
@@ -2395,7 +2395,7 @@
 不过,bu4:2 guo4,but/only/merely (softer and nicer than 但是 for complaining)
 起来,qi3 lai2:,stand up/get up/expressing preliminary judgment (c. 看起来)
 当时,dang1 shi2,then/at that time/while
-方法,fang1 fa3,way/means/method
+方法,fang1 fa3,way/method/solution
 方面,fang1 mian4,respect/aspect/size
 方向,fang1 xiang4,direction/orientation
 记者,ji4 zhe3,reporter/journalist
@@ -2708,6 +2708,7 @@
 肠,chang2,intestines (c. 香肠)
 香肠,xiang1 chang2,sausage
 发音,fa1 yin1,pronunciation
+语音,yu3 yin1,voice/pronunciation
 拼,pin1,piece together/spell (c. 拼音)
 拼音,pin1 yin1,pinyin/spelled sounds
 上床,shang4 chuang2,go to bed/get on the bed
@@ -3025,6 +3026,7 @@
 物种,wu4 zhong3,species of living thing
 丰,feng1,plentiful/abundant (c. 丰富)
 丰富,feng1 fu4,plentiful/abundant (adj)
+富有,fu4 you3,rich/wealthy
 云,yun2,cloud (c. 云南省)
 云南省,yun2 nan2 sheng3,yunnan province
 云南省有一万五千种植物,yun2 nan2 sheng3:2 you3 yi1:2 wan4 wu3 qian1 zhong3 zhi2 wu4,yunnan province has 15000 kinds of plants
@@ -3111,7 +3113,7 @@
 赌博,du3 bo2,gamble/gambling
 赌场,du3:2 chang3,casino
 生鱼片,sheng1 yu2 pian4,sashimi (lit. raw fish slice)
-熟,shu2,thoroughly cooked/ripe (pr. shou2)
+熟,shu2,thoroughly cooked/ripe (pr. shou2) (c. 成熟)
 开水,kai1 shui3,boiled water/boiling water
 生水,sheng1 shui3,unboiled water/tap water
 等于,deng3 yu2,equal to/be tantamount to
@@ -3347,3 +3349,12 @@
 原告,yuan2 gao4,plaintiff (law)
 被告,bei4 gao4,defendant (law)
 证据,zheng4 ju4,evidence/proof/testimony
+总的来说,zong3 de lai2 shuo1,generally speaking/to sum up/in summary/in short
+你想家吗,ni3:2 xiang3 jia1 ma,do you miss home?
+成熟,cheng2 shu2,mature/ripe (verb or adj)
+运气好,yun4 qi4: hao3,good luck/luck is good/lucky
+运气不好,yun4 qi4: bu4 hao3,bad luck/luck is bad/unlucky
+感性,gan3 xing4,perceptual/sensitive/emotional/sentimental
+小一岁,xiao3 yi1:2 sui4,one year younger
+大一岁,da4 yi1:2 sui4,one year older
+简体,jian3:2 ti3,simplified Chinese characters (lit. simple body)
