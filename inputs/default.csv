@@ -605,7 +605,7 @@
 超,chao1,super/ultra
 市,shi4,market/city (c. 超市/城市/市中心)
 超市,chao1 shi4,supermarket
-给,gei3,give (verb)/to or for (prep & specify target of verb)
+给,gei3,give (verb)/to or for (prep & specify verb target & used before verb)
 果,guo3,fruit/result (c. 水果/如果)
 水果,shui3:2 guo3,fruit
 苹果,ping2 guo3,apple
@@ -1115,8 +1115,10 @@
 聪明,cong1 ming2,clever/intelligent/smart
 能干,neng2 gan4,capable/competent
 快乐,kuai4 le4,happy/cheerful (wish someone a happy event)
+新年快乐,xin1 nian2 kuai4 le4,happy new year
 节日,jie2 ri4,festival/holiday
 送,song4,see off/send off/give a gift
+送货上门,song4 huo4 shang4 men2,deliver goods to your door/home delivery
 礼,li3,gift/rite/ceremony (c. 礼物)
 物,wu4,thing/object (c. 礼物/动物)
 礼物,li3 wu4,gift/present (noun)
@@ -1199,6 +1201,7 @@
 教,jiao1 :: jiao4,teach :: religion/teaching (c. 教室/教练)
 教室,jiao4 shi4,classroom
 理,li3,reason/logic (c. 地理/经理)
+不理,bu4 li3,ignore/refuse to acknowledge/pay no attention to
 地理,di4 li3,geography
 术,shu4,art/skill/special feat (c. 美术)
 美术,mei3 shu4,fine arts
@@ -1345,7 +1348,7 @@
 故,gu4,ancient/old/former (c. 故事/故宫/故意)
 故事,gu4 shi4:,story/tale
 讲,jiang3,explain/emphasize/negotiate (c. 演讲)
-除,chu2,remove/exclude/eliminate
+除,chu2,remove/exclude/eliminate (c. 扫除)
 除了，都,chu2 le : dou1,except for .../excluding ...
 除了你，他们都在这里,chu2 le ni3 : ta1 men dou1 zai4 zhe4 li3,they are all here except for you
 除了，还,chu2 le : hai2,in addition to .../apart from ... (swap 还/也)
@@ -1471,8 +1474,8 @@
 易,yi4,easy/amiable/prefix for -able or -ible (c. 容易/交易所)
 容易,rong2 yi4,easy/likely
 很多种语言,hen3 duo1 zhong3:2 yu3 yan2,many languages
-更,geng4,more/even more (before adj or verb) (alt. 更加)
-更加,geng4 jia1,more/even more (before adj or verb) (alt. 更)
+更,geng4,more/even more (before adj) (alt. 更加)
+更加,geng4 jia1,more/even more (before adj) (alt. 更)
 努,nu3,exert/strive/make an effort (c. 努力)
 努力,nu3 li4,try hard/great effort/strive (adv)
 平,ping2,flat/level/equal (c. 水平)
@@ -1615,7 +1618,7 @@
 太阳,tai4 yang2,sun
 星星,xing1 xing1:,star
 不见了,bu4:2 jian4 le,missing/disappeared/gone (after noun)
-送，给，,song4 : gei3 :,give (something) to (someone)
+给，送,gei3 : song4,to (something) give (something as a gift)
 送花给她,song4 hua1 gei3 ta1,give flowers to her/give her flowers
 静,jing4,quiet/still/not moving (c. 安静/冷静)
 安静,an1 jing4,quiet/silent/peaceful/calm
@@ -1786,8 +1789,9 @@
 厨房,chu2 fang2,kitchen
 客厅,ke4 ting1,living room/drawing room
 客人,ke4 ren2,guest/visitor/customer/client
-扫,sao3 :: sao4,sweep up (c. 打扫) :: broom
+扫,sao3 :: sao4,sweep up (c. 打扫/扫除) :: broom
 打扫,da3:2 sao3,clean up (verb)
+扫除,sao3 chu2,sweep away/clean with a brush
 净,jing4,clean (adj) (c. 干净)
 干净,gan1 jing4,clean/neat/tidy (adj)
 打扫干净,da3:2 sao3 gan1 jing4,clean until complete
@@ -2254,7 +2258,7 @@
 演出,yan3 chu1,act/perform
 阳光,yang2 guang1,sunshine/transparent (open to scrutiny)
 正好,zheng4 hao3,just right/just enough/just in time
-正常,zheng4 chang2,normal/regular/ordinary
+正常,zheng4 chang2,normal/regular/ordinary (adj)
 整理,zheng3:2 li3,arrange/tidy up/straighten out/sort out
 总结,zong3 jie2,summarize or conclude (verb)/summary or cv-resume (noun)
 左右,zuo3 you4,nearby/approximately
@@ -3368,3 +3372,11 @@
 火鸡,huo3 ji1,turkey bird
 我饱了,wo3:2 bao3 le,i am full (not hungry)
 相对,xiang1 dui4,opposite (noun)/relatively or vis-a-vis (adj)
+俗,su2,custom/tradition/convention (c. 习俗/俗话)
+习俗,xi2 su2,custom/tradition/convention
+俗话,su2 hua4,common saying/proverb
+拜,bai4,pay respect/worship
+拜拜,bai2 bai2,bye bye/goodbye (loanword) (also bai1 bai1)
+罪,zui4,crime/guilt (c. 无罪/有罪)
+无罪,wu2 zui4,innocent/not guilty of a crime
+有罪,you3 zui4,guilty of a crime
