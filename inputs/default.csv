@@ -1557,7 +1557,7 @@
 铅笔,qian1 bi3,pencil
 笔记,bi3 ji4,notes
 笔记本,bi3 ji4 ben3,notebook
-向,xiang4,turn towards/direction
+向,xiang4,turn towards/direction/from (prep)
 借,jie4,lend/borrow
 向，借，,xiang4 : jie4 :,from (someone) borrow (something)
 可以借我，吗,ke3:2 yi3 jie4 wo3 : ma,could you lend me ... ?/may i borrow ... ?
@@ -2596,7 +2596,7 @@
 我只呆几天,wo3:2 zhi3 dai1 ji3 tian1,i am only staying a few days/i will only stay a few days
 什么样,shen2 me yang4,what kind?
 什么样的城市,shen2 me yang4 de cheng2 shi4,what kind of city?
-紧张的张，清楚的清，明天的明,jin3 zhang1 de zhang1 : qing1 chu3 de qing1 : ming2 tian1 de ming2,zhang as in nervous qing as in clear ming as in tomorrow
+紧张的张，清楚的清，永远的远,jin3 zhang1 de zhang1 : qing1 chu3 de qing1 : yong3:2 yuan3 de yuan3,zhang as in nervous qing as in clear yuan as in forever
 我给你画一张地图,wo3 gei3:2 ni3 hua4 yi1:4 zhang1 di4 tu2,i will draw you a map/i will draw a map for you
 坐船需要很多时间,zuo4 chuan2 xu1 yao4 hen3 duo1 shi2 jian1,by boat it takes a lot of time/it takes a lot of time by boat
 高铁,gao1 tie3,high-speed train/high-speed rail
@@ -2870,7 +2870,7 @@
 从事,cong2 shi4,undertake/engage in/deal with
 省,sheng3,save money or economize (verb)/province (noun) (c. 省会)
 省会,sheng3 hui4,provincial capital
-爱情,ai4 qing2,love
+爱情,ai4 qing2,love (noun)
 注意安全,zhu4 yi4 an1 quan2,be careful (lit. pay attention to safety)
 白天,bai2 tian1,day time/during the day
 出书,chu1 shu1,publish books
@@ -3059,7 +3059,7 @@
 有进口税吗,you3 jin4 kou3 shui4 ma,is there an import tax?/is there a tariff?
 我想订一百五十束鲜花,wo3:2 xiang3 ding4 yi1:4 bai3:2 wu3 shi2 shu4 xian1 hua1,i would like to order one 150 bouquets of fresh flowers
 交货,jiao1 huo4,to deliver goods
-回报,hui2 bao4,reciprocate/retaliate/in return
+回报,hui2 bao4,reciprocate/retaliate/in return for
 建议,jian4 yi4,propose/suggest/recommend (plus nouns for each)
 闭,bi4,shut/close/obstruct (c. 闭嘴)
 闭嘴,bi4 zui3,shut up/shut your mouth
@@ -3133,7 +3133,8 @@
 有用,you3 yong4,useful
 沙滩,sha1 tan1,sandy beaches （alt. 海滩)
 适,shi4,suitable/proper (c. 适合)
-适合,shi4 he2,fit/suit (verb)/suitable (adj)
+适合,shi4 he2,fit/suit (verb)
+合适,he2 shi4,fitting/suitable (adj)
 危,wei1,endanger (verb)/danger (noun) (c. 危险)
 危险,wei1 xian3,danger/dangerous
 如果你有兴趣，我教你游泳,ru2 guo3 ni3:2 you3 xing4 qu4 : wo3 jiao1 ni3 you2 yong3,if you are interested i will teach you to swim
@@ -3203,7 +3204,6 @@
 究,jiu1,investigate/study (c. 研究)
 研究,yan2 jiu1,research/study academically (noun and verb) (c. 研究生)
 酸酸的，凉凉的,suan1 suan1 de : liang2 liang2 de,a bit sour and a bit cool (sim. 有点/有一点 + adj)
-传统上,chuan2 tong3 shang4,traditionally
 制品,zhi4 pin3,goods/products
 酪,lao4,curded milk (c. 奶酪)
 奶酪,nai3 lao4,cheese
@@ -3396,3 +3396,9 @@
 坐下,zuo4 xia4,sit down
 开回家,kai1 hui2 jia1,drive home (alt. 开车回家)
 想到,xiang3 dao4,think of/call to mind/anticipate
+逛,guang4,stroll/visit (verb)
+我不加糖,wo3 bu4 jia1 tang2,i do not add sugar
+学费,xue2 fei4,tuition fee
+上课,shang4 ke4,attend class/go to class
+下课,xia4 ke4,finish class/get out of class
+国外,guo2 wai4,overseas/foreign/abroad
