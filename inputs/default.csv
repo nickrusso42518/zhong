@@ -215,8 +215,8 @@
 关,guan1,close/shut
 系,xi4,connect/bind/tie up (c. 关系/联系/系统)
 再,zai4,again (used before verb)
-见,jian4,see/meet (a person) (alt. 和，见面)
-和，见面,he2 : jian4 mian4,meet someone specific (alt. 见+person)
+见,jian4,see/meet in person (alt. 和，见面)
+和，见面,he2 : jian4 mian4,meet in person (alt. 见+person)
 再见,zai4 jian4,goodbye/see soon
 吗,ma,yn?/yes or no question suffix
 不,bu4,no/not (negates present/future actions)
@@ -378,7 +378,7 @@
 庭,ting2,main hall/front courtyard/law court (c. 家庭/法庭)
 家庭,jia1 ting2,family/household (whole entity & cannot use 和/跟)
 住,zhu4,lives/dwells/resides
-在,zai4,located at/to be in/actively doing (before verb is -ing) (neg. 不 or 没)
+在,ai4,located at/to be in/actively doing (before verb is -ing) (neg. 不 or 没)
 住在,zhu4 zai4,lives in/dwells in
 里,li3,inside/internal (modifier)
 外,wai4,outside/external (modifier)
@@ -403,7 +403,7 @@
 她有没有,ta1 you3 mei2 you3,does she have? (pattern for yn?)
 关系,guan1 xi4:,relationship (noun)/affect or concern (verb)
 没关系,mei2 guan1 xi4:,it doesn't matter/no problem/no worries
-爱,ai4,love/be fond of
+爱,ai4,love/be fond of (living things only)
 爱上,ai4 shang4,fall in love with
 妈妈,ma1 ma1:,mom (informal)
 爸爸,ba4 ba4:,dad (informal)
@@ -1157,7 +1157,7 @@
 介绍,jie4 shao4,introduce/present/give presentation
 帅,shuai4,handsome/cool!
 说话,shuo1 hua4,say/speak/talk/talking
-的时候,de shi2 hou4,when action occurs or at a time (verb/time-的时候)
+的时候,de shi2 hou4,when action occurs/at a time (alt. 在+time)
 下雪的时候,xia4 xue3 de shi2 hou4,when it snows
 有时,you3 shi2,sometimes (alt. 有时候)
 有时候,you3 shi2 hou4:,sometimes (alt. 有时)
@@ -1407,10 +1407,10 @@
 初,chu1,at first/at the beginning/junior/basic
 小学,xiao3 xue2,elementary school/primary school
 中学,zhong1 xue2,generic secondary school (middle or high)
-初中,chu1 zhong1,middle school/junior high school (abbreviated)
-初级中学,chu1 ji2 zhong1 xue2,middle school/junior high school (unabbreviated)
-高中,gao1 zhong1,high school/senior high school (abbreviated)
-高级中学,gao1 ji2 zhong1 xue2,high school/senior high school (unabbreviated)
+初中,chu1 zhong1,middle school/junior high school (alt. 初级中学)
+初级中学,chu1 ji2 zhong1 xue2,middle school/junior high school (alt. 初中)
+高中,gao1 zhong1,high school/senior high school (alt. 高级中学)
+高级中学,gao1 ji2 zhong1 xue2,high school/senior high school (alt. 高中)
 大学,da4 xue2,college/university
 较,jiao4,compare/dispute/more than (c. 比较)
 戴,dai4,wear accessory clothing (glasses hat gloves jewelry etc)
@@ -2271,7 +2271,6 @@
 出发,chu1 fa1,set off/start on a journey
 道歉,dao4 qian4,apologize
 房东,fang2 dong1,landlord
-来自,lai2 zi4,come from a place/from: (email header)
 难道,nan2 dao4,is it ... ?/could it be that ... ?
 实际,shi2 ji4,actual/reality/realistic/practical
 通知,tong1 zhi1,notify or inform (verb)/notice or notification (noun)
@@ -2483,7 +2482,7 @@
 你长大想当什么,ni3:2 zhang3 da4 xiang3 dang1 shen2 me,what do you want to be when you grow up?
 处,chu4,place/location/spot (c. 到处)
 到处,dao4 chu4,everywhere/in all places
-丢脸,diu1 lian3,embarrassed/humiliated (lit. lose face)
+丢脸,diu1 lian3,to lose face/humiliation
 钱包,qian2 bao1,purse/wallet (lit. money bag)
 登机牌,deng1 ji1 pai2,boarding pass for vehicle
 车牌,che1 pai2,license plate on car
@@ -2562,7 +2561,7 @@
 电话簿,dian4 hua4 bu4,telephone book
 很高兴认识你,hen3 gao1 xing4 ren4 shi2: ni3,nice to meet you/happy to meet you
 邮票,you2 piao4,postage stamp
-拐,guai3,turn a corner/kidnap/abduct (c.向左拐/向右拐)
+拐,guai3,turn a corner/kidnap/abduct (c. 向左拐/向右拐)
 向左拐,xiang4 zuo3:2 guai3,turn left/turn towards the left (does not mean go left)
 向右拐,xiang4 you4 guai3,turn right/turn towards the right (does not mean go right)
 他们不跟我们在一起,ta1 men bu4 gen1 wo3 men zai4 yi1:4 qi3,they are not with us/they are not together with us
@@ -3144,7 +3143,8 @@
 总裁,zong3 cai2,president/ceo/chairman (of a company)
 电商,dian4 shang1,e-commerce store/online store
 主题,zhu3 ti2,main theme/topic/subject
-演讲,yan3:2 jiang3,lecture/make a speech
+演讲,yan3:2 jiang3,sensational speech/motivational speech (for colleagues)
+讲座,jiang3 zuo4,professional speech/class lecture (for colleagues)
 主题演讲,zhu3 ti2 yan3:2 jiang3,keynote speech
 谁做主题演讲,shui2 zuo4 zhu3 ti2 yan3:2 jiang3,who is making the keynote speech?
 我演讲的主题是太阳能,wo3 yan3:2 jiang3 de zhu3 ti2 shi4 tai4 yang2 neng2,the topic of my speech is solar energy
@@ -3405,3 +3405,11 @@
 下课,xia4 ke4,finish class/get out of class
 国外,guo2 wai4,overseas/foreign/abroad
 一个一个,yi1:2 ge4 yi1:2 ge4,one by one/one after another (can use other mw)
+我们得等到四月左右,wo3 men dei3:2 deng3:2 dao4 si4 yue4 zuo3 you4,we have to wait until april or so
+来自,lai2 zi4,come from a place/from: email header
+发件人,fa1 jian4 ren2,mail sender/from: email header
+收件人,shou1 jian4 ren2,mail recipient/to: email header
+日期,ri4 qi1,calendar date (noun)
+倒,dao4,invert/place upside down/pour out
+一所大学,yi1:4 suo3 da4 xue2,one college/one university
+谢谢你提供的机会,xie4 xie4: ni3 ti2 gong1 de ji1 hui4,thank you for providing the opportunity
