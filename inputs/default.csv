@@ -41,7 +41,8 @@
 天,tian1,day/sky/heaven component
 今天,jin1 tian1,today
 明,ming2,bright/next (day or year)
-明天,ming2 tian1,tomorrow
+明天,ming2 tian1,tomorrow (alt. 第二天)
+第二天,di4 er4 tian1,the next day/describe following day in the past (alt. 明天)
 年,nian2,year (after numbers)
 岁,sui4,is ... years old (after numbers)/mw for years
 四五十岁,si4 wu3 shi2 sui4,40 or 50 years old
@@ -131,6 +132,7 @@
 每年,mei3 nian2,yearly/every year
 午,wu3,noon component
 下午,xia4 wu3,afternoon
+午夜,w3 ye4,midnight
 中午,zhong1 wu3,noon/midday
 晚上,wan3 shang4,night/evening/pm time
 上午,shang4 wu3,morning/am time
@@ -296,7 +298,7 @@
 时间,shi2 jian1,time (standalone noun)/duration of time
 时候,shi2 hou4,period of time/moment in time (never a duration of time)
 空,kong1 :: kong4,empty/air/sky/in vain :: vacant (adj)/to empty (verb)
-有空,you3 kong4,available/have time to do something
+有空,you3 kong4,available/have free time
 多,duo1,many/more/much (adj)
 少,shao3,few/less/little (adj)
 多少,duo1 shao3,how many?/how much? (large or uncountable quantity)
@@ -759,7 +761,7 @@
 光临,guang1 lin2,honor with one's presence/attend (c. 欢迎光临)
 欢迎光临,huan1 ying2 guang1 lin2,welcome
 需,xu1,need/require (c. 需要)
-需要,xu1 yao4,need or demand (verb)/required (adj)
+需要,xu1 yao4,need or demand (verb) (weaker than 必须)
 字中文,zi4 zhong1 wen2,chinese character
 难,nan2,difficult/problem/hard to do
 思,si1,think/consider (c. 意思)
@@ -896,7 +898,7 @@
 发,fa1 :: fa4,send out/issue/dispatch :: hair
 烧,shao1,burn/bake/heat/roast
 发烧,fa1 shao1,have a fever/sick with a fever
-应,ying1,should/agree to do something (c. 应该)
+应,ying1,should/agree to do something (c. 应该/适应)
 该,gai1,should/ought to (c. 应该)
 应该,ying1 gai1,should/ought to
 舒,shu1,stretch/unfold/physically relax (c. 舒服)
@@ -1119,7 +1121,7 @@
 节日,jie2 ri4,festival/holiday
 送,song4,see off/send off/give a gift
 送货上门,song4 huo4 shang4 men2,deliver goods to your door/home delivery
-礼,li3,gift/rite/ceremony (c. 礼物)
+礼,li3,gift/rite/ceremony (c. 礼物/婚礼)
 物,wu4,thing/object (c. 礼物/动物)
 礼物,li3 wu4,gift/present (noun)
 怎么过,zen3 me guo4,how to celebrate?/how to experience?
@@ -1345,6 +1347,7 @@
 总是,zong3 shi4,always/over and over again as a matter of habit (negative connotation)
 梦,meng4,dream/visionary/wishful (c. 做梦)
 做梦,zuo4 meng4,dream (verb or noun)
+做个好梦,zuo4 ge4 hao4 meng4,have a nice dream/sweet dreams
 故,gu4,ancient/old/former (c. 故事/故宫/故意)
 故事,gu4 shi4:,story/tale
 讲,jiang3,explain/emphasize/negotiate (c. 演讲)
@@ -1548,7 +1551,7 @@
 校长,xiao4 zhang3,school principal/headmaster
 必,bi4,certainly/must/necessarily (c. 必须)
 须,xu1,must/have to (c. 必须)
-必须,bi4 xu1,have to/must/necessarily/compulsory
+必须,bi4 xu1,have to/must/necessarily/compulsory (stronger than 需要)
 作业,zuo4 ye4,homework assignment/task/operation
 成,cheng2,succeed/finish/complete (c. 完成/成熟)
 完成,wan2 cheng2,complete/accomplish/finish successfully
@@ -1590,6 +1593,7 @@
 结,jie2,tie or bind (verb)/knot or bond (noun) (c. 结婚)
 婚,hun1,marry (verb)/marriage or wedding (noun) (c. 结婚)
 结婚,jie2 hun1,marry
+婚礼,hun1 li3,wedding
 认真,ren4 zhen1,serious or earnest (adj)/take seriously (verb)
 愿,yuan4,ready or willing (adj)/wish or desire (verb) (c. 愿意/愿望/志愿)
 愿意,yuan4 yi4,ready or willing (adj)/wish or want (verb)
@@ -1620,7 +1624,7 @@
 星星,xing1 xing1:,star
 不见了,bu4:2 jian4 le,missing/disappeared/gone (after noun)
 给，送,gei3 : song4,to (something) give (something as a gift)
-送花给她,song4 hua1 gei3 ta1,give flowers to her/give her flowers
+给她送花,gei3 ta1 song4 hua1,give flowers to her/give her flowers
 静,jing4,quiet/still/not moving (c. 安静/冷静)
 安静,an1 jing4,quiet/silent/peaceful/calm
 层,ceng2,floor/layer/stratum (mw)
@@ -1693,7 +1697,7 @@
 历史,li4 shi3,history
 了解,liao3:2 jie3,understand/realize/find out about
 麻,ma2,feel numb/hemp/flax (c. 麻将)
-将,jiang4,command or lead (verb)/commander (noun) (c. 麻将)
+将,jiang4,command or lead (verb)/commander (noun & bound only) (c. 麻将)
 麻将,ma2 jiang4,mahjong (chinese game with tiles)
 为了,wei4 le,in order to/for the purpose of/so as to
 或,huo4,maybe/perhaps/might (c. 或者)
@@ -2390,7 +2394,7 @@
 商店关门了,shang1 dian4 guan1 men2 le,the stores are closed/the stores have been closed
 商店有没有开门,shang1 dian4 you3 mei2 you3 kai1 men2,are the stores open?
 商店开到几点钟,shang1 dian4 kai1 dao4 ji3:2 dian3 zhong1,what time do the stores open?
-我姓张，叫清明,wo3 xing4 zhang1 : jiao4 qing1 ming2,my surname is zhang my name is qingming
+我姓张，叫清远,wo3 xing4 zhang1 : jiao4 qing1 yuan3,my surname is zhang my name is qingyuan
 人群,ren2 qun2,crowd
 房卡,fang2 ka3,room card (hotel)
 保护,bao3 hu4,protect or defend (verb)/protection (noun)
@@ -3096,8 +3100,9 @@
 虾,xia1,shrimp/prawn
 豆沙包,dou4 sha1 bao1,bean paste bun
 赛马,sai4 ma3,horse races/horse racing
-夜,ye4,night (c. 夜景)
+夜,ye4,night (c. 夜景/夜晚)
 夜景,ye4 jing3,nightscape/night scenery
+夜晚,ye4 wan3,night
 去世,qu4 shi4,pass away/die
 及,ji2,to reach/up to/in time for (c. 及时)
 及时,ji2 shi2,timely/at the right time/promptly/without delay
@@ -3132,8 +3137,9 @@
 清醒,qing1 xing3,clear-headed/awake/sober (adj)
 有用,you3 yong4,useful
 沙滩,sha1 tan1,sandy beaches （alt. 海滩)
-适,shi4,suitable/proper (c. 适合)
-适合,shi4 he2,fit/suit (verb)
+适,shi4,suitable/proper (c. 适合/适应/适应)
+适应,shi4 ying4,adapt/fit/suit (alt. 适合)
+适合,shi4 he2,fit/suit (verb) (alt. 适应)
 合适,he2 shi4,fitting/suitable (adj)
 危,wei1,endanger (verb)/danger (noun) (c. 危险)
 危险,wei1 xian3,danger/dangerous
@@ -3413,3 +3419,8 @@
 倒,dao4,invert/place upside down/pour out
 一所大学,yi1:4 suo3 da4 xue2,one college/one university
 谢谢你提供的机会,xie4 xie4: ni3 ti2 gong1 de ji1 hui4,thank you for providing the opportunity
+打一局,da3 yi1:4 ju2,play a round/play a game (of billiards basketball etc)
+还有时间,hai2 you3 shi2 jian1,there is still time/still has time
+手机支付,shou3 ji1 zhi1 fu4,mobile payments
+失去,shi1 qu4,lose something
+时长,shi2 chang2,duration of time
