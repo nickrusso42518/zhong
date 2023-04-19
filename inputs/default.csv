@@ -841,7 +841,9 @@
 啤酒,pi2 jiu3,beer (loanword)
 汁,zhi1,juice (c. 果汁)
 果汁,guo3 zhi1,fruit juice
+蕉,jiao1,banana (component only) (c. 香蕉)
 香蕉,xiang1 jiao1,banana
+糕,gao1,cake (component only) (c. 蛋糕)
 蛋糕,dan4 gao1,cake
 鸟,niao3,bird
 树,shu4,tree
@@ -1652,7 +1654,7 @@
 桶,tong3,bucket/bin (c. 水桶)
 水桶,shui3:2 tong3,bucket
 丢,diu1,lose/throw/discard (c. 丢弃/丢脸)
-丢弃,diu1 qi4,discard/abandon
+丢弃,diu1 qi4,discard/abandon (do not add object)
 垃圾,la1 ji1,trash/garbage/low quality
 垃圾桶,la1 ji1 tong3,trash can/garbage can
 天上,tian1 shang4,sky/celestial/heavenly
@@ -1757,7 +1759,7 @@
 消,xiao1,disappear/vanish/spend time (c. 取消)
 取消,qu3 xiao1,cancel/cancellation
 句子,ju4 zi,sentence
-简,jian3,simple/uncomplicated (c. 简单/简体)
+简,jian3,simple/uncomplicated (c. 简单/简体/简历)
 简单,jian3 dan1,simple/uncomplicated
 答,da2,answer/reply/respond (c. 回答/解答)
 回答,hui2 da2,answer/reply/respond (usually face to face)
@@ -2335,8 +2337,6 @@
 我当然愿意吃汤圆和粽子,wo3 dang1 ran2 yuan4 yi4 chi1 tang1 yuan2 he2 zong4 zi,of course i am willing to eat sticky rice balls and sticky rice dumplings
 我阿姨只有零钱，我叔叔可不可以推迟约会,wo3 a1 yi2 zhi3:2 you3 ling2 qian2 : wo3 shu1 shu1: ke3 bu4 ke3:2 yi3 tui1 chi2 yue1 hui4,my aunt only has change can my uncle postpone the date?
 这辆坏的汽车是免费的,zhe4 liang4 huai4 de qi4 che1 shi4 mian3 fei4 de,this broken car is free
-学院路,xue2 yuan4 lu4,college road
-长安街,chang2 an1 jie1,long peace street
 皇,huang2,emperor/king (c. 英皇道)
 英皇道,ying1 huang2 dao4,king's road (hong kong)
 你想去哪儿吃,ni3:2 xiang3 qu4 na3 r chi1,where would you like to go to eat?
@@ -2441,8 +2441,8 @@
 什么原因,shen2 me yuan2 yin1,for what reason?/why?
 由,you2,to follow/because of/due to (c. 理由)
 理由,li3 you2,reason/grounds/justification
-真正,zhen1 zheng4,genuine/authentic/real (c. 真实)
-真实,zhen1 shi2,genuine/authentic/real (c. 真正)
+真正,zhen1 zheng4,genuine/authentic (adj for items)
+真实,zhen1 shi2,true information (adj for facts)
 直接,zhi2 jie1,direct/immediate (opp. 间接)
 间接,jian4 jie1,indirect (opp. 直接)
 只要,zhi3 yao4,only if/so long as
@@ -2542,9 +2542,11 @@
 打的,da3 di1,take a taxi/go by taxi
 如果你不介意,ru2 guo3 ni3 bu4:2 jie4 yi4,if you do not mind
 六点钟左右,liu4 dian3 zhong1 zuo3 you4,6 oclock more or less/around 6 oclock
-剧,ju4,opera or drama (noun)/dramatic or severe (adj) (c. 京剧)
+剧,ju4,opera or drama (noun)/dramatic or severe (adj) (c. 京剧/电视剧)
 京剧,jing1 ju4,beijing opera
+电视剧,dian4 shi4 ju4,tv drama/tv series
 一路,yi1:2 lu4,all the way/entire journey (c. 一路顺风)
+顺,shun4,obey or follow (verb)/along of favorable (adj) (c. 顺风)
 顺风,shun4 feng1,favorable wind/tail wind (c. 一路顺风)
 一路顺风,yi1:2 lu4 shun4 feng1,have a nice trip/favorable wind all the way
 我必须很早就走,wo3 bi4 xu1 hen3:2 zao3 jiu4 zou3,i must leave early
@@ -2643,7 +2645,7 @@
 留言了吗,liu2 yan2 le ma,was there a message?
 海鲜,hai3 xian1,seafood
 总站,zong3 zhan4,terminus/final stop
-外卖,wai4 mai4,food takeout/food delivery
+外卖,wai4 mai4,food takeout/food delivery (verb or noun)
 需要多少时间,xu1 yao4 duo1 shao3 shi2 jian1,how long does it take?/how much time is needed?
 从这儿走路去需要多少时间,cong2 zhe4 r zou3 lu4 qu4 xu1 yao4 duo1 shao3 shi2 jian1,how long does it take to walk from here
 紧急,jin3 ji2,emergency/urgent
@@ -3430,3 +3432,14 @@
 最喜欢的电子游戏,zui4 xi3 huan1 de dian4 zi3 you2 xi4,favorite video game
 什么样的,shen2 me yang4 de,what kind of (+noun)?
 什么样的城市,shen2 me yang4 de cheng2 shi4,what kind of city?
+上路,shang4 lu4,begin a journey
+从早到晚,cong2 zao3 dao4 wan3,from morning until night/all day long
+简历,jian3 li4,curriculum vitae/cv/job resume
+方便面,fang1 bian4 mian4,instant noodles
+因为她每天都给我打电话，所以我觉得她喜欢我,yin1 wei4 ta1 mei3 tian1 dou1 gei3:2 wo3:2 da3 dian4 hua4 : suo3:2 yi3 wo3 jue2 de ta1 xi3 huan1 wo3,i think she likes me because she calls me every day
+证据又少又多，我认为那个人有罪,zheng4 ju4 you4 hao3 you4 duo1 : wo3 ren4 wei2 na4 ge4 ren2 you3 zui4,evidence is good and abundant i think that person is guilty
+爸爸回家的时候，他以为我不好好学习,ba4 ba4: hui2 jia1 de shi2 hou4: : ta1 yi3 wei2 wo3 bu4 hao3 hao3: xue2 xi2,when my father came home he thought i did not study hard
+猜,cai1,to guess (verb)
+算了,suan4 le,forget it/let it be
+最多,zui4 duo1,at most/maximum/greatest amount
+最少,zui4 shao3,at least/minimum/smallest amount
