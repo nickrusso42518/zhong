@@ -132,7 +132,7 @@
 每年,mei3 nian2,yearly/every year
 午,wu3,noon component
 下午,xia4 wu3,afternoon
-午夜,w3 ye4,midnight
+午夜,wu3 ye4,midnight
 中午,zhong1 wu3,noon/midday
 晚上,wan3 shang4,night/evening/pm time
 上午,shang4 wu3,morning/am time
@@ -1148,10 +1148,10 @@
 喽,lou2 :: lou,gang member or bandit :: suffix to warn or call attention to event
 心,xin1,heart/soul (c. 开心) [忄]
 开心,kai1 xin1,happy (long lasting)
-快，了,kuai4 : le,almost .../about to .../will ... soon (spoken)
+快，了,kuai4 : le,almost .../about to .../will ... soon (spoken & subj goes first)
 我快到了,wo3 kuai4 dao4 le,i have almost arrived/i am almost there
 快下雨了,kuai4 xia4 yu3 le,it will rain soon/it is about to rain
-快要，了,kuai4 yao4 : le,almost .../about to .../will ... soon (written)
+快要，了,kuai4 yao4 : le,almost .../about to .../will ... soon (written & subj goes first)
 快要下雪了,kuai4 yao4 xia4 xue3 le,it will snow soon/it is about to snow
 学生快要放学了,xue2 sheng1 kuai4 yao4 fang4 xue2 le,students are about to leave school
 不但,bu4:2 dan4,not only (before 而且)
@@ -2307,6 +2307,7 @@
 交,jiao1,hand over/deliver/make friends (c. 交通/交流/交易所)
 交通,jiao1 tong1,traffic/transportation/communications
 交流,jiao1 liu2,exchange/interaction/communication
+交给,jiao1 gei3,give/deliver/hand over
 教育,jiao4 yu4,educate/teach
 接受,jie1 shou4,receive/accept (payments etc)
 接着,jie1 zhe,then/continue (adverb)/catch and hold on
@@ -2584,8 +2585,9 @@
 离这儿近吗,li2 zhe4 r jin4 ma,is it close to here?/is it nearby here?
 一张去南京的票,yi1:4 zhang1 qu4 nan2 jing1 de piao4,one ticket to nanjing
 找你，块,zhao3:2 ni3 : kuai4,in change you get ...
-月台,yue4 tai2,railway platform
-几号月台,ji3 hao4 yue4 tai2,which railway platform?
+月台,yue4 tai2,railway platform for visitors (sim. 站台)
+站台,zhan4 tai2,railway platform for travelers (sim. 月台)
+几号站台,ji3 hao4 zhan4 tai2,which railway platform?
 快车,kuai4 che1,express train/express bus
 糟糕,zao1 gao1,too bad/terrible
 假日,jia4 ri4,holiday/non-working day
