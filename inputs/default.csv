@@ -540,8 +540,9 @@
 报,bao4,announce/inform/report (c. 报纸/报销/报告/汇报/预报)
 纸,zhi3,paper (c. 报纸)
 报纸,bao4 zhi3,newspaper
-视,shi4,look at/regard/vision (c. 电视)
+视,shi4,look at/regard/vision (c. 电视/视力)
 电视,dian4 shi4,tv/television
+视力,shi4 li4,vision/eyesight
 干,gan1 :: gan4,dry/empty :: do/doing
 影,ying3,film (c. 电影)
 电影,dian4 ying3,movie
@@ -1566,10 +1567,16 @@
 笔记,bi3 ji4,notes
 笔记本,bi3 ji4 ben3,notebook
 向,xiang4,turn towards/direction/from (prep)
-借,jie4,lend/borrow
-向，借，,xiang4 : jie4 :,from (someone) borrow (something)
-可以借我，吗,ke3:2 yi3 jie4 wo3 : ma,could you lend me ... ?/may i borrow ... ?
-让我向你借铅笔和纸,rang4 wo3 xiang4 ni3 jie4 qian1 bi3 he2 zhi3,let me borrow your pencil and paper
+借,jie4,lend/borrow (depends on context)
+借给,jie4 gei3,lend to someone (lender-借给-borrower-item)
+她借给我铅笔,ta1 jie4 gei3:2 wo3 qian1 bi3,she lent me a pencil
+借，给,jie4 : gei3,lend (lender-借-item-给-borrower)
+我借相机给她,wo3 jie4 xiang4 ji1 gei3 ta1,i lent her the camera
+跟，借,gen1 : jie4,borrow (borrower-跟-lender-借-item)
+她跟我借毛衣,ta1 gen1 wo3 jie4 mao2 yi1,she borrowed a sweater from me
+# 向，借，,xiang4 : jie4 :,from (someone) borrow (something)
+# 可以借我，吗,ke3:2 yi3 jie4 wo3 : ma,could you lend me ... ?/may i borrow ... ?
+# 让我向你借铅笔和纸,rang4 wo3 xiang4 ni3 jie4 qian1 bi3 he2 zhi3,let me borrow your pencil and paper
 天天,tian1 tian1,every day/daily/day by day
 向上,xiang4 shang4,upwards/advance/make progress
 向下,xiang4 xia4,downwards/regress
