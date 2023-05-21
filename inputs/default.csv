@@ -1,4 +1,8 @@
 # chinese,pinyin,english and descriptions
+# legend,像,similar to but not the same meaning
+# legend,一样,alternate phrase with the same meaning
+# legend,成分,component of a larger word
+# legend,字面,literal by-character translation
 零,ling2,0/zero
 〇,ling2,0/zero (year dates only)
 一,yi1,1/one
@@ -486,6 +490,7 @@
 看到,kan4 dao4,to see with the result being achieved (complement)
 书,shu1,book/letter/document
 听,ting1,listen/hear
+听见,ting1 dian4,hear
 音,yin1,sound/noise (c. 音乐)
 乐,le4 :: yue4,cheerful/laugh (c. 快乐/乐趣) :: music (c. 音乐)
 音乐,yin1 yue4,music/musical sound
@@ -583,7 +588,7 @@
 坐,zuo4,sit/take a seat/embark onto vehicle
 订,ding4,agree/subscribe/order (c. 订位/订房)
 订位,ding4 wei4,make reservation/book a table
-进,jin4,enter/advance/go forward
+进,jin4,enter/advance/go forward (often don't use alone unless with 了/以后)
 菜,cai4,vegetable/cuisine/dish (type of food)
 单,dan1,bill/list/form (c. 买单/菜单/简单)
 买单,mai3 dan1,pay bill/take check (restaurant)
@@ -1449,7 +1454,11 @@
 护,hu4,protect/guard/defend (c. 护照)
 护照,hu4 zhao4,passport
 签,qian1,endorse/sign onto (c. 签证/证明/证据)
-证,zheng4,prove/confirm/verify (c. 签证)
+证,zheng4,prove/confirm or verify (c. 签证)/raw english text (拼音打字)
+换行,huan4 hang2,newline/wrap text (拼音打字)
+空格,kong4 ge2,blank space/spacebar (拼音打字)
+选定,xuan3 ding4,select and continue (拼音打字)
+我说的是,wo3 shuo1 de shi4,what i said was .../I mean ...
 签证,qian1 zheng4,visa/certificate
 起飞,qi3 fei1,airplane take off
 离开,li2 kai1,leave/depart
@@ -3518,3 +3527,13 @@
 支持,zhi1 chi2,support/be in favor of
 结论,jie2 lun4,conclusion/verdict
 资格,zi1 ge2,qualifications
+图表,tu2 biao3,chart/diagram
+脱,tuo1,take off (clothing)/escape/get away from
+公平,gong1 shi2,fair/impartial
+专心,zhuan1 xin1,concentrate on (verb)/attentive (adj)
+可靠,ke3 kao4,reliable
+期待,qi1 dai4,look forward to/expect/await
+拿下,na2 xia4,arrest/capture/seize
+生肉,sheng1 rou4,raw meat
+熟肉,shu2 rou4,cooked meat (also shou2 rou4)
+成分,cheng2 fen4,component/ingredient/element/composition
