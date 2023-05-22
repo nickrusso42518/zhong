@@ -3,6 +3,7 @@
 # legend,一样：,alternate phrase with the same meaning
 # legend,成分：,component of a larger word
 # legend,字面：,literal by-character translation
+# legend,对面：,opposite phrase (up/down, left/right, etc)
 零,ling2,0/zero
 〇,ling2,0/zero (year dates only)
 一,yi1,1/one
@@ -115,8 +116,8 @@
 可以,ke3:2 yi3,may/allowed to/permitted to
 会,hui4,can apply or know how to (learned skill)/will (with future time reference)
 能,neng2,be able to/physically capable of doing/energy (physics)
-上,shang4,previous (hour & week & month)/to go to (work/class)/above/on/embark onto vehicle
-下,xia4,next (hour & week & month)/to get off (work/class)/below/under/disembark from vehicle
+上,shang4,previous (hour & week & month)/to go to (work/class)/above/on/embark onto vehicle (对面：下)
+下,xia4,next (hour & week & month)/to get off (work/class)/below/under/disembark from vehicle (对面：上)
 每,mei3,every (all time periods)
 钟,zhong1,bell/oclock/o'clock
 分,fen1 :: fen4,minute on clock (specify time)/hundreth of yuan/to distinguish/to divide :: part/share
@@ -303,8 +304,8 @@
 时候,shi2 hou4,period of time/moment in time (never a duration of time)
 空,kong1 :: kong4,empty/air/sky/in vain :: vacant (adj)/to empty (verb)
 有空,you3 kong4,available/have free time
-多,duo1,many/more/much (adj)
-少,shao3,few/less/little (adj)
+多,duo1,many/more/much (adj) (对面：少)
+少,shao3,few/less/little (adj) (对面：多)
 多少,duo1 shao3,how many?/how much? (large or uncountable quantity)
 叫,jiao4,am/be called/tell someone to do something (titled names use 是 but not 叫)
 电,dian4,electric/electricity
@@ -386,8 +387,8 @@
 住,zhu4,lives/dwells/resides (at a specific place)
 在,ai4,located at/to be in/actively doing (before verb is -ing) (neg. 不 or 没)
 住在,zhu4 zai4,lives in/dwells in
-里,li3,inside/internal (modifier)
-外,wai4,outside/external (modifier)
+里,li3,inside/internal (modifier) (对面：外)
+外,wai4,outside/external (modifier) (对面：里)
 哪,na3,which?
 哪儿,na3 r,where? (northern)
 哪里,na3:2 li3,where? (southern)
@@ -471,8 +472,8 @@
 走,zou3,walk/go/take the stairs (describes ongoing motion)
 怎么走,zen3 me zou3,how to get?/how to go? (to a place)
 路,lu4,road/the way (成分：走路)
-左,zuo3,left direction
-右,you4,right direction
+左,zuo3,left direction (对面：右)
+右,you4,right direction (对面：左)
 边,bian1,boundary/side/edge (cardinal or relative)
 旁,pang2,beside/one side
 前面,qian2 mian4,ahead/front side
@@ -549,8 +550,9 @@
 电视,dian4 shi4,tv/television
 视力,shi4 li4,vision/eyesight
 干,gan1 :: gan4,dry/empty :: do/doing
-影,ying3,film (成分：电影)
-电影,dian4 ying3,movie
+影,ying3,image or film (成分：电影)/shadow or reflection (成分：影子)
+电影,dian4 ying3,movie/motion picture
+影子,ying3 zi,shadow/reflection
 糸,mi4,silk [纟]
 网,wang3,net/network (成分：上网/网球) [罒]
 上网,shang4 wang3,go online
@@ -560,7 +562,7 @@
 开机,kai1 ji1,turn on a machine
 关机,guan1 ji1,turn off a machine
 明星,ming2 xing1,celebrity
-新,xin1,new/newly (成分：新闻) (opp. 旧)
+新,xin1,new/newly (成分：新闻) (对面：旧)
 闻,wen2,hear/smell (成分：新闻)
 新闻,xin1 wen2,news
 节,jie2,economize or save (verb)/festival or holiday (noun) (成分：节目/节日/节约)/mw for lessons
@@ -956,7 +958,7 @@
 正在,zheng4 zai4,actively doing or was doing (action)
 大家,da4 jia1,influential family/everyone (greeting)
 每个人,mei3 ge4 ren2,everyone/every person (non-greeting)
-才,cai2,finally/took longer than expected/adv for delayed action (opposite 就) (cannot use 了 after)
+才,cai2,finally/took longer than expected/adv for delayed action (cannot use 了 after)
 情,qing2,situation/feeling/sentiment/emotion (成分：事情/同情/感情/心情/热情)
 事,shi4,matter/affair (成分：事情/故事/同事/事业)
 事情,shi4 qing2,matter/affair/task/thing to be told
@@ -994,7 +996,7 @@
 ，的话,: de hua4,if ... (像：如果)
 如,ru2,if/like/as (成分：如果/比如)
 如果,ru2 guo3,if/in case of/in the event that (before 就 in formal setting)
-就,jiu4,then (after 如果)/conclusion based on previous statement/adv for prompt action (opposite 才)
+就,jiu4,then (after 如果)/conclusion based on previous statement/adv for prompt action
 如果，就,ru2 guo3 : jiu4,if ... then
 蓝,lan2,blue color
 试,shi4,try or experiment (verb)/exam or test (noun)
@@ -1007,7 +1009,7 @@
 双,shuang1,pair (noun)/mw for pair objects (eg shoes but not pants)
 鞋子,xie2 zi,shoes
 蓝色的鞋子,lan2 se4 de xie2 zi,blue shoes
-比,bi3,compare to/adj-er than (noun-比-noun-adj) (成分：比如) (opp. 没有)
+比,bi3,compare to/adj-er than (noun-比-noun-adj) (成分：比如)
 这双比那双小,zhe4 shuang1 bi3 na4 shuang1 xiao3,this pair is smaller than that pair
 意大利,yi4 da4 li4,italy country
 裤子,ku4 zi,pants/trousers
@@ -2471,8 +2473,8 @@
 理由,li3 you2,reason/grounds/justification
 真正,zhen1 zheng4,genuine/authentic (adj for items)
 真实,zhen1 shi2,true information (adj for facts)
-直接,zhi2 jie1,direct/immediate (opp. 间接)
-间接,jian4 jie1,indirect (opp. 直接)
+直接,zhi2 jie1,direct/immediate (对面：间接)
+间接,jian4 jie1,indirect (对面：直接)
 只要,zhi3 yao4,only if/so long as
 主意,zhu3 yi4:,plan/idea/decision
 专门,zhuan1 men2,specialist/specialized
@@ -2488,8 +2490,8 @@
 动手,dong4 shou3,set about a task/hit with hands/punch
 动员,dong4 yuan2,mobilize or arouse (verb)/mobilization (noun)
 端正,duan1 zheng4,upright/proper/regular
-合法,he2 fa3,legal/legitimate (opp. 非法)
-非法,fei1 fa3,illegal (opp. 合法)
+合法,he2 fa3,legal/legitimate (对面：非法)
+非法,fei1 fa3,illegal (对面：合法)
 服从,fu2 cong2,obey/comply/defer
 听话,ting1 hua4,do what one is told/obedient
 更新,geng1 xin1,renew/renovate/upgrade
@@ -2814,8 +2816,8 @@
 线,xian4,thread/string/wire/line (成分：时间线)
 时间线,shi2 jian1 xian4,timeline
 地铁十七号线,di4 tie3 shi2 qi1 hao4 xian4,metro line 17/subway line 17
-薄,bao2,thin/indifferent/weak (opp. 厚)
-厚,hou4,thick/deep/kind (opp. 薄)
+薄,bao2,thin/indifferent/weak (对面：厚)
+厚,hou4,thick/deep/kind (对面：薄)
 请慢一点说,qing3 man4 yi1:4 dian3 shuo1,please speak slowly/please slow down
 座,zuo4,seat/base/stand (noun)/mw for buildings and immovable objects (成分：座位)
 郊,jiao1,outskirts/suburbs (成分：郊区)
@@ -2864,9 +2866,9 @@
 统,tong3,gather/unite/unify (成分：传统/系统)
 传统,chuan2 tong3,traditional/conventional
 系统,xi4 tong3,system
-有害,you3 hai4,harmful/destructive/damaging (opp. 无害)
-无害,wu2 hai4,harmless (opp. 有害)
-旧,jiu4,old/worn with age (opp. 新)
+有害,you3 hai4,harmful/destructive/damaging (对面：无害)
+无害,wu2 hai4,harmless (对面：有害)
+旧,jiu4,old/worn with age (对面：新)
 旧汽车对环境有害,jiu4 qi4 che1 dui4 huan2 jing4 you3 hai4,old cars are bad for the environment
 传统汽车对空气质量不好,chuan2 tong3 qi4 che1 dui4 kong1 qi4 zhi4 liang4 bu4 hao3,traditional cars are bad for air quality
 难怪你不是车迷,nan2 guai4 ni3 bu4:2 shi4 che1 mi2,no wonder you are not a car fan
@@ -3541,3 +3543,7 @@
 熟肉,shu2 rou4,cooked meat (also shou2 rou4)
 成分,cheng2 fen4,component/ingredient/element/composition (former c.)
 字面,zi4 mian4,literal (former lit.)
+听懂,ting1 dong3,understand by hearing (对面：听不懂)
+听不懂,ting1 bu4 dong3,do not understand by hearing (对面：听懂)
+看懂,kan4 dong3,understand by seeing (reading or watching) (对面：看不懂)
+看不懂,kan4 bu4 dong3,not understand by seeing (reading or watching) (对面：看懂)
