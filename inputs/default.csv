@@ -3,7 +3,7 @@
 # legend,一样：,alternate phrase with the same meaning
 # legend,成分：,component of a larger word
 # legend,字面：,literal by-character translation
-# legend,对面：,opposite phrase (up/down, left/right, etc)
+# legend,对面：,opposite phrase (up/down & left/right & etc)
 零,ling2,0/zero
 〇,ling2,0/zero (year dates only)
 一,yi1,1/one
