@@ -233,7 +233,6 @@
 饭,fan4,meal/serving/rice (when bound)
 餐,can1,meal (component only/not standalone noun) (成分：中餐)
 鱼,yu2,fish
-鱼肉,yu2 rou4,fish meat
 面,mian4,face/surface/noodles (when bound)
 早饭,zao3 fan4,breakfast
 早餐,zao3 can1,breakfast
@@ -554,7 +553,7 @@
 电视,dian4 shi4,tv/television
 视力,shi4 li4,vision/eyesight
 干,gan1 :: gan4,dry/empty :: do/doing
-影,ying3,image or film (成分：电影)/shadow or reflection (成分：影子)
+影,ying3,image or film (成分：电影)/shadow or reflection (成分：影子/影响)
 电影,dian4 ying3,movie/motion picture
 影子,ying3 zi,shadow/reflection
 糸,mi4,silk [纟]
@@ -1925,7 +1924,7 @@
 参观,can1 guan1,visit/tour for the purpose of learning (verb)
 光,guang1,light/bright/ray (成分：观光/阳光)
 观光,guan1 guang1,tour (verb)/tourism or sightseeing (noun)
-活,huo2,to live/be alive (成分：活动)
+活,huo2,to live/be alive (成分：活动/生活)
 活动,huo2 dong4,move about (verb)/activities (noun)
 生活,sheng1 huo2,to live/livelihood/life/activity
 安排,an1 pai2,plan/arrange/set up
@@ -3487,11 +3486,12 @@
 面前,mian4 qian2,in front of/in the presence of
 气死,qi4 si3,infuriate/be furious
 有电话吗,you3 dian4 hua4 ma,was there a phone call?/is there a phone?
-那种药呢,na4 zhong4 yao4 ne,what about that kind of medicine?
+那种药呢,na4 zhong3 yao4 ne,what about that kind of medicine?
 想得美,xiang3 de2 mei3,you wish!/in your dreams!
 你怎么会不知道,ni3:2 zen3 me hui4 bu4 zhi1 dao4,why don’t you know?/how do you not know?
 课程,ke4 cheng2,course/academic program
-赚,zhuan4,earn/profit (verb)
+赚,zhuan4,earn/profit (verb) (成分：赚钱/网赚)
+赚钱,zhuan4 qian2,earn money
 网赚,wang3 zhuan4,earn money online/make money online
 我赚钱了,wo3 zhuan4 qian2 le,i made money/i earned money
 买一送一,mai3 yi1:2 song4 yi1,buy one get one free/bogo
@@ -3555,3 +3555,11 @@
 好几,hao3:2 ji3,several/quite a few
 无趣,wu2 qu4,dull/vapid/colorless
 当着所有，的面,dang1 zhe suo3:2 you3 : de mian4,in front of all of the ... (living thing)
+热爱,re4 ai4,love ardently/adore
+学历,xue2 li4,academic qualifications/degree
+动力,dong4 li4,motive power/motivation
+貌,mao4,appearance (成分：礼貌)
+礼貌,li3 mao4,courteous/polite
+盘子上取饭吃,pan2 zi shang4 qu3 fan4 chi1,eat food from a plate
+锅里拿饭吃,guo1 li3 na2 fan4 chi1,eat foot from a pot
+分工,fen1 gong1,division of labor
