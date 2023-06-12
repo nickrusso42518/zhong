@@ -749,10 +749,11 @@
 说说,shuo1 shuo1:,speak a bit/say a few words
 走走,zou3 zou3:,walk a bit
 笑,xiao4,laugh/smile
-笑一笑,xiao4 yi1:2 xiao4,laugh a bit/smile a bit
+笑了笑,xiao4 le xiao4,laughed a bit/smiled a bit
 用一用,yong4 yi1:2 yong4,use a bit/use for a bit
 尝,chang2,taste/try/experience
 尝一尝,chang2 yi1:4 chang2,taste a bit
+想了一下,xiang3 le yi1:2 xia4,thought a bit
 聊,liao2,chat
 聊一聊,liao2 yi1:4 liao2,chat a bit
 讨论,tao3 lun4,discuss/talk over (no strong opinions & can have object)
@@ -1420,7 +1421,6 @@
 普通话,pu3 tong1 hua4,mandarin chinese language/common language (一样：国语)
 国语,guo2 yu3,mandarin chinese language/national language (一样：普通话)
 长大,zhang3 da4,grow up
-长得,zhang3 de,how something looks (pretty or the same etc)
 级,ji2,level/grade/rank/mw for levels or steps
 年级,nian2 ji2,school grade level
 五年级,wu3 nian2 ji2,fifth grade/5th grade
@@ -2369,6 +2369,7 @@
 永,yong3,forever/eternal (成分：永远)
 永远,yong3:2 yuan3,forever/eternal
 知识,zhi1 shi2:,knowledge/intellectual
+涨知识,zhang3 zhi1 shi2:,acquire knowledge
 值得,zhi2 de,deserve/be worth (related to a meaningful matter)
 这件事值得庆祝一下,zhe4 jian4 shi4 zhi2 de qing4 zhu4 yi1:2 xia4,this is something worth celebrating
 只好,zhi3:2 hao3,be forced to/no better option
@@ -2384,7 +2385,6 @@
 我不想去你那儿吃,wo3 bu4 xiang3 qu4 ni3 na4 r chi1,i do not want to go to your place to eat
 我也想喝一点东西,wo3:2 ye3 xiang3 he1 yi1:4 dian3 dong1 xi1:,i also want drink something
 怎么了,zen3 me le,what's wrong?/what happened?
-长得像,zhang3 de xiang4,looks like (people only)
 然后吗,ran2 hou4 ma,what next?/what then?/what happens after?
 周年,zhou1 nian2,anniversary
 我想去酒店,wo3:2 xiang3 qu4 jiu3 dian4,i would like to go to the hotel (xqj)
@@ -3342,7 +3342,6 @@
 交通警察,jiao1 tong1 jing3 cha2,traffic police (一样：交警)
 路口,lu4 kou3,road intersection/crossing/junction
 连接,lian2 jie1,link/connect (verb)
-白米,bai2 mi3,white rice (一样：白米)
 寓,yu4,reside/residence (成分：公寓)
 公寓,gong1 yu4,apartments/flats
 公寓有一个小问题,gong1 yu4 you3 yi1:2 ge4 xiao3 wen4 ti2,the apartment has a small problem
@@ -3532,7 +3531,6 @@
 缺,que1,deficiency/lack/scare (成分：缺少)
 缺少,que1 shao3,lack/shortage of (verb or noun)
 没有带钱,mei2 you3 dai4 qian2,did not bring any money
-我表现好,wo3:2 biao3 xian4 hao3,i am well-behaved/i am performing well
 奖励,jiang3 li4,reward/award (verb or noun)
 心想,xin1 xiang3,think to oneself
 天是黑的,tian1 shi4 hei1 de,the sky is dark
@@ -3588,9 +3586,11 @@
 肯,ken3,agree/consent/willing to (成分：肯定)
 肯定,ken3 ding4,definitely
 普及,pu3 ji2,widespread/ubiquitous
-医保,yi1 bao3,health insurance
-医疗保险,yi1 liao2 bao3:2 xian3,health insurance
+医保,yi1 bao3,health insurance (一样：医疗保险)
+医疗保险,yi1 liao2 bao3:2 xian3,health insurance (一样：医保)
 医疗,yi1 liao2,medical treatment
 好处,hao3 chu4,benefit/advantage
 八方,ba1 fang1,8 points of the compass/all directions
 八方来财,ba1 fang1 lai2 cai2,fortune from all directions
+分心,fen1 xin1,distract
+难题,nan2 ti2,difficult problem

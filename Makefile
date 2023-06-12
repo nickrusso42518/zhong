@@ -6,7 +6,7 @@
 .DEFAULT_GOAL := all
 
 .PHONY: all
-all: clean lint db neg run
+all: clean lint db neg quick run
 
 .PHONY: lint
 lint:
@@ -23,6 +23,12 @@ db:
 	python utils/fileio.py inputs/default.csv inputs/tp.csv
 	@echo "Completed db"
 
+.PHONE: quick
+quick:
+	@echo "Starting  quick"
+	python play.py -s < test_stdin/period.txt
+	@echo "Completed quick"
+
 .PHONY: run
 run:
 	@echo "Starting  run"
@@ -31,7 +37,6 @@ run:
 	python play.py -x 2 < test_stdin/enter_period.txt
 	python play.py -n 2 -x 2 < test_stdin/enter_period.txt
 	python play.py -i inputs/tp.csv < test_stdin/comma_period.txt
-	python play.py -s < test_stdin/period.txt
 	python play.py -c < test_stdin/period.txt
 	python play.py -p < test_stdin/qmark_period.txt
 	python play.py -s -c < test_stdin/period.txt
