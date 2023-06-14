@@ -65,7 +65,7 @@
 四点零六,si4 dian3 ling2 liu4,4:06
 一下,yi1:2 xia4,a bit of effort/perform quickly (after action verb)
 一会儿,yi1:4 hui3 r,in a bit of time/in a moment (after subj)
-一点儿,yi1:4 dia3 r,a bit of quantity (before obj)/a bit more (after adj)
+一点儿,yi1:4 dia3 r,a bit of quantity (before obj)/a bit more (after adj) (spoken)
 一点儿也不,yi1:4 dia3:2 r ye3 bu4,not at all/not even a bit (before adj & present or future & swap 也/都)
 一点儿都没,yi1:4 dia3 r dou1 mei2,not at all/not even a bit (before adj & past only & swap 都/也)
 一点点,yi1:4 dian3 dian3:,a tiny bit of quantity (before obj)/a tiny bit more (after adj)
@@ -593,7 +593,6 @@
 坐,zuo4,sit/take a seat/embark onto vehicle
 订,ding4,agree/subscribe/order (成分：订位/订房)
 订位,ding4 wei4,make reservation/book a table
-进,jin4,enter/advance/go forward (often don't use alone unless with 了/以后)
 菜,cai4,vegetable/cuisine/dish (type of food)
 单,dan1,bill/list/form (成分：买单/菜单/简单)
 买单,mai3 dan1,pay bill/take check (restaurant)
@@ -798,11 +797,12 @@
 随便,sui2 bian4,as one pleases/as one wishes/casual
 随你,sui2 ni3,as you wish/it's up to you
 准,zhun3,allow/approve/grant (成分：准备)
-出,chu1,go out/come out/occur (成分：出去)
-出去,chu1 qu4,go out
-出来,chu1 lai2,come out/emerge
-进去,jin4 qu4,go in
-进来,jin4 lai2,come in
+出,chu1,go out/come out/occur (append object or 去/来)
+出去,chu1 qu4,go out (omit object)
+出来,chu1 lai2,come out/emerge (omit object)
+进,jin4,enter/advance/go forward (append object or 去/来) 
+进去,jin4 qu4,go in (omit object)
+进来,jin4 lai2,come in (omit object)
 租,zu1,rent/hire (成分：房租/出租车)
 汽,qi4,steam/vapor (成分：汽车)
 汽车,qi4 che1,car/automobile
@@ -2397,8 +2397,8 @@
 请跟着说,qing3 gen1 zhe shuo1,please repeat
 请再说一次,qing3 zai4 shuo1 yi1:2 ci4,please say it again
 现在请听,xian4 zai4 qing3 ting1,please listen now
-美金,mei3 jin1,us dollars/usd (一样：美元)
-美元,mei3 yuan2,us dollars/usd (一样：美金)
+美金,mei3 jin1,us dollars/usd (prepend mw) (一样：美元)
+美元,mei3 yuan2,us dollars/usd (omit mw) (一样：美金)
 喏,nuo4,here you are
 一会儿见,yi1:4 hui3 r jian4,see you later/see you soon
 给你的,gei3:2 ni3 de,for you
@@ -2866,7 +2866,7 @@
 乖,guai1,well-behaved (child)/obediently (一样：乖乖)
 电气,dian4 qi4,electricity/electrical
 收音机,shou1 yin1 ji1,radio
-很少,hen3:2 shao3,rarely (time word)
+很少,hen3:2 shao3,rarely (time word)/very few
 健身,jian4 shen1,exercise/work out
 棵,ke1,mw for plants (trees and bamboo)
 那棵树下有四棵竹子,na4 ke1 shu4 xia4 you3 si4 ke1 zhu2 zi,there are four bamboos under that tree
@@ -3061,7 +3061,7 @@
 中草药,zhong1 cao3 yao4,chinese medicine (to be consumed)
 前线,qian2 xian4,front lines/battlefront
 一部分,yi1:2 bu4 fen1,portion/one part/a small part (more than 一点)
-少量,shao3 liang4,a little bit/a few (像：一点)
+少量,shao3 liang4,a little bit/a few (written) (像：一点)
 取名,qu3 ming2,to name
 爱护,ai4 hu4,cherish/love and protect/treasure
 眠,mian2,sleep/hibernate (成分：失眠)
@@ -3598,3 +3598,12 @@
 寄,ji4,send in mail
 依,yi1,depend on/comply with/in light of (成分：依然)
 依然,yi1 ran2,still/as before
+不到,bu4:2 dao4,not reaching/insufficient/less than (对面：超过)
+超过,chao1 guo4,surpass/exceed/more than (对面：超过)
+每当,mei3 dang1,whenever/every time
+趁,chen4,avail oneself/take advantage (成分：趁此机会)
+趁此机会,chen4 ci3 ji1 hui4,seize opportunity(一样：趁机)
+趁机,chen4 ji1,seize opportunity (一样：趁此机会)
+阅,yue4,read/peruse (成分：阅读/订阅)
+阅读,yue4 du2,read (verb)/reading habit (noun)
+订阅,ding4 yue4,subscribe to/subscription
