@@ -519,7 +519,7 @@
 睡,shui4,sleep/lie down (成分：睡觉)
 觉,jue2 :: jiao4,feel/think (verb) :: sleep/nap (noun) (成分：睡觉/觉得)
 睡觉,shui4 jiao4,sleep/go to bed
-回,hui2,return/go back/turn around
+回,hui2,return/go back/turn around (append object or 去/来)
 放,fang4,put/release/free/let go/set off fireworks
 煮,zhu3,cook over a fire/boil in water
 上学,shang4 xue2,go to school
@@ -831,7 +831,8 @@
 差,cha1 :: cha4,difference/discrepancy (noun) :: differ from/fall short of (verb)
 差别,cha1 bie2,difference/distinction/disparity
 四点差一刻,si4 dian3 cha4 yi1:2 ke4,3:45/quarter until 4:00/quarter to 4:00
-整,zheng3,exactly/whole/in good order/sharp (time) (成分：整理)
+整,zheng3,exactly/whole/in good order/sharp (time) (成分：整理/整个)
+整个,zheng3 ge4,whole/entire/total
 八点整,ba1 dian3:2 zheng3,8:00 sharp/exactly 8:00
 早,zao3,morning/early (adj)
 晚,wan3,night/evening/late (adj)
@@ -968,8 +969,8 @@
 事情,shi4 qing2,matter/affair/task/thing to be told
 一件事情,yi1:2 jian4 shi4 qing2,something/one thing/one matter
 爸妈,ba4 ma1,parents/dad and mom (informal)
-回去,hui2 qu4,go back (omit 去 when destination exists)
-回来,hui2 lai2,come back (omit 来 when destination exists)
+回去,hui2 qu4,go back (omit object)
+回来,hui2 lai2,come back (omit object)
 饭店,fan4 dian4,hotel/restaurant/diner (southern)
 酒吧,jiu3 ba1,bar/pub/saloon
 同,tong2,same (pronoun)/with (preposition) (成分：同时/同学/同情)
@@ -2513,7 +2514,6 @@
 楼下,lou2 xia4,downstairs (noun)
 上楼,shang4 lou2,go upstairs (verb)
 下楼,xia4 lou2,go downstairs (verb)
-诚实,cheng2 shi2,honest
 惊,jing1,startle/frighten/be scared (成分：惊喜/惊奇)
 惊喜,jing1 xi3,pleasant surprise
 惊奇,jing1 qi2,be amazed/be surprised
@@ -3572,7 +3572,7 @@
 这就对了,zhe4 jiu4 dui4 le,that's finally right (sense of eventually)
 你说得对,ni3 shou1 de dui4,you are correct/you said it correctly (neutral)
 听书,ting1 shu1,listen to story/listen to book
-花费,hua1 fei4,spend time/spend time
+花费,hua1 fei4,spend time/spend money
 外语,wai4 yu3,foreign language
 查看,cha2 kan4,look over (not checking for mistakes)
 年轻,nian2 qing1,young (adj)
