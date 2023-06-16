@@ -1900,9 +1900,9 @@
 只有，才,zhi3:2 you3 : cai2,only if ... then
 只有您下载应用，我才送钱给你,zhi3:2 you3 nin2 xia4 zai3 ying4 yong4 : wo3 cai2 song4 qian2 gei3:2 ni3,i will give you money only if you download the app
 既,ji4,already/since/both (成分：既然)
-既然,ji4 ran2,since/as/this being the case
+既然,ji4 ran2,since/as/this being the case (event already happened)
 既然，就,ji4 ran2 : jiu4,since ... then (swap 就/也/那)
-既然你不能来，就为什么不早说,ji4 ran2 ni3 bu4 neng2 lai2 : jiu4 wei4 shen2 me bu4 zao3 shuo1,since you cannot come why did you not tell me earlier?
+既然你已经来了，就跟我一起聊天,ji4 ran2 ni3:2 yi3 jing1 lai2 le : jiu4 gen1 wo3 yi1:4 qi3 liao2 tian1,since you already came chat with me
 没电,mei2 dian4,discharged/out of battery/dead battery
 没有，那么,mei2 you3 : na4 me,n1 is not as +adj as n2 (n1-没有-n2-那么-adj) (swap 那么/这么)
 今天的天气没有昨天的天气那么好,jin1 tian1 de tian1 qi4 mei2 you3 zuo2 tian1 de tian1 qi4 na4 me hao3,the weather today is not as good as the weather yesterday 
@@ -2463,7 +2463,8 @@
 生命,sheng1 ming4,life (of a living thing)
 十分,shi2 fen1,completely/utterly
 实在,shi2 zai4,really/actually/true
-受到,shou4 dao4,receive/suffer
+受到,shou4 dao4,passively receive/suffer (formal) (像：得到)
+得到,de2 dao4,receive/get/obtain (informal) (像：受到) 
 受不了,shou4 bu4 liao3,unbearable/cannot endure
 了不起,liao3 bu4 qi3,amazing/terrific/extraordinary
 特点,te4 dian3,trait/characteristic/feature
@@ -2821,8 +2822,9 @@
 章,zhang1,chapter/section/clause (成分：文章)
 文章,wen2 zhang1,written article/essay/literary work
 宣,xuan1,publicly declare/announce (成分：宣传)
-传,chuan2,pass on/spread/transmit/infect (成分：传统/宣传/系统)
+传,chuan2,pass on/spread/transmit/infect (成分：传统/宣传/传来)
 宣传,xuan1 chuan2,disseminate/spread information
+传来,chuan2 lai2,be heard/sound comes through
 我家有三口人,wo3 jia1 you3 san1 kou3 ren2,there are 3 people in my family/my family has 3 people
 睡过头,shui4 guo4 tou2,oversleep
 线,xian4,thread/string/wire/line (成分：时间线)
@@ -3610,3 +3612,4 @@
 订阅,ding4 yue4,subscribe to/subscription
 拥,yong1,embrace/surround/swarm (成分：拥挤)
 拥挤,yong1 ji3,crowded/congestion
+你们都别大声地说话了,ni3 men dou1 bie2 da4 sheng1 de shuo1 hua4 le,you all stop talking loudly
