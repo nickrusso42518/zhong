@@ -1029,7 +1029,7 @@
 黑,hei1,black color
 耳,er3,ear/handle (成分：耳朵/耳机)
 朵,duo3,earlobe (成分：耳朵)
-耳朵,er3:2 duo3,ears (body part)
+耳朵,er3 duo3:,ears (body part)
 眼,yan3,eye/eyelet/hole/opening (成分：眼睛)
 睛,jing1,eye/eyeball (成分：眼睛)
 眼睛,yan3 jing1,eyes (body part)
@@ -3613,3 +3613,8 @@
 拥,yong1,embrace/surround/swarm (成分：拥挤)
 拥挤,yong1 ji3,crowded/congestion
 你们都别大声地说话了,ni3 men dou1 bie2 da4 sheng1 de shuo1 hua4 le,you all stop talking loudly
+方式,fang1 shi4,style/mode/pattern
+生活方式,sheng1 huo2 fang1 shi4,lifestyle/way of life
+士,shi4,soldier/nco/specialist (成分：女士)
+女士,nv3 shi4,ms/miss/lady/madam
+护士,hu4 shi4:,nurse
