@@ -294,7 +294,7 @@
 名,ming2,name/famous (成分：名字/有名/签名)
 名字,ming2 zi4:,name/first name
 本名,ben3 ming2,original name/real name
-汉字,han4 zi4:,chinese character/chinese writing
+汉字,han4 zi4,chinese character/chinese writing
 什,shen2,what (成分：什么)
 么,me,interrogative suffix/open-ended question (成分：什么/怎么)
 什么,shen2 me,what?
@@ -1315,7 +1315,8 @@
 附,fu4,adhere to/be close to/attach (成分：附近)
 附近,fu4 jin4,vicinity/nearby (location noun)
 出租车附近有两只鸟,chu1 zu1 che1 fu4 jin4 you3:2 liang3 zhi1 niao3,there are two birds near the taxi
-中间,zhong1 jian1,between/among
+中间,zhong1 jian1,between/among (places or things)
+之间,zhi1 jian1,between/among (times)
 园,yuan2,park/garden/orchard (成分：花园/公园)
 公园,gong1 yuan2,public park
 图,tu2,diagram/chart/map (成分：图书馆/地图)
@@ -3365,7 +3366,8 @@
 教练,jiao4 lian4,instructor/sports coach/trainer
 养生,yang3 sheng1,maintain good health/nurture one's vitality
 修,xiu1,repair/decorate/embellish
-减,jian3,lower/decrease/reduce/subtract (成分：减价) (对面：加)
+减,jian3,lower/decrease/reduce/subtract (成分：减价/减少) (对面：加)
+减少,jian3:2 shao3,reduce/decrease/lessen
 减价,jian3 jia4,reduce prices/mark down/discount (verb or noun)
 美国化,mei3 guo2 hua4,americanize/take on american characteristics (adj or verb)
 中国化,zhong1 guo2 hua4,sinicize/take on chinese characteristics (adj or verb)
@@ -3679,3 +3681,7 @@
 修整,xiu1 zheng3,mow the grass/tend a garden/spruce up
 此刻,ci3 ke4,this moment/now
 躺,tang3,recline/lie down
+整理房间,zheng3:2 li3 fang2 jian1,clean up a room (common phrase)
+更换,geng1 huan4,replace (broken part)
+零件,ling2 jian4,hardware/component
+到货,dao4 huo4,arrival of shipments or packages
