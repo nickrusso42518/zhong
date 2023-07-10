@@ -15,7 +15,7 @@
 五,wu3,5/five
 六,liu4,6/six
 七,qi1,7/seven
-八,ba1,8/eight
+八,ba1,8/eight [丷]
 九,jiu3,9/nine
 十,shi2,10/ten
 十七,shi2 qi1,17/seventeen
@@ -2311,7 +2311,8 @@
 阳光,yang2 guang1,sunshine/transparent (open to scrutiny)
 正好,zheng4 hao3,just right/just enough/just in time
 正常,zheng4 chang2,normal/regular/ordinary (adj)
-整理,zheng3:2 li3,arrange/tidy up/straighten out/sort out
+整理,zheng3:2 li3,arrange/tidy up/straighten out/sort out (像：清理)
+清理,qing1 li3,clear up/tidy up (像：整理)
 总结,zong3 jie2,summarize or conclude (verb)/summary or cv-resume (noun)
 左右,zuo3 you4,nearby/approximately
 作者,zuo4 zhe3,author of a specific work
@@ -3555,6 +3556,7 @@
 专心,zhuan1 xin1,concentrate on (verb)/attentive (adj)
 可靠,ke3 kao4,reliable (person)
 期待,qi1 dai4,look forward to/expect/await
+期望值,qi1 wang4 zhi2,expectations
 拿下,na2 xia4,arrest/capture/seize
 生肉,sheng1 rou4,raw meat
 熟肉,shu2 rou4,cooked meat (also shou2 rou4)
@@ -3573,7 +3575,8 @@
 学历,xue2 li4,academic qualifications/degree
 动力,dong4 li4,motive power/motivation
 貌,mao4,appearance (成分：礼貌)
-礼貌,li3 mao4,courteous/polite
+礼貌,li3 mao4,courtesy/politeness (noun)
+有礼貌,you3:2 li3 mao4,courteous/polite (adj)
 盘子上取饭吃,pan2 zi shang4 qu3 fan4 chi1,eat food from a plate
 锅里拿饭吃,guo1 li3 na2 fan4 chi1,eat foot from a pot
 分工,fen1 gong1,division of labor
@@ -3593,7 +3596,8 @@
 你有事吗,ni3:2 you3 shi4 ma,what do you want?/what’s the matter?
 骗,pian4,lie/trick/deceive
 各,ge4,each/every
-各种各样,ge4 zhong3 ge4 yang4,various kinds/all sorts
+各种,ge4 zhong3,various kinds/all sorts (一样：各种各样)
+各种各样,ge4 zhong3 ge4 yang4,various kinds/all sorts (一样：各种)
 肯,ken3,agree/consent/willing to (成分：肯定)
 肯定,ken3 ding4,definitely
 普及,pu3 ji2,widespread/ubiquitous
@@ -3685,3 +3689,6 @@
 更换,geng1 huan4,replace (broken part)
 零件,ling2 jian4,hardware/component
 到货,dao4 huo4,arrival of shipments or packages
+没看见过,mei2 kan4 jian4 guo4,have not seen before
+看错,kan4 cuo4,misjudge someone/misinterpret what one sees
+后记,hou4 ji4,epilogue/afterword
