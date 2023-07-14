@@ -1224,7 +1224,7 @@
 课,ke4,class/course/lesson
 教,jiao1 :: jiao4,teach :: religion/teaching (成分：教室/教练)
 教室,jiao4 shi4,classroom
-理,li3,reason/logic (成分：地理/经理)
+理,li3,put in order or tidy up (verb) (成分：理发/整理)/reason or logic (noun) (成分：地理/经理)
 不理,bu4 li3,ignore/refuse to acknowledge/pay no attention to
 地理,di4 li3,geography
 术,shu4,art/skill/special feat (成分：美术)
@@ -1811,7 +1811,8 @@
 动词,dong4 ci2,grammar verb
 主语,zhu3:2 yu3,grammar subject
 宾语,bin1 yu3,grammar object
-形容词,xing2 rong2 ci2,grammar adjective
+形容,xing2 rong2,describe
+形容词,xing2 rong2 ci2,grammar adjective/descriptive word
 副,fu4,secondary/auxiliary/deputy (成分：副词/副业)
 副词,fu4 ci2,grammar adverb
 语境,yu3 jing4,context grammar
@@ -3701,3 +3702,8 @@
 微笑,wei1 xiao4,smile (not laugh)
 付出,fu4 chu1,invest energy or time into
 能否,neng2 fou3,whether or not
+篇,pian1,mw for sheets/chapters/articles
+教书,jiao1 shu2,teach in a school
+跟随,gen1 sui2,follow
+定居,ding4 ju1,settle in a place/take up residence
+聚聚,ju4 ju4:,hang out from time to time
