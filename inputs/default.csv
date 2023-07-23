@@ -63,6 +63,7 @@
 四点半,si4 dian3 ban4,4:30/half past 4
 四点三十九,si4 dian3 san1 shi2 jiu3,4:39
 四点零六,si4 dian3 ling2 liu4,4:06
+快两点了,kuai4 liang3:2 dian3 le, almost 2:00
 一下,yi1:2 xia4,a bit of effort/perform quickly (after action verb)
 一会儿,yi1:4 hui3 r,in a bit of time/in a moment (after subj)
 一点儿,yi1:4 dia3 r,a bit of quantity (before obj)/a bit more (after adj) (spoken)
@@ -491,12 +492,13 @@
 喜,xi3,be fond of/like/enjoy (成分：喜欢/恭喜)
 欢,huan1,joyous/happy/pleased (成分：喜欢/欢迎)
 喜欢,xi3 huan1,like/enjoy
-看,kan4,look at/watch/read without focus
-看见,kan4 jian4,see/catch sight of (generic)
-看到,kan4 dao4,to see with the result being achieved (complement)
 书,shu1,book/letter/document
+看,kan4,look at/watch/read without focus
+看见,kan4 jian4,see someone (verb comp) (像：看见)
+看到,kan4 dao4,see something (verb comp) (像：看见)
 听,ting1,listen/hear/heed/obey
-听见,ting1 jian4,hear
+听见,ting1 jian4,hear someone speak (verb comp) (像：听到)
+听到,ting1 dao4,hear something said (verb comp) (像：听见)
 音,yin1,sound/noise (成分：音乐)
 乐,le4 :: yue4,cheerful/laugh (成分：快乐/乐趣) :: music (成分：音乐)
 音乐,yin1 yue4,music/musical sound
@@ -560,7 +562,9 @@
 影子,ying3 zi,shadow from a light source
 糸,mi4,silk [纟]
 网,wang3,net/network (成分：上网/网球) [罒/罓]
-上网,shang4 wang3,go online
+上网,shang4 wang3,go online (一样：线上)
+线上,xian4 shang4,go online (一样：网上)
+连续,lian2 xu4,consecutive/serial
 机,ji1,machine/opportunity/intention (成分：手机/飞机/机会)
 手机,shou3 ji1,cell phone
 手机游戏,shou3 ji1 you2 xi4,cell phone games
@@ -2822,8 +2826,8 @@
 纪,ji4,age/era (成分：世纪/年纪)
 年纪,nian2 ji4,age of something in years
 世纪,shi4 ji4,century (字面：world era)
-时期,shi2 qi1,point in time/phase (成分：期间)
-期间,qi1 jian1,period/phase/wider time interval (成分：时期)
+时期,shi2 qi1,point in time/phase (像：期间)
+期间,qi1 jian1,period/phase/wider time interval (像：时期)
 长城是十七世纪建完的,chang2 cheng2 shi4 shi2 qi1 shi4 ji4 jian4 wan2 de,the great wall was built in the 17th century/it was in the 17th century that the great wall was built
 今天已经过去了,jin1 tian1 yi3 jing1 guo4 qu4 le,today is over/today has passed
 或许,huo4 xu3,perhaps/maybe
@@ -3222,7 +3226,7 @@
 我演讲的主题是太阳能,wo3 yan3:2 jiang3 de zhu3 ti2 shi4 tai4 yang2 neng2,the topic of my speech is solar energy
 她是一家电商公司的总裁,ta1 shi4 yi1:4 jia1 dian4 shang1 gong1 si1 de zong3 cai2,she is the president of an e-commerce company
 物流,wu4 liu2,logistics/distribution business
-达,da2,attain/reach/amount to (成分：发达/到达)
+达,da2,attain/reach/amount to (成分：发达/到达/表达)
 发达,fa1 da2,develop (verb)/developed or flourished (adj)
 到达,dao4 da2,arrive at specific place (need object)
 民营,min2 ying2,privately run (not state run) (adj)
@@ -3703,7 +3707,7 @@
 付出,fu4 chu1,invest energy or time into
 能否,neng2 fou3,whether or not
 篇,pian1,mw for sheets/chapters/articles
-教书,jiao1 shu2,teach in a school
+教书,jiao1 shu1,teach in a school
 跟随,gen1 sui2,follow
 定居,ding4 ju1,settle in a place/take up residence
 聚聚,ju4 ju4:,hang out from time to time
@@ -3729,3 +3733,6 @@
 共产党,gong4 chan3:2 dang3,communist party/ccp
 小区,xiao3 qu1,neighborhood/residential area
 演员,yan3 yuan2,actor/actress/performer
+百度,bai3 du4,baidu search engine
+换成,huan4 cheng2,replace (n1-换成-n2)
+表达,biao3 da2,express/convey
