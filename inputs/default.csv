@@ -671,7 +671,7 @@
 旅游,lv3 you2,trip/personal travel (noun) (一样：旅行)
 旅行,lv3 xing2,trip/personal travel (noun) (一样：旅游)
 照,zhao4,illuminate/shine/reflect (成分：照相机/拍照/照片/照顾)
-相,xiang1 :: xiang4,appearance/portait/picture (成分：照相机) :: mutual/reciprocal (成分：相同/相信/真相)
+相,xiang1 :: xiang4,mutual/reciprocal (成分：相同/相信/真相) :: appearance/portait/picture (成分：照相机)
 相机,xiang4 ji1,camera (一样：照相机)
 照相机,zhao4 xiang4 ji1,camera (一样：相机)
 拍,pai1,pat/clap/slap/swat (成分：拍照/自拍)
@@ -1875,7 +1875,8 @@
 终,zhong1,end/finish (成分：终于)
 束,shu4,bunches/bundles/bouquets (mw) (成分：结束)
 终于,zhong1 yu2,finally/at last
-对于,dui4 yu2,regarding/with regard to
+关于,guan1 yu2,about/regarding (+noun of general topic) (像：对于)
+对于,dui4 yu2,about/regarding (+noun to focus on) (像：关于)
 结束,jie2 shu4,finish/conclude (standalone verb)
 担,dan1,undertake/take responsibility for (成分：担心)
 担心,dan1 xin1,worried/uneasy
@@ -1962,7 +1963,6 @@
 主,zhu3,owner/master/host (成分：主要/主任/主题/主人)
 主要,zhu3 yao4,main/major/primary (adv)
 主人,zhu3 ren2,master/owner
-关于,guan1 yu2,about/pertaining to/concerning
 密,mi4,secret/confidential (成分：密码)
 密码,mi4 ma3,password
 登,deng1,ascend/mount/step on (成分：登录/登山)
@@ -2402,9 +2402,9 @@
 跟谁一起,gen1 shui2 yi1:4 qi3,together with whom?/along with whom?
 现在几点钟,xian4 zai4 ji3:2 dian3 zhong1,what time is it now?
 我啊,wo3 a,as for me
-这么,zhe4 me,like this/in this way/this much (像：这样)
+这么,zhe4 me,like this/in this way/this much (intensifier) (像：这样)
 这样,zhe4 yang4,like this/this kind (像：这么)
-那么,na4 me,like that/in that way/in that case (像：那样)
+那么,na4 me,like that/in that way/in that case/that much (intensifier) (像：那样)
 那样,na4 yang4,like that/that kind (像：那么)
 请跟着说,qing3 gen1 zhe shuo1,please repeat
 请再说一次,qing3 zai4 shuo1 yi1:2 ci4,please say it again
@@ -3173,7 +3173,7 @@
 夜晚,ye4 wan3,night
 去世,qu4 shi4,pass away/die
 及,ji2,to reach/up to/in time for (成分：及时)
-及时,ji2 shi2,timely/at the right time/promptly/without delay
+及时,ji2 shi2,timely/promptly/without delay (adj)
 花一个小时去跑步,hua1 yi1:2 ge4 xiao3 shi2 qu4 pao3 bu4,take an hour to go run/spend 1 hour to go run
 实习,shi2 xi2,intern/intership
 你怎么跟他联系,ni3 zen3 me gen1 ta1 lian2 xi4,how do you contact him?/how do you get in touch with him?
@@ -3653,6 +3653,7 @@
 洗热水澡,xi3 re4 shui3:2 zao3,take a hot shower
 我照了照,wo3 zhao4 le zhao4,i saw my reflection
 镜子里的我,jing4 zi li3 de wo3,me in the mirror/my reflection
+全部,quan2 bu4,whole/all
 全国,quan2 guo2,whole country/nationwide
 全家,quan2 jia1,whole family
 全身,quan2 shen1,whole body
@@ -3741,3 +3742,10 @@
 更有意思,geng4 you3 yi4 si1:,even more interesting
 一米八几,yi1:4 mi3 ba1 ji3,more than 1.8m tall
 你只能说,ni3:2 zhi3 neng2 shuo1,you can only say (to correct poor speech)
+汇款,hui4 kuan3,remit money/remittance
+是哪一年,shi4 na3 yi1:4 nian2,what year is it?
+是哪一天,shi4 na3 yi1:4 tian1,what day is it?
+另找一天,ling4 zhao3 yi1:4 tian1,find another day (to meet etc)
+珍惜,zhen1 xi1,cherish/treasure (verb)
+病假,bing4 jia4,medical leave/sick leave
+汉语水平考试,han4 yu3 shui3 ping2 kao3 shi4,hsk
