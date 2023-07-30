@@ -612,6 +612,7 @@
 订,ding4,agree/subscribe/order (成分：订位/订房)
 订位,ding4 wei4,make reservation/book a table
 菜,cai4,vegetable/cuisine/dish (type of food)
+饭菜,fan4 cai4,food
 单,dan1,bill/list/form (成分：买单/菜单/简单)
 买单,mai3 dan1,pay bill/take check (restaurant)
 菜单,cai4 dan1,food menu
@@ -1416,12 +1417,11 @@
 最后,zui4 hou4,last/lastly/eventually (after 首先 and 然后)
 首先，然后,shou3 xian1 : ran2 hou4,first ... then/afterwards (swap 然后/再)
 首先，然后，最后,shou3 xian1 : ran2 hou4 : zui4 hou4,first ... then ... last
-往左去,wang3:2 zuo3 qu4,go left
-往右走,wang3 you4 zou3,walk right
+往前走,wang3 qian2 zou3,go forward/walk forward
 往后看,wang3 hou4 kan4,look backwards/look behind
 直,zhi2,straight/reasonable/frank (成分：一直)
 一直,yi1:4 zhi2,constantly/continuously/nonstop/always doing something
-一直往前走,yi1:4 zhi2 wang3 qian2 zou3,go straight ahead
+一直往前走,yi1:4 zhi2 wang3 qian2 zou3,keep going forward
 哪条路，右边那条路,na3 tiao2 lu4 : you4 bian1 na4 tiao2 lu4,which road? that road on the right
 围,wei2,encircle/all around (成分：周围)
 周围,zhou1 wei2,around/surroundings/environment
@@ -3706,6 +3706,7 @@
 修整,xiu1 zheng3,mow the grass/tend a garden/spruce up
 此刻,ci3 ke4,this moment/now
 躺,tang3,recline/lie down
+躺在床上,tang3 zai4 chuang2 shang4,lie on the bed/lie in bed
 整理房间,zheng3:2 li3 fang2 jian1,clean up a room (common phrase)
 更换,geng1 huan4,replace (broken part)
 零件,ling2 jian4,hardware/component
