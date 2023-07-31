@@ -726,7 +726,7 @@
 海,hai3,sea/ocean (成分：上海/海边)
 上海,shang4 hai3,shanghai city
 料,liao4,material/stuff/grain (成分：饮料)
-饮,yin3,beverage/drink (成分：饮料)
+饮,yin3,drink (bound form) (成分：饮料)
 饮料,yin3 liao4,beverage/drink (noun)
 工,gong1,work/job/profession (noun)
 作,zuo4,do/grow (成分：工作/作业)
@@ -3782,3 +3782,7 @@
 坐在家里,zuo4 zai4 jia1 li3,sit at home
 虫,chong2,insect/bug/worm/larvae (一样：虫子)
 炒蛋,chao3 dan4,scrambled eggs
+暴雨,bao4 yu3,rainstorm
+空军,kong1 jun1,air force
+饮食,yin3 shi2,diet/food and drink
+饮食习惯,yin3 shi2 xi2 guan4,eating habits/dietary habits
