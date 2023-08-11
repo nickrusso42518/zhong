@@ -733,10 +733,11 @@
 工作,gong1 zuo4,work or operate machine (verb)/job (noun)
 觉得,jue2 de,think/feel based on 5 senses/have subjective opinion about (weaker and less formal than 认为)
 累,lei4,tired/weary
-健,jian4,build/set up/construct (成分：健康)
-建设,jian4 she4,build/construct/establish
+健,jian4,invigorate/strengthen (成分：健康)
 康,kang1,peaceful/abundant (成分：健康)
 健康,jian4 kang1,health/healthy
+建,jian4,establish/build/construct (成分：建设)
+建设,jian4 she4,build/construct/establish
 胖,pang4,fat/chubby/plump
 瘦,shou4,thin/lean/tight
 不要,bu4:2 yao4,do not/don't (often negates a command & formal)
@@ -1593,7 +1594,8 @@
 堂,tang2,hall/large room (成分：食堂)
 食堂,shi2 tang2,cafeteria/dining hall
 求,qiu2,seek/look for/request/demand (成分：要求)
-要求,yao1 qiu2,require or demand (verb)/requirements or demands (noun)
+要求,yao1 qiu2,require or demand (verb)/requirements or demands (noun) (stronger than 要求)
+请求,qing3 qiu2,request (verb or noun) (weaker than 要求)
 校长,xiao4 zhang3,school principal/headmaster
 必,bi4,certainly/must/necessarily (成分：必须)
 须,xu1,must/have to (成分：必须)
@@ -1940,8 +1942,9 @@
 地图,di4 tu2,map
 景,jing3,circumstance/situation (成分：风景)
 风景,feng1 jing3,scenery/landscape
-读出，来,du2 chu1 : lai2,read (words) out loud
+拿出,na2 chu1,take out/retrieve (对面：放进)
 拿出，来,na2 chu1 : lai2,take out/retrieve (item)
+读出，来,du2 chu1 : lai2,read (words) out loud
 说出，来,shuo1 chu1 : lai2,say (words) out loud
 红绿灯,hong2 lv4 deng1,traffic light
 街,jie1,street (成分：街道)
@@ -2721,7 +2724,8 @@
 需要多少时间,xu1 yao4 duo1 shao3 shi2 jian1,how long does it take?/how much time is needed?
 从这儿走路去需要多少时间,cong2 zhe4 r zou3 lu4 qu4 xu1 yao4 duo1 shao3 shi2 jian1,how long does it take to walk from here
 紧急,jin3 ji2,emergency/urgent
-染,ran3,catch a disease/acquire bad habit/contaminate (成分：感染)
+染,ran3,dye/catch a disease/acquire bad habit/contaminate (成分：感染)
+染成,ran3 cheng2,dyed (hair or cloth)
 感染,gan3:2 ran3,infect (verb)/infection (noun)
 拿起,na2 qi3,pick up an item
 打开,da3 kai1,open/turn on
@@ -2748,7 +2752,7 @@
 我肚子饿,wo3 du4 zi e4,i am hungry (一样：我饿了)
 我口渴,wo3 kou3:2 ke3,i am thirsty (一样：我渴了)
 你得问接待员,ni3:2 dei3 wen4 jie1 dai4 yuan2,you have to ask the receptionist
-搬到,ban1 dao4,moved to a specific place
+搬到,ban1 dao4,moved something to a specific place
 他上个月搬到南京,ta1 shang4 ge4 yue4 ban1 dao4 nan2 jing1,he moved to nanjing last month
 雪糕,xue3 gao1,ice cream
 华,hua2,magnificent/splendid/flowery (成分：豪华/华盛顿)
@@ -3756,7 +3760,8 @@
 百度,bai3 du4,baidu search engine
 换成,huan4 cheng2,replace (n1-换成-n2)
 表达,biao3 da2,express/convey
-放进,fang4 jin4,put into
+放进,fang4 jin4,put into (对面：拿出)
+放在,fang4 zai4,put in a specific place (on or under)
 在汉语中,zai4 han4 yu3 zhong1,in chinese (language)
 更有意思,geng4 you3 yi4 si1:,even more interesting
 一米八几,yi1:4 mi3 ba1 ji3,more than 1.8m tall
@@ -3820,3 +3825,4 @@
 手下,shou3 xia4,subordinates/subordinated
 半路,ban4 lu4,halfway/midway/on the way
 带军队去,dai4 jun1 dui4 qu4,lead the troops to go there
+助手,zhu4 shou3,assistant/helper
