@@ -71,6 +71,7 @@
 一点都没,yi1:4 dian3 dou1 mei2,not at all/not even a bit (before adj & past only & swap 都/也)
 一点点,yi1:4 dian3 dian3:,a tiny bit of quantity (before obj)/a tiny bit more (after adj)
 有点儿,you3:2 dia3 r,a bit of intensity (before adj) (一样：有一点儿)
+就是有点,jiu4 shi4 you3:2 dian3,a bit of intensity to complain politely (before adj)
 星,xing1,star/heavenly body (成分：星期/星星)
 期,qi1,phase/stage/term (成分：星期)
 星期,xing1 qi1,week day specifier (before numbers)
@@ -235,7 +236,7 @@
 对得起,dui4 de qi3,treat fairy/be worthy of (verb)
 关,guan1,close/shut
 系,xi4,connect/bind/tie up (成分：关系/联系/系统)
-再,zai4,again (used before verb)
+再,zai4,do again in the future (adv)
 见,jian4,see/meet (obj is living thing) (一样：和，见面)
 和，见面,he2 : jian4 mian4,meet in person (一样：见+person)
 再见,zai4 jian4,goodbye/see soon
@@ -294,7 +295,7 @@
 两次,liang3 ci4,twice/two times
 几次,ji3 ci4,how many times?/many times
 高,gao1,tall/high person
-矮,ai3,short/low person
+矮,ai3,short/low person (vertical measure)
 兴,xing4,excitement/interest in (成分：高兴/兴趣)
 高兴,gao1 xing4,happy (short lasting)
 错,cuo4,mistake/wrong/bad/incorrectly
@@ -531,7 +532,7 @@
 唱歌,chang4 ge1,sing/call
 床,chuang2,bed (成分：起床)
 起床,qi3 chuang2,arise from bed/wake up/get up/get out of bed
-班,ban1,work shift/team/class
+班,ban1,work shift/team/class (refers to people in group)
 睡,shui4,sleep/lie down (成分：睡觉)
 觉,jue2 :: jiao4,feel/think (verb) :: sleep/nap (noun) (成分：睡觉/觉得)
 睡觉,shui4 jiao4,sleep/go to bed
@@ -1023,6 +1024,7 @@
 如,ru2,if/like/as (成分：如果/比如)
 如果,ru2 guo3,if/in case of/in the event that (before 就 in formal setting)
 就,jiu4,then (after 如果)/conclusion based on previous statement/adv for prompt action
+就是,jiu4 shi4,following statement is precisely correct
 如果，就,ru2 guo3 : jiu4,if ... then
 蓝,lan2,blue color
 试,shi4,try or experiment (verb)/exam or test (noun)
@@ -1042,7 +1044,7 @@
 质,zhi4,material/substance (成分：质量)
 量,liang2 :: liang4,to measure :: amount/quantity/capacity (成分：质量)
 质量,zhi4 liang4,quality (noun)
-又,you4,once again/also/connect like-to-like adjs (又-adj1-又-adj2 & shorter adj first)
+又,you4,do again in the past or present/also/connect like-to-like adjs (又-adj1-又-adj2 & shorter adj first)
 那条鱼又大又好吃,na4 tiao2 yu2 you4 da4 you4 hao3 chi1,that fish is both big and tasty (一样：既，又)
 这所房子既新又现代化,zhe4 suo3 fang2 zi ji4 xin1 you4 xian4 dai4 hua4,this house is both new and modern (一样：又，又)
 绿,lv4,green color
@@ -1392,6 +1394,7 @@
 故事,gu4 shi4:,story/tale
 讲,jiang3,explain/emphasize/negotiate (成分：演讲)
 除,chu2,remove/exclude/eliminate (成分：扫除/开除)
+除了,chu2 le,other than (除了-subj-都/还)
 除了，都,chu2 le : dou1,except for .../excluding ...
 除了你，他们都在这里,chu2 le ni3 : ta1 men dou1 zai4 zhe4 li3,they are all here except for you
 除了，还,chu2 le : hai2,in addition to .../apart from ... (swap 还/也)
@@ -1549,8 +1552,8 @@
 遇,yu4,encounter/receive/opportunity (成分：遇到)
 遇到,yu4 dao4,encounter/come across/run into (a person)
 好笑,hao3 xiao4,funny/laughable/ridiculous
-经常,jing1 chang2,frequently/often/constantly/regularly (像：常常)
-常常,chang2 chang2,frequently/often (像：经常)
+经常,jing1 chang2,frequently/often/constantly/regularly (adv) (像：常常)
+常常,chang2 chang2,frequently/often (adv) (像：经常)
 常见,chang2 jian4,commonly seen/common
 我常常坐公共汽车去,wo3 chang2 chang2 zuo4 gong1 gong4 qi4 che1 qu4,i often go by bus/i often take the bus to go
 热情,re4 qing2,passionate/warm-hearted/affectionate/enthusiastic (living thing only)
@@ -1637,7 +1640,11 @@
 搬家,ban1 jia1,relocate residence/move one's house (can replace 家 with 去/来)
 老家,lao3 jia1,place of origin/hometown
 算,suan4,regard as/figure/calculate (成分：打算/预算)
-打算,da3 suan4,plan/intend/calculate
+打算,da3 suan4,intend/calculate/plan (verb)/plans (noun)
+台灯,tai2 deng1,desk lamp
+路灯,lu4 deng1,street light
+谁都,shui2 dou1,anyone/everyone
+二手,er4 shou3,second-hand
 机会,ji1 hui4,chance/opportunity/occasion
 选,xuan3,select/choose/elect (成分：选择)
 择,ze2,select/choose/differentiate (成分：选择)
@@ -1896,7 +1903,7 @@
 对于,dui4 yu2,regarding (object/event of focus) (像：关于)
 对于他，我没有评论,dui4 yu2 ta1 : wo3 mei2 you3 ping2 lun4,regarding him i have no comment
 我有很多关于网络设计的经历,wo3:2 you3:2 hen3 duo1 guan1 yu2 wang3 luo4 she4 ji4 de jing1 li4,i have a lot of experience related to network design
-结束,jie2 shu4,finish/conclude (standalone verb)
+结束,jie2 shu4,end/conclude (standalone verb)
 担,dan1,undertake/take responsibility for (成分：担心)
 担心,dan1 xin1,worried/uneasy
 绩,ji4,merit/accomplishment (成分：成绩)
@@ -1910,7 +1917,7 @@
 我跟我女朋友不是在网上认识的,wo3 gen1 wo3 nv3 peng2 you3: bu4:2 shi4 zai4 wang3 shang4 ren4 shi2: de,i did not meet my girlfriend online/it was not online that i met my girlfriend
 虽然我饿了，但是我不能吃饭,sui1 ran2 wo3 e4 le : dan4 shi4 wo3 bu4 neng2 chi1 fan4,although i am hungry i cannot eat/i am hungry but i cannot eat
 如果您有点累，就去睡觉,ru2 guo3 nin2 you3:2 dian3 lei4 : jiu4 qu4 shui4 jiao4,if you are a bit tired then go to sleep/go to sleep if you are a bit tired
-一，就,yi1 : jiu4,as soon as ... (yi1 tone changes still apply)
+一，就,yi1 : jiu4,as soon as ... (一+verb & yi1 tone changes still apply)
 他一开始开车，就很放心,ta1 yi1:4 kai1 shi3 kai1 che1 : jiu4 hen3 fang4 xin1,as soon as he started driving he was relieved/he was relieved as soon as he started driving
 我跟你不一样,wo3 gen1 ni3 bu4 yi1:2 yang4,i am not like you/i am not the same as you
 有多远,you3 duo1 yuan3,how far away? (一样：多远)
@@ -1936,7 +1943,6 @@
 没有，那么,mei2 you3 : na4 me,n1 is not as +adj as n2 (n1-没有-n2-那么-adj) (swap 那么/这么)
 今天的天气没有昨天的天气那么好,jin1 tian1 de tian1 qi4 mei2 you3 zuo2 tian1 de tian1 qi4 na4 me hao3,the weather today is not as good as the weather yesterday 
 你没有我瘦,ni3 mei2 you3:2 wo3 shou4,you are not as thin as i am (一样：没有，那么/这么)
-放下,fang4 xia4,put down/let go of/relinquish
 我首先吃晚餐，再跟你喝红酒,wo3:2 shou3 xian1 chi1 wan3 can1 : zai4 gen1 ni3 he1 hong2 jiu3,first i eat dinner then drink red wine with you
 你们首先问问题，然后我回答，最后我们都回家,ni3 men shou3 xian1 wen4 wen4 ti2 : ran2 hou4 wo3 hui2 da2 : zui4 hou4 wo3 men dou1 hui2 jia1,first you ask questions then i answer finally we all go home
 地图,di4 tu2,map
@@ -2699,6 +2705,8 @@
 今年秋天,jin1 nian2 qiu1 tian1,this autumn/this fall
 明年冬天,ming2 nian2 dong1 tian1,next winter
 明年九月,ming2 nian2 jiu3 yue4,next september
+多久,duo1 jiu3,how long?/how much time? (一样：多长时间)
+多长时间,duo1 chang2 shi2 jian1,how long?/how much time? (一样：多久)
 你呆多久,ni3 dai1 duo1 jiu3,how long are you staying?/how long will you stay? (一样：你要呆多久)
 你呆了多久,ni3 dai1 le duo1 jiu3,how long did you stay?/how long have you stayed?
 你呆了多久了,ni3 dai1 le duo1 jiu3 le,how long have you been staying?
@@ -2728,7 +2736,8 @@
 染,ran3,dye/catch a disease/acquire bad habit/contaminate (成分：感染)
 染成,ran3 cheng2,dyed (hair or cloth)
 感染,gan3:2 ran3,infect (verb)/infection (noun)
-拿起,na2 qi3,pick up an item
+拿起,na2 qi3,pick up an item (对面：放下)
+放下,fang4 xia4,put down an item (对面：拿起)
 打开,da3 kai1,open/turn on
 关上,guan1 shang4,close a door/turn off electronics
 合上,he2 shang4,close a box/book/mouth
@@ -3746,7 +3755,7 @@
 用来,yong4 lai2,to be used for
 发育,fa1 yu4,to grow/develop/mature (people)
 过了几天,guo4 le ji3 tian1,after a few days/after several days
-学会,xue2 hui4,to learn a skill/to master a skill
+学会,xue2 hui4,to learn a skill/to master a skill (comp)
 款式,kuan3 shi4,pattern/style/design (像：方式)
 球鞋,qiu2 xie2,athletic shoes
 预约,yu4 yue1,reservation/booking (verb or noun)
@@ -3836,3 +3845,14 @@
 掉,diao4,fall down/drop/lag behind
 掉了出来,diao4 le chu1 lai2,fell out
 枪,qiang1,gun/firearm
+不这么想,bu4:2 zhe4 me xiang3,did not think so/did not think this way
+左右为难,zuo3 you4 wei2 nan2,in a predicament/in a dilemma (idiom)
+想不起来,xiang3 bu4 qi3 lai2,cannot recall
+分不出来,fen1 bu4 chu1 lai2,cannot distinguish
+越，越，,yue4 : yue4 :,the more (verb ph) then the more (verb ph)
+越洗越小,yue4 xi3 yue4 xiao3,the more you wash it the smaller it gets
+看不清楚,kan4 bu4 qign1 chu3,cannot see clearly (also 听)
+请几天假,qing3:2 ji3 tian1 jia4,ask for a few days off
+让座,rang4 zuo4,give up seat for someone else
+标,biao1,mark/sign/label (verb or noun) (成分：标准)
+标准,biao1 zhun3,norm/criterion/conforming to a standard
