@@ -47,6 +47,7 @@ def load_csv_data(infile, minlen=1, maxlen=50):
     chin_unique, chin_dup = set(), []
     for row in rows:
 
+        # breakpoint()
         # Ensure exactly 3 columns exist in each row
         assert len(row) == 3, f"len({row}) = {len(row)}"
 
@@ -58,6 +59,7 @@ def load_csv_data(infile, minlen=1, maxlen=50):
                 0x4E00 <= c_sym_ord <= 0x9FFF
             ) or c_sym in C_SYM_EXCEPTIONS, f"ord({c_sym}) = {c_sym_ord}"
 
+        # breakpoint()
         # Ensure pinyin only contains valid characters
         assert all(
             pinyin_char in VALID_PINYIN for pinyin_char in row[1]
