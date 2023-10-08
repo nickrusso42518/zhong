@@ -1483,7 +1483,8 @@
 般,ban1,sort/kind/class (成分：一般)
 一般,yi1:4 ban1,normally/generally/usually
 见面,jian4 mian4,meet up/see each other
-聊天,liao2 tian1,casual chat/gossip (no problems being discussed)
+聊天,liao2 tian1,casual chat/gossip (no problems being discussed) (no obj)
+笨蛋,ben4 dan4,fool/idiot
 买东西,mai3 dong1 xi1:,shopping/buy things
 护,hu4,protect/guard/defend (成分：护照)
 护照,hu4 zhao4,passport
@@ -3923,3 +3924,4 @@
 要不,yao4 bu4,otherwise/how about?/either or
 何,he2,what/how (bound form) (成分：任何)
 任何,ren4 he2,any/whatever/whichever
+对于老师来说,dui4 yu2 lao3 shi1 lai2 shuo1,from the teacher's perspective (+statement)
