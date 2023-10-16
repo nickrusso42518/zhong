@@ -304,7 +304,7 @@
 呢,ne,and?/what about? (in-context suffix to contrast with others)
 和,he2,and/together with (link nouns)
 钱,qian2,money/coin
-字,zi4,letter/symbol/character/word
+字,zi4,letter/symbol/character
 名,ming2,name/famous (成分：名字/有名/签名)
 名字,ming2 zi4:,name/first name
 本名,ben3 ming2,original name/real name
@@ -1858,7 +1858,7 @@
 语境,yu3 jing4,context grammar
 应用,ying4 yong4,put to use or apply (verb)/computer app (noun)
 词,ci2,word/statement/lyric (成分：词典/词语)
-词语,ci2 yu3,word/term/expression
+词语,ci2 yu3,word/term/expression/short phrase
 词汇,ci2 hui4,vocabulary/list of words for teaching
 典,dian3,quotation/canon (成分：词典)
 词典,ci2 dian3,dictionary
@@ -1906,7 +1906,7 @@
 数,shu3 :: shu4,count or enumerate (verb) :: number or figure (成分：数学)
 数学,shu4 xue2,mathematics
 放假,fang4 jia4,take vacation or take time off (verb)/vacation or time off (noun)
-记得,ji4 de,remember
+记得,ji4 de,remember (any subj)
 于,yu2,to/with regard to (成分：终于/关于/对于)
 终,zhong1,end/finish (成分：终于)
 束,shu4,bunches/bundles/bouquets (mw) (成分：结束)
@@ -2271,7 +2271,7 @@
 醒,xing3,wake up/become aware/sober up (成分：提醒/醒来)
 醒来,xing3 lai2,awaken/wake up
 提醒,ti2 xing3,remind to do something in the future
-想起,xiang3:2 qi3,recall something from the past/recall from memory
+想起,xiang3:2 qi3,recall something from the past/recall from memory (subj i/we)
 口,kou3,mouth/mw for mouthed things (成分：门口/进口/出口)
 门口,men2 kou3,doorway/gate
 出口,chu1 kou3,to export (verb)/exit (noun)
@@ -3931,11 +3931,13 @@
 相反,xiang1 fan3,opposite/contrary
 增,zeng1,increase/add (成分：增加)
 增加,zeng1 jia1,increase/add
+增税,zeng1 shui4,raise taxes
 睡眠,shui4 mian2,sleep (noun or adj)
 统治,tong3 zhi4,rule or govern (verb)/regime (noun)
 缺点,que1 dian3,weak point/short coming/disadvantage
 专政,zhuan1 zheng4,dictatorship
 民主,min2 zhu3,democracy
 帝制,di4 zhi4,autocratic monarchy/imperial regime
+制度,zhi4 du4,political system/institution
 战,zhan4,fight/war/battle (noun or verb) (成分：宣战)
 宣战,xuan1 zhan4,declare war
