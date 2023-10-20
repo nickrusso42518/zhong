@@ -598,6 +598,7 @@
 桌子,zhuo1 zi,table/desk
 椅子,yi3 zi,chair
 箱,xiang1,box/trunk/chest (成分：冰箱)
+箱子,xiang1 zi,box/trunk/chest (noun)
 冰箱,bing1 xiang1,icebox/refrigerator
 在桌子上,zai4 zhuo1 zi shang4,on the table
 在椅子下,zai4 yi3 zi xia4,under the chair
@@ -3061,7 +3062,7 @@
 继,ji4,continue/follow (成分：继续)
 续,xu4,continue/replenish (成分：继续)
 继续,ji4 xu4,continue/proceed/go on with
-手续,shou3 xu3,procedure
+手续,shou3 xu4,procedure
 单身,dan1 shen1,single/unmarried
 请问要什么饮料,qing3 wen4 yao4 shen2 me yin3 liao4,excuse me what beverages do you want?
 清真,qing1 zhen1,islamic/muslim/halal food (字面：pure and true)
@@ -3953,3 +3954,5 @@
 晚些,wan3:2 dian3,a little later/a bit later
 早点,zao3:2 dian3,a little earlier/a bit earlier
 早些,zao3 xie1,a little earlier/a bit earlier
+幼,you4,young (bound form) (成分：幼儿园)
+幼儿园,you4 er2 yuan2,kintergarden
