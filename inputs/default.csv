@@ -2115,7 +2115,7 @@
 粉,fen3,powder/turn into powder (成分：粉丝)
 丝,si1,silk/thread (成分：粉丝)
 粉丝,fen3 si1,bean vermicelli (lit)/fan or groupie (slang)
-土,tu3,local/dust/clay (成分：土豪/土地)
+土,tu3,local/dust/clay/unsophisticated (adj) (成分：土豪/土地)
 豪,hao2,grand/heroic (成分：土豪/豪华)
 土豪,tu3 hao2,local tycoon/provincial tyrant (slang)
 吃货,chi1 huo4,foodie (slang)
@@ -3961,3 +3961,5 @@
 相关,xiang1 guan1,related/relevant/pertinent
 题目,ti2 mu4,questions on a test
 追,zhui1,chase after
+无语,wu2 yu3,remain silent/have nothing to say/be speechless (verb)
+专家,zhuan1 jia1,expert/specialist
